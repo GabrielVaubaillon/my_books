@@ -1,8 +1,8 @@
+<!--| test | john | English (VO) | - | PC | yes | no | no | aaa|
+| test | john | English (trad. Bill) | - | PC | yes | no | no | aaa| -->
 
 | Title (Titre) | Author (Auteur) | language (Langue) | ISBN | From (acquis via) | Owned (Possédé) | Read (Lu) | Lent (Prêté) | Notes |
 | - | - | - | - | - | - | - | - | - |
-<!--| test | john | English (VO) | - | PC | yes | no | no | aaa|
-| test | john | English (trad. Bill) | - | PC | yes | no | no | aaa| -->
 | Joseph Balsamo | Alexandre Dumas | French (VO) | - | Grands-parents paternels | YES | NO | Avignon | 4 livres, Belle collection Auteur |
 | Le vicomte de Bragelonne | Alexandre Dumas | French (VO) | - | Grands-parents paternels | YES | NO | Avignon | 6 livres, Belle collection Auteur |
 | Ange Pitou | Alexandre Dumas | French (VO) | - | Grands-parents paternels | YES | NO | Avignon | 2 livres, Belle collection Auteur |
