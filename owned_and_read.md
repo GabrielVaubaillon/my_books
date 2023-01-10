@@ -1,7 +1,7 @@
 <!--| test | john | English (VO) | - | PC | yes | no | no | aaa|
 | test | john | English (trad. Bill) | - | PC | yes | no | no | aaa| -->
 
-| Title (Titre) | Author (Auteur) | language (Langue) | ISBN | From (acquis via) | Owned (Possédé) | Read (Lu) | Lent (Prêté) | Notes |
+| Title (Titre) | Author (Auteur) | language (Langue) | ISBN | From (acquis via) | Owned (Possédé) | Read (Lu) | State (Situation) | Notes |
 | - | - | - | - | - | - | - | - | - |
 | Joseph Balsamo | Alexandre Dumas | French (VO) | - | Grands-parents paternels | YES | NO | Avignon | 4 livres, Belle collection Auteur |
 | Le vicomte de Bragelonne | Alexandre Dumas | French (VO) | - | Grands-parents paternels | YES | NO | Avignon | 6 livres, Belle collection Auteur |
@@ -11,5 +11,5 @@
 | Vingt ans apres | Alexandre Dumas | French (VO) | - | Grands-parents paternels | YES | NO | Avignon | 2 livres, Belle collection Auteur |
 | Les trois Mousquetaire | Alexandre Dumas | French (VO) | - | Grands-parents paternels | YES | NO | Avignon | 2 livres, Belle collection Auteur |
 | Le comte de Monte-Cristo | Alexandre Dumas | French (VO) | - | Grands-parents paternels | YES | NO | Avignon | 4 livres, Belle collection Auteur |
-| The Martian | Andy Weir | English (VO) | - | Myself | YES | YES | Papa | |
+| The Martian | Andy Weir | English (VO) | - | Myself | YES | YES | Preté Papa | |
 
