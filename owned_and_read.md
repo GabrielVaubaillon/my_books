@@ -2,7 +2,7 @@
 | test | john | English (tr. Bill) | - | yes | no | no | aaa| -->
 
 | Title (Titre) | Author (Auteur) | language (Langue) | ISBN | Owned (Possédé) | Read (Lu) | State (Situation) | Notes |
-| - | - | - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - | - |
 | Joseph Balsamo | Alexandre Dumas | French (VO) | - | YES | NO | Avignon | 4 livres, Belle collection Auteur |
 | Le vicomte de Bragelonne | Alexandre Dumas | French (VO) | - | YES | NO | Avignon | 6 livres, Belle collection Auteur |
 | Ange Pitou | Alexandre Dumas | French (VO) | - | YES | NO | Avignon | 2 livres, Belle collection Auteur |
