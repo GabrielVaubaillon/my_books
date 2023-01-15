@@ -6,7 +6,6 @@
 | Mistborn - The Final Empire | Brandon Sanderson | English | | Not owned | Read | | |
 | Mistborn - The Well of Ascension | Brandon Sanderson | English | | Not owned | Read | | |
 | Mistborn - The Hero of Ages | Brandon Sanderson | English | | Not owned | Read | | |
-| Mistborn - The Final Empire | Brandon Sanderson | English | | Not owned | Read | | |
 | L'attaque des titans (tome 1->22) | Hajime Isayama | French (tr.) | | Not owned | Read | | |
 | Le Vieil Homme et la Mer | Ernest Hemingway | French (tr.) | | Not owned | Read | | |
 | Nous sommes Bob - 1.Nous sommes legions | Dennis E. Taylor | French (tr.) | | Not owned | Read | | |
