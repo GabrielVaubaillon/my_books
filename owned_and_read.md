@@ -32,7 +32,7 @@
 | Le tour du monde en 80 jours | Jules Verne | French (VO) | 978-2-253-01269-6 | YES | YES | Montpellier | - |
 | Vingt mille lieues sous les mers | Jules Verne | French (VO) | 978-2-253-00632-9 | YES | YES | Montpellier | - |
 | Le joueur d'échecs | Stefan Zweig | French (tr.) | 2-253-05784-3 | YES | YES | Montpellier | - |
-| Peloton maison | Paul Fournel | French (VO) | 978-2-02-149943-8 | YES | NO | Montpellier | - |
+| Peloton maison | Paul Fournel | French (VO) | 978-2-02-149943-8 | YES | YES | Montpellier | - |
 | Le crépuscule et l'aube | Ken Follett | French (tr.) | 978-2-221-15770-1 | YES | NO | Montpellier | - |
 
 
