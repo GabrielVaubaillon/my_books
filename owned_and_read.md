@@ -2,7 +2,7 @@
 | - | - | - | - | - | - | - | - |
 | Stormlight Archives - Way of kings | Brandon Sanderson | English | 978-1-4299-9280-0 | Owned | Read | Ebook | |
 | Stormlight Archives - Words of radiance | Brandon Sanderson | English | 978-1-4299-4962-0 | Owned | Read | Ebook | |
-| Stormlight Archives - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Owned | Read | Ebook | |
+| Stormlight Archives - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Owned | Not-read | Ebook | |
 | Mistborn - The Final Empire | Brandon Sanderson | English | | Not-owned | Read | | |
 | Mistborn - The Well of Ascension | Brandon Sanderson | English | | Not-owned | Read | | |
 | Mistborn - The Hero of Ages | Brandon Sanderson | English | | Not-owned | Read | | |
