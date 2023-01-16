@@ -1,5 +1,6 @@
 | Title (Titre) | Author (Auteur) | language (Langue) | ISBN | Owned (Possédé) | Read (Lu) | State (Situation) | Notes |
 | - | - | - | - | - | - | - | - |
+| Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Owned |  | Ebook | Receuil |
 | Stormlight Archives - Way of kings | Brandon Sanderson | English | 978-1-4299-9280-0 | Owned | Read | Ebook | |
 | Stormlight Archives - Words of radiance | Brandon Sanderson | English | 978-1-4299-4962-0 | Owned | Read | Ebook | |
 | Stormlight Archives - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Owned | Not read | Ebook | |
@@ -29,8 +30,8 @@
 | The Silmarillion | J.R.R. Tolkien | English | 978-0-261-10273-6 | Owned | Not read | Montpellier | |
 | Unfinished Tales | J.R.R. Tolkien | English | 978-0-261-10362-7 | Owned | Not read | Montpellier | |
 | Les enfants de Hurin | J.R.R. Tolkien | French (tr.) | 978-2-298-01256-3 | Owned | Not read | Montpellier | Jolie édition illustrée |
-| Sherlock Holmes - The complete novels and stories - Volume one | Arthur Conan Doyle | English | 978-1-9848-9953-8 | Owned | | Montpellier | |
-| Sherlock Holmes - The complete novels and stories - Volume two | Arthur Conan Doyle | English | 978-1-9848-9954-5 | Owned | | Montpellier | |
+| Sherlock Holmes - The complete novels and stories - Volume one | Arthur Conan Doyle | English | 978-1-9848-9953-8 | Owned | | Montpellier | Receuil |
+| Sherlock Holmes - The complete novels and stories - Volume two | Arthur Conan Doyle | English | 978-1-9848-9954-5 | Owned | | Montpellier | Receuil |
 | Of mice and men | John Steinbeck | English | 979-10-358-1029-0 | Owned | Read | Prêté Regis | edition apprendre l'anglais (depuis le français) |
 | L'île au trésor | Robert Louis Stevenson | French (tr.) | 2-253-00368-9 | Owned | Read | Montpellier | |
 | Le tour du monde en 80 jours | Jules Verne | French | 978-2-253-01269-6 | Owned | Read | Montpellier | |
@@ -60,7 +61,7 @@
 | La guerre des mondes | H.G. Wells | French (tr.) | 2-07-033567-4 | Owned | Not read | Montpellier | |
 | Fondation 1 | Isaac Asimov | French (tr.) | 978-2-07-046361-9 | Owned | Read | Montpellier | (Fondation, Fondation et Empire, Seconde Fondation) |
 | Fondation 2 | Isaac Asimov | French (tr.) | 978-2-07-046362-6 | Owned | Read | Montpellier | (fondation foudroyée, Terre et fondation) |
-| The complete Robot | Isaac Asimov | English | 978-0-00-827781-9 | Owned | Not read | Montpellier | |
+| The complete Robot | Isaac Asimov | English | 978-0-00-827781-9 | Owned | Not read | Montpellier | Receuil |
 | The Martian Chronicles | Ray Bradbury | English | 978-0-00-647923 | Owned | Read | Montpellier | |
 | Fahrenheit 451 | Ray Bradbury | English | 978-0-00-654606-1 | Owned | Read | Montpellier | |
 | 1984 | George Orwell | French (tr.) | 2-07-036822-X | Owned | Not read | Montpellier | |
