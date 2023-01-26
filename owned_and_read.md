@@ -1,7 +1,7 @@
 | Title (Titre) | Author (Auteur) | language (Langue) | ISBN | Owned (Possédé) | Read (Lu) | State (Situation) | Notes |
 | - | - | - | - | - | - | - | - |
 | The Alchemist | Paul Coelho | English (tr.) | 978-0-06-112241-5 | Owned | Not read | Montpellier | |
-| Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Owned | Not read | Ebook | |
+| Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Owned | Read | Ebook | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Owned |  | Ebook | Recueil |
 | Stormlight Archives - Way of kings | Brandon Sanderson | English | 978-1-4299-9280-0 | Owned | Read | Ebook | |
 | Stormlight Archives - Words of radiance | Brandon Sanderson | English | 978-1-4299-4962-0 | Owned | Read | Ebook | |
