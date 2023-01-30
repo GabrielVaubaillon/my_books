@@ -25,7 +25,7 @@
 | Le trône de fer (L'integrale 3) | George R.R. Martin | French (tr.) | 978-2-290-02216-0 | Owned | Read | Montpellier | |
 | Le trône de fer (L'integrale 4) | George R.R. Martin | French (tr.) | 978-2-290-02217-7 | Owned | Read | Montpellier | |
 | Le trône de fer (L'integrale 5) | George R.R. Martin | French (tr.) | 978-2-290-10709-6 | Owned | Not read | Montpellier | |
-| The Hobbit | J.R.R. Tolkien | English | 978-0-261-10334-4 | Owned | Read | Prêté Regis | |
+| The Hobbit | J.R.R. Tolkien | English | 978-0-261-10334-4 | Owned | Read |  Montpellier | |
 | The Fellowship Of The Ring | J.R.R. Tolkien | English | 978-0-261-10235-4 | Owned | Read | Montpellier | |
 | The Two Towers | J.R.R. Tolkien | English | 978-0-261-10236-1 | Owned | Read | Montpellier | |
 | The Return Of The King | J.R.R. Tolkien | English | 978-0-261-10237-8 | Owned | Read | Montpellier | |
@@ -34,7 +34,7 @@
 | Les enfants de Hurin | J.R.R. Tolkien | French (tr.) | 978-2-298-01256-3 | Owned | Not read | Montpellier | Jolie édition illustrée |
 | Sherlock Holmes - The complete novels and stories - Volume one | Arthur Conan Doyle | English | 978-1-9848-9953-8 | Owned | | Montpellier | Recueil |
 | Sherlock Holmes - The complete novels and stories - Volume two | Arthur Conan Doyle | English | 978-1-9848-9954-5 | Owned | | Montpellier | Recueil |
-| Of mice and men | John Steinbeck | English | 979-10-358-1029-0 | Owned | Read | Prêté Regis | edition apprendre l'anglais (depuis le français) |
+| Of mice and men | John Steinbeck | English | 979-10-358-1029-0 | Owned | Read |  Montpellier | edition apprendre l'anglais (depuis le français) |
 | L'île au trésor | Robert Louis Stevenson | French (tr.) | 2-253-00368-9 | Owned | Read | Montpellier | |
 | Le tour du monde en 80 jours | Jules Verne | French | 978-2-253-01269-6 | Owned | Read | Montpellier | |
 | Vingt mille lieues sous les mers | Jules Verne | French | 978-2-253-00632-9 | Owned | Read | Montpellier | |
