@@ -1,5 +1,8 @@
 | Title (Titre) | Author (Auteur) | language (Langue) | ISBN | Owned (Possédé) | Read (Lu) | State (Situation) | Notes |
 | - | - | - | - | - | - | - | - |
+| Les contes d'Andersen | Hans Christian Andersen | French | 978-2-36315-139-1 | Owned | Read | Ebook | |
+| Les contes de Grimm| Jacob et Wilhelm Grimm | French | 978-2-36315-136-0 | Owned | Read | Ebook | |
+| Les contes de Perrault| Charles Perrault | French | 978-2-36315-137-7 | Owned | Read | Ebook | |
 | The Alchemist | Paul Coelho | English (tr.) | 978-0-06-112241-5 | Owned | Not read | Montpellier | |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Owned | Read | Ebook | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Owned |  | Ebook | Recueil |
