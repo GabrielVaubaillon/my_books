@@ -49,7 +49,7 @@
 | Dune Les origines - 1. La Communauté des Soeurs | Brian herbert & Kevin J. Anderson | French (tr.) | 978-2-266-25239-3 | Owned | Not read | Montpellier | |
 | Dune Les origines - 2. Les Mentats de Dune | Brian herbert & Kevin J. Anderson | French (tr.) | 978-2-266-26727-4 | Owned | Not read | Montpellier | |
 | Dune Les origines - 3. Les Navigatuers de Dune | Brian herbert & Kevin J. Anderson | French (tr.) | 978-2-266-32129-7 | Owned | Not read | Montpellier | |
-| Dune | Frank Herbert | English | | Owned | Read | Prêté Aymen | TODO ISBN |
+| Dune | Frank Herbert | English | 978-0-340-96019-6 | Owned | Read | Montpellier | |
 | Dune Messiah | Frank Herbert | English | 978-0-593-09823-3 | Owned | Read | Montpellier | |
 | Children of Dune | Frank Herbert | English | 978-0-593-09824-0 | Owned | Read | Montpellier | |
 | God emperor of Dune | Frank Herbert | English | 978-0-593-09825-7 | Owned | Read | Montpellier | |
