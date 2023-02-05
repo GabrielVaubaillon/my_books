@@ -28,7 +28,9 @@
 | Le trône de fer (L'integrale 3) | George R.R. Martin | French (tr.) | 978-2-290-02216-0 | Owned | Read | Montpellier | |
 | Le trône de fer (L'integrale 4) | George R.R. Martin | French (tr.) | 978-2-290-02217-7 | Owned | Read | Montpellier | |
 | Le trône de fer (L'integrale 5) | George R.R. Martin | French (tr.) | 978-2-290-10709-6 | Owned | Not read | Montpellier | |
-| The Hobbit | J.R.R. Tolkien | English | 978-0-261-10334-4 | Owned | Read |  Montpellier | |
+| The Hobbit | J.R.R. Tolkien | English | 978-0-007-48731-8 | Owned | Read | Ebook | |
+| The Lord Of The Rings | J.R.R. Tolkien | English | 978-0-007-32259-6 | Owned | Read | Ebook | |
+| The Hobbit | J.R.R. Tolkien | English | 978-0-261-10334-4 | Owned | Read | Montpellier | |
 | The Fellowship Of The Ring | J.R.R. Tolkien | English | 978-0-261-10235-4 | Owned | Read | Montpellier | |
 | The Two Towers | J.R.R. Tolkien | English | 978-0-261-10236-1 | Owned | Read | Montpellier | |
 | The Return Of The King | J.R.R. Tolkien | English | 978-0-261-10237-8 | Owned | Read | Montpellier | |
