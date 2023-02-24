@@ -8,7 +8,9 @@
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Owned |  | Ebook | Recueil |
 | Stormlight Archives - Way of kings | Brandon Sanderson | English | 978-1-4299-9280-0 | Owned | Read | Ebook | |
 | Stormlight Archives - Words of radiance | Brandon Sanderson | English | 978-1-4299-4962-0 | Owned | Read | Ebook | |
-| Stormlight Archives - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Owned | Not read | Ebook | |
+| Stormlight Archives - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Owned |Read | Ebook | |
+| Stormlight Archives - Dawnshard | Brandon Sanderson | English | 978-1-938570-26-1 | Owned | Not Read | Ebook | |
+| Stormlight Archives - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Owned | Not Read | Ebook | |
 | Mistborn - The Final Empire | Brandon Sanderson | English | | Not owned | Read | | |
 | Mistborn - The Well of Ascension | Brandon Sanderson | English | | Not owned | Read | | |
 | Mistborn - The Hero of Ages | Brandon Sanderson | English | | Not owned | Read | | |
