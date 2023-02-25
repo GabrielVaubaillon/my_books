@@ -1,5 +1,165 @@
 | Title (Titre) | Author (Auteur) | language (Langue) | ISBN | Owned (Possédé) | Read (Lu) | State (Situation) | Notes |
 | - | - | - | - | - | - | - | - |
+| J'ai bien connu Icare | Hans Baumann | Français (tr.) | 2-08-161866-4 | Owned | Not Read | Antony | |
+| On ne badine pas avec les tueurs | Catherine Missonnier | Français | 2-7002-2063-3 | Owned | Read | Antony | |
+| Persée et autres métamorphoses | Ovide | Français (tr.) | 978-2-218-93332-5 | Owned | Read | Antony | |
+| La formation de l'esprit scientifique | Bachelard | Français | 978-2-7116-1150-8 | Owned | Not Read | Antony | |
+| L'île de Black Mor | Jean-François Laguionie | Français | 2-226-11-296-0 | Owned | Read | Antony | |
+| Comment dresser votre dragon | Cressida Cowell | Français (tr.) | 978-2-203-03261-3 | Owned | Read | Antony | |
+| Mystères et faits divers à Rome | Nathalie Sémenuik | Français | 978-2-0123-0344-7 | Owned | Read | Antony | Livres d'enquetes / jeux |
+| La cabane magique - Rencontres en haut de la tour Eiffel | May Pope Osborne | Français (tr.) | 978-2-7470-2615-4 | Owned | Read | Antony | |
+| Le récit de Gilgamesh | Jacques Cassabois | Français | 978-2-218-93642-5 | Owned | Read | Antony | |
+| La guerre du feu | J.-H. Rosny Aîné | Français | 978-2-01-322595-3 | Owned | Read | Antony | |
+| Les lions de césar | Jean-Luc Déjean | Français | 978-2-01-322650-9 | Owned | Read | Antony | |
+| Caïus et le gladiateur | Henry Winterfield | Français (tr.) | 978-2-01-322442-0 | Owned | Read | Antony | |
+| 25 métamorphoses d'Ovide | Annie Collognat | Français | 978-2-01-000906-8 | Owned | Read | Antony | |
+| L'affaire Caïus | Henry Winterfield | Français (tr.) | 978-2-01-322403-1 | Owned | Read | Antony | |
+| La bilbiothécaire | Gudule | Français | 978-2-01-322406-2 | Owned | Read | Antony | |
+| Don Quichotte (abrégé) | Cervantès | Français | 2-0139322247-5 | Owned | Read | Antony | |
+| Tistou les pouces verts | Maurice Druon | Français | 2-01-0104153-3 | Owned | Read | Antony | |
+| Candide ou l'optimiste | Voltaire | Français | 978-2-290-11864-1 | Owned | Read | Antony | |
+| Le pied de la momie | Théophile Gautier | Français | 978-2-218-96301 | Owned | Read | Antony | |
+| Papa-Longues-Jambes | Jean Webster | Français (tr.) | 978-2-07-061266-6 | Owned | Read | Antony | |
+|Enquête au collège | Jean-Philippe Arrou-Vignod | Français | 978-2-07-061284-0 | Owned | Read | |
+| la plume de l'ange | Bazire-Talamon | Français | 978-2-09-252104-5 | Owned | Read | Antony | |
+| Le singe de Buffon | Bazire-Talamon | Français | 978-2-09-250385-0 | Owned | Read | Antony | |
+| Vipère au poing | Hervé Bazin | Français | 978-2-253-00145-4 | Owned | Read | Antony | |
+| Contes du jour et de la nuit | Maupassant | Français | 978-2-253-04654-7 | Owned | Read | Antony | |
+| Les cheveux de Bérénice | Denis Guedj | Français | 2-02-066392-9 | Owned | Read | Antony | |
+| Les pollueurs font tache d'huile | Brian Doyle | Français (tr.) | 2-7427-1401-4 | Owned | Read | Antony | |
+| Les six compagnons et le carré magique | | Français | | Owned | Read | Antony | |
+| Les six compagnons et la radio libre | Olivier Séchan | Français | 2-01-209358-2 | Owned | Read | Antony | |
+| Les six compagnons et l'émetteur pirate | Paul-Jacques Bonzon | Français | 2-01-017796-7 | Owned | Read | Antony | |
+| Les six compagnons et la disparue de Montélimar | Paul-Jacques Bonzon | Français | 2-01-209400-7 | Owned | Read | Antony | |
+| Les six compagnons et la pile atomique| Paul-Jacques Bonzon | Français | 2-01-016996-4 | Owned | Read | Antony | |
+| Les six compagnons à la tour Eiffel | Paul-Jacques Bonzon | Français | 2-01-209217-9 | Owned | Read | Antony | |
+| Les six compagnons dans la ville rose | Paul-Jacques Bonzon | Français | 2-01-014317-5 | Owned | Read | Antony | |
+| Les six compagnons et la perruque rouge | Paul-Jacques Bonzon | Français | 2-01-00-0775-1 | Owned | Read | Antony | |
+| Michel et les routiers | Georges Bayard | Français | | Owned | Read | Antony | |
+| Le fils de l'Etalon noir | Walter Farley | Français (tr.) | | Owned | Read | Antony | |
+| Flamme et l'Etalon Noir | Walter Farley | Français (tr.) | 2-01-00-1034-5 | Owned | Read | Antony | |
+| Le goéland | Jonathan Livingston | Français (tr.) | 2-08-161714-5 | Owned | Read | Antony | |
+| Le phoque blanc | Rudyard Kipling | Français (tr.) | 978-2-07-061559-9 | Owned | Read | Antony | |
+| La guerre des Livres | Alain Grousset | Français | 978-2-07-061882-8 | Owned | Read | Antony | |
+| Andromaque | Racine | Français | 978-2-01-169120-0 | Owned | Read | Antony | |
+| Manon des sources | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| Topaze | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| Jazz | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| Le temps des secrets | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| Le château de ma mère | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| Jean de florette | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| La gloire de mon père | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| Angèle | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| Fanny | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| Merlusse Cigalon | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| Marius | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| César | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| Confidences | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| La fille du puisatier | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| La femme du boulanger | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| Le schpountz | Marcel Pagnol | Français | | Owned | Not Read | Antony | Collection cuir rouge |
+| Pour qui sonne le glas | Ernest Hemingway | Français (tr.) | | Owned | Not Read | Antony | |
+| L'armée des pauvres | B. Traven | Français (tr.) | 978-2-7491-2090-4 | Owned | Not Read | Antony | |
+| La concierge est dans le cercueil | José Benjamin | Français | 978-2-913019-58-4 | Owned | Not Read | Antony | |
+| Contes et récits - de Paris | Stéphane Descornes & Michaël Sterckeman | Français | 209282083-4 | Owned | Read | Antony | |
+| Contes et récits - Pirates, Corsaires et flibustiers | Stéphane Descornes & Hugues Micol | Français | 2-09-282612-3 | Owned | Read | Antony | |
+| Contes et légendes - Les douze travaux d'hercule | Christian Grenier & Philippe Caron | Français | 2-09-282318-3 | Owned | Read | Antony | |
+| Contes et légendes - La naissance de Rome | François Sautereau | Français | 978-2-09-253197-6 | Owned | Read | Antony | |
+| Contes des indiens du Chiapas | Baptiste Condominas | Français | 978-2-7427-8205-5 | Owned | Read | Antony | |
+| Les contes bleus du chat perché | Marcel Aymé | Français | 2-07-033097-2 | Owned | Read | Antony | |
+| Les contes rouges du chat perché | Marcel Aymé | Français | 2-07-033098-2 | Owned | Read | Antony | |
+| Roman de la table Ronde | Chrétien de Troyes | Français | 2-07-036696-0 | Owned | Read | Antony | |
+| Excalibur - Roman des chevaliers de la Table Ronde | Chrétien de Troyes | Français | 2-205-02330-6 | Owned | Read | Antony | |
+| Perceval ou le conte du Graal | Chrétien de Troyes | Français | 978-2-01-169735-6 | Owned | Read | Antony | |
+| Contes d'ici et d'ailleurs | | Français | 2-04-730354-0 | Owned | Read | Antony | |
+| Contes d'ici et d'ailleurs | | Français | 978-2-218-93322-6 | Owned | Read | Antony | |
+| Contes et légendes du Moyen Age | Marcelle et Georges Huisman | Français | | Owned | Read | Antony | Collection Fernand Nathan |
+| Contes et légendes de Champagne | Philippe Lannion | Français | | Owned | Read | Antony | Collection Fernand Nathan |
+| Contes et légendes du Dauphiné | Luce Bosquet | Français | | Owned | Read | Antony | Collection Fernand Nathan |
+| Contes et légendes de la camargue et des gitans | Jean Portail | Français | | Owned | Read | Antony | Collection Fernand Nathan |
+| Contes et légendes de Bourgogne | G. Perron-Louis | Français | | Owned | Read | Antony | Collection Fernand Nathan |
+| Contes et légendes de la naissance de Rome | Laura Orvieto | Français | | Owned | Read | Antony | Collection Fernand Nathan |
+| Le vaisseau merveilleux et autres contes de Bretagne | Français | 2-01-007716-4 | Owned | Read | Antony | |
+| Robin des bois | Suzanne Pairault | Français | 2-01-001764-1 | Owned | Read | Antony | |
+| la fée et le géomètre | Jeain-Pierre Andrevon | Français | 2-203-13615-4 | Owned | Not Read | Antony | |
+| L'utopie | Thomas More | Français | 9782290134115 | Owned | Not Read | Antony | |
+| Le hussard sur le toit | Jean Giono | Français | 2-07-036240-0 | Owned | Read | Antony | | 
+| Bonjour tristesse | Françoise Sagan | Français | 978-2-266-19558-4 | Owned | Read | Antony | |
+| Principes élémentaires de philosophie | Georges Politzer | Français | 978-2-915854-15-2 | Owned | Not Read | Antony | |
+| Le vieux qui ne voulait pas fêter son anniversaire | Jonas Jonasson | Français (tr.) | 978-2-266-21852-8 | Owned | Not Read | Antony | |
+| jacquou le croquant | Eugène Le Roy | Français | 2-07-033519-4 | Owned | Not Read | Antony | |
+| Mon bel oranger | José Mauro de Vascondos | Français (tr.) | 2-253-02333-7 | Owned | Read | Antony | |
+| Pinocchio | Carlo Collodi | Français (tr.) | 978-2-01-321286-1 | Owned | Read | Antony | |
+| 12 récits de l'énéide | Michel Laporte | Français | 978-2-0812-3029-3 | Owned | Read | Antony | |
+| Le cancre | Jacques Prévert | Français | 2-07-039219-8 | Owned | Read | Antony | |
+| Pinnocchio (théatre) | Joël Pommerat | Français | 978-2-33-04858-7 | Owned | Read | Antony | |
+| L'opéra de la lune | Jacques Prévert | Français | 2-07-050635-5 | Owned | Read | Antony | |
+| Les clients du Bon Chien Jaune | Pierre Mac Orlan | Français | 978-2-07-056016-5 | Owned | Read | Antony | |
+| J'irai cracher sur vos tombes | Boris Vian | Français | | Owned | Not Read | Antony | |
+| Du passé faisons table rase | Thierry Jonquet | Français | 978-2-07-030861-3 | Owned | Not Read | Antony | |
+| Long John Silver | Björn Larsson | Français (tr.) | 2-253-15010-7 | Owned | Read | Antony | |
+| Manon Lescaut | Prévost | Français | 978-2-0812-7904-9 | Owned | Not Read | Antony | |
+| Quentin Durward | Walter Scott | Français (tr.) | | Owned | Not Read | Antony | |
+| De l'esprit géométrique | Blaise Pascal | Français | | Owned | Not Read | Antony | |
+| Au pays du grand condor | Nadine Garrel | Français | 2-07-033022-2 | Owned | Not Read | Antony | |
+| Youg | Louis Mirman | Français | 2-07-033301-9 | Owned | Read | Antony | |
+| Premier de cordée | Frison Roche | Français | 2-277-11936-9 | Owned | Not Read | Antony |
+| Les animaux dénaturés | Vercors | Français | 2-253-01023-5 | Owned | Read | Antony | |
+| Martin Eden | Jack London | Français (tr.) | 978-2-07-079398-3 | Owned | Not Read | Antony | |
+| L'aventure, l'Ennui, le Sérieux - chapitre 1 | Jankélévitch | Français | 978-2-0813-9744-6 | Owned | Not Read | Antony | |
+| L'Odyssée | Homère | Français (tr.) | 978-2-7071-9439-8 | Owned | Read | Antony | |
+| Au coeur des ténèbres | Conrad | Français (tr.) | 978-2-0813-9745-3 | Owned | Read | Antony | |
+| La révolte de 10 x | Joan Davenport Carris | Français (tr.) | 2-08-161758-7 | Owned | Read | Antony | |
+| Alamut | Vladimir Bartol | Français (tr.) | 2-85940-518-6 | Owned | Not Read | Antony | |
+| Mes amis les loups | Farley Mowat | Français (tr.) | 2-08-161794-3 | Owned | Not Read | Antony | |
+| Le monde perdu | Sir Arthur Conan Doyle | Français (tr.) | 2-01-019693-7 | Owned | Not Read | Antony | |
+| Smith | Leon Garfield | Français (tr.) | 2-253-03350-2 | Owned | Read | Antony | |
+| Un sac de bille | Joseph Joffo | Français | 2-253-02777-4 | Owned | Not Read | Antony | |
+| Les pilleurs de sarcophages | Odile Weulersse | Français | 2-253-03532-7 | Owned | Read | Antony | |
+| L'homme invisible | H.G. Wells | Français (tr.) | 2-010-14423-6 | Owned | Read | Antony | |
+| Le serment des catacombes | Odile Weulersse | Français | 2-253-03954-3 | Owned | Read | Antony | |
+| Le piège gaulois | Pierre Miquel | Français | 2-253-03612-9 | Owned | Read | Antony | |
+| Z comme Zacharie | Robert C. O'Brien | Français (tr.) | 2-253-03882-2 | Owned | Read  | Antony | |
+| Le perroquet qui bégayait | Alfred Hitchcock | Français (tr.) | 2-253-02766-9 | Owned | Read | Antony | |
+| Le Sorgho rouge | Ya Ding | Français | 2-01-018282-0 | Owned | Read | Antony | |
+| La Coupe d'Or | John Steinbeck | Français (tr.) | 2-07-038457-8 | Owned | Read | Antony | |
+| Le château des enfants volés | Maria Gripe | Français (tr.) | 2-253-02698-0 | Owned | Not Read | Antony | |
+| La ceinture empoisonnée | Sir Arthur Conan Doyle | Français (tr.) | 2-253-02563-1 | Owned | Not Read | Antony | |
+| L'histoire de Géronimo | Géronimo (S.M. Barett) | Français (tr.) | 2-253-03703-6 | Owned | Not Read | Antony | |
+| La machination | Christian Grenier | Français | 2-253-02765-0 | Owned | Read | Antony | |
+| Les prisoniers du marais | Linda Cline | Français (tr.) | 2-253-02571-2 | Owned | Read | Antony | |
+| Le félin géant | J.H.Rosny Aîné | Français | 2-253-03324-3 | Owned | Read | Antony | |
+| Bennett et sa cabane | Anthony Buckeridge | Français | 2-253-02338-8 | Owned | Not Read | Antony | |
+| Journal | Anne Frank | Français (tr.) | 2-253-00127-9 | Owned | Not Read | Antony | |
+| La bête du Gévaudan | José Féron | Français | 978-2-01-013833-3 | Owned | Read | Antony | | 
+| Inconnu à cette adresse | Kressmann Taylor | Français (tr.) | 2-253-10826-9  | Not Owned | Read | |
+| Exercices de style | Raymond Queneau | Français | 2-07-037363-0 | Owned | Read | Antony | |
+| Le labyrinthe - L'épreuve | James Dashner | Français (tr.) | 978-2-266-20012-7 | Owned | Read | Antony (vente) | |
+| Ciel - L'hiver des machines | Johan Heliot | Français | 978-2-35488-238-9 | Owned | Read | Antony (vente) | |
+| La ballade de Pern - Le dragon blanc | Anne McCaffrey | Français (tr.) | 2-266-02881-2 | Owned | Read | Antony | |
+| La ballade de Pern - L'aube des dragons | Anne McCaffrey | Français (tr.) | 2-266-03380-8 | Owned | Read | Antony | |
+| La ballade de Pern - Les renégats de Pern | Anne McCaffrey | Français (tr.) | 2-266-03886-9 | Owned | Read | Antony | |
+| La ballade de Pern - Le vol du dragon | Anne McCaffrey | Français (tr.) | 2-266-02879-0 | Owned | Read | Antony | |
+| La ballade de Pern - La quête du dragon | Anne McCaffrey | Français (tr.) | 2-266-02880-4 | Owned | Read | Antony | |
+| La ballade de Pern - La Dame aux dragons | Anne McCaffrey | Français (tr.) | 2-266-03379-4 | Owned | Read | Antony | |
+| La ballade de Pern - Histoire de Nerilka | Anne McCaffrey | Français (tr.) | 2-266-03885-0 | Owned | Read | Antony | |
+| Arsène Lupin - La comtesse de Cagliosto | Maurice Leblanc | Français | 301-0-000-03034-8 | Owned | Not Read | Antony | |
+| Les aventures extraordinaires d'Arsène Lupin - Tome 3 (Omnibus) | Maurice Leblanc | Français | 978-2-258-09388-1 | Owned | Not Read | Antony | |
+| Pensées sur la justice - Trois Discours sur la condition des grands | Pascal | Français | 978-2-0812-4981-3 | Owned | Read | Antony | 
+| L'oeil du Dragon - Vulcain | Mark Robson | Français (tr.) | 978-2-266-21337-0 | Not Owned | Read | | |
+| L'oeil du Dragon - Souffle d'Ombre | Mark Robson | Français (tr.) | 978-2-266-19149-4 | Owned | Read | Antony | |
+| L'oeil du Dragon - Dent de Sabre | Mark Robson | Français (tr.) | 978-2-266-19150-0 | Owned | Read | Antony | |
+| L'oeil du Dragon - Aurore | Mark Robson | Français (tr.) | 978-2-266-19151-7 | Owned | Read | Antony | |
+| Eragon | Christopher Paolini | Français (tr.) | 978-2-7470-3334-3 | Owned | Read | Antony | |
+| L'Aîné | Christopher Paolini | Français (tr.) | 978-2-7470-2119-7 | Owned | Read | Antony | |
+| Brisingr | Christopher Paolini | Français (tr.) | 978-2-7470-2961-2 | Owned | Read | Antony | |
+| L'héritage | Christopher Paolini | Français (tr.) | 978-2-7470-2855-4 | Owned | Read | Antony | |
+| Croc-Blanc | Jack London | Français (tr.) | 978-2-01-322574-8 | Owned | Read | Antony | |
+| Le vieil homme de la forêt | Dam Mitrecey | Français | 978-2-84064-279-4 | Owned | Read | Antony (vente) | | 
+| Les chroniques de Spiderwick - L'integrale | Tony Diterlizzi & Holly Black | Français (tr.) | 978-2-266-18201-0 | Owned | Read | Antony | |
+| A la croisée des mondes - Les royaumes du nord | Philip Pullman | Français (tr.) | 978-2-07-050997-4 | Owned | Read | Antony | |
+| A la croisée des mondes - La tour des anges | Philip Pullman | Français (tr.) | 978-2-07-050988-5 | Owned | Read | Antony | |
+| A la croisée des mondes - Le miroir d'ambre | Philip Pullman | Français (tr.) | 978-2-07-054360-9 | Owned | Read | Antony | |
 | Les contes d'Andersen | Hans Christian Andersen | Français | 978-2-36315-139-1 | Owned | Read | Ebook | |
 | Les contes de Grimm| Jacob et Wilhelm Grimm | Français | 978-2-36315-136-0 | Owned | Read | Ebook | |
 | Les contes de Perrault| Charles Perrault | Français | 978-2-36315-137-7 | Owned | Read | Ebook | |
