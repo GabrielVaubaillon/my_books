@@ -1,5 +1,42 @@
 | Title (Titre) | Author (Auteur) | language (Langue) | ISBN | Owned (Possédé) | Read (Lu) | State (Situation) | Notes |
 | - | - | - | - | - | - | - | - |
+| Antigone | Jean Anouilh | Français | | Not Owned | Read | | |
+| Les contemplations | Victor Hugo | Français | | Not Owned | Read | | |
+| Les misérables | Victor Hugo | Français | | Not Owned | Read | | |
+| Zadig | Voltaire | Français | | Not Owned | Read | | |
+| L'ordinatueur | Christian Grenier | Français | | Not Owned | Read | | |
+| No et moi | Delphine de Vigan | Français | | Not Owned | Read | | |
+| Pagaille à Paris | Anthony Morowitz | Français | | Not Owned | Read | | |
+| Alice au pays des merveilles | Lewis Carrol | Français (tr.) | | Not Owned | Read | | |
+| Le chevalier au bouclier vert | Odile Weulersse | Français | | Not Owned | Read | | |
+| Yvain, le chevalier au lion | A.-M. Cadot-Colin | Français | | Not Owned | Read | | |
+| L'ami retrouvé | Fred Uhlman | Français | | Not Owned | Read | | |
+| Le messager d'Athène | Odile Weulersse | Français | | Not Owned | Read | | |
+| Cannibale | Didier Daeninckx | Français | | Not Owned | Read | | |
+| Le grand secret | Barjavel | Français | | Not Owned | Read | | |
+| Tobie Lolness 1&2 | Timothée de Fombelle | Français | | Not Owned | Read | | |
+| Le passe muraille | Marcel Aymé | Français | | Not Owned | Read | | |
+| Percy jackson 1 - Le voleur de foudre | Rick Riordan | Français (tr.) | | Not Owned | Read | | |
+| Percy jackson 2 - La mer des monstres | Rick Riordan | Français (tr.) | | Not Owned | Read | | |
+| Percy jackson 3 - Le sort du titan | Rick Riordan | Français (tr.) | | Not Owned | Read | | |
+| Percy jackson 4 - la bataille du labyrinthe | Rick Riordan | Français (tr.) | | Not Owned | Read | | |
+| Percy jackson 5 - Le dernier Olympien | Rick Riordan | Français (tr.) | | Not Owned | Read | | |
+| Héros de l'Olympe 1 - Le héro perdu | Rick Riordan | Français (tr.) | | Not Owned | Read | | |
+| Héros de l'Olympe 2 - Le fils de Neptune | Rick Riordan | Français (tr.) | | Not Owned | Read | | |
+| Héros de l'Olympe 3 - La marque d'Athéna | Rick Riordan | Français (tr.) | | Not Owned | Read | | |
+| Héros de l'Olympe 4 - La maison d'Hadès | Rick Riordan | Français (tr.) | | Not Owned | Read | | |
+| Héros de l'Olympe 5 - Le sang de l'Olympe | Rick Riordan | Français (tr.) | | Not Owned | Read | | |
+| Strom l'intégrale | Emmanuelle et Benoît de Saint Chamas | Français | | Not Owned | Read | | Le collectionneur, Les portails d'outre temps, la 37eme prophétie |
+| Diabolic | S.J. Kincaid | Français (tr.) | | Not Owned | Read | | |
+| Harry Potter à l'école des sorciers | J. K. Rowling | Français (tr.) | | Not Owned | Read | | |
+| Harry Potter et la chambre des secrets | J. K. Rowling | Français (tr.) | | Not Owned | Read | | |
+| Harry Potter et le prisonnier d'Azkaban | J. K. Rowling | Français (tr.) | | Not Owned | Read | | |
+| Harry Potter et la coupe de feu | J. K. Rowling | Français (tr.) | | Not Owned | Read | | |
+| Harry Potter et l'ordre du phénix | J. K. Rowling | Français (tr.) | | Not Owned | Read | | |
+| Harry Potter et le prince de sang-mêlé | J. K. Rowling | Français (tr.) | | Not Owned | Read | | |
+| Harry Potter et les reliques de la mort | J. K. Rowling | Français (tr.) | | Not Owned | Read | | |
+| Le tour du Tour par 36 détours | François Salvaing | Français | 2-209-06301-9 | Owned | Not Read | Antony | |
+| Terminus Leipzig | Max Annas & Jérôme Leroy | Français | 978-2-7578-9471-2 | Owned | Not Read | Antony | |
 | J'ai bien connu Icare | Hans Baumann | Français (tr.) | 2-08-161866-4 | Owned | Not Read | Antony | |
 | On ne badine pas avec les tueurs | Catherine Missonnier | Français | 2-7002-2063-3 | Owned | Read | Antony | |
 | Persée et autres métamorphoses | Ovide | Français (tr.) | 978-2-218-93332-5 | Owned | Read | Antony | |
