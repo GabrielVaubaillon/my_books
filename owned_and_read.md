@@ -207,10 +207,11 @@
 | Stormlight Archives - Words of radiance | Brandon Sanderson | English | 978-1-4299-4962-0 | Possédé | Lu | Ebook | |
 | Stormlight Archives - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Possédé |Lu | Ebook | |
 | Stormlight Archives - Dawnshard | Brandon Sanderson | English | 978-1-938570-26-1 | Possédé | Lu | Ebook | |
-| Stormlight Archives - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Possédé | Pas Lu | Ebook | |
+| Stormlight Archives - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Possédé | Lu | Ebook | |
 | Mistborn - The Final Empire | Brandon Sanderson | English | | Non | Lu | | |
 | Mistborn - The Well of Ascension | Brandon Sanderson | English | | Non | Lu | | |
 | Mistborn - The Hero of Ages | Brandon Sanderson | English | | Non | Lu | | |
+| Mistborn - The Wax and Wayne Series | Brandon Sanderson | English | 978-1-250-29349-7 | Possédé | Pas lu | Ebook | The Alloy of Law, Shadows of Self, The Bands of Mourning |
 | L'attaque des titans (tome 1->22) | Hajime Isayama | Français (tr.) | | Non | Lu | | |
 | Le Vieil Homme et la Mer | Ernest Hemingway | Français (tr.) | | Non | Lu | | |
 | Nous sommes Bob - 1.Nous sommes legions | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
