@@ -1,5 +1,6 @@
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | - | - | - | - | - | - | - | - |
+| Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Pas Lu | Cork | |
 | Antigone | Jean Anouilh | Français | | Non | Lu | | |
 | Les contemplations | Victor Hugo | Français | | Non | Lu | | |
 | Les misérables | Victor Hugo | Français | | Non | Lu | | |
