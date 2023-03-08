@@ -58,7 +58,7 @@
 | Candide ou l'optimiste | Voltaire | Français | 978-2-290-11864-1 | Possédé | Lu | Antony | |
 | Le pied de la momie | Théophile Gautier | Français | 978-2-218-96301 | Possédé | Lu | Antony | |
 | Papa-Longues-Jambes | Jean Webster | Français (tr.) | 978-2-07-061266-6 | Possédé | Lu | Antony | |
-|Enquête au collège | Jean-Philippe Arrou-Vignod | Français | 978-2-07-061284-0 | Possédé | Lu | |
+|Enquête au collège | Jean-Philippe Arrou-Vignod | Français | 978-2-07-061284-0 | Possédé | Lu | Antony | |
 | la plume de l'ange | Bazire-Talamon | Français | 978-2-09-252104-5 | Possédé | Lu | Antony | |
 | Le singe de Buffon | Bazire-Talamon | Français | 978-2-09-250385-0 | Possédé | Lu | Antony | |
 | Vipère au poing | Hervé Bazin | Français | 978-2-253-00145-4 | Possédé | Lu | Antony | |
@@ -117,7 +117,7 @@
 | Contes et légendes de la camargue et des gitans | Jean Portail | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
 | Contes et légendes de Bourgogne | G. Perron-Louis | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
 | Contes et légendes de la naissance de Rome | Laura Orvieto | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
-| Le vaisseau merveilleux et autres contes de Bretagne | Français | 2-01-007716-4 | Possédé | Lu | Antony | |
+| Le vaisseau merveilleux et autres contes de Bretagne | | Français | 2-01-007716-4 | Possédé | Lu | Antony | |
 | Robin des bois | Suzanne Pairault | Français | 2-01-001764-1 | Possédé | Lu | Antony | |
 | la fée et le géomètre | Jeain-Pierre Andrevon | Français | 2-203-13615-4 | Possédé | Pas Lu | Antony | |
 | L'utopie | Thomas More | Français | 9782290134115 | Possédé | Pas Lu | Antony | |
