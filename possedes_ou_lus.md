@@ -9,7 +9,7 @@
 | Fondation 1 | Isaac Asimov | Français (tr.) | 978-2-07-046361-9 | Possédé | Lu | Cartons (Avignon) | (Fondation, Fondation et Empire, Seconde Fondation) |
 | Fondation 2 | Isaac Asimov | Français (tr.) | 978-2-07-046362-6 | Possédé | Lu | Cartons (Avignon) | (fondation foudroyée, Terre et fondation) |
 | The complete Robot | Isaac Asimov | English | 978-0-00-827781-9 | Possédé | Pas Lu | Cartons (Avignon) | Recueil |
-| Noel sur Ganymede | Isaac Asimov | Français (tr.) |  2-207-30187-7 | Possédé | Pas Lu | Cartons (Avignon) | |
+| Noel sur Ganymede | Isaac Asimov | Français (tr.) | 2-207-30187-7 | Possédé | Pas Lu | Cartons (Avignon) | |
 | Le passe muraille | Marcel Aymé | Français | | Non | Lu | | |
 | Les contes bleus du chat perché | Marcel Aymé | Français | 2-07-033097-2 | Possédé | Lu | Antony | |
 | Les contes rouges du chat perché | Marcel Aymé | Français | 2-07-033098-2 | Possédé | Lu | Antony | |
@@ -93,12 +93,12 @@
 | Journal | Anne Frank | Français (tr.) | 2-253-00127-9 | Possédé | Pas Lu | Antony | |
 | Dans le secret des nombres | Marianne Freiberger & Rachel Thomas | Français (tr.) | 978-2-10-078168-3 | Possédé | Lu | Cartons (Avignon) | |
 | Condor | Caryl Férey | Français | 978-2-07-274768-7 | Possédé | Lu | Cartons (Avignon) | |
-| La bête du Gévaudan | José Féron | Français | 978-2-01-013833-3 | Possédé | Lu | Antony | | 
+| La bête du Gévaudan | José Féron | Français | 978-2-01-013833-3 | Possédé | Lu | Antony | |
 | American Gods | Neil Gaiman | Français (tr.) | | Non | Lu | | |
 | Smith | Leon Garfield | Français (tr.) | 2-253-03350-2 | Possédé | Lu | Antony | |
 | Au pays du grand condor | Nadine Garrel | Français | 2-07-033022-2 | Possédé | Pas Lu | Antony | |
 | Le pied de la momie | Théophile Gautier | Français | 978-2-218-96301 | Possédé | Lu | Antony | |
-| Le hussard sur le toit | Jean Giono | Français | 2-07-036240-0 | Possédé | Lu | Antony | | 
+| Le hussard sur le toit | Jean Giono | Français | 2-07-036240-0 | Possédé | Lu | Antony | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Pas Lu | Cork | |
 | L'ordinatueur | Christian Grenier | Français | | Non | Lu | | |
 | Contes et légendes - Les douze travaux d'hercule | Christian Grenier & Philippe Caron | Français | 2-09-282318-3 | Possédé | Lu | Antony | |
@@ -162,11 +162,11 @@
 | Le piège gaulois | Pierre Miquel | Français | 2-253-03612-9 | Possédé | Lu | Antony | |
 | Youg | Louis Mirman | Français | 2-07-033301-9 | Possédé | Lu | Antony | |
 | On ne badine pas avec les tueurs | Catherine Missonnier | Français | 2-7002-2063-3 | Possédé | Lu | Antony | |
-| Le vieil homme de la forêt | Dam Mitrecey | Français | 978-2-84064-279-4 | Possédé | Lu | Antony (vente) | | 
+| Le vieil homme de la forêt | Dam Mitrecey | Français | 978-2-84064-279-4 | Possédé | Lu | Antony (vente) | |
 | L'utopie | Thomas More | Français | 9782290134115 | Possédé | Pas Lu | Antony | |
 | Pagaille à Paris | Anthony Morowitz | Français | | Non | Lu | | |
 | Mes amis les loups | Farley Mowat | Français (tr.) | 2-08-161794-3 | Possédé | Pas Lu | Antony | |
-| Z comme Zacharie | Robert C. O'Brien | Français (tr.) | 2-253-03882-2 | Possédé | Lu  | Antony | |
+| Z comme Zacharie | Robert C. O'Brien | Français (tr.) | 2-253-03882-2 | Possédé | Lu | Antony | |
 | Les clients du Bon Chien Jaune | Pierre Mac Orlan | Français | 978-2-07-056016-5 | Possédé | Lu | Antony | |
 | Contes et légendes de la naissance de Rome | Laura Orvieto | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
 | 1984 | George Orwell | Français (tr.) | 2-07-036822-X | Possédé | Pas Lu | Cartons (Avignon) | |
@@ -197,7 +197,7 @@
 | Brisingr | Christopher Paolini | Français (tr.) | 978-2-7470-2961-2 | Possédé | Lu | Antony | |
 | L'héritage | Christopher Paolini | Français (tr.) | 978-2-7470-2855-4 | Possédé | Lu | Antony | |
 | De l'esprit géométrique | Blaise Pascal | Français | | Possédé | Pas Lu | Antony | |
-| Pensées sur la justice - Trois Discours sur la condition des grands | Pascal | Français | 978-2-0812-4981-3 | Possédé | Lu | Antony | 
+| Pensées sur la justice - Trois Discours sur la condition des grands | Pascal | Français | 978-2-0812-4981-3 | Possédé | Lu | Antony |
 | Les contes de Perrault| Charles Perrault | Français | 978-2-36315-137-7 | Possédé | Lu | Ebook | |
 | Contes et légendes de Bourgogne | G. Perron-Louis | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
 | Principes élémentaires de philosophie | Georges Politzer | Français | 978-2-915854-15-2 | Possédé | Pas Lu | Antony | |
@@ -239,29 +239,29 @@
 | Le tour du Tour par 36 détours | François Salvaing | Français | 2-209-06301-9 | Possédé | Pas Lu | Antony | |
 | Alcatraz contre les infâmes bibliothécaires | Brandon Sanderson | Français (tr.) | | Non | Lu | | |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
-| Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé |  | Ebook | Recueil |
+| Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | | Ebook | Recueil |
 | Stormlight Archives - Way of kings | Brandon Sanderson | English | 978-1-4299-9280-0 | Possédé | Lu | Ebook | |
 | Stormlight Archives - Words of radiance | Brandon Sanderson | English | 978-1-4299-4962-0 | Possédé | Lu | Ebook | |
-| Stormlight Archives - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Possédé |Lu | Ebook | |
+| Stormlight Archives - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Possédé | Lu | Ebook | |
 | Stormlight Archives - Dawnshard | Brandon Sanderson | English | 978-1-938570-26-1 | Possédé | Lu | Ebook | |
 | Stormlight Archives - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Possédé | Lu | Ebook | |
 | Mistborn - The Final Empire | Brandon Sanderson | English | | Non | Lu | | |
 | Mistborn - The Well of Ascension | Brandon Sanderson | English | | Non | Lu | | |
 | Mistborn - The Hero of Ages | Brandon Sanderson | English | | Non | Lu | | |
 | Mistborn - The Wax and Wayne Series | Brandon Sanderson | English | 978-1-250-29349-7 | Possédé | Lu | Ebook | The Alloy of Law, Shadows of Self, The Bands of Mourning |
-| Mistborn - The Lost Metal | Brandon Sanderson | English | 978-1-473-21529-0 | Possédé | Pas lu | Ebook | |
+| Mistborn - The Lost Metal | Brandon Sanderson | English | 978-1-473-21529-0 | Possédé | Pas Lu | Ebook | |
 | Contes et légendes - La naissance de Rome | François Sautereau | Français | 978-2-09-253197-6 | Possédé | Lu | Antony | |
 | Quentin Durward | Walter Scott | Français (tr.) | | Possédé | Pas Lu | Antony | |
 | Le vieux qui lisait des romans d'amour | Luis Sepuvelda | Français (tr.) | 978-2-02-023930-2 | Possédé | Lu | Cartons (Avignon) | |
 | Frankenstein | Mary W. Shelley | Français (tr.) | | Non | Lu | | |
 | Les terroristes | M. Sjöwall & P. Wahlöö | Français (tr.) | 978-2-7436-2057-8 | Possédé | Pas Lu | Cartons (Avignon) | |
 | La Coupe d'Or | John Steinbeck | Français (tr.) | 2-07-038457-8 | Possédé | Lu | Antony | |
-| Of mice and men | John Steinbeck | English | 979-10-358-1029-0 | Possédé | Lu |  Cartons (Avignon) | edition apprendre l'anglais (depuis le français) |
+| Of mice and men | John Steinbeck | English | 979-10-358-1029-0 | Possédé | Lu | Cartons (Avignon) | edition apprendre l'anglais (depuis le français) |
 | L'île au trésor | Robert Louis Stevenson | Français (tr.) | 2-253-00368-9 | Possédé | Lu | Cartons (Avignon) | |
 | Dracula | Bram Stoker | Français (tr.) | | Non | Lu | | |
 | Les six compagnons et la radio libre | Olivier Séchan | Français | 2-01-209358-2 | Possédé | Lu | Antony | |
 | Mystères et faits divers à Rome | Nathalie Sémenuik | Français | 978-2-0123-0344-7 | Possédé | Lu | Antony | Livres d'enquetes / jeux |
-| Inconnu à cette adresse | Kressmann Taylor | Français (tr.) | 2-253-10826-9  | Non | Lu | |
+| Inconnu à cette adresse | Kressmann Taylor | Français (tr.) | 2-253-10826-9 | Non | Lu | |
 | Nous sommes Bob - 1.Nous sommes legions | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
 | Nous sommes Bob - 2.Nous sommes nombreux | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
 | Nous sommes Bob - 3.Tous ces mondes | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
