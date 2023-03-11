@@ -2,6 +2,7 @@
 | - | - | - | - | - | - | - | - |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Pas Lu | Cork | |
 | Antigone | Jean Anouilh | Français | | Non | Lu | | |
+| Dracula | Bram Stoker | Français (tr.) | | Non | Lu | | |
 | Les contemplations | Victor Hugo | Français | | Non | Lu | | |
 | Les misérables | Victor Hugo | Français | | Non | Lu | | |
 | Zadig | Voltaire | Français | | Non | Lu | | |
@@ -27,6 +28,9 @@
 | Héros de l'Olympe 3 - La marque d'Athéna | Rick Riordan | Français (tr.) | | Non | Lu | | |
 | Héros de l'Olympe 4 - La maison d'Hadès | Rick Riordan | Français (tr.) | | Non | Lu | | |
 | Héros de l'Olympe 5 - Le sang de l'Olympe | Rick Riordan | Français (tr.) | | Non | Lu | | |
+| Hunger Games - Hunger Games | Suzanne Collins | Français (tr.) | | Non | Lu | | |
+| Hunger Games - L'embrasement | Suzanne Collins | Français (tr.) | | Non | Lu | | |
+| Hunger Games - La Révolte | Suzanne Collins | Français (tr.) | | Non | Lu | | |
 | Strom l'intégrale | Emmanuelle et Benoît de Saint Chamas | Français | | Non | Lu | | Le collectionneur, Les portails d'outre temps, la 37eme prophétie |
 | Diabolic | S.J. Kincaid | Français (tr.) | | Non | Lu | | |
 | Harry Potter à l'école des sorciers | J. K. Rowling | Français (tr.) | | Non | Lu | | |
@@ -58,7 +62,7 @@
 | Candide ou l'optimiste | Voltaire | Français | 978-2-290-11864-1 | Possédé | Lu | Antony | |
 | Le pied de la momie | Théophile Gautier | Français | 978-2-218-96301 | Possédé | Lu | Antony | |
 | Papa-Longues-Jambes | Jean Webster | Français (tr.) | 978-2-07-061266-6 | Possédé | Lu | Antony | |
-|Enquête au collège | Jean-Philippe Arrou-Vignod | Français | 978-2-07-061284-0 | Possédé | Lu | Antony | |
+| Enquête au collège | Jean-Philippe Arrou-Vignod | Français | 978-2-07-061284-0 | Possédé | Lu | Antony | |
 | la plume de l'ange | Bazire-Talamon | Français | 978-2-09-252104-5 | Possédé | Lu | Antony | |
 | Le singe de Buffon | Bazire-Talamon | Français | 978-2-09-250385-0 | Possédé | Lu | Antony | |
 | Vipère au poing | Hervé Bazin | Français | 978-2-253-00145-4 | Possédé | Lu | Antony | |
@@ -212,7 +216,8 @@
 | Mistborn - The Final Empire | Brandon Sanderson | English | | Non | Lu | | |
 | Mistborn - The Well of Ascension | Brandon Sanderson | English | | Non | Lu | | |
 | Mistborn - The Hero of Ages | Brandon Sanderson | English | | Non | Lu | | |
-| Mistborn - The Wax and Wayne Series | Brandon Sanderson | English | 978-1-250-29349-7 | Possédé | Pas lu | Ebook | The Alloy of Law, Shadows of Self, The Bands of Mourning |
+| Mistborn - The Wax and Wayne Series | Brandon Sanderson | English | 978-1-250-29349-7 | Possédé | Lu | Ebook | The Alloy of Law, Shadows of Self, The Bands of Mourning |
+| Mistborn - The Lost Metal | Brandon Sanderson | English | 978-1-473-21529-0 | Possédé | Pas lu | Ebook | |
 | L'attaque des titans (tome 1->22) | Hajime Isayama | Français (tr.) | | Non | Lu | | |
 | Le Vieil Homme et la Mer | Ernest Hemingway | Français (tr.) | | Non | Lu | | |
 | Nous sommes Bob - 1.Nous sommes legions | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
