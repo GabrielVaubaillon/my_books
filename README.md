@@ -1,9 +1,9 @@
 # my_books
 
-This repo is used for me to keep a trace if books I read or own. To keep a trace and to avoid buying books I already own.
+Petit Repo pour suivre mes bouquins. Tout les bouquins que je possede déjà, beaucoup de ceux que j'ai lu (manque beaucoup de ceux que j'ai lu plus jeune).
 
-J'utilise ce dossier pour garder une trace des livres que j'ai lu ou que je possede. Pour garder une trace mais aussi pour éviter de racheter des livres que j'ai déjà.
+Tout ça pour ne pas racheter un livre que j'ai déjà (au moins je le ferai volontairement (voir Tolkien)) et me rappeller de où j'ai stocké chaque livre. Permet aussi de parcourir la liste pour voir des bouquins que j'ai, mais que je n'ai pas encore lu. 
 
-Pour trouver facilement un livre dans la liste, on peut utiliser "rechercher dans la page", accessible via "Ctrl+F" sur la plupart des navigateurs
+Pour chercher dans la liste, c'est pas trop dur, tu clique sur possedes_ou_lus.md, puis soit tu scroll dans les 300+ lignes, soit tu fait Ctrl+F et tu recherche dans la page.
 
-Il y a deux listes, une des livres possédés/lus, l'autre pour une liste de souhait
+Attention, parfois c'est le titre français, parfois le titre anglais. La recherche par auteur et recommandée (la liste est triée par auteur).
