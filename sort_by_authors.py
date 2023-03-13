@@ -34,6 +34,10 @@ def sorting_key(d):
 
     # On garde le nom
     res = tmp[-1]
+
+    # On enleve le fils/ aîné (Alexandre Dumas Fils sera classé à Dumas)
+    if res.lower() == "fils" or res.lower() == "père" or res.lower() == "aîné" or res.lower() == "junior" or res.lower() == "senior":
+        res = tmp[-2]
     return res
 
 data = sorted(data, key=lambda x: sorting_key(x))

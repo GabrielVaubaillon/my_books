@@ -13,8 +13,6 @@
 | Le passe muraille | Marcel Aymé | Français | | Non | Lu | | |
 | Les contes bleus du chat perché | Marcel Aymé | Français | 2-07-033097-2 | Possédé | Lu | Antony | |
 | Les contes rouges du chat perché | Marcel Aymé | Français | 2-07-033098-2 | Possédé | Lu | Antony | |
-| La guerre du feu | J.H. Rosny Aîné | Français | 978-2-01-322595-3 | Possédé | Lu | Antony | |
-| Le félin géant | J.H. Rosny Aîné | Français | 2-253-03324-3 | Possédé | Lu | Antony | |
 | La formation de l'esprit scientifique | Bachelard | Français | 978-2-7116-1150-8 | Possédé | Pas Lu | Antony | |
 | L'histoire de Géronimo | Géronimo (S.M. Barett) | Français (tr.) | 2-253-03703-6 | Possédé | Pas Lu | Antony | |
 | Le grand secret | Barjavel | Français | | Non | Lu | | |
@@ -42,7 +40,6 @@
 | Alice au pays des merveilles | Lewis Carrol | Français (tr.) | | Non | Lu | | |
 | Le récit de Gilgamesh | Jacques Cassabois | Français | 978-2-218-93642-5 | Possédé | Lu | Antony | |
 | Don Quichotte (abrégé) | Cervantès | Français | 2-0139322247-5 | Possédé | Lu | Antony | |
-| Strom l'intégrale | Emmanuelle et Benoît de Saint Chamas | Français | | Non | Lu | | Le collectionneur, Les portails d'outre temps, la 37eme prophétie |
 | Le Problème à trois corps | Liu Cixin | Français (tr.) | 978-2-330-11355-1 | Possédé | Lu | Cartons (Avignon) | |
 | La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Cartons (Avignon) | |
 | La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Cartons (Avignon) | |
@@ -226,6 +223,8 @@
 | L'oeil du Dragon - Dent de Sabre | Mark Robson | Français (tr.) | 978-2-266-19150-0 | Possédé | Lu | Antony | |
 | L'oeil du Dragon - Aurore | Mark Robson | Français (tr.) | 978-2-266-19151-7 | Possédé | Lu | Antony | |
 | Premier de cordée | Frison Roche | Français | 2-277-11936-9 | Possédé | Pas Lu | Antony |
+| La guerre du feu | J.H. Rosny Aîné | Français | 978-2-01-322595-3 | Possédé | Lu | Antony | |
+| Le félin géant | J.H. Rosny Aîné | Français | 2-253-03324-3 | Possédé | Lu | Antony | |
 | Harry Potter à l'école des sorciers | J. K. Rowling | Français (tr.) | | Non | Lu | | |
 | Harry Potter et la chambre des secrets | J. K. Rowling | Français (tr.) | | Non | Lu | | |
 | Harry Potter et le prisonnier d'Azkaban | J. K. Rowling | Français (tr.) | | Non | Lu | | |
@@ -235,9 +234,11 @@
 | Harry Potter et les reliques de la mort | J. K. Rowling | Français (tr.) | | Non | Lu | | |
 | jacquou le croquant | Eugène Le Roy | Français | 2-07-033519-4 | Possédé | Pas Lu | Antony | |
 | Bonjour tristesse | Françoise Sagan | Français | 978-2-266-19558-4 | Possédé | Lu | Antony | |
+| Strom l'intégrale | Emmanuelle et Benoît de Saint-Chamas | Français | | Non | Lu | | Le collectionneur, Les portails d'outre temps, la 37eme prophétie |
 | Le petit Prince | Antoine de Saint-Exupéry | Français | 978-2-07-040850-4 | Possédé | Lu | Cartons (Avignon) | |
 | Le tour du Tour par 36 détours | François Salvaing | Français | 2-209-06301-9 | Possédé | Pas Lu | Antony | |
 | Alcatraz contre les infâmes bibliothécaires | Brandon Sanderson | Français (tr.) | | Non | Lu | | |
+| Elantris | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Lu | Ebook |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | | Ebook | Recueil |
 | Stormlight Archives - Way of kings | Brandon Sanderson | English | 978-1-4299-9280-0 | Possédé | Lu | Ebook | |
@@ -249,7 +250,8 @@
 | Mistborn - The Well of Ascension | Brandon Sanderson | English | | Non | Lu | | |
 | Mistborn - The Hero of Ages | Brandon Sanderson | English | | Non | Lu | | |
 | Mistborn - The Wax and Wayne Series | Brandon Sanderson | English | 978-1-250-29349-7 | Possédé | Lu | Ebook | The Alloy of Law, Shadows of Self, The Bands of Mourning |
-| Mistborn - The Lost Metal | Brandon Sanderson | English | 978-1-473-21529-0 | Possédé | Pas Lu | Ebook | |
+| Mistborn - The Lost Metal | Brandon Sanderson | English | 978-1-473-21529-0 | Possédé | Lu | Ebook | |
+| Tress of the emerald sea | Brandon Sanderson | English | 978-1-938570-34-6 | Possédé | Pas Lu | Ebook | |
 | Contes et légendes - La naissance de Rome | François Sautereau | Français | 978-2-09-253197-6 | Possédé | Lu | Antony | |
 | Quentin Durward | Walter Scott | Français (tr.) | | Possédé | Pas Lu | Antony | |
 | Le vieux qui lisait des romans d'amour | Luis Sepuvelda | Français (tr.) | 978-2-02-023930-2 | Possédé | Lu | Cartons (Avignon) | |
