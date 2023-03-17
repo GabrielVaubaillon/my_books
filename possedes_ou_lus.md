@@ -240,7 +240,7 @@
 | Alcatraz contre les infâmes bibliothécaires | Brandon Sanderson | Français (tr.) | | Non | Lu | | |
 | Elantris | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Lu | Ebook |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
-| Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | | Ebook | Recueil |
+| Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | Lu | Ebook | Recueil |
 | Stormlight Archives - Way of kings | Brandon Sanderson | English | 978-1-4299-9280-0 | Possédé | Lu | Ebook | |
 | Stormlight Archives - Words of radiance | Brandon Sanderson | English | 978-1-4299-4962-0 | Possédé | Lu | Ebook | |
 | Stormlight Archives - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Possédé | Lu | Ebook | |
@@ -251,7 +251,7 @@
 | Mistborn - The Hero of Ages | Brandon Sanderson | English | | Non | Lu | | |
 | Mistborn - The Wax and Wayne Series | Brandon Sanderson | English | 978-1-250-29349-7 | Possédé | Lu | Ebook | The Alloy of Law, Shadows of Self, The Bands of Mourning |
 | Mistborn - The Lost Metal | Brandon Sanderson | English | 978-1-473-21529-0 | Possédé | Lu | Ebook | |
-| Tress of the emerald sea | Brandon Sanderson | English | 978-1-938570-34-6 | Possédé | Pas Lu | Ebook | |
+| Tress of the emerald sea | Brandon Sanderson | English | 978-1-938570-34-6 | Possédé | Lu | Ebook | |
 | Contes et légendes - La naissance de Rome | François Sautereau | Français | 978-2-09-253197-6 | Possédé | Lu | Antony | |
 | Quentin Durward | Walter Scott | Français (tr.) | | Possédé | Pas Lu | Antony | |
 | Le vieux qui lisait des romans d'amour | Luis Sepuvelda | Français (tr.) | 978-2-02-023930-2 | Possédé | Lu | Cartons (Avignon) | |
