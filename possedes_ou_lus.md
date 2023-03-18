@@ -171,7 +171,7 @@
 | La ferme des animaux (BD) | George Orwell | Français (tr.) | 978-23730901-8-5 | Possédé | Lu | Cartons (Avignon) | |
 | 1984 (BD) | George Orwell | Français (tr) | 978-2-246-82576-0 | Possédé | Lu | Cartons (Avignon) | |
 | La cabane magique - Rencontres en haut de la tour Eiffel | May Pope Osborne | Français (tr.) | 978-2-7470-2615-4 | Possédé | Lu | Antony | |
-| Loveless | Alice Oseman | English | 9780008244132 | Possédé | Pas Lu | Ebook | |
+| Loveless | Alice Oseman | English | 9780008244132 | Possédé | Lu | Ebook | |
 | Persée et autres métamorphoses | Ovide | Français (tr.) | 978-2-218-93332-5 | Possédé | Lu | Antony | |
 | Manon des sources | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
 | Topaze | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
