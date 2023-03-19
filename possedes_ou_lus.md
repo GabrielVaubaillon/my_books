@@ -15,7 +15,7 @@
 | Les contes rouges du chat perché | Marcel Aymé | Français | 2-07-033098-2 | Possédé | Lu | Antony | |
 | Les contes du chat perché | Marcel Aymé | Français | 9782070363438 | Possédé | Lu | Ebook | |
 | La formation de l'esprit scientifique | Bachelard | Français | 978-2-7116-1150-8 | Possédé | Pas Lu | Antony | |
-| La vie selon Ove | Fredik Backman | Français (tr.) | 978-2-258-10999-5 | Possédé | Pas Lu | Ebook | |
+| La vie selon Ove | Fredik Backman | Français (tr.) | 978-2-258-10999-5 | Possédé | Lu | Ebook | |
 | L'histoire de Géronimo | Géronimo (S.M. Barett) | Français (tr.) | 2-253-03703-6 | Possédé | Pas Lu | Antony | |
 | Le grand secret | Barjavel | Français | | Non | Lu | | |
 | Gros Probleme | Dave Barry | Français (tr.) | 2-266-11957-5 | Possédé | Pas Lu | Cartons (Avignon) | |
@@ -125,6 +125,7 @@
 | Les misérables | Victor Hugo | Français | | Non | Lu | | |
 | Contes et légendes du Moyen Age | Marcelle et Georges Huisman | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
 | Le meilleur des mondes | Aldous Huxley | Français (tr.) | 978-2-266-28303-8 | Possédé | Lu | Cartons (Avignon) | |
+| Comment braquer une banque sans perdre son dentier | Catharina Ingelman-Sundberg | Français (tr.) | Possédé | Pas Lu | Ebook | |
 | L'attaque des titans (tome 1->22) | Hajime Isayama | Français (tr.) | | Non | Lu | | |
 | L'aventure, l'Ennui, le Sérieux - chapitre 1 | Jankélévitch | Français | 978-2-0813-9744-6 | Possédé | Pas Lu | Antony | |
 | Un sac de bille | Joseph Joffo | Français | 2-253-02777-4 | Possédé | Pas Lu | Antony | |
