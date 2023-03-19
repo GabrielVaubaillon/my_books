@@ -13,7 +13,9 @@
 | Le passe muraille | Marcel Aymé | Français | | Non | Lu | | |
 | Les contes bleus du chat perché | Marcel Aymé | Français | 2-07-033097-2 | Possédé | Lu | Antony | |
 | Les contes rouges du chat perché | Marcel Aymé | Français | 2-07-033098-2 | Possédé | Lu | Antony | |
+| Les contes du chat perché | Marcel Aymé | Français | 9782070363438 | Possédé | Lu | Ebook | |
 | La formation de l'esprit scientifique | Bachelard | Français | 978-2-7116-1150-8 | Possédé | Pas Lu | Antony | |
+| La vie selon Ove | Fredik Backman | Français (tr.) | 978-2-258-10999-5 | Possédé | Pas Lu | Ebook | |
 | L'histoire de Géronimo | Géronimo (S.M. Barett) | Français (tr.) | 2-253-03703-6 | Possédé | Pas Lu | Antony | |
 | Le grand secret | Barjavel | Français | | Non | Lu | | |
 | Gros Probleme | Dave Barry | Français (tr.) | 2-266-11957-5 | Possédé | Pas Lu | Cartons (Avignon) | |
