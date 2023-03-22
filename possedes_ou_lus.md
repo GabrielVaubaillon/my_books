@@ -46,6 +46,7 @@
 | La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Cartons (Avignon) | |
 | La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Cartons (Avignon) | |
 | 2001 : L'odyssée de l'espace | Arthur C. Clarke | Français (tr.) | 978-2-290-30814-1 | Possédé | Lu | Cartons (Avignon) | |
+| Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Pas Lu | Ebook | |
 | Les prisoniers du marais | Linda Cline | Français (tr.) | 2-253-02571-2 | Possédé | Lu | Antony | |
 | The Alchemist | Paul Coelho | English (tr.) | 978-0-06-112241-5 | Possédé | Pas Lu | Cartons (Avignon) | |
 | Hunger Games 1 - Hunger Games | Suzanne Collins | Français (tr.) | | Non | Lu | | |
@@ -201,7 +202,7 @@
 | Pensées sur la justice - Trois Discours sur la condition des grands | Pascal | Français | 978-2-0812-4981-3 | Possédé | Lu | Antony |
 | Les contes de Perrault| Charles Perrault | Français | 978-2-36315-137-7 | Possédé | Lu | Ebook | |
 | Contes et légendes de Bourgogne | G. Perron-Louis | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
-| Mamie Luger | Benoît Philippon | Français | 978-2-35204-946-3 | Possédé | Pas Lu | Ebook | |
+| Mamie Luger | Benoît Philippon | Français | 978-2-35204-946-3 | Possédé | Lu | Ebook | |
 | Principes élémentaires de philosophie | Georges Politzer | Français | 978-2-915854-15-2 | Possédé | Pas Lu | Antony | |
 | Pinnocchio (théatre) | Joël Pommerat | Français | 978-2-33-04858-7 | Possédé | Lu | Antony | |
 | Contes et légendes de la camargue et des gitans | Jean Portail | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
