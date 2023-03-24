@@ -23,7 +23,7 @@
 | J'ai bien connu Icare | Hans Baumann | Français (tr.) | 2-08-161866-4 | Possédé | Pas Lu | Antony | |
 | Michel et les routiers | Georges Bayard | Français | | Possédé | Lu | Antony | |
 | Vipère au poing | Hervé Bazin | Français | 978-2-253-00145-4 | Possédé | Lu | Antony | |
-| la plume de l'ange | Bazire-Talamon | Français | 978-2-09-252104-5 | Possédé | Lu | Antony | |
+| La plume de l'ange | Bazire-Talamon | Français | 978-2-09-252104-5 | Possédé | Lu | Antony | |
 | Le singe de Buffon | Bazire-Talamon | Français | 978-2-09-250385-0 | Possédé | Lu | Antony | |
 | La concierge est dans le cercueil | José Benjamin | Français | 978-2-913019-58-4 | Possédé | Pas Lu | Antony | |
 | Les six compagnons et l'émetteur pirate | Paul-Jacques Bonzon | Français | 2-01-017796-7 | Possédé | Lu | Antony | |
@@ -46,7 +46,7 @@
 | La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Cartons (Avignon) | |
 | La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Cartons (Avignon) | |
 | 2001 : L'odyssée de l'espace | Arthur C. Clarke | Français (tr.) | 978-2-290-30814-1 | Possédé | Lu | Cartons (Avignon) | |
-| Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Pas Lu | Ebook | |
+| Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
 | Les prisoniers du marais | Linda Cline | Français (tr.) | 2-253-02571-2 | Possédé | Lu | Antony | |
 | The Alchemist | Paul Coelho | English (tr.) | 978-0-06-112241-5 | Possédé | Pas Lu | Cartons (Avignon) | |
 | Hunger Games 1 - Hunger Games | Suzanne Collins | Français (tr.) | | Non | Lu | | |
@@ -99,6 +99,7 @@
 | Au pays du grand condor | Nadine Garrel | Français | 2-07-033022-2 | Possédé | Pas Lu | Antony | |
 | Le pied de la momie | Théophile Gautier | Français | 978-2-218-96301 | Possédé | Lu | Antony | |
 | Le hussard sur le toit | Jean Giono | Français | 2-07-036240-0 | Possédé | Lu | Antony | |
+| The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Pas Lu | Ebook | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Pas Lu | Cork | |
 | L'ordinatueur | Christian Grenier | Français | | Non | Lu | | |
 | Contes et légendes - Les douze travaux d'hercule | Christian Grenier & Philippe Caron | Français | 2-09-282318-3 | Possédé | Lu | Antony | |
