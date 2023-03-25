@@ -34,6 +34,7 @@
 | Les six compagnons et la perruque rouge | Paul-Jacques Bonzon | Français | 2-01-00-0775-1 | Possédé | Lu | Antony | |
 | Contes et légendes du Dauphiné | Luce Bosquet | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
 | La planète des singes | Pierre Boule | Français | 978-2-266-28302-1 | Possédé | Lu | Cartons (Avignon) | |
+| Le Maître et Marguerite | Mikhaïl Boulgakov | Français (tr.) | 978-2-221-24056-4 | Possédé | Pas Lu | Ebook | |
 | The Martian Chronicles | Ray Bradbury | English | 978-0-00-647923 | Possédé | Lu | Cartons (Avignon) | |
 | Fahrenheit 451 | Ray Bradbury | English | 978-0-00-654606-1 | Possédé | Lu | Cartons (Avignon) | |
 | Bennett et sa cabane | Anthony Buckeridge | Français | 2-253-02338-8 | Possédé | Pas Lu | Antony | |
@@ -99,7 +100,7 @@
 | Au pays du grand condor | Nadine Garrel | Français | 2-07-033022-2 | Possédé | Pas Lu | Antony | |
 | Le pied de la momie | Théophile Gautier | Français | 978-2-218-96301 | Possédé | Lu | Antony | |
 | Le hussard sur le toit | Jean Giono | Français | 2-07-036240-0 | Possédé | Lu | Antony | |
-| The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Pas Lu | Ebook | |
+| The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Pas Lu | Cork | |
 | L'ordinatueur | Christian Grenier | Français | | Non | Lu | | |
 | Contes et légendes - Les douze travaux d'hercule | Christian Grenier & Philippe Caron | Français | 2-09-282318-3 | Possédé | Lu | Antony | |
