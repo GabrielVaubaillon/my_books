@@ -102,6 +102,7 @@
 | Le hussard sur le toit | Jean Giono | Français | 2-07-036240-0 | Possédé | Lu | Antony | |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Pas Lu | Cork | |
+| Irish myths and legends 2 - Cuchulain and the Red Branch of Ulster | Lady Augusta Gregory | English | 978-1-84840-887-6 | Possédé | Pas Lu | Cork | |
 | L'ordinatueur | Christian Grenier | Français | | Non | Lu | | |
 | Contes et légendes - Les douze travaux d'hercule | Christian Grenier & Philippe Caron | Français | 2-09-282318-3 | Possédé | Lu | Antony | |
 | La machination | Christian Grenier | Français | 2-253-02765-0 | Possédé | Lu | Antony | |
@@ -315,3 +316,4 @@
 | Contes d'ici et d'ailleurs | | Français | 2-04-730354-0 | Possédé | Lu | Antony | |
 | Contes d'ici et d'ailleurs | | Français | 978-2-218-93322-6 | Possédé | Lu | Antony | |
 | Le vaisseau merveilleux et autres contes de Bretagne | | Français | 2-01-007716-4 | Possédé | Lu | Antony | |
+| The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Pas Lu | Cork | |
