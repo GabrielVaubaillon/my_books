@@ -34,7 +34,7 @@
 | Les six compagnons et la perruque rouge | Paul-Jacques Bonzon | Français | 2-01-00-0775-1 | Possédé | Lu | Antony | |
 | Contes et légendes du Dauphiné | Luce Bosquet | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
 | La planète des singes | Pierre Boule | Français | 978-2-266-28302-1 | Possédé | Lu | Cartons (Avignon) | |
-| Le Maître et Marguerite | Mikhaïl Boulgakov | Français (tr.) | 978-2-221-24056-4 | Possédé | Pas Lu | Ebook | |
+| Le Maître et Marguerite | Mikhaïl Boulgakov | Français (tr.) | 978-2-221-24056-4 | Possédé | Lu | Ebook | |
 | The Martian Chronicles | Ray Bradbury | English | 978-0-00-647923 | Possédé | Lu | Cartons (Avignon) | |
 | Fahrenheit 451 | Ray Bradbury | English | 978-0-00-654606-1 | Possédé | Lu | Cartons (Avignon) | |
 | Bennett et sa cabane | Anthony Buckeridge | Français | 2-253-02338-8 | Possédé | Pas Lu | Antony | |
@@ -111,6 +111,7 @@
 | La guerre des Livres | Alain Grousset | Français | 978-2-07-061882-8 | Possédé | Lu | Antony | |
 | La bilbiothécaire | Gudule | Français | 978-2-01-322406-2 | Possédé | Lu | Antony | |
 | Les cheveux de Bérénice | Denis Guedj | Français | 2-02-066392-9 | Possédé | Lu | Antony | |
+| Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Pas LU | Ebook | |
 | Ciel - L'hiver des machines | Johan Heliot | Français | 978-2-35488-238-9 | Possédé | Lu | Antony (vente) | |
 | Pour qui sonne le glas | Ernest Hemingway | Français (tr.) | | Possédé | Pas Lu | Antony | |
 | Le Vieil Homme et la Mer | Ernest Hemingway | Français (tr.) | | Non | Lu | | |
