@@ -111,7 +111,7 @@
 | La guerre des Livres | Alain Grousset | Français | 978-2-07-061882-8 | Possédé | Lu | Antony | |
 | La bilbiothécaire | Gudule | Français | 978-2-01-322406-2 | Possédé | Lu | Antony | |
 | Les cheveux de Bérénice | Denis Guedj | Français | 2-02-066392-9 | Possédé | Lu | Antony | |
-| Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Pas LU | Ebook | |
+| Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
 | Ciel - L'hiver des machines | Johan Heliot | Français | 978-2-35488-238-9 | Possédé | Lu | Antony (vente) | |
 | Pour qui sonne le glas | Ernest Hemingway | Français (tr.) | | Possédé | Pas Lu | Antony | |
 | Le Vieil Homme et la Mer | Ernest Hemingway | Français (tr.) | | Non | Lu | | |
@@ -146,6 +146,10 @@
 | Arsène Lupin - La comtesse de Cagliosto | Maurice Leblanc | Français | 301-0-000-03034-8 | Possédé | Pas Lu | Antony | |
 | Les aventures extraordinaires d'Arsène Lupin - Tome 3 (Omnibus) | Maurice Leblanc | Français | 978-2-258-09388-1 | Possédé | Pas Lu | Antony | |
 | Le garçon qui ne parlait pas | Donna Leon | Français (tr.) | 978-2-7578-5686-4 | Possédé | Lu | Cartons (Avignon) | |
+| The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
+| The Wall of Storms | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
+| The Veiled Throne | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
+| Speaking Bones | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Le goéland | Jonathan Livingston | Français (tr.) | 2-08-161714-5 | Possédé | Lu | Antony | |
 | Martin Eden | Jack London | Français (tr.) | 978-2-07-079398-3 | Possédé | Pas Lu | Antony | |
 | Croc-Blanc | Jack London | Français (tr.) | 978-2-01-322574-8 | Possédé | Lu | Antony | |
