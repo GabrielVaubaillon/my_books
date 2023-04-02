@@ -43,9 +43,9 @@
 | Alice au pays des merveilles | Lewis Carrol | Français (tr.) | | Non | Lu | | |
 | Le récit de Gilgamesh | Jacques Cassabois | Français | 978-2-218-93642-5 | Possédé | Lu | Antony | |
 | Don Quichotte (abrégé) | Cervantès | Français | 2-0139322247-5 | Possédé | Lu | Antony | |
-| Le Problème à trois corps | Liu Cixin | Français (tr.) | 978-2-330-11355-1 | Possédé | Lu | Cartons (Avignon) | |
-| La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Cartons (Avignon) | |
-| La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Cartons (Avignon) | |
+| (livre 1) Le Problème à trois corps | Liu Cixin | Français (tr.) | 978-2-330-11355-1 | Possédé | Lu | Cartons (Avignon) | |
+| (livre 2) La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Cartons (Avignon) | |
+| (livre 3) La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Cartons (Avignon) | |
 | 2001 : L'odyssée de l'espace | Arthur C. Clarke | Français (tr.) | 978-2-290-30814-1 | Possédé | Lu | Cartons (Avignon) | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
 | Les prisoniers du marais | Linda Cline | Français (tr.) | 2-253-02571-2 | Possédé | Lu | Antony | |
@@ -115,12 +115,12 @@
 | Ciel - L'hiver des machines | Johan Heliot | Français | 978-2-35488-238-9 | Possédé | Lu | Antony (vente) | |
 | Pour qui sonne le glas | Ernest Hemingway | Français (tr.) | | Possédé | Pas Lu | Antony | |
 | Le Vieil Homme et la Mer | Ernest Hemingway | Français (tr.) | | Non | Lu | | |
-| Dune | Frank Herbert | English | 978-0-340-96019-6 | Possédé | Lu | Cartons (Avignon) | |
-| Dune Messiah | Frank Herbert | English | 978-0-593-09823-3 | Possédé | Lu | Cartons (Avignon) | |
-| Children of Dune | Frank Herbert | English | 978-0-593-09824-0 | Possédé | Lu | Cartons (Avignon) | |
-| God emperor of Dune | Frank Herbert | English | 978-0-593-09825-7 | Possédé | Lu | Cartons (Avignon) | |
-| Heretics of Dune | Frank Herbert | English | 978-0-593-09826-4 | Possédé | Lu | Cartons (Avignon) | |
-| Chapterhouse : Dune | Frank Herbert | English | 978-0-593-09827-1 | Possédé | Lu | Cartons (Avignon) | |
+| Dune 1 - Dune | Frank Herbert | English | 978-0-340-96019-6 | Possédé | Lu | Cartons (Avignon) | |
+| Dune 2 - Dune Messiah | Frank Herbert | English | 978-0-593-09823-3 | Possédé | Lu | Cartons (Avignon) | |
+| Dune 3 - Children of Dune | Frank Herbert | English | 978-0-593-09824-0 | Possédé | Lu | Cartons (Avignon) | |
+| Dune 4 - God emperor of Dune | Frank Herbert | English | 978-0-593-09825-7 | Possédé | Lu | Cartons (Avignon) | |
+| Dune 5 - Heretics of Dune | Frank Herbert | English | 978-0-593-09826-4 | Possédé | Lu | Cartons (Avignon) | |
+| Dune 6 - Chapterhouse : Dune | Frank Herbert | English | 978-0-593-09827-1 | Possédé | Lu | Cartons (Avignon) | |
 | Dune Les origines - 1. La Communauté des Soeurs | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-25239-3 | Possédé | Pas Lu | Cartons (Avignon) | |
 | Dune Les origines - 2. Les Mentats de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-26727-4 | Possédé | Pas Lu | Cartons (Avignon) | |
 | Dune Les origines - 3. Les Navigateurs de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-32129-7 | Possédé | Pas Lu | Cartons (Avignon) | |
@@ -146,10 +146,10 @@
 | Arsène Lupin - La comtesse de Cagliosto | Maurice Leblanc | Français | 301-0-000-03034-8 | Possédé | Pas Lu | Antony | |
 | Les aventures extraordinaires d'Arsène Lupin - Tome 3 (Omnibus) | Maurice Leblanc | Français | 978-2-258-09388-1 | Possédé | Pas Lu | Antony | |
 | Le garçon qui ne parlait pas | Donna Leon | Français (tr.) | 978-2-7578-5686-4 | Possédé | Lu | Cartons (Avignon) | |
-| The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
-| The Wall of Storms | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
-| The Veiled Throne | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
-| Speaking Bones | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
+| Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
+| Dandelion Dynasty 2 - The Wall of Storms | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
+| Dandelion Dynasty 3 - The Veiled Throne | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
+| Dandelion Dynasty 4 - Speaking Bones | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Le goéland | Jonathan Livingston | Français (tr.) | 2-08-161714-5 | Possédé | Lu | Antony | |
 | Martin Eden | Jack London | Français (tr.) | 978-2-07-079398-3 | Possédé | Pas Lu | Antony | |
 | Croc-Blanc | Jack London | Français (tr.) | 978-2-01-322574-8 | Possédé | Lu | Antony | |
@@ -202,10 +202,10 @@
 | La femme du boulanger | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
 | Le schpountz | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
 | Robin des bois | Suzanne Pairault | Français | 2-01-001764-1 | Possédé | Lu | Antony | |
-| Eragon | Christopher Paolini | Français (tr.) | 978-2-7470-3334-3 | Possédé | Lu | Antony | |
-| L'Aîné | Christopher Paolini | Français (tr.) | 978-2-7470-2119-7 | Possédé | Lu | Antony | |
-| Brisingr | Christopher Paolini | Français (tr.) | 978-2-7470-2961-2 | Possédé | Lu | Antony | |
-| L'héritage | Christopher Paolini | Français (tr.) | 978-2-7470-2855-4 | Possédé | Lu | Antony | |
+| Inherithance cycle 1 - Eragon | Christopher Paolini | Français (tr.) | 978-2-7470-3334-3 | Possédé | Lu | Antony | |
+| Inherithance cycle 2 - L'Aîné | Christopher Paolini | Français (tr.) | 978-2-7470-2119-7 | Possédé | Lu | Antony | |
+| Inherithance cycle 3 - Brisingr | Christopher Paolini | Français (tr.) | 978-2-7470-2961-2 | Possédé | Lu | Antony | |
+| Inherithance cycle 4 - L'héritage | Christopher Paolini | Français (tr.) | 978-2-7470-2855-4 | Possédé | Lu | Antony | |
 | De l'esprit géométrique | Blaise Pascal | Français | | Possédé | Pas Lu | Antony | |
 | Pensées sur la justice - Trois Discours sur la condition des grands | Pascal | Français | 978-2-0812-4981-3 | Possédé | Lu | Antony |
 | Les contes de Perrault| Charles Perrault | Français | 978-2-36315-137-7 | Possédé | Lu | Ebook | |
@@ -217,9 +217,9 @@
 | Le cancre | Jacques Prévert | Français | 2-07-039219-8 | Possédé | Lu | Antony | |
 | L'opéra de la lune | Jacques Prévert | Français | 2-07-050635-5 | Possédé | Lu | Antony | |
 | Manon Lescaut | Prévost | Français | 978-2-0812-7904-9 | Possédé | Pas Lu | Antony | |
-| A la croisée des mondes - Les royaumes du nord | Philip Pullman | Français (tr.) | 978-2-07-050997-4 | Possédé | Lu | Antony | |
-| A la croisée des mondes - La tour des anges | Philip Pullman | Français (tr.) | 978-2-07-050988-5 | Possédé | Lu | Antony | |
-| A la croisée des mondes - Le miroir d'ambre | Philip Pullman | Français (tr.) | 978-2-07-054360-9 | Possédé | Lu | Antony | |
+| A la croisée des mondes 1 - Les royaumes du nord | Philip Pullman | Français (tr.) | 978-2-07-050997-4 | Possédé | Lu | Antony | |
+| A la croisée des mondes 2 - La tour des anges | Philip Pullman | Français (tr.) | 978-2-07-050988-5 | Possédé | Lu | Antony | |
+| A la croisée des mondes 3 - Le miroir d'ambre | Philip Pullman | Français (tr.) | 978-2-07-054360-9 | Possédé | Lu | Antony | |
 | Exercices de style | Raymond Queneau | Français | 2-07-037363-0 | Possédé | Lu | Antony | |
 | Andromaque | Racine | Français | 978-2-01-169120-0 | Possédé | Lu | Antony | |
 | Percy jackson 1 - Le voleur de foudre | Rick Riordan | Français (tr.) | | Non | Lu | | |
@@ -232,20 +232,20 @@
 | Héros de l'Olympe 3 - La marque d'Athéna | Rick Riordan | Français (tr.) | | Non | Lu | | |
 | Héros de l'Olympe 4 - La maison d'Hadès | Rick Riordan | Français (tr.) | | Non | Lu | | |
 | Héros de l'Olympe 5 - Le sang de l'Olympe | Rick Riordan | Français (tr.) | | Non | Lu | | |
-| L'oeil du Dragon - Vulcain | Mark Robson | Français (tr.) | 978-2-266-21337-0 | Non | Lu | | |
-| L'oeil du Dragon - Souffle d'Ombre | Mark Robson | Français (tr.) | 978-2-266-19149-4 | Possédé | Lu | Antony | |
-| L'oeil du Dragon - Dent de Sabre | Mark Robson | Français (tr.) | 978-2-266-19150-0 | Possédé | Lu | Antony | |
-| L'oeil du Dragon - Aurore | Mark Robson | Français (tr.) | 978-2-266-19151-7 | Possédé | Lu | Antony | |
+| L'oeil du Dragon 1 - Vulcain | Mark Robson | Français (tr.) | 978-2-266-21337-0 | Non | Lu | | |
+| L'oeil du Dragon 2 - Souffle d'Ombre | Mark Robson | Français (tr.) | 978-2-266-19149-4 | Possédé | Lu | Antony | |
+| L'oeil du Dragon 3 - Dent de Sabre | Mark Robson | Français (tr.) | 978-2-266-19150-0 | Possédé | Lu | Antony | |
+| L'oeil du Dragon 4 - Aurore | Mark Robson | Français (tr.) | 978-2-266-19151-7 | Possédé | Lu | Antony | |
 | Premier de cordée | Frison Roche | Français | 2-277-11936-9 | Possédé | Pas Lu | Antony |
 | La guerre du feu | J.H. Rosny Aîné | Français | 978-2-01-322595-3 | Possédé | Lu | Antony | |
 | Le félin géant | J.H. Rosny Aîné | Français | 2-253-03324-3 | Possédé | Lu | Antony | |
-| Harry Potter à l'école des sorciers | J. K. Rowling | Français (tr.) | | Non | Lu | | |
-| Harry Potter et la chambre des secrets | J. K. Rowling | Français (tr.) | | Non | Lu | | |
-| Harry Potter et le prisonnier d'Azkaban | J. K. Rowling | Français (tr.) | | Non | Lu | | |
-| Harry Potter et la coupe de feu | J. K. Rowling | Français (tr.) | | Non | Lu | | |
-| Harry Potter et l'ordre du phénix | J. K. Rowling | Français (tr.) | | Non | Lu | | |
-| Harry Potter et le prince de sang-mêlé | J. K. Rowling | Français (tr.) | | Non | Lu | | |
-| Harry Potter et les reliques de la mort | J. K. Rowling | Français (tr.) | | Non | Lu | | |
+| Harry Potter (1) à l'école des sorciers | J. K. Rowling | Français (tr.) | | Non | Lu | | |
+| Harry Potter (2) et la chambre des secrets | J. K. Rowling | Français (tr.) | | Non | Lu | | |
+| Harry Potter (3) et le prisonnier d'Azkaban | J. K. Rowling | Français (tr.) | | Non | Lu | | |
+| Harry Potter (4) et la coupe de feu | J. K. Rowling | Français (tr.) | | Non | Lu | | |
+| Harry Potter (5) et l'ordre du phénix | J. K. Rowling | Français (tr.) | | Non | Lu | | |
+| Harry Potter (6) et le prince de sang-mêlé | J. K. Rowling | Français (tr.) | | Non | Lu | | |
+| Harry Potter (7) et les reliques de la mort | J. K. Rowling | Français (tr.) | | Non | Lu | | |
 | jacquou le croquant | Eugène Le Roy | Français | 2-07-033519-4 | Possédé | Pas Lu | Antony | |
 | Bonjour tristesse | Françoise Sagan | Français | 978-2-266-19558-4 | Possédé | Lu | Antony | |
 | Strom l'intégrale | Emmanuelle et Benoît de Saint-Chamas | Français | | Non | Lu | | Le collectionneur, Les portails d'outre temps, la 37eme prophétie |
@@ -256,16 +256,18 @@
 | Elantris | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Lu | Ebook |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | Lu | Ebook | Recueil |
-| Stormlight Archives - Way of kings | Brandon Sanderson | English | 978-1-4299-9280-0 | Possédé | Lu | Ebook | |
-| Stormlight Archives - Words of radiance | Brandon Sanderson | English | 978-1-4299-4962-0 | Possédé | Lu | Ebook | |
-| Stormlight Archives - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Possédé | Lu | Ebook | |
-| Stormlight Archives - Dawnshard | Brandon Sanderson | English | 978-1-938570-26-1 | Possédé | Lu | Ebook | |
-| Stormlight Archives - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Possédé | Lu | Ebook | |
-| Mistborn - The Final Empire | Brandon Sanderson | English | | Non | Lu | | |
-| Mistborn - The Well of Ascension | Brandon Sanderson | English | | Non | Lu | | |
-| Mistborn - The Hero of Ages | Brandon Sanderson | English | | Non | Lu | | |
-| Mistborn - The Wax and Wayne Series | Brandon Sanderson | English | 978-1-250-29349-7 | Possédé | Lu | Ebook | The Alloy of Law, Shadows of Self, The Bands of Mourning |
-| Mistborn - The Lost Metal | Brandon Sanderson | English | 978-1-473-21529-0 | Possédé | Lu | Ebook | |
+| Stormlight Archives 1 - Way of kings | Brandon Sanderson | English | 978-1-4299-9280-0 | Possédé | Lu | Ebook | |
+| Stormlight Archives 2 - Words of radiance | Brandon Sanderson | English | 978-1-4299-4962-0 | Possédé | Lu | Ebook | |
+| Stormlight Archives 3 - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Possédé | Lu | Ebook | |
+| Stormlight Archives 3.5 - Dawnshard | Brandon Sanderson | English | 978-1-938570-26-1 | Possédé | Lu | Ebook | |
+| Stormlight Archives 4 - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Possédé | Lu | Ebook | |
+| Mistborn 1-1 - The Final Empire | Brandon Sanderson | English | | Non | Lu | | |
+| Mistborn 1-2 - The Well of Ascension | Brandon Sanderson | English | | Non | Lu | | |
+| Mistborn 1-3 - The Hero of Ages | Brandon Sanderson | English | | Non | Lu | | |
+| Mistborn 2-1 - The Alloy of Law | Brandon Sanderson | English | 978-1-250-29349-7 | Possédé | Lu | Ebook | |
+| Mistborn 2-2 - Shadows of Self | Brandon Sanderson | English | 978-1-250-29349-7 | Possédé | Lu | Ebook | |
+| Mistborn 2-3 - The Bands of Mourning | Brandon Sanderson | English | 978-1-250-29349-7 | Possédé | Lu | Ebook | |
+| Mistborn 2-4 - The Lost Metal | Brandon Sanderson | English | 978-1-473-21529-0 | Possédé | Lu | Ebook | |
 | Tress of the emerald sea | Brandon Sanderson | English | 978-1-938570-34-6 | Possédé | Lu | Ebook | |
 | Contes et légendes - La naissance de Rome | François Sautereau | Français | 978-2-09-253197-6 | Possédé | Lu | Antony | |
 | Quentin Durward | Walter Scott | Français (tr.) | | Possédé | Pas Lu | Antony | |
@@ -279,16 +281,16 @@
 | Les six compagnons et la radio libre | Olivier Séchan | Français | 2-01-209358-2 | Possédé | Lu | Antony | |
 | Mystères et faits divers à Rome | Nathalie Sémenuik | Français | 978-2-0123-0344-7 | Possédé | Lu | Antony | Livres d'enquetes / jeux |
 | Inconnu à cette adresse | Kressmann Taylor | Français (tr.) | 2-253-10826-9 | Non | Lu | |
-| Nous sommes Bob - 1.Nous sommes legions | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
-| Nous sommes Bob - 2.Nous sommes nombreux | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
-| Nous sommes Bob - 3.Tous ces mondes | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
+| Nous sommes Bob 1 - Nous sommes legions | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
+| Nous sommes Bob 2 - Nous sommes nombreux | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
+| Nous sommes Bob 3 - Tous ces mondes | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
 | Le jeu de la dame | Walter Tevis | Français (tr.) | 978-2-35178-776-2 | Possédé | Lu | Cartons (Avignon) | |
 | The Hobbit | J.R.R. Tolkien | English | 978-0-007-48731-8 | Possédé | Lu | Ebook | |
 | The Lord Of The Rings | J.R.R. Tolkien | English | 978-0-007-32259-6 | Possédé | Lu | Ebook | |
 | The Hobbit | J.R.R. Tolkien | English | 978-0-261-10334-4 | Possédé | Lu | Cartons (Avignon) | |
-| The Fellowship Of The Ring | J.R.R. Tolkien | English | 978-0-261-10235-4 | Possédé | Lu | Cartons (Avignon) | |
-| The Two Towers | J.R.R. Tolkien | English | 978-0-261-10236-1 | Possédé | Lu | Cartons (Avignon) | |
-| The Return Of The King | J.R.R. Tolkien | English | 978-0-261-10237-8 | Possédé | Lu | Cartons (Avignon) | |
+| The Lord Of The Rings 1 - The Fellowship Of The Ring | J.R.R. Tolkien | English | 978-0-261-10235-4 | Possédé | Lu | Cartons (Avignon) | |
+| The Lord Of The Rings 2 - The Two Towers | J.R.R. Tolkien | English | 978-0-261-10236-1 | Possédé | Lu | Cartons (Avignon) | |
+| The Lord of The Rings 3 - The Return Of The King | J.R.R. Tolkien | English | 978-0-261-10237-8 | Possédé | Lu | Cartons (Avignon) | |
 | The Silmarillion | J.R.R. Tolkien | English | 978-0-261-10273-6 | Possédé | Pas Lu | Cartons (Avignon) | |
 | Unfinished Tales | J.R.R. Tolkien | English | 978-0-261-10362-7 | Possédé | Pas Lu | Cartons (Avignon) | |
 | Les enfants de Hurin | J.R.R. Tolkien | Français (tr.) | 978-2-298-01256-3 | Possédé | Pas Lu | Cartons (Avignon) | Jolie édition illustrée |
