@@ -50,7 +50,10 @@ class Book:
 
     def __lt__(self, other):
         if self.author_lastname == other.author_lastname:
-            return no_accents_lower(self.title) < no_accents_lower(other.title)
+            if no_accents_lower(self.author) == no_accents_lower(other.author):
+                return no_accents_lower(self.title) < no_accents_lower(other.title)
+            else:
+                return no_accents_lower(self.author) < no_accents_lower(other.author)
         elif self.author_lastname == '':
             return False
         else:

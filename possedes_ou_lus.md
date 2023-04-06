@@ -55,24 +55,24 @@
 | Hunger Games 3 - La Révolte | Suzanne Collins | Français (tr.) | | Non | Lu | | |
 | Pinocchio | Carlo Collodi | Français (tr.) | 978-2-01-321286-1 | Possédé | Lu | Antony | |
 | 25 métamorphoses d'Ovide | Annie Collognat | Français | 978-2-01-000906-8 | Possédé | Lu | Antony | |
+| La ceinture empoisonnée | Sir Arthur Conan-Doyle | Français (tr.) | 2-253-02563-1 | Possédé | Pas Lu | Antony | |
+| Le monde perdu | Sir Arthur Conan-Doyle | Français (tr.) | 2-01-019693-7 | Possédé | Pas Lu | Antony | |
+| Sherlock Holmes - The complete novels and stories - Volume one | Sir Arthur Conan-Doyle | English | 978-1-9848-9953-8 | Possédé | | Cartons (Avignon) | Recueil |
+| Sherlock Holmes - The complete novels and stories - Volume two | Sir Arthur Conan-Doyle | English | 978-1-9848-9954-5 | Possédé | | Cartons (Avignon) | Recueil |
 | Contes des indiens du Chiapas | Baptiste Condominas | Français | 978-2-7427-8205-5 | Possédé | Lu | Antony | |
 | Histoire populaire des sciences | Clifford D. Conner | Français (tr.) | 978-2-7578-3679-8 | Possédé | Pas Lu | Cartons (Avignon) | |
 | Au coeur des ténèbres | Conrad | Français (tr.) | 978-2-0813-9745-3 | Possédé | Lu | Antony | |
 | Comment dresser votre dragon | Cressida Cowell | Français (tr.) | 978-2-203-03261-3 | Possédé | Lu | Antony | |
 | Cannibale | Didier Daeninckx | Français | | Non | Lu | | |
 | Le labyrinthe - L'épreuve | James Dashner | Français (tr.) | 978-2-266-20012-7 | Possédé | Lu | Antony (vente) | |
-| Contes et récits - de Paris | Stéphane Descornes & Michaël Sterckeman | Français | 209282083-4 | Possédé | Lu | Antony | |
 | Contes et récits - Pirates, Corsaires et flibustiers | Stéphane Descornes & Hugues Micol | Français | 2-09-282612-3 | Possédé | Lu | Antony | |
+| Contes et récits - de Paris | Stéphane Descornes & Michaël Sterckeman | Français | 209282083-4 | Possédé | Lu | Antony | |
 | Blade Runner | Philip K. Dick | Français (tr.) | | Non | Lu | | |
 | Philip K. Dick - Nouvelles completes I (1947-1953) | Philip K. Dick | Français (tr.) | 978-2-07-285870-3 | Possédé | | Cartons (Avignon) | Recueil |
 | Philip K. Dick - Nouvelles completes II (1954-1981) | Philip K. Dick | Français (tr.) | 978-2-07-285873-4 | Possédé | | Cartons (Avignon) | Recueil |
 | Le Sorgho rouge | Ya Ding | Français | 2-01-018282-0 | Possédé | Lu | Antony | |
 | Les chroniques de Spiderwick - L'integrale | Tony Diterlizzi & Holly Black | Français (tr.) | 978-2-266-18201-0 | Possédé | Lu | Antony | |
-| La ceinture empoisonnée | Sir Arthur Conan Doyle | Français (tr.) | 2-253-02563-1 | Possédé | Pas Lu | Antony | |
-| Le monde perdu | Sir Arthur Conan Doyle | Français (tr.) | 2-01-019693-7 | Possédé | Pas Lu | Antony | |
 | Les pollueurs font tache d'huile | Brian Doyle | Français (tr.) | 2-7427-1401-4 | Possédé | Lu | Antony | |
-| Sherlock Holmes - The complete novels and stories - Volume one | Sir Arthur Conan Doyle | English | 978-1-9848-9953-8 | Possédé | | Cartons (Avignon) | Recueil |
-| Sherlock Holmes - The complete novels and stories - Volume two | Sir Arthur Conan Doyle | English | 978-1-9848-9954-5 | Possédé | | Cartons (Avignon) | Recueil |
 | Tistou les pouces verts | Maurice Druon | Français | 2-01-0104153-3 | Possédé | Lu | Antony | |
 | Ange Pitou | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 2 livres, Belle collection Auteur |
 | Joseph Balsamo | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 4 livres, Belle collection Auteur |
@@ -103,9 +103,9 @@
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Pas Lu | Cork | |
 | Irish myths and legends 2 - Cuchulain and the Red Branch of Ulster | Lady Augusta Gregory | English | 978-1-84840-887-6 | Possédé | Pas Lu | Cork | |
-| Contes et légendes - Les douze travaux d'hercule | Christian Grenier & Philippe Caron | Français | 2-09-282318-3 | Possédé | Lu | Antony | |
 | L'ordinatueur | Christian Grenier | Français | | Non | Lu | | |
 | La machination | Christian Grenier | Français | 2-253-02765-0 | Possédé | Lu | Antony | |
+| Contes et légendes - Les douze travaux d'hercule | Christian Grenier & Philippe Caron | Français | 2-09-282318-3 | Possédé | Lu | Antony | |
 | Les contes de Grimm | Jacob et Wilhelm Grimm | Français | 978-2-36315-136-0 | Possédé | Lu | Ebook | |
 | Le château des enfants volés | Maria Gripe | Français (tr.) | 2-253-02698-0 | Possédé | Pas Lu | Antony | |
 | La guerre des Livres | Alain Grousset | Français | 978-2-07-061882-8 | Possédé | Lu | Antony | |
@@ -115,15 +115,15 @@
 | Ciel - L'hiver des machines | Johan Heliot | Français | 978-2-35488-238-9 | Possédé | Lu | Antony (vente) | |
 | Le Vieil Homme et la Mer | Ernest Hemingway | Français (tr.) | | Non | Lu | | |
 | Pour qui sonne le glas | Ernest Hemingway | Français (tr.) | | Possédé | Pas Lu | Antony | |
+| Dune Les origines - 1. La Communauté des Soeurs | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-25239-3 | Possédé | Pas Lu | Cartons (Avignon) | |
+| Dune Les origines - 2. Les Mentats de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-26727-4 | Possédé | Pas Lu | Cartons (Avignon) | |
+| Dune Les origines - 3. Les Navigateurs de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-32129-7 | Possédé | Pas Lu | Cartons (Avignon) | |
 | Dune 1 - Dune | Frank Herbert | English | 978-0-340-96019-6 | Possédé | Lu | Cartons (Avignon) | |
 | Dune 2 - Dune Messiah | Frank Herbert | English | 978-0-593-09823-3 | Possédé | Lu | Cartons (Avignon) | |
 | Dune 3 - Children of Dune | Frank Herbert | English | 978-0-593-09824-0 | Possédé | Lu | Cartons (Avignon) | |
 | Dune 4 - God emperor of Dune | Frank Herbert | English | 978-0-593-09825-7 | Possédé | Lu | Cartons (Avignon) | |
 | Dune 5 - Heretics of Dune | Frank Herbert | English | 978-0-593-09826-4 | Possédé | Lu | Cartons (Avignon) | |
 | Dune 6 - Chapterhouse : Dune | Frank Herbert | English | 978-0-593-09827-1 | Possédé | Lu | Cartons (Avignon) | |
-| Dune Les origines - 1. La Communauté des Soeurs | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-25239-3 | Possédé | Pas Lu | Cartons (Avignon) | |
-| Dune Les origines - 2. Les Mentats de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-26727-4 | Possédé | Pas Lu | Cartons (Avignon) | |
-| Dune Les origines - 3. Les Navigateurs de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-32129-7 | Possédé | Pas Lu | Cartons (Avignon) | |
 | Le perroquet qui bégayait | Alfred Hitchcock | Français (tr.) | 2-253-02766-9 | Possédé | Lu | Antony | |
 | L'Odyssée | Homère | Français (tr.) | 978-2-7071-9439-8 | Possédé | Lu | Antony | |
 | Les contemplations | Victor Hugo | Français | | Non | Lu | | |
@@ -280,10 +280,10 @@
 | Dracula | Bram Stoker | Français (tr.) | | Non | Lu | | |
 | Les six compagnons et la radio libre | Olivier Séchan | Français | 2-01-209358-2 | Possédé | Lu | Antony | |
 | Mystères et faits divers à Rome | Nathalie Sémenuik | Français | 978-2-0123-0344-7 | Possédé | Lu | Antony | Livres d'enquetes / jeux |
-| Inconnu à cette adresse | Kressmann Taylor | Français (tr.) | 2-253-10826-9 | Non | Lu | | |
 | Nous sommes Bob 1 - Nous sommes legions | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
 | Nous sommes Bob 2 - Nous sommes nombreux | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
 | Nous sommes Bob 3 - Tous ces mondes | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
+| Inconnu à cette adresse | Kressmann Taylor | Français (tr.) | 2-253-10826-9 | Non | Lu | | |
 | Le jeu de la dame | Walter Tevis | Français (tr.) | 978-2-35178-776-2 | Possédé | Lu | Cartons (Avignon) | |
 | Les enfants de Hurin | J.R.R. Tolkien | Français (tr.) | 978-2-298-01256-3 | Possédé | Pas Lu | Cartons (Avignon) | Jolie édition illustrée |
 | The Hobbit | J.R.R. Tolkien | English | 978-0-007-48731-8 | Possédé | Lu | Ebook | |
