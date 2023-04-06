@@ -207,7 +207,7 @@
 | Inherithance cycle 3 - Brisingr | Christopher Paolini | Français (tr.) | 978-2-7470-2961-2 | Possédé | Lu | Antony | |
 | Inherithance cycle 4 - L'héritage | Christopher Paolini | Français (tr.) | 978-2-7470-2855-4 | Possédé | Lu | Antony | |
 | De l'esprit géométrique | Blaise Pascal | Français | | Possédé | Pas Lu | Antony | |
-| Pensées sur la justice - Trois Discours sur la condition des grands | Pascal | Français | 978-2-0812-4981-3 | Possédé | Lu | Antony |
+| Pensées sur la justice - Trois Discours sur la condition des grands | Blaise Pascal | Français | 978-2-0812-4981-3 | Possédé | Lu | Antony | |
 | Les contes de Perrault| Charles Perrault | Français | 978-2-36315-137-7 | Possédé | Lu | Ebook | |
 | Contes et légendes de Bourgogne | G. Perron-Louis | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
 | Mamie Luger | Benoît Philippon | Français | 978-2-35204-946-3 | Possédé | Lu | Ebook | |
@@ -236,7 +236,7 @@
 | L'oeil du Dragon 2 - Souffle d'Ombre | Mark Robson | Français (tr.) | 978-2-266-19149-4 | Possédé | Lu | Antony | |
 | L'oeil du Dragon 3 - Dent de Sabre | Mark Robson | Français (tr.) | 978-2-266-19150-0 | Possédé | Lu | Antony | |
 | L'oeil du Dragon 4 - Aurore | Mark Robson | Français (tr.) | 978-2-266-19151-7 | Possédé | Lu | Antony | |
-| Premier de cordée | Frison Roche | Français | 2-277-11936-9 | Possédé | Pas Lu | Antony |
+| Premier de cordée | Frison Roche | Français | 2-277-11936-9 | Possédé | Pas Lu | Antony | |
 | La guerre du feu | J.H. Rosny Aîné | Français | 978-2-01-322595-3 | Possédé | Lu | Antony | |
 | Le félin géant | J.H. Rosny Aîné | Français | 2-253-03324-3 | Possédé | Lu | Antony | |
 | Harry Potter (1) à l'école des sorciers | J. K. Rowling | Français (tr.) | | Non | Lu | | |
@@ -253,7 +253,7 @@
 | Sea of Tranquility | Emily Saint-John-Mandel | English | 9780593321454 | Possédé | Pas Lu | Ebook | |
 | Le tour du Tour par 36 détours | François Salvaing | Français | 2-209-06301-9 | Possédé | Pas Lu | Antony | |
 | Alcatraz contre les infâmes bibliothécaires | Brandon Sanderson | Français (tr.) | | Non | Lu | | |
-| Elantris | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Lu | Ebook |
+| Elantris | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Lu | Ebook | |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | Lu | Ebook | Recueil |
 | Stormlight Archives 1 - Way of kings | Brandon Sanderson | English | 978-1-4299-9280-0 | Possédé | Lu | Ebook | |
@@ -280,7 +280,7 @@
 | Dracula | Bram Stoker | Français (tr.) | | Non | Lu | | |
 | Les six compagnons et la radio libre | Olivier Séchan | Français | 2-01-209358-2 | Possédé | Lu | Antony | |
 | Mystères et faits divers à Rome | Nathalie Sémenuik | Français | 978-2-0123-0344-7 | Possédé | Lu | Antony | Livres d'enquetes / jeux |
-| Inconnu à cette adresse | Kressmann Taylor | Français (tr.) | 2-253-10826-9 | Non | Lu | |
+| Inconnu à cette adresse | Kressmann Taylor | Français (tr.) | 2-253-10826-9 | Non | Lu | | |
 | Nous sommes Bob 1 - Nous sommes legions | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
 | Nous sommes Bob 2 - Nous sommes nombreux | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
 | Nous sommes Bob 3 - Tous ces mondes | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
