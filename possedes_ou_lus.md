@@ -1,8 +1,8 @@
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
-| - | - | - | - | - | - | - | - |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Le guide du voyageur galactique | Douglas Adams | Français (tr.) | 978-2-07-043743-6 | Possédé | Lu | Cartons (Avignon) | |
 | Les contes d'Andersen | Hans Christian Andersen | Français | 978-2-36315-139-1 | Possédé | Lu | Ebook | |
-| la fée et le géomètre | Jeain-Pierre Andrevon | Français | 2-203-13615-4 | Possédé | Pas Lu | Antony | |
+| La fée et le géomètre | Jean-Pierre Andrevon | Français | 2-203-13615-4 | Possédé | Pas Lu | Antony | |
 | Terminus Leipzig | Max Annas & Jérôme Leroy | Français | 978-2-7578-9471-2 | Possédé | Pas Lu | Antony | |
 | Antigone | Jean Anouilh | Français | | Non | Lu | | |
 | Enquête au collège | Jean-Philippe Arrou-Vignod | Français | 978-2-07-061284-0 | Possédé | Lu | Antony | |
