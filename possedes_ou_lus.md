@@ -89,7 +89,8 @@
 | Diego Martin 1 - Mala Vida | Marc Fernandez | Français | 978-2-253-08585-0 | Possédé | Lu | Cartons (Avignon) | |
 | Diego Martin 2 - Guérilla Social Club | Marc Fernandez | Français | 978-2-253-25804-9 | Possédé | Lu | Cartons (Avignon) | |
 | Le crépuscule et l'aube | Ken Follett | Français (tr.) | 978-2-221-15770-1 | Possédé | Pas Lu | Cartons (Avignon) | |
-| Tobie Lolness 1&2 | Timothée de Fombelle | Français | | Non | Lu | | |
+| Tobie Lolness 1 | Timothée de Fombelle | Français | | Non | Lu | | |
+| Tobie Lolness 2 | Timothée de Fombelle | Français | | Non | Lu | | |
 | Peloton maison | Paul Fournel | Français | 978-2-02-149943-8 | Possédé | Lu | Cartons (Avignon) | |
 | Journal | Anne Frank | Français (tr.) | 2-253-00127-9 | Possédé | Pas Lu | Antony | |
 | Dans le secret des nombres | Marianne Freiberger & Rachel Thomas | Français (tr.) | 978-2-10-078168-3 | Possédé | Lu | Cartons (Avignon) | |
