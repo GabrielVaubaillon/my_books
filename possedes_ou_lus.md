@@ -43,9 +43,9 @@
 | Alice au pays des merveilles | Lewis Carrol | Français (tr.) | | Non | Lu | | |
 | Le récit de Gilgamesh | Jacques Cassabois | Français | 978-2-218-93642-5 | Possédé | Lu | Antony | |
 | Don Quichotte (abrégé) | Cervantès | Français | 2-0139322247-5 | Possédé | Lu | Antony | |
-| (livre 1) Le Problème à trois corps | Liu Cixin | Français (tr.) | 978-2-330-11355-1 | Possédé | Lu | Cartons (Avignon) | |
-| (livre 2) La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Cartons (Avignon) | |
-| (livre 3) La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Cartons (Avignon) | |
+| TBP 1 - Le Problème à trois corps | Liu Cixin | Français (tr.) | 978-2-330-11355-1 | Possédé | Lu | Cartons (Avignon) | |
+| TBP 2 - La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Cartons (Avignon) | |
+| TBP 3 - La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Cartons (Avignon) | |
 | 2001 : L'odyssée de l'espace | Arthur C. Clarke | Français (tr.) | 978-2-290-30814-1 | Possédé | Lu | Cartons (Avignon) | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
 | Les prisoniers du marais | Linda Cline | Français (tr.) | 2-253-02571-2 | Possédé | Lu | Antony | |
@@ -85,9 +85,9 @@
 | Les lions de césar | Jean-Luc Déjean | Français | 978-2-01-322650-9 | Possédé | Lu | Antony | |
 | Flamme et l'Etalon Noir | Walter Farley | Français (tr.) | 2-01-00-1034-5 | Possédé | Lu | Antony | |
 | Le fils de l'Etalon noir | Walter Farley | Français (tr.) | | Possédé | Lu | Antony | |
-| Guérilla Social Club | Marc Fernandez | Français | 978-2-253-25804-9 | Possédé | Lu | Cartons (Avignon) | |
-| Mala Vida | Marc Fernandez | Français | 978-2-253-08585-0 | Possédé | Lu | Cartons (Avignon) | |
-| Tapas Nocturnes | Marc Fernandez | Français | 978-2-253-24171-3 | Possédé | Lu | Cartons (Avignon) | |
+| Diego Martin 0 - Tapas Nocturnes | Marc Fernandez | Français | 978-2-253-24171-3 | Possédé | Lu | Cartons (Avignon) | |
+| Diego Martin 1 - Mala Vida | Marc Fernandez | Français | 978-2-253-08585-0 | Possédé | Lu | Cartons (Avignon) | |
+| Diego Martin 2 - Guérilla Social Club | Marc Fernandez | Français | 978-2-253-25804-9 | Possédé | Lu | Cartons (Avignon) | |
 | Le crépuscule et l'aube | Ken Follett | Français (tr.) | 978-2-221-15770-1 | Possédé | Pas Lu | Cartons (Avignon) | |
 | Tobie Lolness 1&2 | Timothée de Fombelle | Français | | Non | Lu | | |
 | Peloton maison | Paul Fournel | Français | 978-2-02-149943-8 | Possédé | Lu | Cartons (Avignon) | |
