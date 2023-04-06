@@ -108,6 +108,6 @@ def list_from_md_file(file_in):
     # Without header :
     file_in.readline()
     file_in.readline()
-    for line in file_in.readlines():
+    for line in file_in.readlines()[:-1]:
         library.append(Book.from_md_line(line))
     return library

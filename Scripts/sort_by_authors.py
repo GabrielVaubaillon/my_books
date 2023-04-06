@@ -9,3 +9,4 @@ if __name__ == "__main__":
     print(dm.HEADER, end="")
     for book in library:
         print(book.to_str())
+    print()  # WHY !!?? why no empty line ? or is it ">" that get rid of the last empty line ?
