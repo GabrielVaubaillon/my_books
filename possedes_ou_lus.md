@@ -16,6 +16,7 @@
 | Les contes rouges du chat perché | Marcel Aymé | Français | 2-07-033098-2 | Possédé | Lu | Antony | |
 | La formation de l'esprit scientifique | Bachelard | Français | 978-2-7116-1150-8 | Possédé | Pas Lu | Antony | |
 | La vie selon Ove | Fredik Backman | Français (tr.) | 978-2-258-10999-5 | Possédé | Lu | Ebook | |
+| Legends & Lattes | Travis Baldree | English | 978-1-0350-0733-2 | Possédé | Lu | Ebook | |
 | L'histoire de Géronimo | Géronimo (S.M. Barett) | Français (tr.) | 2-253-03703-6 | Possédé | Pas Lu | Antony | |
 | Le grand secret | Barjavel | Français | | Non | Lu | | |
 | Gros Probleme | Dave Barry | Français (tr.) | 2-266-11957-5 | Possédé | Pas Lu | Cartons (Avignon) | |
@@ -136,6 +137,7 @@
 | L'aventure, l'Ennui, le Sérieux - chapitre 1 | Jankélévitch | Français | 978-2-0813-9744-6 | Possédé | Pas Lu | Antony | |
 | Un sac de bille | Joseph Joffo | Français | 2-253-02777-4 | Possédé | Pas Lu | Antony | |
 | Le vieux qui ne voulait pas fêter son anniversaire | Jonas Jonasson | Français (tr.) | 978-2-266-21852-8 | Possédé | Pas Lu | Antony | |
+| Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Pas Lu | Ebook | |
 | Du passé faisons table rase | Thierry Jonquet | Français | 978-2-07-030861-3 | Possédé | Pas Lu | Antony | |
 | Diabolic | S.J. Kincaid | Français (tr.) | | Non | Lu | | |
 | Le phoque blanc | Rudyard Kipling | Français (tr.) | 978-2-07-061559-9 | Possédé | Lu | Antony | |
