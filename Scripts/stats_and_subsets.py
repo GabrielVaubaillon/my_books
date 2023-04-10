@@ -10,6 +10,7 @@ def main(filename):
     d = {
         'possedes': [],
         'lus': [],
+        'pas_lus': [],
         'possedes_francais': [],
         'lus_francais': [],
         'possedes_english': [],
@@ -45,6 +46,8 @@ def main(filename):
             elif book.language.startswith("English"):
                 s_read_english += 1
                 d['lus_english'].append(book)
+        else:
+            d['pas_lus'].append(book)
 
         if book.owned == "Possédé":
             s_owned += 1

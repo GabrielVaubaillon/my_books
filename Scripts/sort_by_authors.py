@@ -1,7 +1,7 @@
 import argparse
-
 import data_management as dm
 from check_file import check_file
+
 
 def sort_library(file_in, file_out):
     with open(file_in, "r") as f:
@@ -22,10 +22,11 @@ if __name__ == "__main__":
     f_in = "../possedes_ou_lus.md"
     f_out = "../possedes_ou_lus.md"
 
-    check_file(f_in)
+    res = check_file(f_in)
 
-    sort_library(f_in, f_out)
-    print("file sorted")
+    if res == 0:
+        sort_library(f_in, f_out)
+        print("file sorted")
 
-    check_file(f_out)
+        check_file(f_out)
 

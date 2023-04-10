@@ -49,6 +49,7 @@ def check_file(filename, override_short=False):
         return return_value
 
     print(f"{filename} : file seems ok")
+    return 0
 
 
 if __name__ == "__main__":
