@@ -1,5 +1,13 @@
 liste_ebook sous liste
-Comprend 34 (10.33%)livres parmis les 329 au total
+Comprend 34 (10.33%) livres parmis les 329 au total
+
+Ebook
+-----
+  34 livres, 12.5% de la collection
+   - 28 (82.35%) livres lus
+   - 8 (23.53%) livres en français
+   - 26 (76.47%) livres en anglais
+
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Les contes d'Andersen | Hans Christian Andersen | Français | 978-2-36315-139-1 | Possédé | Lu | Ebook | |

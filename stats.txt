@@ -15,3 +15,35 @@ Total livres: 329
      - 55 (16.72%) en Anglais
      - 184 auteurs différents
 
+Ebook
+-----
+  34 livres, 12.5% de la collection
+   - 28 (82.35%) livres lus
+   - 8 (23.53%) livres en français
+   - 26 (76.47%) livres en anglais
+
+
+Antony
+------
+  160 livres, 58.82% de la collection
+   - 112 (70.0%) livres lus
+   - 160 (100.0%) livres en français
+   - 0 (0.0%) livres en anglais
+
+
+Avignon
+-------
+  74 livres, 27.21% de la collection
+   - 43 (58.11%) livres lus
+   - 54 (72.97%) livres en français
+   - 20 (27.03%) livres en anglais
+
+
+Cork
+----
+  3 livres, 1.1% de la collection
+   - 0 (0.0%) livres lus
+   - 0 (0.0%) livres en français
+   - 3 (100.0%) livres en anglais
+
+

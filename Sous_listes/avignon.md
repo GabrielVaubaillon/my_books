@@ -1,5 +1,13 @@
 avignon sous liste
-Comprend 74 (22.49%)livres parmis les 329 au total
+Comprend 74 (22.49%) livres parmis les 329 au total
+
+Avignon
+-------
+  74 livres, 27.21% de la collection
+   - 43 (58.11%) livres lus
+   - 54 (72.97%) livres en français
+   - 20 (27.03%) livres en anglais
+
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Le guide du voyageur galactique | Douglas Adams | Français (tr.) | 978-2-07-043743-6 | Possédé | Lu | Avignon (Cartons) | |

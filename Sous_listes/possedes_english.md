@@ -1,5 +1,5 @@
 possedes_english sous liste
-Comprend 50 (15.2%)livres parmis les 329 au total
+Comprend 50 (15.2%) livres parmis les 329 au total
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | The complete Robot | Isaac Asimov | English | 978-0-00-827781-9 | Possédé | Pas Lu | Avignon (Cartons) | Recueil |
