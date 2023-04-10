@@ -101,6 +101,7 @@ def main(filename):
 
     for k, l in d.items():
         with open(path+k+".md", "w") as f:
+            f.write(f"{k} sous liste\nComprend {len(l)} ({prct(len(l), s_total)})livres parmis les {s_total} au total\n")
             f.write(dm.HEADER)
             for book in l:
                 f.write(book.to_str())

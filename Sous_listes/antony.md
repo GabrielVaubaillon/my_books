@@ -1,3 +1,5 @@
+antony sous liste
+Comprend 160 (48.63%)livres parmis les 329 au total
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | La fée et le géomètre | Jean-Pierre Andrevon | Français | 2-203-13615-4 | Possédé | Pas Lu | Antony | |
