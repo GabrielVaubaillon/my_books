@@ -1,0 +1,17 @@
+-----------------------------------
+    Stats, sur tout mes livres
+-----------------------------------
+
+Total livres: 329
+     - 241 (73.25%) livres lus
+         - 201 (83.4%) lus en français
+         - 40 (16.6%) lus en anglais
+     - 88 (26.75%) non lus
+     - 272 (82.67%) livres possédé,
+         - dont 184 (67.65%) lus
+     - 57 (17.33%) lus, mais pas à moi
+     - 1 livres prêté(s)
+     - 274 (83.28%) en Français
+     - 55 (16.72%) en Anglais
+     - 184 auteurs différents
+
