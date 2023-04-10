@@ -1,12 +1,31 @@
-import data_management as dm
+import argparse
 
-if __name__ == "__main__":
-    filename = "../possedes_ou_lus.md"
-    with open(filename, "r") as f:
+import data_management as dm
+from check_file import check_file
+
+def sort_library(file_in, file_out):
+    with open(file_in, "r") as f:
         library = dm.list_from_md_file(f)
+
     library.sort()
 
-    print(dm.HEADER, end="")
+    string = dm.HEADER
     for book in library:
-        print(book.to_str())
-    print()  # WHY !!?? why no empty line ? or is it ">" that get rid of the last empty line ?
+        string += book.to_str() + "\n"
+
+    with open(file_out, "w") as f:
+        f.write(string)
+        f.write("\n") # Jcomprend pas ou passe la ligne vide a lafin a chaque fois
+
+
+if __name__ == "__main__":
+    f_in = "../possedes_ou_lus.md"
+    f_out = "../possedes_ou_lus.md"
+
+    check_file(f_in)
+
+    sort_library(f_in, f_out)
+    print("file sorted")
+
+    check_file(f_out)
+
