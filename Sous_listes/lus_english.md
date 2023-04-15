@@ -1,5 +1,5 @@
 lus_english sous liste
-Comprend 40 (12.16%) livres parmis les 329 au total
+Comprend 41 (12.42%) livres parmis les 330 au total
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Legends & Lattes | Travis Baldree | English | 978-1-0350-0733-2 | Possédé | Lu | Ebook | |
@@ -14,6 +14,7 @@ Comprend 40 (12.16%) livres parmis les 329 au total
 | Dune 4 - God emperor of Dune | Frank Herbert | English | 978-0-593-09825-7 | Possédé | Lu | Avignon (Cartons) | |
 | Dune 5 - Heretics of Dune | Frank Herbert | English | 978-0-593-09826-4 | Possédé | Lu | Avignon (Cartons) | |
 | Dune 6 - Chapterhouse : Dune | Frank Herbert | English | 978-0-593-09827-1 | Possédé | Lu | Avignon (Cartons) | |
+| Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
 | Solaris | Stanislaw Lem | English (tr.) | 978-0-15-602760-1 | Non | Lu | | |
 | Bartleby the scrivener | Herman Melville | English/Français | | Non | Lu | | |
 | Animal farm | George Orwell | English | 978-0-141-03613-7 | Possédé | Lu | Avignon (Cartons) | |

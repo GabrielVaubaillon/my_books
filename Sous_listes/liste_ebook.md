@@ -1,12 +1,12 @@
 liste_ebook sous liste
-Comprend 34 (10.33%) livres parmis les 329 au total
+Comprend 35 (10.61%) livres parmis les 330 au total
 
 Ebook
 -----
-  34 livres, 12.5% de la collection
-   - 28 (82.35%) livres lus
-   - 8 (23.53%) livres en français
-   - 26 (76.47%) livres en anglais
+  35 livres, 12.82% de la collection
+   - 29 (82.86%) livres lus
+   - 8 (22.86%) livres en français
+   - 27 (77.14%) livres en anglais
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,8 @@ Ebook
 | Les contes de Grimm | Jacob et Wilhelm Grimm | Français | 978-2-36315-136-0 | Possédé | Lu | Ebook | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
 | Comment braquer une banque sans perdre son dentier | Catharina Ingelman-Sundberg | Français (tr.) | 978-2-823-81023 | Possédé | Lu | Ebook | |
-| Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Pas Lu | Ebook | |
+| Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
+| The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Pas Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 2 - The Wall of Storms | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 3 - The Veiled Throne | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |

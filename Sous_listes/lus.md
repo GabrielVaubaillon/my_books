@@ -1,5 +1,5 @@
 lus sous liste
-Comprend 241 (73.25%) livres parmis les 329 au total
+Comprend 242 (73.33%) livres parmis les 330 au total
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Le guide du voyageur galactique | Douglas Adams | Français (tr.) | 978-2-07-043743-6 | Possédé | Lu | Avignon (Cartons) | |
@@ -97,6 +97,7 @@ Comprend 241 (73.25%) livres parmis les 329 au total
 | Le meilleur des mondes | Aldous Huxley | Français (tr.) | 978-2-266-28303-8 | Possédé | Lu | Avignon (Cartons) | |
 | Comment braquer une banque sans perdre son dentier | Catharina Ingelman-Sundberg | Français (tr.) | 978-2-823-81023 | Possédé | Lu | Ebook | |
 | L'attaque des titans (tome 1->22) | Hajime Isayama | Français (tr.) | | Non | Lu | | |
+| Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
 | Diabolic | S.J. Kincaid | Français (tr.) | | Non | Lu | | |
 | Le phoque blanc | Rudyard Kipling | Français (tr.) | 978-2-07-061559-9 | Possédé | Lu | Antony | |
 | Le gambit des étoiles | Gérard Klein | Français | 2-253-03879-2 | Possédé | Lu | Avignon (Cartons) | |

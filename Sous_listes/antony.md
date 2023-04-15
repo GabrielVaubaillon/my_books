@@ -1,9 +1,9 @@
 antony sous liste
-Comprend 160 (48.63%) livres parmis les 329 au total
+Comprend 160 (48.48%) livres parmis les 330 au total
 
 Antony
 ------
-  160 livres, 58.82% de la collection
+  160 livres, 58.61% de la collection
    - 112 (70.0%) livres lus
    - 160 (100.0%) livres en français
    - 0 (0.0%) livres en anglais
