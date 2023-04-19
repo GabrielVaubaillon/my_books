@@ -1,5 +1,5 @@
 lus_francais sous liste
-Comprend 201 (60.91%) livres parmis les 330 au total
+Comprend 202 (61.03%) livres parmis les 331 au total
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Le guide du voyageur galactique | Douglas Adams | Français (tr.) | 978-2-07-043743-6 | Possédé | Lu | Avignon (Cartons) | |
@@ -167,6 +167,7 @@ Comprend 201 (60.91%) livres parmis les 330 au total
 | Contes et légendes - La naissance de Rome | François Sautereau | Français | 978-2-09-253197-6 | Possédé | Lu | Antony | |
 | Le vieux qui lisait des romans d'amour | Luis Sepuvelda | Français (tr.) | 978-2-02-023930-2 | Possédé | Lu | Avignon (Cartons) | |
 | Frankenstein | Mary W. Shelley | Français (tr.) | | Non | Lu | | |
+| Maus | Art Spiegelman | Français (tr.) | | Non | Lu | | |
 | La Coupe d'Or | John Steinbeck | Français (tr.) | 2-07-038457-8 | Possédé | Lu | Antony | |
 | L'île au trésor | Robert Louis Stevenson | Français (tr.) | 2-253-00368-9 | Possédé | Lu | Avignon (Cartons) | |
 | Dracula | Bram Stoker | Français (tr.) | | Non | Lu | | |

@@ -279,6 +279,7 @@
 | Le vieux qui lisait des romans d'amour | Luis Sepuvelda | Français (tr.) | 978-2-02-023930-2 | Possédé | Lu | Avignon (Cartons) | |
 | Frankenstein | Mary W. Shelley | Français (tr.) | | Non | Lu | | |
 | Les terroristes | M. Sjöwall & P. Wahlöö | Français (tr.) | 978-2-7436-2057-8 | Possédé | Pas Lu | Avignon (Cartons) | |
+| Maus | Art Spiegelman | Français (tr.) | | Non | Lu | | |
 | La Coupe d'Or | John Steinbeck | Français (tr.) | 2-07-038457-8 | Possédé | Lu | Antony | |
 | Of mice and men | John Steinbeck | English | 979-10-358-1029-0 | Possédé | Lu | Avignon (Cartons) | edition apprendre l'anglais (depuis le français) |
 | L'île au trésor | Robert Louis Stevenson | Français (tr.) | 2-253-00368-9 | Possédé | Lu | Avignon (Cartons) | |

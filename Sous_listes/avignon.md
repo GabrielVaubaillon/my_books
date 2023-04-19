@@ -1,5 +1,5 @@
 avignon sous liste
-Comprend 74 (22.42%) livres parmis les 330 au total
+Comprend 74 (22.36%) livres parmis les 331 au total
 
 Avignon
 -------

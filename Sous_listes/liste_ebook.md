@@ -1,5 +1,5 @@
 liste_ebook sous liste
-Comprend 35 (10.61%) livres parmis les 330 au total
+Comprend 35 (10.57%) livres parmis les 331 au total
 
 Ebook
 -----

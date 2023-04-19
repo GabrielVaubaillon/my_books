@@ -1,5 +1,5 @@
 antony sous liste
-Comprend 160 (48.48%) livres parmis les 330 au total
+Comprend 160 (48.34%) livres parmis les 331 au total
 
 Antony
 ------
