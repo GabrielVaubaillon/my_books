@@ -189,7 +189,9 @@ def main(data_file_path, list_directory):
 
     with open(list_directory+"auteurs.md", "w") as f:
         f.write(f"{s_authors} Auteurs différents\n\n| Auteur | nb livres lus ou possédés |\n| --- | --- |\n")
-        for author, number in authors_tot.items():
+        list_ = list(authors_tot.items())
+        list_.sort(reverse=True, key=lambda e: e[1])
+        for (author, number) in list_:
             f.write(f"| {author} | {number} |\n")
 
 
