@@ -26,6 +26,11 @@ class Book:
         self.situation = situation
         self.notes = notes
 
+        if self.isbn:
+            self.pure_isbn = int(self.isbn.replace("-", "").replace(" ", "").replace("X", "0"))
+        else:
+            self.pure_isbn = 0
+
     @classmethod
     def from_md_line(cls, line):
         string = line[1:-2]
@@ -51,7 +56,10 @@ class Book:
     def __lt__(self, other):
         if self.author_lastname == other.author_lastname:
             if no_accents_lower(self.author) == no_accents_lower(other.author):
-                return no_accents_lower(self.title) < no_accents_lower(other.title)
+                if no_accents_lower(self.title) == no_accents_lower(other.title):
+                    return self.pure_isbn < other.pure_isbn
+                else:
+                    return no_accents_lower(self.title) < no_accents_lower(other.title)
             else:
                 return no_accents_lower(self.author) < no_accents_lower(other.author)
         elif self.author_lastname == '':

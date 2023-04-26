@@ -28,8 +28,8 @@ def check_file(filename, override_short=False):
     try:
         with open(filename, "r") as f:
             library = dm.list_from_md_file(f)
-    except:
-        print(f"Cannot charge the library, verify {filename} fromat")
+    except Exception as e:
+        print(f"{e}\n\nCannot charge the library, verify {filename} format")
         return 4
 
     for i,book in enumerate(library):
