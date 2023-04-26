@@ -53,5 +53,7 @@ def check_file(filename, override_short=False):
 
 
 if __name__ == "__main__":
-    file = "../possedes_ou_lus.md"
+    import os
+    script_dir = os.path.abspath(os.path.dirname(__file__))
+    file = os.path.join(script_dir, "../possedes_ou_lus.md")
     check_file(file)

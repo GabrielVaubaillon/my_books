@@ -3,6 +3,9 @@ import sys
 import os
 import argparse
 
+script_dir = os.path.abspath(os.path.dirname(__file__))
+file = os.path.join(script_dir, "../possedes_ou_lus.md")
+
 parser = argparse.ArgumentParser(
         prog='md_to_csv',
         description="Convert the md table to a csv stream")
@@ -12,7 +15,7 @@ parser.add_argument('-o', '--output-file',
                     default="stdout")
 parser.add_argument('-i','--input-file',
                     help="markdown table file, my_books/possedes_ou_lus.md by default",
-                    default="../possedes_ou_lus.md")
+                    default=file)
 
 args = parser.parse_args()
 

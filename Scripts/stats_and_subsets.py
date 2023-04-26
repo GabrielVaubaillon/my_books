@@ -1,3 +1,5 @@
+import os.path
+
 import data_management as dm
 from check_file import check_file
 
@@ -6,7 +8,7 @@ def prct(n, total):
     return f"{round((n*100)/total, 2)}%"
 
 
-def main(filename):
+def main(data_file_path, list_directory):
     d = {
         'possedes': [],
         'lus': [],
@@ -37,7 +39,7 @@ def main(filename):
     authors_owned = []
     authors_read = []
 
-    with open(filename, "r") as f:
+    with open(data_file_path, "r") as f:
         library = dm.list_from_md_file(f)
 
     for book in library:
@@ -160,7 +162,7 @@ def main(filename):
         f.write(full_string)
 
     for k, l in d.items():
-        with open(path+k+".md", "w") as f:
+        with open(list_directory+k+".md", "w") as f:
             f.write(f"## {k} \n - {len(l)} parmi les {s_total} ({prct(len(l), s_total)})\n\n")
             f.write(dm.HEADER)
             for book in l:
@@ -169,7 +171,7 @@ def main(filename):
             f.write("\n")
 
     for k, l in locations.items():
-        with open(path+k+".md", "w") as f:
+        with open(list_directory+k+".md", "w") as f:
             f.write(stat_loc[k])
             f.write("\n")
             f.write(dm.HEADER)
@@ -180,9 +182,12 @@ def main(filename):
 
 
 if __name__ == "__main__":
-    file = "../possedes_ou_lus.md"
-    path = "../Sous_listes/"
-    res = check_file(file)
+    script_dir = os.path.abspath(os.path.dirname(__file__))
+    file_path = os.path.join(script_dir, "../possedes_ou_lus.md")
+    list_path = os.path.join(script_dir, "../Sous_listes/")
+    if not os.path.isfile(file_path) or (not os.path.isdir(list_path)):
+        exit(1)
+    res = check_file(file_path)
     if res == 0:
-        main(file)
+        main(file_path, list_path)
         print("Done")

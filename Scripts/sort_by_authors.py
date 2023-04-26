@@ -19,8 +19,10 @@ def sort_library(file_in, file_out):
 
 
 if __name__ == "__main__":
-    f_in = "../possedes_ou_lus.md"
-    f_out = "../possedes_ou_lus.md"
+    import os
+    script_dir = os.path.abspath(os.path.dirname(__file__))
+    f_in = os.path.join(script_dir, "../possedes_ou_lus.md")
+    f_out = os.path.join(script_dir, "../possedes_ou_lus.md")
 
     res = check_file(f_in)
 
