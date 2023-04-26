@@ -28,7 +28,7 @@ rapide c'est d'utiliser la recherche dans la page (CTRL+F) pour chercher un titr
 Il est souvent plus simple de chercher par auteur d'abord.
 
 Si tu as plus d'info sur le livre que tu cherche, tu peux essayer de le trouver dans les listes réduites, elles sont
-situées dans le dossier.
+situées dans le dossier [Sous_listes](Sous_listes/README.md).
 
 ### Quels critères pour qu'un livre soit ici?
 
