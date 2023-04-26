@@ -61,7 +61,7 @@ répartie.
 - soit 88 non lus (32.23%)
 - 222 livres en français (81.32%)
 - 51 livres en anglais (18.68%)
-- 273 auteurs différents
+- 162 auteurs différents
 - 1 livres prêté(s)
 - Ebook
     - 35 livres (12.82% de la collection)
@@ -89,7 +89,7 @@ répartie.
 - 243 livres lus (73.41% du total)
 - 202 (83.13%) lus en français
 - 41 (16.87%) lus en anglais
-- 243 auteurs différents
+- 147 auteurs différents
 
 ### Total
 

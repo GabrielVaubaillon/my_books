@@ -52,7 +52,7 @@ def main(filename):
                 s_read_english += 1
                 d['lus_english'].append(book)
             if book.author not in authors_read:
-                authors_read.append(book)
+                authors_read.append(book.author)
         else:
             d['pas_lus'].append(book)
 
@@ -68,7 +68,7 @@ def main(filename):
                 d['possedes_english'].append(book)
                 s_owned_english += 1
             if book.author not in authors_owned:
-                authors_owned.append(book)
+                authors_owned.append(book.author)
 
         if book.situation.startswith("Prêté"):
             s_lent += 1
