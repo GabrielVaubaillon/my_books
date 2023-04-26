@@ -161,6 +161,10 @@ def main(data_file_path, list_directory):
     with open("../README.md", "w") as f:
         f.write(full_string)
 
+    for filename in os.listdir(list_directory):
+        if filename != "README.md":
+            os.remove(os.path.join(list_directory, filename))
+
     for k, l in d.items():
         with open(list_directory+k+".md", "w") as f:
             f.write(f"## {k} \n - {len(l)} parmi les {s_total} ({prct(len(l), s_total)})\n\n")
