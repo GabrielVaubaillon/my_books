@@ -5,7 +5,7 @@
     - Livres stockés à Cork: [cork](cork.md)
     - Livres en anglais: [possedes\_english](possedes_english.md)
     - Livres en français: [possedes\_francais](possedes_francais.md)
-- Les livres lus[lus](lus.md)
+- Les livres lus: [lus](lus.md)
     - Les livres que j'ai lu en anglais: [lus\_english](lus_english.md)
     - Les livres que j'ai lu en français: [lus\_francais](lus_francais.md)
 - Pas lu: [pas\_lus](pas_lus.md)
