@@ -38,7 +38,7 @@ situées dans le dossier (Sous_listes)[Sous_listes].
 - Important. La c'est hyper subjectif: je met les livres dont je veux me souvenir. Beaucoup de BD que j'ai lu ne
 sont pas présentes par exemple, certains tout petits livres non plus.
 
-### Pourquoi tu a fait ça?
+### Pourquoi tu fait ça?
 
 L'idée c'est juste de suivre ma collection. Ensuite de se souvenir de ce que j'ai lu ou pas. Ça peut servir à éviter de
 racheter involontairement un livre que j'ai déjà (ça m'empeche pas de le faire volontairement, cf. J.R.R. Tolkien).
