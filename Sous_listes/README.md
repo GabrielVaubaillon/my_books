@@ -9,3 +9,4 @@
     - Les livres que j'ai lu en anglais: [lus\_english](lus_english.md)
     - Les livres que j'ai lu en français: [lus\_francais](lus_francais.md)
 - Pas lu: [pas\_lus](pas_lus.md)
+- Liste des auteurs: [auteurs](auteurs.md)

@@ -36,7 +36,7 @@ def main(data_file_path, list_directory):
     s_lent = 0
     s_french = 0
     s_english = 0
-    authors_tot = []
+    authors_tot = {}
     authors_owned = []
     authors_read = []
 
@@ -81,8 +81,10 @@ def main(data_file_path, list_directory):
         elif book.language.startswith("English"):
             s_english += 1
 
-        if book.author not in authors_tot:
-            authors_tot.append(book.author)
+        if book.author not in authors_tot.keys():
+            authors_tot[book.author] = 1
+        else:
+            authors_tot[book.author] += 1
 
         if book.situation == "Ebook":
             locations['liste_ebook'].append(book)
@@ -93,7 +95,7 @@ def main(data_file_path, list_directory):
         elif book.situation.startswith("Avignon"):
             locations['avignon'].append(book)
 
-    s_authors = len(authors_tot)
+    s_authors = len(authors_tot.keys())
     s_read_authors = len(authors_read)
     s_owned_authors = len(authors_owned)
 
@@ -184,6 +186,11 @@ def main(data_file_path, list_directory):
                 f.write(book.to_str())
                 f.write("\n")
             f.write("\n")
+
+    with open(list_directory+"auteurs.md", "w") as f:
+        f.write(f"{s_authors} Auteurs différents\n\n| Auteur | nb livres lus ou possédés |\n| --- | --- |\n")
+        for author, number in authors_tot.items():
+            f.write(f"| {author} | {number} |\n")
 
 
 if __name__ == "__main__":
