@@ -147,9 +147,17 @@ def main(filename):
         stats[0] += l_stats
     stats = stats[0] + stats[1]
 
-    with open("../stats.md", "w") as f:
-        f.write(stats)
-        f.write("\n")
+    full_string = ""
+    with open("../README.md", "r") as f:
+        str_ = f.readline()
+        while str_ != "<!-- Everything after this line is auto-generated -->\n":
+            full_string += str_
+            str_ = f.readline()
+        full_string += str_
+    full_string += stats
+
+    with open("../README.md", "w") as f:
+        f.write(full_string)
 
     for k, l in d.items():
         with open(path+k+".md", "w") as f:
