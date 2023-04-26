@@ -41,7 +41,7 @@ sont pas présentes par exemple, certains tout petits livres non plus.
 ### Pourquoi tu a fait ça?
 
 L'idée c'est juste de suivre ma collection. Ensuite de se souvenir de ce que j'ai lu ou pas. Ça peut servir à éviter de
-racheter un livre que j'ai déjà involontairement (ça m'empeche pas de le faire volontairement, cf. J.R.R. Tolkien).
+racheter involontairement un livre que j'ai déjà (ça m'empeche pas de le faire volontairement, cf. J.R.R. Tolkien).
 
 C'est aussi juste une façon d'accumuler les données, si je veux en faire autre chose plus tard, j'ai déjà le matériaux
 de base. (exemples: enregistrer la liste, puis la donner à un site pour avoir des recommandations)
