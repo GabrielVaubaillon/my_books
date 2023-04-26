@@ -1,4 +1,5 @@
-import os.path
+#!/usr/bin/env python3
+import os
 
 import data_management as dm
 from check_file import check_file

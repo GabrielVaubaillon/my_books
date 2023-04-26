@@ -1,4 +1,4 @@
-import argparse
+#!/usr/bin/env python3
 import data_management as dm
 from check_file import check_file
 
