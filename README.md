@@ -32,7 +32,7 @@ situées dans le dossier.
 
 ### Quels critères pour qu'un livre soit ici?
 
-- Fiction (tu trouvera pas *Fundamental of Software Architecture* par Mark Richards et Neal Ford ici)
+- Fiction (tu trouvera pas *Fundamentals of Software Architecture* par Mark Richards et Neal Ford ici)
 - Possédé (à moi, je l'ai)
 - Lu après 2018 (beaucoup de ceux que j'ai lu avant sont là aussi, mais pas du tout exhaustif)
 - Important. La c'est hyper subjectif: je met les livres dont je veux me souvenir. Beaucoup de BD que j'ai lu ne
