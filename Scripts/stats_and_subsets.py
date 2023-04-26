@@ -17,7 +17,7 @@ def main(filename):
         'lus_english': [],
     }
     locations = {
-        'liste_ebook': [],  # Nom liste_ebbok pour conserver le lien envoyé à la famille
+        'liste_ebook': [],  # Nom liste_ebook pour conserver le lien envoyé à la famille
         'antony': [],
         'avignon': [],
         'cork': [],
@@ -26,13 +26,16 @@ def main(filename):
     s_read = 0
     s_read_french = 0
     s_read_english = 0
+    s_owned_french = 0
+    s_owned_english = 0
     s_owned = 0
     s_owned_read = 0
     s_lent = 0
     s_french = 0
     s_english = 0
-    s_authors = 0
-    authors = []
+    authors_tot = []
+    authors_owned = []
+    authors_read = []
 
     with open(filename, "r") as f:
         library = dm.list_from_md_file(f)
@@ -48,6 +51,8 @@ def main(filename):
             elif book.language.startswith("English"):
                 s_read_english += 1
                 d['lus_english'].append(book)
+            if book.author not in authors_read:
+                authors_read.append(book)
         else:
             d['pas_lus'].append(book)
 
@@ -58,8 +63,12 @@ def main(filename):
                 s_owned_read += 1
             if book.language.startswith("Français"):
                 d['possedes_francais'].append(book)
+                s_owned_french += 1
             elif book.language.startswith("English"):
                 d['possedes_english'].append(book)
+                s_owned_english += 1
+            if book.author not in authors_owned:
+                authors_owned.append(book)
 
         if book.situation.startswith("Prêté"):
             s_lent += 1
@@ -69,9 +78,8 @@ def main(filename):
         elif book.language.startswith("English"):
             s_english += 1
 
-        if book.author not in authors:
-            s_authors += 1
-            authors.append(book.author)
+        if book.author not in authors_tot:
+            authors_tot.append(book.author)
 
         if book.situation == "Ebook":
             locations['liste_ebook'].append(book)
@@ -82,20 +90,32 @@ def main(filename):
         elif book.situation.startswith("Avignon"):
             locations['avignon'].append(book)
 
-    stats = (f"-----------------------------------\n    Stats, sur tout mes livres\n-----------------------------------\n\n"
-             f"Total livres: {s_total}\n"
-             f"     - {s_read} ({prct(s_read, s_total)}) livres lus\n"
-             f"         - {s_read_french} ({prct(s_read_french, s_read)}) lus en français\n"
-             f"         - {s_read_english} ({prct(s_read_english, s_read)}) lus en anglais\n"
-             f"     - {s_total - s_read} ({prct(s_total - s_read, s_total)}) non lus\n"
-             f"     - {s_owned} ({prct(s_owned, s_total)}) livres possédé,\n"
-             f"         - dont {s_owned_read} ({prct(s_owned_read, s_owned)}) lus\n"
-             f"     - {s_total - s_owned} ({prct(s_total - s_owned, s_total)}) lus, mais pas à moi\n"
-             f"     - {s_lent} livres prêté(s)\n"
-             f"     - {s_french} ({prct(s_french, s_total)}) en Français\n"
-             f"     - {s_english} ({prct(s_english, s_total)}) en Anglais\n"
-             f"     - {s_authors} auteurs différents\n"
-             )
+    s_authors = len(authors_tot)
+    s_read_authors = len(authors_read)
+    s_owned_authors = len(authors_owned)
+
+    stats = [(f"## Stats\n"
+              f"\n### Ma collection\n\n"
+              f"- {s_owned} livres possédés ({prct(s_owned, s_total)} du total)\n"
+              f"- {s_owned_read} livres lus ({prct(s_owned_read, s_owned)})\n"
+              f"- soit {s_owned-s_owned_read} non lus ({prct(s_owned-s_owned_read, s_owned)})\n"
+              f"- {s_owned_french} livres en français ({prct(s_owned_french, s_owned)})\n"
+              f"- {s_owned_english} livres en anglais ({prct(s_owned_english, s_owned)})\n"
+              f"- {s_owned_authors} auteurs différents\n"
+              f"- {s_lent} livres prêté(s)\n"
+              ), (
+              f"\n### Mes Lus\n\n"
+              f"- {s_read} livres lus ({prct(s_read, s_total)} du total)\n"
+              f"- {s_read_french} ({prct(s_read_french, s_read)}) lus en français\n"
+              f"- {s_read_english} ({prct(s_read_english, s_read)}) lus en anglais\n"
+              f"- {s_read_authors} auteurs différents\n"
+              f"\n### Total\n\n"
+              f"- {s_total} livres\n"
+              f"- {s_french} ({prct(s_french, s_total)}) en Français\n"
+              f"- {s_english} ({prct(s_english, s_total)}) en Anglais\n"
+              f"- {s_authors} auteurs différents\n"
+              f"- {s_total - s_owned} ({prct(s_total - s_owned, s_total)}) hors collection, mais lus\n"
+             )]
 
     stat_loc = {}
     for k, l in locations.items():
@@ -117,23 +137,23 @@ def main(filename):
             elif book.language.startswith("English"):
                 l_english += 1
 
-        l_stats = (f"\n{loc_name}\n{'-'*len(loc_name)}\n"
-                   f"  {l_total} livres, {prct(l_total,s_owned)} de la collection\n"
-                   f"   - {l_read} ({prct(l_read, l_total)}) livres lus\n"
-                   f"   - {l_french} ({prct(l_french, l_total)}) livres en français\n"
-                   f"   - {l_english} ({prct(l_english, l_total)}) livres en anglais\n"
-                   f"\n"
+        l_stats = (f"- {loc_name}\n"
+                   f"    - {l_total} livres ({prct(l_total,s_owned)} de la collection)\n"
+                   f"    - {l_read} livres lus ({prct(l_read, l_total)})\n"
+                   f"    - {l_french} livres en français ({prct(l_french, l_total)})\n"
+                   f"    - {l_english} livres en anglais ({prct(l_english, l_total)})\n"
                    )
         stat_loc[k] = l_stats
-        stats += l_stats
+        stats[0] += l_stats
+    stats = stats[0] + stats[1]
 
-    with open("../stats.txt", "w") as f:
+    with open("../stats.md", "w") as f:
         f.write(stats)
         f.write("\n")
 
     for k, l in d.items():
         with open(path+k+".md", "w") as f:
-            f.write(f"{k} sous liste\nComprend {len(l)} ({prct(len(l), s_total)}) livres parmis les {s_total} au total\n")
+            f.write(f"## {k} \n - {len(l)} parmi les {s_total} ({prct(len(l), s_total)})\n\n")
             f.write(dm.HEADER)
             for book in l:
                 f.write(book.to_str())
@@ -142,8 +162,8 @@ def main(filename):
 
     for k, l in locations.items():
         with open(path+k+".md", "w") as f:
-            f.write(f"{k} sous liste\nComprend {len(l)} ({prct(len(l), s_total)}) livres parmis les {s_total} au total\n")
             f.write(stat_loc[k])
+            f.write("\n")
             f.write(dm.HEADER)
             for book in l:
                 f.write(book.to_str())

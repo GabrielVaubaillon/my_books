@@ -1,12 +1,8 @@
-avignon sous liste
-Comprend 74 (22.36%) livres parmis les 331 au total
-
-Avignon
--------
-  74 livres, 27.11% de la collection
-   - 43 (58.11%) livres lus
-   - 54 (72.97%) livres en français
-   - 20 (27.03%) livres en anglais
+- Avignon
+    - 74 livres (27.11% de la collection)
+    - 43 livres lus (58.11%)
+    - 54 livres en français (72.97%)
+    - 20 livres en anglais (27.03%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |

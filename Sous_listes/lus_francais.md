@@ -1,5 +1,6 @@
-lus_francais sous liste
-Comprend 202 (61.03%) livres parmis les 331 au total
+## lus_francais 
+ - 202 parmi les 331 (61.03%)
+
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Le guide du voyageur galactique | Douglas Adams | Français (tr.) | 978-2-07-043743-6 | Possédé | Lu | Avignon (Cartons) | |

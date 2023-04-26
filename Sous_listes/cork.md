@@ -1,12 +1,8 @@
-cork sous liste
-Comprend 3 (0.91%) livres parmis les 331 au total
-
-Cork
-----
-  3 livres, 1.1% de la collection
-   - 0 (0.0%) livres lus
-   - 0 (0.0%) livres en français
-   - 3 (100.0%) livres en anglais
+- Cork
+    - 3 livres (1.1% de la collection)
+    - 0 livres lus (0.0%)
+    - 0 livres en français (0.0%)
+    - 3 livres en anglais (100.0%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |

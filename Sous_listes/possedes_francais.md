@@ -1,5 +1,6 @@
-possedes_francais sous liste
-Comprend 222 (67.07%) livres parmis les 331 au total
+## possedes_francais 
+ - 222 parmi les 331 (67.07%)
+
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Le guide du voyageur galactique | Douglas Adams | Français (tr.) | 978-2-07-043743-6 | Possédé | Lu | Avignon (Cartons) | |

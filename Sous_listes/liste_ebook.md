@@ -1,12 +1,8 @@
-liste_ebook sous liste
-Comprend 35 (10.57%) livres parmis les 331 au total
-
-Ebook
------
-  35 livres, 12.82% de la collection
-   - 29 (82.86%) livres lus
-   - 8 (22.86%) livres en français
-   - 27 (77.14%) livres en anglais
+- Ebook
+    - 35 livres (12.82% de la collection)
+    - 29 livres lus (82.86%)
+    - 8 livres en français (22.86%)
+    - 27 livres en anglais (77.14%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |

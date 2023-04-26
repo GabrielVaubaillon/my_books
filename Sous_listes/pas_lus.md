@@ -1,5 +1,6 @@
-pas_lus sous liste
-Comprend 88 (26.59%) livres parmis les 331 au total
+## pas_lus 
+ - 88 parmi les 331 (26.59%)
+
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | La fée et le géomètre | Jean-Pierre Andrevon | Français | 2-203-13615-4 | Possédé | Pas Lu | Antony | |

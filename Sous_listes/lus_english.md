@@ -1,5 +1,6 @@
-lus_english sous liste
-Comprend 41 (12.39%) livres parmis les 331 au total
+## lus_english 
+ - 41 parmi les 331 (12.39%)
+
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Legends & Lattes | Travis Baldree | English | 978-1-0350-0733-2 | Possédé | Lu | Ebook | |
