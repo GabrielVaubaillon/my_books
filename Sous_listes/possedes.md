@@ -1,5 +1,5 @@
 ## possedes 
- - 273 parmi les 331 (82.48%)
+ - 275 parmi les 333 (82.58%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -42,6 +42,8 @@
 | La révolte de 10 x | Joan Davenport Carris | Français (tr.) | 2-08-161758-7 | Possédé | Lu | Antony | |
 | Le récit de Gilgamesh | Jacques Cassabois | Français | 978-2-218-93642-5 | Possédé | Lu | Antony | |
 | Don Quichotte (abrégé) | Cervantès | Français | 2-0139322247-5 | Possédé | Lu | Antony | |
+| And then there were None | Agatha Christie | English | 978-0-00-812320-8 | Possédé | Pas Lu | Cork | |
+| Murder on the Orient Express | Agatha Christie | English | 978-0-00-752750-2 | Possédé | Pas Lu | Cork | |
 | TBP 1 - Le Problème à trois corps | Liu Cixin | Français (tr.) | 978-2-330-11355-1 | Possédé | Lu | Avignon (Cartons) | |
 | TBP 2 - La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Avignon (Cartons) | |
 | TBP 3 - La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Avignon (Cartons) | |

@@ -1,4 +1,4 @@
-186 Auteurs différents
+187 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -32,6 +32,7 @@
 | Jules Verne | 3 |
 | Bazire-Talamon | 2 |
 | Ray Bradbury | 2 |
+| Agatha Christie | 2 |
 | Walter Farley | 2 |
 | Timothée de Fombelle | 2 |
 | Lady Augusta Gregory | 2 |
