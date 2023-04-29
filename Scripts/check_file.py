@@ -5,12 +5,15 @@ import data_management as dm
 
 def check_file(filename, override_short=False):
     return_value = 0
+    print(f"Open {filename}")
     with open(filename, "r") as f:
         lines = f.readlines()
+    print("Checking file not empty")
     if len(lines) < 4 and not override_short:
         print(f"FILE ({filename}) TOO SHORT, PROBLEM SOMEWHERE PLEASE CHECK")
         return 1
     lines = [line[:-1] for line in lines]  # Get rid of \n
+    print("Checking Empty line at the end of the file")
     if len(lines[-1]) > 0:
         print("No empty line at the end of the file")
         return 2
@@ -18,7 +21,7 @@ def check_file(filename, override_short=False):
 
     columns_pattern = re.compile(r"""^\|( [^|]*\|){8}$""")
 
-    # Check no trailing space and right number of columns
+    print("Checking  all lines have right number of columns")
     for i, line in enumerate(lines):
         if not (re.match(columns_pattern, line)):
             print(f"{i+1}: not right number of columns or wrong space pattern {line}")
@@ -26,6 +29,7 @@ def check_file(filename, override_short=False):
     if return_value != 0:
         return return_value
 
+    print("Checking books can be extracted from file")
     try:
         with open(filename, "r") as f:
             library = dm.list_from_md_file(f)
@@ -33,6 +37,7 @@ def check_file(filename, override_short=False):
         print(f"{e}\n\nCannot charge the library, verify {filename} format")
         return 4
 
+    print("Checking values seems correct in columns for each book")
     for i,book in enumerate(library):
         if book.owned not in ["Possédé", "Non"]:
             print(f"{i+3}: {book.title}, {book.author}: Invalid value Column Possédé: '{book.owned}'")
@@ -49,7 +54,7 @@ def check_file(filename, override_short=False):
     if return_value != 0:
         return return_value
 
-    print(f"{filename} : file seems ok")
+    print("File checked : no error found")
     return 0
 
 

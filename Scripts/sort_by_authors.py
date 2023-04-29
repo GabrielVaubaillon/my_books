@@ -4,18 +4,22 @@ from check_file import check_file
 
 
 def sort_library(file_in, file_out):
+    print(f"Loadings books from file ({file_in})")
     with open(file_in, "r") as f:
         library = dm.list_from_md_file(f)
 
+    print("Sorting books")
     library.sort()
 
     string = dm.HEADER
     for book in library:
         string += book.to_str() + "\n"
 
+    print(f"Writing books in file ({file_out})")
     with open(file_out, "w") as f:
         f.write(string)
-        f.write("\n") # Jcomprend pas ou passe la ligne vide a lafin a chaque fois
+        f.write("\n")
+    print("Sorting Done")
 
 
 if __name__ == "__main__":

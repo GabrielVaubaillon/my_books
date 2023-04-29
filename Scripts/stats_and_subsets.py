@@ -40,9 +40,11 @@ def main(data_file_path, list_directory, readme_path):
     authors_owned = []
     authors_read = []
 
+    print(f"Opening file {data_file_path}")
     with open(data_file_path, "r") as f:
         library = dm.list_from_md_file(f)
 
+    print("Iterating over all books, counting for stats and filling sublists")
     for book in library:
         s_total += 1
         if book.read == "Lu":
@@ -99,6 +101,7 @@ def main(data_file_path, list_directory, readme_path):
     s_read_authors = len(authors_read)
     s_owned_authors = len(authors_owned)
 
+    print("General stats done")
     stats = [(f"## Stats\n"
               f"\n### Ma collection\n\n"
               f"- {s_owned} livres possédés ({prct(s_owned, s_total)} du total)\n"
@@ -122,12 +125,14 @@ def main(data_file_path, list_directory, readme_path):
               f"- {s_total - s_owned} ({prct(s_total - s_owned, s_total)}) hors collection, mais lus\n"
              )]
 
+    print("Generating stats for specific locations:")
     stat_loc = {}
     for k, l in locations.items():
         if k == "liste_ebook":
             loc_name = "Ebook"
         else:
             loc_name = k.capitalize()
+        print(f"  - {loc_name}")
         l_total = 0
         l_read = 0
         l_french = 0
@@ -152,6 +157,7 @@ def main(data_file_path, list_directory, readme_path):
         stats[0] += l_stats
     stats = stats[0] + stats[1]
 
+    print(f"Saving start of README file ({readme_path})")
     full_string = ""
     with open(readme_path, "r") as f:
         str_ = f.readline()
@@ -161,13 +167,16 @@ def main(data_file_path, list_directory, readme_path):
         full_string += str_
     full_string += stats
 
+    print("Writing README with all stats at the end")
     with open(readme_path, "w") as f:
         f.write(full_string)
 
+    print(f"Cleaning Sous_listes/ directory ({list_directory})")
     for filename in os.listdir(list_directory):
         if filename != "README.md":
             os.remove(os.path.join(list_directory, filename))
 
+    print("Writing sublists (not specific locations)")
     for k, l in d.items():
         with open(list_directory+k+".md", "w") as f:
             f.write(f"## {k} \n - {len(l)} parmi les {s_total} ({prct(len(l), s_total)})\n\n")
@@ -177,6 +186,7 @@ def main(data_file_path, list_directory, readme_path):
                 f.write("\n")
             f.write("\n")
 
+    print("Writing location specific sublists")
     for k, l in locations.items():
         with open(list_directory+k+".md", "w") as f:
             f.write(stat_loc[k])
@@ -187,12 +197,14 @@ def main(data_file_path, list_directory, readme_path):
                 f.write("\n")
             f.write("\n")
 
+    print("Writing list of authors")
     with open(list_directory+"auteurs.md", "w") as f:
         f.write(f"{s_authors} Auteurs différents\n\n| Auteur | nb livres lus ou possédés |\n| --- | --- |\n")
         list_ = list(authors_tot.items())
         list_.sort(reverse=True, key=lambda e: e[1])
         for (author, number) in list_:
             f.write(f"| {author} | {number} |\n")
+    print("Stats and sublists Done")
 
 
 if __name__ == "__main__":
