@@ -9,7 +9,7 @@ def prct(n, total):
     return f"{round((n*100)/total, 2)}%"
 
 
-def main(data_file_path, list_directory):
+def main(data_file_path, list_directory, readme_path):
     d = {
         'possedes': [],
         'lus': [],
@@ -153,7 +153,7 @@ def main(data_file_path, list_directory):
     stats = stats[0] + stats[1]
 
     full_string = ""
-    with open("../README.md", "r") as f:
+    with open(readme_path, "r") as f:
         str_ = f.readline()
         while str_ != "<!-- Everything after this line is auto-generated -->\n":
             full_string += str_
@@ -161,7 +161,7 @@ def main(data_file_path, list_directory):
         full_string += str_
     full_string += stats
 
-    with open("../README.md", "w") as f:
+    with open(readme_path, "w") as f:
         f.write(full_string)
 
     for filename in os.listdir(list_directory):
@@ -199,9 +199,10 @@ if __name__ == "__main__":
     script_dir = os.path.abspath(os.path.dirname(__file__))
     file_path = os.path.join(script_dir, "../possedes_ou_lus.md")
     list_path = os.path.join(script_dir, "../Sous_listes/")
+    readme_path = os.path.join(script_dir, "../README.md")
     if not os.path.isfile(file_path) or (not os.path.isdir(list_path)):
         exit(1)
     res = check_file(file_path)
     if res == 0:
-        main(file_path, list_path)
+        main(file_path, list_path, readme_path)
         print("Done")
