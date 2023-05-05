@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import os
+import shutil
 
 import data_management as dm
 from check_file import check_file
@@ -19,12 +20,9 @@ def main(data_file_path, list_directory, readme_path):
         'possedes_english': [],
         'lus_english': [],
     }
-    locations = {
-        'liste_ebook': [],  # Nom liste_ebook pour conserver le lien envoyé à la famille
-        'antony': [],
-        'avignon': [],
-        'cork': [],
-    }
+    locations = {}
+    for k in dm.LOCATIONS.keys():
+        locations[k] = []
     s_total = 0
     s_read = 0
     s_read_french = 0
@@ -88,14 +86,9 @@ def main(data_file_path, list_directory, readme_path):
         else:
             authors_tot[book.author] += 1
 
-        if book.situation == "Ebook":
-            locations['liste_ebook'].append(book)
-        elif book.situation.startswith("Cork"):
-            locations['cork'].append(book)
-        elif book.situation.startswith("Antony"):
-            locations['antony'].append(book)
-        elif book.situation.startswith("Avignon"):
-            locations['avignon'].append(book)
+        for l in locations.keys():
+            if book.situation.lower().startswith(l):
+                locations[l].append(book)
 
     s_authors = len(authors_tot.keys())
     s_read_authors = len(authors_read)
@@ -128,11 +121,7 @@ def main(data_file_path, list_directory, readme_path):
     print("Generating stats for specific locations:")
     stat_loc = {}
     for k, l in locations.items():
-        if k == "liste_ebook":
-            loc_name = "Ebook"
-        else:
-            loc_name = k.capitalize()
-        print(f"  - {loc_name}")
+        print(f"  - {k.capitalize()}")
         l_total = 0
         l_read = 0
         l_french = 0
@@ -147,7 +136,7 @@ def main(data_file_path, list_directory, readme_path):
             elif book.language.startswith("English"):
                 l_english += 1
 
-        l_stats = (f"- {loc_name}\n"
+        l_stats = (f"- {k.capitalize()}\n"
                    f"    - {l_total} livres ({prct(l_total,s_owned)} de la collection)\n"
                    f"    - {l_read} livres lus ({prct(l_read, l_total)})\n"
                    f"    - {l_french} livres en français ({prct(l_french, l_total)})\n"
@@ -196,6 +185,8 @@ def main(data_file_path, list_directory, readme_path):
                 f.write(book.to_str())
                 f.write("\n")
             f.write("\n")
+    # shared the link to liste_ebook, need to keep it alive:
+    shutil.copy(list_directory+"ebook.md", list_directory+"liste_ebook.md")
 
     print("Writing list of authors")
     with open(list_directory+"auteurs.md", "w") as f:

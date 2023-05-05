@@ -4,11 +4,6 @@ import random
 import argparse
 import data_management as dm
 
-locations = {'ebook': ["Ebook"],
-             'antony': ["Antony", "Antony (vente)"],
-             'avignon': ["Avignon", "Avignon (Cartons)"],
-             'cork': ["Cork"]}
-
 def verbose_print(string):
     if args.verbose:
         print(string)
@@ -37,12 +32,12 @@ parser.add_argument('-r', '--include-read',
 
 parser.add_argument('-i', '--in-location',
                     help="Only include books from these locations",
-                    choices=locations.keys(),
+                    choices=dm.LOCATIONS.keys(),
                     nargs='+')
 
 parser.add_argument('-e', '--exclude-location',
                     help="Only include books from these locations",
-                    choices=locations.keys(),
+                    choices=dm.LOCATIONS.keys(),
                     nargs='+')
 
 parser.add_argument('-m', '--markdown',
@@ -67,7 +62,7 @@ if args.in_location:
     new_library = []
     for location in args.in_location:
         for i, book in enumerate(library):
-            if book.situation in locations[location]:
+            if book.situation in dm.LOCATIONS[location]:
                 new_library.append(book)
                 library.pop(i)
     library = new_library

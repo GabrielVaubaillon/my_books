@@ -3,6 +3,22 @@ import re
 HEADER = ("| Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |\n"
           "| --- | --- | --- | --- | --- | --- | --- | --- |\n")
 
+LOCATIONS = {'ebook': ["Ebook"],
+             'antony': ["Antony", "Antony (vente)"],
+             'avignon': ["Avignon", "Avignon (Cartons)"],
+             'cork': ["Cork"]
+             }
+
+REVERSE_LOCATIONS = {}
+for k, v in LOCATIONS.items():
+    for w in v:
+        REVERSE_LOCATIONS[w] = v
+
+WRITTEN_LOCATIONS = [""]
+for k, v in LOCATIONS.items():
+    for w in v:
+        WRITTEN_LOCATIONS.append(w)
+
 
 class Book:
     """Class representing a book in this repo"""

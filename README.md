@@ -6,7 +6,7 @@
 
 [**Clique ici pour ma collection**](Sous_listes/possedes.md) (que ma collection, pas les livres lus qui ne sont pas à moi)
 
-[**Clique ici pour la liste de mes livres numériques**](Sous_listes/liste_ebook.md)
+[**Clique ici pour la liste de mes livres numériques**](Sous_listes/ebook.md)
 
 [**Clique ici pour les livres terminés seulement**](Sous_listes/lus.md) (que les livres lus)
 

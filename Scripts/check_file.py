@@ -48,7 +48,7 @@ def check_file(filename, override_short=False):
         if book.language not in ["English", "English (tr.)", "Français", "Français (tr.)", "English/Français"]:
             print(f"{i+3}: {book.title}, {book.author}: Invalid value Column Langue: '{book.language}'")
             return_value = 5
-        if (book.situation not in ["Antony", "Avignon", "Avignon (Cartons)", "Cork", "Ebook", "Antony (vente)", ""]) and not book.situation.startswith("Prêté"):
+        if (book.situation not in dm.WRITTEN_LOCATIONS) and not book.situation.startswith("Prêté"):
             print(f"WARNING: {i+3}, {book.title}, {book.author}: Situation ('{book.situation}') not known, check spelling or update checks")
 
     if return_value != 0:

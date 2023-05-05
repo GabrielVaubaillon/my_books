@@ -1,5 +1,5 @@
 - Ma collection: [possedes](possedes.md)
-    - Ebooks: [liste\_ebook](liste_ebook.md)
+    - Ebooks: [ebook](ebook.md)
     - Livres stockés à Antony: [antony](antony.md)
     - Livres stockés à Avignon: [avignon](avignon.md)
     - Livres stockés à Cork: [cork](cork.md)
