@@ -4,9 +4,13 @@ import random
 import argparse
 import data_management as dm
 
+locations = {'ebook': ["Ebook"],
+             'antony': ["Antony", "Antony (vente)"],
+             'avignon': ["Avignon", "Avignon (Cartons)"],
+             'cork': ["Cork"]}
 
 def verbose_print(string):
-    if verbose:
+    if args.verbose:
         print(string)
 
 
@@ -18,19 +22,34 @@ parser.add_argument('-v', '--verbose',
                     help="Print more info during execution",
                     action="store_true")
 
-parser.add_argument('-n', '--books-number',
+parser.add_argument('-n', '--number-books',
                     help="The number of random book to display",
                     type=int,
                     default=5)
 
-parser.add_argument('-a', '--include-all',
+parser.add_argument('-a', '--all',
+                    help="Override -n, show all (valid, see others parameters) books in random order",
+                    action="store_true")
+
+parser.add_argument('-r', '--include-read',
                     help="include all books, not just not-read",
                     action="store_true")
 
+parser.add_argument('-i', '--in-location',
+                    help="Only include books from these locations",
+                    choices=locations.keys(),
+                    nargs='+')
+
+parser.add_argument('-e', '--exclude-location',
+                    help="Only include books from these locations",
+                    choices=locations.keys(),
+                    nargs='+')
+
+parser.add_argument('-m', '--markdown',
+                    help="Print books in markdown table",
+                    action='store_true')
+
 args = parser.parse_args()
-verbose = args.verbose
-n_books = args.books_number
-include_all = args.include_all
 
 script_dir = os.path.abspath(os.path.dirname(__file__))
 data_file = os.path.join(script_dir, "../possedes_ou_lus.md")
@@ -39,11 +58,37 @@ verbose_print(f"Loadings books from file ({data_file})")
 with open(data_file, "r") as f:
     library = dm.list_from_md_file(f)
 
-verbose_print("Sorting books")
-random.shuffle(library)
-
-if not include_all:
+verbose_print(f"Loadings books from file ({data_file})")
+if not args.include_read:
     library = [book for book in library if book.read != "Lu"]
 
-for i in range(min(n_books, len(library))):
-    print(library[i].to_str(";  "))
+# Keep included locations
+if args.in_location:
+    new_library = []
+    for location in args.in_location:
+        for i, book in enumerate(library):
+            if book.situation in locations[location]:
+                new_library.append(book)
+                library.pop(i)
+    library = new_library
+
+if args.exclude_location:
+    for location in args.exclude_location:
+        library = [book for book in library if not book.situation.lower().startswith(location)]
+
+verbose_print("Shuffling books")
+random.shuffle(library)
+
+if not args.all:
+    n_show = min(args.number_books, len(library))
+else:
+    n_show = len(library)
+
+if not args.markdown:
+    for i in range(n_show):
+        print(library[i].to_str(";  "))
+else:
+    print(dm.HEADER)
+    for book in library:
+        print(book.to_str())
+    print()
