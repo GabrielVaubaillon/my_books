@@ -24,7 +24,7 @@
 | Dune 5 - Heretics of Dune | Frank Herbert | English | 978-0-593-09826-4 | Possédé | Lu | Avignon (Cartons) | |
 | Dune 6 - Chapterhouse : Dune | Frank Herbert | English | 978-0-593-09827-1 | Possédé | Lu | Avignon (Cartons) | |
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
-| The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Pas Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
+| The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 2 - The Wall of Storms | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 3 - The Veiled Throne | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |

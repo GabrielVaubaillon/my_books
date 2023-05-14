@@ -1,5 +1,5 @@
 ## pas_lus 
- - 90 parmi les 333 (27.03%)
+ - 89 parmi les 333 (26.73%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -48,7 +48,6 @@
 | Un sac de bille | Joseph Joffo | Français | 2-253-02777-4 | Possédé | Pas Lu | Antony | |
 | Le vieux qui ne voulait pas fêter son anniversaire | Jonas Jonasson | Français (tr.) | 978-2-266-21852-8 | Possédé | Pas Lu | Antony | |
 | Du passé faisons table rase | Thierry Jonquet | Français | 978-2-07-030861-3 | Possédé | Pas Lu | Antony | |
-| The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Pas Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
 | Arsène Lupin - La comtesse de Cagliosto | Maurice Leblanc | Français | 301-0-000-03034-8 | Possédé | Pas Lu | Antony | |
 | Les aventures extraordinaires d'Arsène Lupin - Tome 3 (Omnibus) | Maurice Leblanc | Français | 978-2-258-09388-1 | Possédé | Pas Lu | Antony | |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |

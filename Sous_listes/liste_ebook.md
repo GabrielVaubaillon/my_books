@@ -1,6 +1,6 @@
 - Ebook
     - 35 livres (12.73% de la collection)
-    - 29 livres lus (82.86%)
+    - 30 livres lus (85.71%)
     - 8 livres en français (22.86%)
     - 27 livres en anglais (77.14%)
 
@@ -17,7 +17,7 @@
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
 | Comment braquer une banque sans perdre son dentier | Catharina Ingelman-Sundberg | Français (tr.) | 978-2-823-81023 | Possédé | Lu | Ebook | |
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
-| The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Pas Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
+| The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 2 - The Wall of Storms | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 3 - The Veiled Throne | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |

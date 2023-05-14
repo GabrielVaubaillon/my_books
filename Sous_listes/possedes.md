@@ -132,7 +132,7 @@
 | Contes et légendes de Champagne | Philippe Lannion | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
 | 12 récits de l'énéide | Michel Laporte | Français | 978-2-0812-3029-3 | Possédé | Lu | Antony | |
 | Long John Silver | Björn Larsson | Français (tr.) | 2-253-15010-7 | Possédé | Lu | Antony | |
-| The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Pas Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
+| The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
 | Arsène Lupin - La comtesse de Cagliosto | Maurice Leblanc | Français | 301-0-000-03034-8 | Possédé | Pas Lu | Antony | |
 | Les aventures extraordinaires d'Arsène Lupin - Tome 3 (Omnibus) | Maurice Leblanc | Français | 978-2-258-09388-1 | Possédé | Pas Lu | Antony | |
 | Le garçon qui ne parlait pas | Donna Leon | Français (tr.) | 978-2-7578-5686-4 | Possédé | Lu | Avignon (Cartons) | |
