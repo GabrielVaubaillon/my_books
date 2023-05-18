@@ -1,5 +1,5 @@
 ## possedes_english 
- - 53 parmi les 333 (15.92%)
+ - 53 parmi les 334 (15.87%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |

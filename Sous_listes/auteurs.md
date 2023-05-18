@@ -1,4 +1,4 @@
-187 Auteurs différents
+188 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -179,6 +179,7 @@
 | Nathalie Sémenuik | 1 |
 | Kressmann Taylor | 1 |
 | Walter Tevis | 1 |
+| Michel Tournier | 1 |
 | B. Traven | 1 |
 | Fred Uhlman | 1 |
 | Fred Vargas | 1 |
