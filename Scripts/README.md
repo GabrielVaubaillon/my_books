@@ -1,13 +1,42 @@
 # Scripts for my book list
 
-Propositions:
-- Checkvalid, me ferai gagner du temps. Check syntaxe et ordre, me previens si c'est pas parfait
-- auto commit. prend le message du commit en parametre, check si tout est valide (penser aux new files à add)
-- GUI? ça me ferai reviser le stage
-- listes separes par endroit de stockage
-- only owned
-- owned but not read
-- markdown to csv
-- Stats : ça ça peut etre super cool
+## Ideas
 
-Tout ça avec stdin stdout et des arguments, ça serait le feu
+(ideas for complete repo, not only scripts)
+- add some args to all scripts
+    - replace hardcoded values by defaults
+- Uses the help from the script to auto-generate the description section of this readme
+- translate main README to english
+    - would probably also need to translates stats
+- add no-git argument to update.py
+    - no-commit
+    - no-push
+- links to relevent files from stats section
+- Lent books
+    - add a date
+    - sublist with duration
+- md to text (print as ascii table
+- add internal situation representation (Ebook -> ebook, Ebook (Kobo) -> ebook)
+- versus
+    - show two books, choose your favorite
+    - combine with sorting algorithm (don't need to do every combination)
+    - store results
+    - BAM you know your favorites, in order
+    - to be easy, can maybe ask a few a day
+    - can use a GUI
+    - add an option dfr for the choices (don't fucking remember)
+- tags
+    - add tags #tag in Notes
+    - can be used to handle differently (genres? intégrales?)
+- GUI?
+    - to add new books: doable/easy
+    - to modify list by setting to Lu? harder, because search needed
+
+## Issues
+
+- add link to Sous-liste readme in quicklinks
+- random.py don't respect -n when --markdown
+- md to csv need update
+
+<!-- ## Details from existing scripts -->
+
