@@ -1,5 +1,11 @@
 # Scripts for my book list
 
+## Issues
+
+- add link to Sous-liste readme in quicklinks
+- random.py don't respect -n when --markdown
+- md to csv need update
+
 ## Ideas
 
 (ideas for complete repo, not only scripts)
@@ -31,12 +37,8 @@
 - GUI?
     - to add new books: doable/easy
     - to modify list by setting to Lu? harder, because search needed
-
-## Issues
-
-- add link to Sous-liste readme in quicklinks
-- random.py don't respect -n when --markdown
-- md to csv need update
+- add dates
+    - when did I read the book, how much time it took me?
 
 <!-- ## Details from existing scripts -->
 
