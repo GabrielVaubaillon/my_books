@@ -1,4 +1,4 @@
-188 Auteurs différents
+189 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -45,6 +45,7 @@
 | Jacques Prévert | 2 |
 | J.H. Rosny Aîné | 2 |
 | John Steinbeck | 2 |
+| J.R.R Tolkien | 2 |
 | Voltaire | 2 |
 | H.G. Wells | 2 |
 | Henry Winterfield | 2 |

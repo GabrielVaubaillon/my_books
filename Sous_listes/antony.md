@@ -1,5 +1,5 @@
 - Antony
-    - 160 livres (58.18% de la collection)
+    - 160 livres (57.76% de la collection)
     - 112 livres lus (70.0%)
     - 160 livres en français (100.0%)
     - 0 livres en anglais (0.0%)

@@ -1,5 +1,5 @@
 - Cork
-    - 5 livres (1.82% de la collection)
+    - 5 livres (1.81% de la collection)
     - 0 livres lus (0.0%)
     - 0 livres en français (0.0%)
     - 5 livres en anglais (100.0%)
