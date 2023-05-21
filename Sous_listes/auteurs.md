@@ -1,11 +1,11 @@
-189 Auteurs différents
+188 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
 | Brandon Sanderson | 17 |
 | Marcel Pagnol | 16 |
+| J.R.R. Tolkien | 11 |
 | Rick Riordan | 10 |
-| J.R.R. Tolkien | 9 |
 | Alexandre Dumas | 8 |
 | Anne McCaffrey | 7 |
 | J. K. Rowling | 7 |
@@ -45,7 +45,6 @@
 | Jacques Prévert | 2 |
 | J.H. Rosny Aîné | 2 |
 | John Steinbeck | 2 |
-| J.R.R Tolkien | 2 |
 | Voltaire | 2 |
 | H.G. Wells | 2 |
 | Henry Winterfield | 2 |

@@ -46,14 +46,14 @@
 | Tress of the emerald sea | Brandon Sanderson | English | 978-1-938570-34-6 | Possédé | Lu | Ebook | |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
 | Of mice and men | John Steinbeck | English | 979-10-358-1029-0 | Possédé | Lu | Avignon (Cartons) | edition apprendre l'anglais (depuis le français) |
-| Children of Hurin | J.R.R Tolkien | English | 9780007322589 | Possédé | Pas Lu | Ebook | |
-| The Silmarillion | J.R.R Tolkien | English | 9780007322565 | Possédé | Pas Lu | Ebook | |
+| Children of Hurin | J.R.R. Tolkien | English | 9780007322589 | Possédé | Pas Lu | Ebook | |
 | The Hobbit | J.R.R. Tolkien | English | 978-0-007-48731-8 | Possédé | Lu | Ebook | |
 | The Hobbit | J.R.R. Tolkien | English | 978-0-261-10334-4 | Possédé | Lu | Avignon (Cartons) | |
 | The Lord Of The Rings | J.R.R. Tolkien | English | 978-0-007-32259-6 | Possédé | Lu | Ebook | |
 | The Lord Of The Rings 1 - The Fellowship Of The Ring | J.R.R. Tolkien | English | 978-0-261-10235-4 | Possédé | Lu | Avignon (Cartons) | |
 | The Lord Of The Rings 2 - The Two Towers | J.R.R. Tolkien | English | 978-0-261-10236-1 | Possédé | Lu | Avignon (Cartons) | |
 | The Lord of The Rings 3 - The Return Of The King | J.R.R. Tolkien | English | 978-0-261-10237-8 | Possédé | Lu | Avignon (Cartons) | |
+| The Silmarillion | J.R.R. Tolkien | English | 9780007322565 | Possédé | Pas Lu | Ebook | |
 | The Silmarillion | J.R.R. Tolkien | English | 978-0-261-10273-6 | Possédé | Pas Lu | Avignon (Cartons) | |
 | Unfinished Tales | J.R.R. Tolkien | English | 978-0-261-10362-7 | Possédé | Pas Lu | Avignon (Cartons) | |
 | The Martian | Andy Weir | English | 978-0-553-41802-6 | Possédé | Lu | Prêté Papa | |

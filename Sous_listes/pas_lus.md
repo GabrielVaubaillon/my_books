@@ -85,9 +85,9 @@
 | Le tour du Tour par 36 détours | François Salvaing | Français | 2-209-06301-9 | Possédé | Pas Lu | Antony | |
 | Quentin Durward | Walter Scott | Français (tr.) | | Possédé | Pas Lu | Antony | |
 | Les terroristes | M. Sjöwall & P. Wahlöö | Français (tr.) | 978-2-7436-2057-8 | Possédé | Pas Lu | Avignon (Cartons) | |
-| Children of Hurin | J.R.R Tolkien | English | 9780007322589 | Possédé | Pas Lu | Ebook | |
-| The Silmarillion | J.R.R Tolkien | English | 9780007322565 | Possédé | Pas Lu | Ebook | |
+| Children of Hurin | J.R.R. Tolkien | English | 9780007322589 | Possédé | Pas Lu | Ebook | |
 | Les enfants de Hurin | J.R.R. Tolkien | Français (tr.) | 978-2-298-01256-3 | Possédé | Pas Lu | Avignon (Cartons) | Jolie édition illustrée |
+| The Silmarillion | J.R.R. Tolkien | English | 9780007322565 | Possédé | Pas Lu | Ebook | |
 | The Silmarillion | J.R.R. Tolkien | English | 978-0-261-10273-6 | Possédé | Pas Lu | Avignon (Cartons) | |
 | Unfinished Tales | J.R.R. Tolkien | English | 978-0-261-10362-7 | Possédé | Pas Lu | Avignon (Cartons) | |
 | L'armée des pauvres | B. Traven | Français (tr.) | 978-2-7491-2090-4 | Possédé | Pas Lu | Antony | |
