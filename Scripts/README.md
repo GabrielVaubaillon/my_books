@@ -5,6 +5,9 @@
 - add link to Sous-liste readme in quicklinks
 - random.py don't respect -n when --markdown
 - md to csv need update
+- use normpath to get rid of .. in paths
+- add location in books
+- in stats: soit non_lus => et non lus
 
 ## Ideas
 
@@ -39,6 +42,8 @@
     - to modify list by setting to Lu? harder, because search needed
 - add dates
     - when did I read the book, how much time it took me?
+- check if samish author already exist in file, ask if typo if seems possible
+- file with last modifs, last 10 books in collection, last read
 
 <!-- ## Details from existing scripts -->
 
