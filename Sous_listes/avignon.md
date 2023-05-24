@@ -1,6 +1,6 @@
 - Avignon
     - 74 livres (26.71% de la collection)
-    - 43 livres lus (58.11%)
+    - 44 livres lus (59.46%)
     - 54 livres en français (72.97%)
     - 20 livres en anglais (27.03%)
 
@@ -68,7 +68,7 @@
 | Of mice and men | John Steinbeck | English | 979-10-358-1029-0 | Possédé | Lu | Avignon (Cartons) | edition apprendre l'anglais (depuis le français) |
 | L'île au trésor | Robert Louis Stevenson | Français (tr.) | 2-253-00368-9 | Possédé | Lu | Avignon (Cartons) | |
 | Le jeu de la dame | Walter Tevis | Français (tr.) | 978-2-35178-776-2 | Possédé | Lu | Avignon (Cartons) | |
-| Les enfants de Hurin | J.R.R. Tolkien | Français (tr.) | 978-2-298-01256-3 | Possédé | Pas Lu | Avignon (Cartons) | Jolie édition illustrée |
+| Les enfants de Hurin | J.R.R. Tolkien | Français (tr.) | 978-2-298-01256-3 | Possédé | Lu | Avignon (Cartons) | Jolie édition illustrée |
 | The Hobbit | J.R.R. Tolkien | English | 978-0-261-10334-4 | Possédé | Lu | Avignon (Cartons) | |
 | The Lord Of The Rings 1 - The Fellowship Of The Ring | J.R.R. Tolkien | English | 978-0-261-10235-4 | Possédé | Lu | Avignon (Cartons) | |
 | The Lord Of The Rings 2 - The Two Towers | J.R.R. Tolkien | English | 978-0-261-10236-1 | Possédé | Lu | Avignon (Cartons) | |

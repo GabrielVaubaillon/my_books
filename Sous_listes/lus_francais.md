@@ -1,5 +1,5 @@
 ## lus_francais 
- - 203 parmi les 336 (60.42%)
+ - 204 parmi les 336 (60.71%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -179,6 +179,7 @@
 | Nous sommes Bob 3 - Tous ces mondes | Dennis E. Taylor | Français (tr.) | | Non | Lu | | |
 | Inconnu à cette adresse | Kressmann Taylor | Français (tr.) | 2-253-10826-9 | Non | Lu | | |
 | Le jeu de la dame | Walter Tevis | Français (tr.) | 978-2-35178-776-2 | Possédé | Lu | Avignon (Cartons) | |
+| Les enfants de Hurin | J.R.R. Tolkien | Français (tr.) | 978-2-298-01256-3 | Possédé | Lu | Avignon (Cartons) | Jolie édition illustrée |
 | Vendredi ou la Vie sauvage | Michel Tournier | Français | | Non | Lu | | |
 | Excalibur - Roman des chevaliers de la Table Ronde | Chrétien de Troyes | Français | 2-205-02330-6 | Possédé | Lu | Antony | |
 | Perceval ou le conte du Graal | Chrétien de Troyes | Français | 978-2-01-169735-6 | Possédé | Lu | Antony | |

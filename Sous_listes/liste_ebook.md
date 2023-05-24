@@ -1,6 +1,6 @@
 - Ebook
     - 37 livres (13.36% de la collection)
-    - 30 livres lus (81.08%)
+    - 31 livres lus (83.78%)
     - 8 livres en français (21.62%)
     - 29 livres en anglais (78.38%)
 
@@ -39,7 +39,7 @@
 | Stormlight Archives 4 - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Possédé | Lu | Ebook | |
 | Tress of the emerald sea | Brandon Sanderson | English | 978-1-938570-34-6 | Possédé | Lu | Ebook | |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
-| Children of Hurin | J.R.R. Tolkien | English | 9780007322589 | Possédé | Pas Lu | Ebook | |
+| Children of Hurin | J.R.R. Tolkien | English | 9780007322589 | Possédé | Lu | Ebook | |
 | The Hobbit | J.R.R. Tolkien | English | 978-0-007-48731-8 | Possédé | Lu | Ebook | |
 | The Lord Of The Rings | J.R.R. Tolkien | English | 978-0-007-32259-6 | Possédé | Lu | Ebook | |
 | The Silmarillion | J.R.R. Tolkien | English | 9780007322565 | Possédé | Pas Lu | Ebook | |

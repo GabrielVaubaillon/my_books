@@ -201,7 +201,7 @@
 | Les six compagnons et la radio libre | Olivier Séchan | Français | 2-01-209358-2 | Possédé | Lu | Antony | |
 | Mystères et faits divers à Rome | Nathalie Sémenuik | Français | 978-2-0123-0344-7 | Possédé | Lu | Antony | Livres d'enquetes / jeux |
 | Le jeu de la dame | Walter Tevis | Français (tr.) | 978-2-35178-776-2 | Possédé | Lu | Avignon (Cartons) | |
-| Les enfants de Hurin | J.R.R. Tolkien | Français (tr.) | 978-2-298-01256-3 | Possédé | Pas Lu | Avignon (Cartons) | Jolie édition illustrée |
+| Les enfants de Hurin | J.R.R. Tolkien | Français (tr.) | 978-2-298-01256-3 | Possédé | Lu | Avignon (Cartons) | Jolie édition illustrée |
 | L'armée des pauvres | B. Traven | Français (tr.) | 978-2-7491-2090-4 | Possédé | Pas Lu | Antony | |
 | Excalibur - Roman des chevaliers de la Table Ronde | Chrétien de Troyes | Français | 2-205-02330-6 | Possédé | Lu | Antony | |
 | Perceval ou le conte du Graal | Chrétien de Troyes | Français | 978-2-01-169735-6 | Possédé | Lu | Antony | |

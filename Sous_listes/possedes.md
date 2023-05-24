@@ -244,8 +244,8 @@
 | Les six compagnons et la radio libre | Olivier Séchan | Français | 2-01-209358-2 | Possédé | Lu | Antony | |
 | Mystères et faits divers à Rome | Nathalie Sémenuik | Français | 978-2-0123-0344-7 | Possédé | Lu | Antony | Livres d'enquetes / jeux |
 | Le jeu de la dame | Walter Tevis | Français (tr.) | 978-2-35178-776-2 | Possédé | Lu | Avignon (Cartons) | |
-| Children of Hurin | J.R.R. Tolkien | English | 9780007322589 | Possédé | Pas Lu | Ebook | |
-| Les enfants de Hurin | J.R.R. Tolkien | Français (tr.) | 978-2-298-01256-3 | Possédé | Pas Lu | Avignon (Cartons) | Jolie édition illustrée |
+| Children of Hurin | J.R.R. Tolkien | English | 9780007322589 | Possédé | Lu | Ebook | |
+| Les enfants de Hurin | J.R.R. Tolkien | Français (tr.) | 978-2-298-01256-3 | Possédé | Lu | Avignon (Cartons) | Jolie édition illustrée |
 | The Hobbit | J.R.R. Tolkien | English | 978-0-007-48731-8 | Possédé | Lu | Ebook | |
 | The Hobbit | J.R.R. Tolkien | English | 978-0-261-10334-4 | Possédé | Lu | Avignon (Cartons) | |
 | The Lord Of The Rings | J.R.R. Tolkien | English | 978-0-007-32259-6 | Possédé | Lu | Ebook | |
