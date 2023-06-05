@@ -1,6 +1,6 @@
 - Ebook
     - 37 livres (13.36% de la collection)
-    - 31 livres lus (83.78%)
+    - 32 livres lus (86.49%)
     - 8 livres en français (21.62%)
     - 29 livres en anglais (78.38%)
 
@@ -42,5 +42,5 @@
 | Children of Hurin | J.R.R. Tolkien | English | 9780007322589 | Possédé | Lu | Ebook | |
 | The Hobbit | J.R.R. Tolkien | English | 978-0-007-48731-8 | Possédé | Lu | Ebook | |
 | The Lord Of The Rings | J.R.R. Tolkien | English | 978-0-007-32259-6 | Possédé | Lu | Ebook | |
-| The Silmarillion | J.R.R. Tolkien | English | 9780007322565 | Possédé | Pas Lu | Ebook | |
+| The Silmarillion | J.R.R. Tolkien | English | 9780007322565 | Possédé | Lu | Ebook | |
 

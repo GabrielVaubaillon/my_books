@@ -1,5 +1,5 @@
 ## lus 
- - 247 parmi les 336 (73.51%)
+ - 249 parmi les 336 (74.11%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -222,6 +222,8 @@
 | The Lord Of The Rings 1 - The Fellowship Of The Ring | J.R.R. Tolkien | English | 978-0-261-10235-4 | Possédé | Lu | Avignon (Cartons) | |
 | The Lord Of The Rings 2 - The Two Towers | J.R.R. Tolkien | English | 978-0-261-10236-1 | Possédé | Lu | Avignon (Cartons) | |
 | The Lord of The Rings 3 - The Return Of The King | J.R.R. Tolkien | English | 978-0-261-10237-8 | Possédé | Lu | Avignon (Cartons) | |
+| The Silmarillion | J.R.R. Tolkien | English | 9780007322565 | Possédé | Lu | Ebook | |
+| The Silmarillion | J.R.R. Tolkien | English | 978-0-261-10273-6 | Possédé | Lu | Avignon (Cartons) | |
 | Vendredi ou la Vie sauvage | Michel Tournier | Français | | Non | Lu | | |
 | Excalibur - Roman des chevaliers de la Table Ronde | Chrétien de Troyes | Français | 2-205-02330-6 | Possédé | Lu | Antony | |
 | Perceval ou le conte du Graal | Chrétien de Troyes | Français | 978-2-01-169735-6 | Possédé | Lu | Antony | |

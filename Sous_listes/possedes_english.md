@@ -53,8 +53,8 @@
 | The Lord Of The Rings 1 - The Fellowship Of The Ring | J.R.R. Tolkien | English | 978-0-261-10235-4 | Possédé | Lu | Avignon (Cartons) | |
 | The Lord Of The Rings 2 - The Two Towers | J.R.R. Tolkien | English | 978-0-261-10236-1 | Possédé | Lu | Avignon (Cartons) | |
 | The Lord of The Rings 3 - The Return Of The King | J.R.R. Tolkien | English | 978-0-261-10237-8 | Possédé | Lu | Avignon (Cartons) | |
-| The Silmarillion | J.R.R. Tolkien | English | 9780007322565 | Possédé | Pas Lu | Ebook | |
-| The Silmarillion | J.R.R. Tolkien | English | 978-0-261-10273-6 | Possédé | Pas Lu | Avignon (Cartons) | |
+| The Silmarillion | J.R.R. Tolkien | English | 9780007322565 | Possédé | Lu | Ebook | |
+| The Silmarillion | J.R.R. Tolkien | English | 978-0-261-10273-6 | Possédé | Lu | Avignon (Cartons) | |
 | Unfinished Tales | J.R.R. Tolkien | English | 978-0-261-10362-7 | Possédé | Pas Lu | Avignon (Cartons) | |
 | The Martian | Andy Weir | English | 978-0-553-41802-6 | Possédé | Lu | Prêté Papa | |
 | The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Pas Lu | Cork | |

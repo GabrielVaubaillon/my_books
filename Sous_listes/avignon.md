@@ -1,6 +1,6 @@
 - Avignon
     - 74 livres (26.71% de la collection)
-    - 44 livres lus (59.46%)
+    - 45 livres lus (60.81%)
     - 54 livres en français (72.97%)
     - 20 livres en anglais (27.03%)
 
@@ -73,7 +73,7 @@
 | The Lord Of The Rings 1 - The Fellowship Of The Ring | J.R.R. Tolkien | English | 978-0-261-10235-4 | Possédé | Lu | Avignon (Cartons) | |
 | The Lord Of The Rings 2 - The Two Towers | J.R.R. Tolkien | English | 978-0-261-10236-1 | Possédé | Lu | Avignon (Cartons) | |
 | The Lord of The Rings 3 - The Return Of The King | J.R.R. Tolkien | English | 978-0-261-10237-8 | Possédé | Lu | Avignon (Cartons) | |
-| The Silmarillion | J.R.R. Tolkien | English | 978-0-261-10273-6 | Possédé | Pas Lu | Avignon (Cartons) | |
+| The Silmarillion | J.R.R. Tolkien | English | 978-0-261-10273-6 | Possédé | Lu | Avignon (Cartons) | |
 | Unfinished Tales | J.R.R. Tolkien | English | 978-0-261-10362-7 | Possédé | Pas Lu | Avignon (Cartons) | |
 | L'homme à l'envers | Fred Vargas | Français | 978-2-290-34923-6 | Possédé | Lu | Avignon (Cartons) | |
 | Le tour du monde en 80 jours | Jules Verne | Français | 978-2-253-01269-6 | Possédé | Lu | Avignon (Cartons) | |
