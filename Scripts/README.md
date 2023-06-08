@@ -4,7 +4,6 @@
 
 - md to csv need update
 - add location in books
-- in stats: soit non_lus => et non lus
 
 ## Ideas
 

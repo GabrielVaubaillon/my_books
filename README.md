@@ -60,7 +60,7 @@ répartie.
 
 - 277 livres possédés (82.44% du total)
 - 190 livres lus (68.59%)
-- soit 87 non lus (31.41%)
+- et 87 non lus (31.41%)
 - 222 livres en français (80.14%)
 - 55 livres en anglais (19.86%)
 - 163 auteurs différents

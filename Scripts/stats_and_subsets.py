@@ -99,7 +99,7 @@ def main(data_file_path, list_directory, readme_path):
               f"\n### Ma collection\n\n"
               f"- {s_owned} livres possédés ({prct(s_owned, s_total)} du total)\n"
               f"- {s_owned_read} livres lus ({prct(s_owned_read, s_owned)})\n"
-              f"- soit {s_owned-s_owned_read} non lus ({prct(s_owned-s_owned_read, s_owned)})\n"
+              f"- et {s_owned-s_owned_read} non lus ({prct(s_owned-s_owned_read, s_owned)})\n"
               f"- {s_owned_french} livres en français ({prct(s_owned_french, s_owned)})\n"
               f"- {s_owned_english} livres en anglais ({prct(s_owned_english, s_owned)})\n"
               f"- {s_owned_authors} auteurs différents\n"
