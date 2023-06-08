@@ -8,9 +8,9 @@ import sort_by_authors
 import stats_and_subsets
 
 script_dir = os.path.abspath(os.path.dirname(__file__))
-data_file = os.path.join(script_dir, "../possedes_ou_lus.md")
-sublist_path = os.path.join(script_dir, "../Sous_listes/")
-readme_path = os.path.join(script_dir, "../README.md")
+data_file = os.path.normpath(os.path.join(script_dir, "../possedes_ou_lus.md"))
+sublist_path = os.path.normpath(os.path.join(script_dir, "../Sous_listes/"))
+readme_path = os.path.normpath(os.path.join(script_dir, "../README.md"))
 
 print(f"Loaded paths :\n"
       f"script directory: {script_dir}\n"

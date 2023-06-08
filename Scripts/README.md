@@ -3,7 +3,6 @@
 ## Issues
 
 - md to csv need update
-- use normpath to get rid of .. in paths
 - add location in books
 - in stats: soit non_lus => et non lus
 

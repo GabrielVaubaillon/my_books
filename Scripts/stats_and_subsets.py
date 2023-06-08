@@ -200,9 +200,9 @@ def main(data_file_path, list_directory, readme_path):
 
 if __name__ == "__main__":
     script_dir = os.path.abspath(os.path.dirname(__file__))
-    file_path = os.path.join(script_dir, "../possedes_ou_lus.md")
-    list_path = os.path.join(script_dir, "../Sous_listes/")
-    readme_path = os.path.join(script_dir, "../README.md")
+    file_path = os.path.normpath(os.path.join(script_dir, "../possedes_ou_lus.md"))
+    list_path = os.path.normpath(os.path.join(script_dir, "../Sous_listes/"))
+    readme_path = os.path.normpath(os.path.join(script_dir, "../README.md"))
     if not os.path.isfile(file_path) or (not os.path.isdir(list_path)):
         exit(1)
     res = check_file(file_path)

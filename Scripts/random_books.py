@@ -47,7 +47,7 @@ parser.add_argument('-m', '--markdown',
 args = parser.parse_args()
 
 script_dir = os.path.abspath(os.path.dirname(__file__))
-data_file = os.path.join(script_dir, "../possedes_ou_lus.md")
+data_file = os.path.normpath(os.path.join(script_dir, "../possedes_ou_lus.md"))
 
 verbose_print(f"Loadings books from file ({data_file})")
 with open(data_file, "r") as f:
