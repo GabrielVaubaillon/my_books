@@ -84,6 +84,6 @@ if not args.markdown:
         print(library[i].to_str(";  "))
 else:
     print(dm.HEADER)
-    for book in library:
-        print(book.to_str())
+    for i in range(min(n_show, len(library))):
+        print(library[i].to_str())
     print()

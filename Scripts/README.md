@@ -2,7 +2,6 @@
 
 ## Issues
 
-- random.py don't respect -n when --markdown
 - md to csv need update
 - use normpath to get rid of .. in paths
 - add location in books
