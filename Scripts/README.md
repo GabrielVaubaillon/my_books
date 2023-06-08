@@ -17,10 +17,11 @@
 - Uses the help from the script to auto-generate the description section of this readme
 - translate main README to english
     - would probably also need to translates stats
+- use mermaid to do some graphs for stats
 - add no-git argument to update.py
     - no-commit
     - no-push
-- links to relevent files from stats section
+- links to relevant files from stats section
 - Lent books
     - add a date
     - sublist with duration
