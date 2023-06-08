@@ -2,7 +2,6 @@
 
 ## Issues
 
-- add link to Sous-liste readme in quicklinks
 - random.py don't respect -n when --markdown
 - md to csv need update
 - use normpath to get rid of .. in paths

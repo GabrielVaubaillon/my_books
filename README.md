@@ -10,6 +10,8 @@
 
 [**Clique ici pour les livres terminés seulement**](Sous_listes/lus.md) (que les livres lus)
 
+[**Clique ici pour toutes les sous-listes**](Sous_listes/README.md) (livres séparés par caractéristiques)
+
 ## Description
 
 ### C'est quoi ici?
