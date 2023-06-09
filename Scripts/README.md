@@ -8,6 +8,10 @@
 ## Ideas
 
 (ideas for complete repo, not only scripts)
+- tests
+    - create test file
+    - directory where all scripts run
+    - compare result with expected result
 - add some args to all scripts
     - replace hardcoded values by defaults
 - Uses the help from the script to auto-generate the description section of this readme
@@ -41,6 +45,13 @@
     - when did I read the book, how much time it took me?
 - check if samish author already exist in file, ask if typo if seems possible
 - file with last modifs, last 10 books in collection, last read
+- md to pdf
+    - clean cut at pages
+    - table header at each page
+    - maybe less info to stay on one line
+    - header with first and last author of the page
+    - page number + table of content
+     
 
 <!-- ## Details from existing scripts -->
 
