@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import os
-import shutil
 
 import data_management as dm
 from check_file import check_file
@@ -167,7 +166,7 @@ def main(data_file_path, list_directory, readme_path):
 
     print("Writing sublists (not specific locations)")
     for k, l in d.items():
-        with open(list_directory+k+".md", "w") as f:
+        with open(list_directory+"/"+k+".md", "w") as f:
             f.write(f"## {k} \n - {len(l)} parmi les {s_total} ({prct(len(l), s_total)})\n\n")
             f.write(dm.HEADER)
             for book in l:
@@ -177,7 +176,7 @@ def main(data_file_path, list_directory, readme_path):
 
     print("Writing location specific sublists")
     for k, l in locations.items():
-        with open(list_directory+k+".md", "w") as f:
+        with open(list_directory+"/"+k+".md", "w") as f:
             f.write(stat_loc[k])
             f.write("\n")
             f.write(dm.HEADER)
@@ -185,11 +184,9 @@ def main(data_file_path, list_directory, readme_path):
                 f.write(book.to_str())
                 f.write("\n")
             f.write("\n")
-    # shared the link to liste_ebook, need to keep it alive:
-    shutil.copy(list_directory+"ebook.md", list_directory+"liste_ebook.md")
 
     print("Writing list of authors")
-    with open(list_directory+"auteurs.md", "w") as f:
+    with open(list_directory+"/auteurs.md", "w") as f:
         f.write(f"{s_authors} Auteurs différents\n\n| Auteur | nb livres lus ou possédés |\n| --- | --- |\n")
         list_ = list(authors_tot.items())
         list_.sort(reverse=True, key=lambda e: e[1])

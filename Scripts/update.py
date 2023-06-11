@@ -2,6 +2,7 @@
 
 import os
 import subprocess
+import shutil
 
 import check_file
 import sort_by_authors
@@ -29,9 +30,12 @@ sort_by_authors.sort_library(data_file, data_file)
 print("--- Generating stats and subsets:")
 stats_and_subsets.main(data_file, sublist_path, readme_path)
 
+# shared the link to liste_ebook, need to keep it alive:
+shutil.copy(sublist_path+"/ebook.md", sublist_path+"/liste_ebook.md")
+
 print("--- Getting ready for git:")
 cwd = os.getcwd()
-os.chdir(os.path.join(script_dir, "../"))
+os.chdir(os.path.normpath(os.path.join(script_dir, "../")))
 print(f"Change of working directory, we are now here: {os.getcwd()}")
 
 print("--- Staging files:")
