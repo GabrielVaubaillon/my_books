@@ -1,11 +1,12 @@
 ## lus_english 
- - 45 parmi les 336 (13.39%)
+ - 46 parmi les 336 (13.69%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Legends & Lattes | Travis Baldree | English | 978-1-0350-0733-2 | Possédé | Lu | Ebook | |
 | Fahrenheit 451 | Ray Bradbury | English | 978-0-00-654606-1 | Possédé | Lu | Avignon (Cartons) | |
 | The Martian Chronicles | Ray Bradbury | English | 978-0-00-647923 | Possédé | Lu | Avignon (Cartons) | |
+| Murder on the Orient Express | Agatha Christie | English | 978-0-00-752750-2 | Possédé | Lu | Cork | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |

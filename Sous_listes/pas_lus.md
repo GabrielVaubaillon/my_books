@@ -1,5 +1,5 @@
 ## pas_lus 
- - 87 parmi les 336 (25.89%)
+ - 86 parmi les 336 (25.6%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -15,7 +15,6 @@
 | La concierge est dans le cercueil | José Benjamin | Français | 978-2-913019-58-4 | Possédé | Pas Lu | Antony | |
 | Bennett et sa cabane | Anthony Buckeridge | Français | 2-253-02338-8 | Possédé | Pas Lu | Antony | |
 | And then there were None | Agatha Christie | English | 978-0-00-812320-8 | Possédé | Pas Lu | Cork | |
-| Murder on the Orient Express | Agatha Christie | English | 978-0-00-752750-2 | Possédé | Pas Lu | Cork | |
 | TBP 2 - La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Avignon (Cartons) | |
 | TBP 3 - La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Avignon (Cartons) | |
 | The Alchemist | Paul Coelho | English (tr.) | 978-0-06-112241-5 | Possédé | Pas Lu | Avignon (Cartons) | |
