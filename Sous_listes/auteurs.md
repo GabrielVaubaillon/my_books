@@ -1,4 +1,4 @@
-188 Auteurs différents
+189 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -132,6 +132,7 @@
 | Michel Laporte | 1 |
 | Björn Larsson | 1 |
 | Ursula K. Le-Guin | 1 |
+| Harper Lee | 1 |
 | Stanislaw Lem | 1 |
 | Donna Leon | 1 |
 | Jonathan Livingston | 1 |
