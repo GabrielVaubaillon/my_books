@@ -331,6 +331,7 @@
 | Les pilleurs de sarcophages | Odile Weulersse | Français | 2-253-03532-7 | Possédé | Lu | Antony | |
 | Caïus et le gladiateur | Henry Winterfield | Français (tr.) | 978-2-01-322442-0 | Possédé | Lu | Antony | |
 | L'affaire Caïus | Henry Winterfield | Français (tr.) | 978-2-01-322403-1 | Possédé | Lu | Antony | |
+| Irish Fairy and Folk Tales | W. B. Yeats | English | 978-1-3988-1926-9 | Possédé | Pas Lu | Cork | |
 | Le joueur d'échecs | Stefan Zweig | Français (tr.) | 2-253-05784-3 | Possédé | Lu | Avignon (Cartons) | |
 | Contes d'ici et d'ailleurs | | Français | 2-04-730354-0 | Possédé | Lu | Antony | |
 | Contes d'ici et d'ailleurs | | Français | 978-2-218-93322-6 | Possédé | Lu | Antony | |
