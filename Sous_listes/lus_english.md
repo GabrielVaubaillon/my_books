@@ -1,5 +1,5 @@
 ## lus_english 
- - 47 parmi les 338 (13.91%)
+ - 48 parmi les 339 (14.16%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23,6 +23,7 @@
 | Bartleby the scrivener | Herman Melville | English/Français | | Non | Lu | | |
 | Animal farm | George Orwell | English | 978-0-141-03613-7 | Possédé | Lu | Avignon (Cartons) | |
 | Loveless | Alice Oseman | English | 9780008244132 | Possédé | Lu | Ebook | |
+| Sea of Tranquility | Emily Saint-John-Mandel | English | 9780593321454 | Possédé | Lu | Ebook | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | Lu | Ebook | Recueil |
 | Elantris | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Lu | Ebook | |
 | Mistborn 1-1 - The Final Empire | Brandon Sanderson | English | | Non | Lu | | |

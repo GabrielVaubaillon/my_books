@@ -86,6 +86,7 @@
 | Les trois Mousquetaire | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 2 livres, Belle collection Auteur |
 | Vingt ans apres | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 2 livres, Belle collection Auteur |
 | Les lions de césar | Jean-Luc Déjean | Français | 978-2-01-322650-9 | Possédé | Lu | Antony | |
+| This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Pas Lu | Ebook | |
 | Flamme et l'Etalon Noir | Walter Farley | Français (tr.) | 2-01-00-1034-5 | Possédé | Lu | Antony | |
 | Le fils de l'Etalon noir | Walter Farley | Français (tr.) | | Possédé | Lu | Antony | |
 | Diego Martin 0 - Tapas Nocturnes | Marc Fernandez | Français | 978-2-253-24171-3 | Possédé | Lu | Avignon (Cartons) | |
@@ -258,7 +259,7 @@
 | Bonjour tristesse | Françoise Sagan | Français | 978-2-266-19558-4 | Possédé | Lu | Antony | |
 | Strom l'intégrale | Emmanuelle et Benoît de Saint-Chamas | Français | | Non | Lu | | Le collectionneur, Les portails d'outre temps, la 37eme prophétie |
 | Le petit Prince | Antoine de Saint-Exupéry | Français | 978-2-07-040850-4 | Possédé | Lu | Avignon (Cartons) | |
-| Sea of Tranquility | Emily Saint-John-Mandel | English | 9780593321454 | Possédé | Pas Lu | Ebook | |
+| Sea of Tranquility | Emily Saint-John-Mandel | English | 9780593321454 | Possédé | Lu | Ebook | |
 | Le tour du Tour par 36 détours | François Salvaing | Français | 2-209-06301-9 | Possédé | Pas Lu | Antony | |
 | Alcatraz contre les infâmes bibliothécaires | Brandon Sanderson | Français (tr.) | | Non | Lu | | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | Lu | Ebook | Recueil |

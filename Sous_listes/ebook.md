@@ -1,8 +1,8 @@
 - Ebook
-    - 37 livres (13.26% de la collection)
-    - 32 livres lus (86.49%)
-    - 8 livres en français (21.62%)
-    - 29 livres en anglais (78.38%)
+    - 38 livres (13.57% de la collection)
+    - 33 livres lus (86.84%)
+    - 8 livres en français (21.05%)
+    - 30 livres en anglais (78.95%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -12,6 +12,7 @@
 | Legends & Lattes | Travis Baldree | English | 978-1-0350-0733-2 | Possédé | Lu | Ebook | |
 | Le Maître et Marguerite | Mikhaïl Boulgakov | Français (tr.) | 978-2-221-24056-4 | Possédé | Lu | Ebook | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
+| This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Pas Lu | Ebook | |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Les contes de Grimm | Jacob et Wilhelm Grimm | Français | 978-2-36315-136-0 | Possédé | Lu | Ebook | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
@@ -25,7 +26,7 @@
 | Loveless | Alice Oseman | English | 9780008244132 | Possédé | Lu | Ebook | |
 | Les contes de Perrault | Charles Perrault | Français | 978-2-36315-137-7 | Possédé | Lu | Ebook | |
 | Mamie Luger | Benoît Philippon | Français | 978-2-35204-946-3 | Possédé | Lu | Ebook | |
-| Sea of Tranquility | Emily Saint-John-Mandel | English | 9780593321454 | Possédé | Pas Lu | Ebook | |
+| Sea of Tranquility | Emily Saint-John-Mandel | English | 9780593321454 | Possédé | Lu | Ebook | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | Lu | Ebook | Recueil |
 | Elantris | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Lu | Ebook | |
 | Mistborn 2-1 - The Alloy of Law | Brandon Sanderson | English | 978-1-250-29349-7 | Possédé | Lu | Ebook | |

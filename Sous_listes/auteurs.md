@@ -1,4 +1,4 @@
-190 Auteurs différents
+191 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -93,6 +93,7 @@
 | Brian Doyle | 1 |
 | Maurice Druon | 1 |
 | Jean-Luc Déjean | 1 |
+| Amal El-Mothar & Max Gladstone | 1 |
 | Ken Follett | 1 |
 | Paul Fournel | 1 |
 | Anne Frank | 1 |

@@ -1,5 +1,5 @@
 ## lus 
- - 251 parmi les 338 (74.26%)
+ - 252 parmi les 339 (74.34%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -184,6 +184,7 @@
 | Bonjour tristesse | Françoise Sagan | Français | 978-2-266-19558-4 | Possédé | Lu | Antony | |
 | Strom l'intégrale | Emmanuelle et Benoît de Saint-Chamas | Français | | Non | Lu | | Le collectionneur, Les portails d'outre temps, la 37eme prophétie |
 | Le petit Prince | Antoine de Saint-Exupéry | Français | 978-2-07-040850-4 | Possédé | Lu | Avignon (Cartons) | |
+| Sea of Tranquility | Emily Saint-John-Mandel | English | 9780593321454 | Possédé | Lu | Ebook | |
 | Alcatraz contre les infâmes bibliothécaires | Brandon Sanderson | Français (tr.) | | Non | Lu | | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | Lu | Ebook | Recueil |
 | Elantris | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Lu | Ebook | |

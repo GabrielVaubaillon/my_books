@@ -1,5 +1,5 @@
 ## possedes_english 
- - 57 parmi les 338 (16.86%)
+ - 58 parmi les 339 (17.11%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,6 +13,7 @@
 | The Alchemist | Paul Coelho | English (tr.) | 978-0-06-112241-5 | Possédé | Pas Lu | Avignon (Cartons) | |
 | Sherlock Holmes - The complete novels and stories - Volume one | Sir Arthur Conan-Doyle | English | 978-1-9848-9953-8 | Possédé | | Avignon (Cartons) | Recueil |
 | Sherlock Holmes - The complete novels and stories - Volume two | Sir Arthur Conan-Doyle | English | 978-1-9848-9954-5 | Possédé | | Avignon (Cartons) | Recueil |
+| This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Pas Lu | Ebook | |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Pas Lu | Cork | |
 | Irish myths and legends 2 - Cuchulain and the Red Branch of Ulster | Lady Augusta Gregory | English | 978-1-84840-887-6 | Possédé | Pas Lu | Cork | |
@@ -32,7 +33,7 @@
 | Dandelion Dynasty 4 - Speaking Bones | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Animal farm | George Orwell | English | 978-0-141-03613-7 | Possédé | Lu | Avignon (Cartons) | |
 | Loveless | Alice Oseman | English | 9780008244132 | Possédé | Lu | Ebook | |
-| Sea of Tranquility | Emily Saint-John-Mandel | English | 9780593321454 | Possédé | Pas Lu | Ebook | |
+| Sea of Tranquility | Emily Saint-John-Mandel | English | 9780593321454 | Possédé | Lu | Ebook | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | Lu | Ebook | Recueil |
 | Elantris | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Lu | Ebook | |
 | Mistborn 2-1 - The Alloy of Law | Brandon Sanderson | English | 978-1-250-29349-7 | Possédé | Lu | Ebook | |
