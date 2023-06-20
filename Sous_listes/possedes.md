@@ -1,5 +1,5 @@
 ## possedes 
- - 280 parmi les 339 (82.6%)
+ - 281 parmi les 340 (82.65%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -79,7 +79,7 @@
 | Les trois Mousquetaire | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 2 livres, Belle collection Auteur |
 | Vingt ans apres | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 2 livres, Belle collection Auteur |
 | Les lions de césar | Jean-Luc Déjean | Français | 978-2-01-322650-9 | Possédé | Lu | Antony | |
-| This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Pas Lu | Ebook | |
+| This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Lu | Ebook | |
 | Flamme et l'Etalon Noir | Walter Farley | Français (tr.) | 2-01-00-1034-5 | Possédé | Lu | Antony | |
 | Le fils de l'Etalon noir | Walter Farley | Français (tr.) | | Possédé | Lu | Antony | |
 | Diego Martin 0 - Tapas Nocturnes | Marc Fernandez | Français | 978-2-253-24171-3 | Possédé | Lu | Avignon (Cartons) | |
@@ -272,6 +272,7 @@
 | The Martian | Andy Weir | English | 978-0-553-41802-6 | Possédé | Lu | Prêté Papa | |
 | L'homme invisible | H.G. Wells | Français (tr.) | 2-010-14423-6 | Possédé | Lu | Antony | |
 | La guerre des mondes | H.G. Wells | Français (tr.) | 2-07-033567-4 | Possédé | Pas Lu | Avignon (Cartons) | |
+| Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Pas Lu | Ebook | |
 | Le serment des catacombes | Odile Weulersse | Français | 2-253-03954-3 | Possédé | Lu | Antony | |
 | Les pilleurs de sarcophages | Odile Weulersse | Français | 2-253-03532-7 | Possédé | Lu | Antony | |
 | Caïus et le gladiateur | Henry Winterfield | Français (tr.) | 978-2-01-322442-0 | Possédé | Lu | Antony | |

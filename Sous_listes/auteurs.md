@@ -1,4 +1,4 @@
-191 Auteurs différents
+192 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -191,5 +191,6 @@
 | Delphine de Vigan | 1 |
 | Jean Webster | 1 |
 | Andy Weir | 1 |
+| Martha Wells | 1 |
 | W. B. Yeats | 1 |
 | Stefan Zweig | 1 |

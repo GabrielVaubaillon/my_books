@@ -1,5 +1,5 @@
 ## lus 
- - 252 parmi les 339 (74.34%)
+ - 253 parmi les 340 (74.41%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -60,6 +60,7 @@
 | Les pollueurs font tache d'huile | Brian Doyle | Français (tr.) | 2-7427-1401-4 | Possédé | Lu | Antony | |
 | Tistou les pouces verts | Maurice Druon | Français | 2-01-0104153-3 | Possédé | Lu | Antony | |
 | Les lions de césar | Jean-Luc Déjean | Français | 978-2-01-322650-9 | Possédé | Lu | Antony | |
+| This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Lu | Ebook | |
 | Flamme et l'Etalon Noir | Walter Farley | Français (tr.) | 2-01-00-1034-5 | Possédé | Lu | Antony | |
 | Le fils de l'Etalon noir | Walter Farley | Français (tr.) | | Possédé | Lu | Antony | |
 | Diego Martin 0 - Tapas Nocturnes | Marc Fernandez | Français | 978-2-253-24171-3 | Possédé | Lu | Avignon (Cartons) | |

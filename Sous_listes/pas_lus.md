@@ -1,5 +1,5 @@
 ## pas_lus 
- - 87 parmi les 339 (25.66%)
+ - 87 parmi les 340 (25.59%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -32,7 +32,6 @@
 | Le vicomte de Bragelonne | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 6 livres, Belle collection Auteur |
 | Les trois Mousquetaire | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 2 livres, Belle collection Auteur |
 | Vingt ans apres | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 2 livres, Belle collection Auteur |
-| This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Pas Lu | Ebook | |
 | Le crépuscule et l'aube | Ken Follett | Français (tr.) | 978-2-221-15770-1 | Possédé | Pas Lu | Avignon (Cartons) | |
 | Journal | Anne Frank | Français (tr.) | 2-253-00127-9 | Possédé | Pas Lu | Antony | |
 | Au pays du grand condor | Nadine Garrel | Français | 2-07-033022-2 | Possédé | Pas Lu | Antony | |
@@ -88,6 +87,7 @@
 | L'armée des pauvres | B. Traven | Français (tr.) | 978-2-7491-2090-4 | Possédé | Pas Lu | Antony | |
 | J'irai cracher sur vos tombes | Boris Vian | Français | | Possédé | Pas Lu | Antony | |
 | La guerre des mondes | H.G. Wells | Français (tr.) | 2-07-033567-4 | Possédé | Pas Lu | Avignon (Cartons) | |
+| Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Pas Lu | Ebook | |
 | Irish Fairy and Folk Tales | W. B. Yeats | English | 978-1-3988-1926-9 | Possédé | Pas Lu | Cork | |
 | The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Pas Lu | Cork | |
 
