@@ -1,8 +1,8 @@
 - Ebook
-    - 39 livres (13.88% de la collection)
-    - 34 livres lus (87.18%)
-    - 8 livres en français (20.51%)
-    - 31 livres en anglais (79.49%)
+    - 40 livres (14.18% de la collection)
+    - 35 livres lus (87.5%)
+    - 8 livres en français (20.0%)
+    - 32 livres en anglais (80.0%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -44,5 +44,6 @@
 | The Hobbit | J.R.R. Tolkien | English | 978-0-007-48731-8 | Possédé | Lu | Ebook | |
 | The Lord Of The Rings | J.R.R. Tolkien | English | 978-0-007-32259-6 | Possédé | Lu | Ebook | |
 | The Silmarillion | J.R.R. Tolkien | English | 9780007322565 | Possédé | Lu | Ebook | |
-| Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Pas Lu | Ebook | |
+| Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Lu | Ebook | |
+| Murderbot 2 - Artificial Condition | Martha Wells | English | 978-1-250-18693-5 | Possédé | Pas Lu | Ebook | |
 

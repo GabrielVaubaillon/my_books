@@ -1,5 +1,5 @@
 ## lus 
- - 253 parmi les 340 (74.41%)
+ - 254 parmi les 341 (74.49%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -245,6 +245,7 @@
 | Papa-Longues-Jambes | Jean Webster | Français (tr.) | 978-2-07-061266-6 | Possédé | Lu | Antony | |
 | The Martian | Andy Weir | English | 978-0-553-41802-6 | Possédé | Lu | Prêté Papa | |
 | L'homme invisible | H.G. Wells | Français (tr.) | 2-010-14423-6 | Possédé | Lu | Antony | |
+| Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Lu | Ebook | |
 | Le chevalier au bouclier vert | Odile Weulersse | Français | | Non | Lu | | |
 | Le messager d'Athène | Odile Weulersse | Français | | Non | Lu | | |
 | Le serment des catacombes | Odile Weulersse | Français | 2-253-03954-3 | Possédé | Lu | Antony | |

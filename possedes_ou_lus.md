@@ -326,7 +326,8 @@
 | The Martian | Andy Weir | English | 978-0-553-41802-6 | Possédé | Lu | Prêté Papa | |
 | L'homme invisible | H.G. Wells | Français (tr.) | 2-010-14423-6 | Possédé | Lu | Antony | |
 | La guerre des mondes | H.G. Wells | Français (tr.) | 2-07-033567-4 | Possédé | Pas Lu | Avignon (Cartons) | |
-| Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Pas Lu | Ebook | |
+| Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Lu | Ebook | |
+| Murderbot 2 - Artificial Condition | Martha Wells | English | 978-1-250-18693-5 | Possédé | Pas Lu | Ebook | |
 | Le chevalier au bouclier vert | Odile Weulersse | Français | | Non | Lu | | |
 | Le messager d'Athène | Odile Weulersse | Français | | Non | Lu | | |
 | Le serment des catacombes | Odile Weulersse | Français | 2-253-03954-3 | Possédé | Lu | Antony | |

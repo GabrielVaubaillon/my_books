@@ -1,5 +1,5 @@
 ## possedes 
- - 281 parmi les 340 (82.65%)
+ - 282 parmi les 341 (82.7%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -272,7 +272,8 @@
 | The Martian | Andy Weir | English | 978-0-553-41802-6 | Possédé | Lu | Prêté Papa | |
 | L'homme invisible | H.G. Wells | Français (tr.) | 2-010-14423-6 | Possédé | Lu | Antony | |
 | La guerre des mondes | H.G. Wells | Français (tr.) | 2-07-033567-4 | Possédé | Pas Lu | Avignon (Cartons) | |
-| Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Pas Lu | Ebook | |
+| Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Lu | Ebook | |
+| Murderbot 2 - Artificial Condition | Martha Wells | English | 978-1-250-18693-5 | Possédé | Pas Lu | Ebook | |
 | Le serment des catacombes | Odile Weulersse | Français | 2-253-03954-3 | Possédé | Lu | Antony | |
 | Les pilleurs de sarcophages | Odile Weulersse | Français | 2-253-03532-7 | Possédé | Lu | Antony | |
 | Caïus et le gladiateur | Henry Winterfield | Français (tr.) | 978-2-01-322442-0 | Possédé | Lu | Antony | |

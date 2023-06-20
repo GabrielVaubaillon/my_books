@@ -47,6 +47,7 @@
 | John Steinbeck | 2 |
 | Voltaire | 2 |
 | H.G. Wells | 2 |
+| Martha Wells | 2 |
 | Henry Winterfield | 2 |
 | Douglas Adams | 1 |
 | Hans Christian Andersen | 1 |
@@ -191,6 +192,5 @@
 | Delphine de Vigan | 1 |
 | Jean Webster | 1 |
 | Andy Weir | 1 |
-| Martha Wells | 1 |
 | W. B. Yeats | 1 |
 | Stefan Zweig | 1 |
