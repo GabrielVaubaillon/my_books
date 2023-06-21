@@ -1,5 +1,5 @@
 ## pas_lus 
- - 87 parmi les 342 (25.44%)
+ - 90 parmi les 346 (26.01%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -87,7 +87,10 @@
 | L'armée des pauvres | B. Traven | Français (tr.) | 978-2-7491-2090-4 | Possédé | Pas Lu | Antony | |
 | J'irai cracher sur vos tombes | Boris Vian | Français | | Possédé | Pas Lu | Antony | |
 | La guerre des mondes | H.G. Wells | Français (tr.) | 2-07-033567-4 | Possédé | Pas Lu | Avignon (Cartons) | |
-| Murderbot 3 - Rogue Protocol | Martha Wells | English | 978-1-250-18543-3 | Possédé | Pas Lu | Ebook | |
+| Murderbot 4 - Exit Strategy | Martha Wells | English | 978-1-250-18546-4 | Possédé | Pas Lu | Ebook | |
+| Murderbot 4.5 - Home: Habitat, Range, Niche, Territory | Martha Wells | English | 978-1-250-83886-5 | Possédé | Pas Lu | Ebook | |
+| Murderbot 5 - Network Effect | Martha Wells | English | 978-1-250-22984-7 | Possédé | Pas Lu | Ebook | |
+| Murderbot 6 - Fugitive Telemetry | Martha Wells | English | 978-1-250-76538-3 | Possédé | Pas Lu | Ebook | |
 | Irish Fairy and Folk Tales | W. B. Yeats | English | 978-1-3988-1926-9 | Possédé | Pas Lu | Cork | |
 | The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Pas Lu | Cork | |
 

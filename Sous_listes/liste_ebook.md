@@ -1,8 +1,8 @@
 - Ebook
-    - 41 livres (14.49% de la collection)
-    - 36 livres lus (87.8%)
-    - 8 livres en français (19.51%)
-    - 33 livres en anglais (80.49%)
+    - 45 livres (15.68% de la collection)
+    - 37 livres lus (82.22%)
+    - 8 livres en français (17.78%)
+    - 37 livres en anglais (82.22%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -46,5 +46,9 @@
 | The Silmarillion | J.R.R. Tolkien | English | 9780007322565 | Possédé | Lu | Ebook | |
 | Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Lu | Ebook | |
 | Murderbot 2 - Artificial Condition | Martha Wells | English | 978-1-250-18693-5 | Possédé | Lu | Ebook | |
-| Murderbot 3 - Rogue Protocol | Martha Wells | English | 978-1-250-18543-3 | Possédé | Pas Lu | Ebook | |
+| Murderbot 3 - Rogue Protocol | Martha Wells | English | 978-1-250-18543-3 | Possédé | Lu | Ebook | |
+| Murderbot 4 - Exit Strategy | Martha Wells | English | 978-1-250-18546-4 | Possédé | Pas Lu | Ebook | |
+| Murderbot 4.5 - Home: Habitat, Range, Niche, Territory | Martha Wells | English | 978-1-250-83886-5 | Possédé | Pas Lu | Ebook | |
+| Murderbot 5 - Network Effect | Martha Wells | English | 978-1-250-22984-7 | Possédé | Pas Lu | Ebook | |
+| Murderbot 6 - Fugitive Telemetry | Martha Wells | English | 978-1-250-76538-3 | Possédé | Pas Lu | Ebook | |
 

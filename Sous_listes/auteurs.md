@@ -9,6 +9,7 @@
 | Alexandre Dumas | 8 |
 | Anne McCaffrey | 7 |
 | J. K. Rowling | 7 |
+| Martha Wells | 7 |
 | Paul-Jacques Bonzon | 6 |
 | Frank Herbert | 6 |
 | George R.R. Martin | 6 |
@@ -30,7 +31,6 @@
 | Dennis E. Taylor | 3 |
 | Chrétien de Troyes | 3 |
 | Jules Verne | 3 |
-| Martha Wells | 3 |
 | Bazire-Talamon | 2 |
 | Ray Bradbury | 2 |
 | Agatha Christie | 2 |
