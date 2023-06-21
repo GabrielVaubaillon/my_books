@@ -1,5 +1,5 @@
 ## possedes_english 
- - 60 parmi les 341 (17.6%)
+ - 61 parmi les 342 (17.84%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -60,7 +60,8 @@
 | Unfinished Tales | J.R.R. Tolkien | English | 978-0-261-10362-7 | Possédé | Pas Lu | Avignon (Cartons) | |
 | The Martian | Andy Weir | English | 978-0-553-41802-6 | Possédé | Lu | Prêté Papa | |
 | Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Lu | Ebook | |
-| Murderbot 2 - Artificial Condition | Martha Wells | English | 978-1-250-18693-5 | Possédé | Pas Lu | Ebook | |
+| Murderbot 2 - Artificial Condition | Martha Wells | English | 978-1-250-18693-5 | Possédé | Lu | Ebook | |
+| Murderbot 3 - Rogue Protocol | Martha Wells | English | 978-1-250-18543-3 | Possédé | Pas Lu | Ebook | |
 | Irish Fairy and Folk Tales | W. B. Yeats | English | 978-1-3988-1926-9 | Possédé | Pas Lu | Cork | |
 | The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Pas Lu | Cork | |
 

@@ -1,5 +1,5 @@
 - Avignon
-    - 74 livres (26.24% de la collection)
+    - 74 livres (26.15% de la collection)
     - 45 livres lus (60.81%)
     - 54 livres en français (72.97%)
     - 20 livres en anglais (27.03%)

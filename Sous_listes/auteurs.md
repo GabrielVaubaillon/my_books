@@ -30,6 +30,7 @@
 | Dennis E. Taylor | 3 |
 | Chrétien de Troyes | 3 |
 | Jules Verne | 3 |
+| Martha Wells | 3 |
 | Bazire-Talamon | 2 |
 | Ray Bradbury | 2 |
 | Agatha Christie | 2 |
@@ -47,7 +48,6 @@
 | John Steinbeck | 2 |
 | Voltaire | 2 |
 | H.G. Wells | 2 |
-| Martha Wells | 2 |
 | Henry Winterfield | 2 |
 | Douglas Adams | 1 |
 | Hans Christian Andersen | 1 |

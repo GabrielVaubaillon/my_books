@@ -1,5 +1,5 @@
 ## lus_english 
- - 50 parmi les 341 (14.66%)
+ - 51 parmi les 342 (14.91%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -53,4 +53,5 @@
 | The Silmarillion | J.R.R. Tolkien | English | 978-0-261-10273-6 | Possédé | Lu | Avignon (Cartons) | |
 | The Martian | Andy Weir | English | 978-0-553-41802-6 | Possédé | Lu | Prêté Papa | |
 | Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Lu | Ebook | |
+| Murderbot 2 - Artificial Condition | Martha Wells | English | 978-1-250-18693-5 | Possédé | Lu | Ebook | |
 
