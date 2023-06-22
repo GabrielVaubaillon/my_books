@@ -1,5 +1,5 @@
 ## lus_english 
- - 52 parmi les 346 (15.03%)
+ - 54 parmi les 346 (15.61%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -55,4 +55,6 @@
 | Murderbot 1 - All Systems Red | Martha Wells | English | 978-0-7653-9752-2 | Possédé | Lu | Ebook | |
 | Murderbot 2 - Artificial Condition | Martha Wells | English | 978-1-250-18693-5 | Possédé | Lu | Ebook | |
 | Murderbot 3 - Rogue Protocol | Martha Wells | English | 978-1-250-18543-3 | Possédé | Lu | Ebook | |
+| Murderbot 4 - Exit Strategy | Martha Wells | English | 978-1-250-18546-4 | Possédé | Lu | Ebook | |
+| Murderbot 4.5 - Home: Habitat, Range, Niche, Territory | Martha Wells | English | 978-1-250-83886-5 | Possédé | Lu | Ebook | |
 
