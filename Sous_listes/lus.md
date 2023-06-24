@@ -1,5 +1,5 @@
 ## lus 
- - 260 parmi les 347 (74.93%)
+ - 261 parmi les 348 (75.0%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -15,6 +15,7 @@
 | Les contes rouges du chat perché | Marcel Aymé | Français | 2-07-033098-2 | Possédé | Lu | Antony | |
 | La vie selon Ove | Fredik Backman | Français (tr.) | 978-2-258-10999-5 | Possédé | Lu | Ebook | |
 | Legends & Lattes | Travis Baldree | English | 978-1-0350-0733-2 | Possédé | Lu | Ebook | |
+| Le père Goriot | Honoré de Balzac | Français | | Non | Lu | | |
 | Le grand secret | Barjavel | Français | | Non | Lu | | |
 | Michel et les routiers | Georges Bayard | Français | | Possédé | Lu | Antony | |
 | Vipère au poing | Hervé Bazin | Français | 978-2-253-00145-4 | Possédé | Lu | Antony | |

@@ -1,4 +1,4 @@
-193 Auteurs différents
+194 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -58,6 +58,7 @@
 | Bachelard | 1 |
 | Fredik Backman | 1 |
 | Travis Baldree | 1 |
+| Honoré de Balzac | 1 |
 | Géronimo (S.M. Barett) | 1 |
 | Barjavel | 1 |
 | Dave Barry | 1 |
