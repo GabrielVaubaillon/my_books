@@ -1,4 +1,4 @@
-192 Auteurs différents
+193 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -126,6 +126,7 @@
 | Jonas Jonasson | 1 |
 | Diana Wynne Jones | 1 |
 | Thierry Jonquet | 1 |
+| Daniel Keyes | 1 |
 | S.J. Kincaid | 1 |
 | Rudyard Kipling | 1 |
 | Gérard Klein | 1 |

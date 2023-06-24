@@ -1,5 +1,5 @@
 ## lus_english 
- - 54 parmi les 346 (15.61%)
+ - 56 parmi les 347 (16.14%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -57,4 +57,6 @@
 | Murderbot 3 - Rogue Protocol | Martha Wells | English | 978-1-250-18543-3 | Possédé | Lu | Ebook | |
 | Murderbot 4 - Exit Strategy | Martha Wells | English | 978-1-250-18546-4 | Possédé | Lu | Ebook | |
 | Murderbot 4.5 - Home: Habitat, Range, Niche, Territory | Martha Wells | English | 978-1-250-83886-5 | Possédé | Lu | Ebook | |
+| Murderbot 5 - Network Effect | Martha Wells | English | 978-1-250-22984-7 | Possédé | Lu | Ebook | |
+| Murderbot 6 - Fugitive Telemetry | Martha Wells | English | 978-1-250-76538-3 | Possédé | Lu | Ebook | |
 

@@ -1,5 +1,5 @@
 ## pas_lus 
- - 88 parmi les 346 (25.43%)
+ - 87 parmi les 347 (25.07%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -46,6 +46,7 @@
 | Un sac de bille | Joseph Joffo | Français | 2-253-02777-4 | Possédé | Pas Lu | Antony | |
 | Le vieux qui ne voulait pas fêter son anniversaire | Jonas Jonasson | Français (tr.) | 978-2-266-21852-8 | Possédé | Pas Lu | Antony | |
 | Du passé faisons table rase | Thierry Jonquet | Français | 978-2-07-030861-3 | Possédé | Pas Lu | Antony | |
+| Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Pas Lu | Ebook | |
 | Arsène Lupin - La comtesse de Cagliosto | Maurice Leblanc | Français | 301-0-000-03034-8 | Possédé | Pas Lu | Antony | |
 | Les aventures extraordinaires d'Arsène Lupin - Tome 3 (Omnibus) | Maurice Leblanc | Français | 978-2-258-09388-1 | Possédé | Pas Lu | Antony | |
 | To Kill A Mocking-Bird | Harper Lee | English | 978-0-09-941978-5 | Possédé | Pas Lu | Cork | |
@@ -87,8 +88,6 @@
 | L'armée des pauvres | B. Traven | Français (tr.) | 978-2-7491-2090-4 | Possédé | Pas Lu | Antony | |
 | J'irai cracher sur vos tombes | Boris Vian | Français | | Possédé | Pas Lu | Antony | |
 | La guerre des mondes | H.G. Wells | Français (tr.) | 2-07-033567-4 | Possédé | Pas Lu | Avignon (Cartons) | |
-| Murderbot 5 - Network Effect | Martha Wells | English | 978-1-250-22984-7 | Possédé | Pas Lu | Ebook | |
-| Murderbot 6 - Fugitive Telemetry | Martha Wells | English | 978-1-250-76538-3 | Possédé | Pas Lu | Ebook | |
 | Irish Fairy and Folk Tales | W. B. Yeats | English | 978-1-3988-1926-9 | Possédé | Pas Lu | Cork | |
 | The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Pas Lu | Cork | |
 

@@ -1,5 +1,5 @@
 ## possedes_english 
- - 65 parmi les 346 (18.79%)
+ - 66 parmi les 347 (19.02%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -25,6 +25,7 @@
 | Dune 5 - Heretics of Dune | Frank Herbert | English | 978-0-593-09826-4 | Possédé | Lu | Avignon (Cartons) | |
 | Dune 6 - Chapterhouse : Dune | Frank Herbert | English | 978-0-593-09827-1 | Possédé | Lu | Avignon (Cartons) | |
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
+| Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Pas Lu | Ebook | |
 | The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
 | To Kill A Mocking-Bird | Harper Lee | English | 978-0-09-941978-5 | Possédé | Pas Lu | Cork | |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
@@ -64,8 +65,8 @@
 | Murderbot 3 - Rogue Protocol | Martha Wells | English | 978-1-250-18543-3 | Possédé | Lu | Ebook | |
 | Murderbot 4 - Exit Strategy | Martha Wells | English | 978-1-250-18546-4 | Possédé | Lu | Ebook | |
 | Murderbot 4.5 - Home: Habitat, Range, Niche, Territory | Martha Wells | English | 978-1-250-83886-5 | Possédé | Lu | Ebook | |
-| Murderbot 5 - Network Effect | Martha Wells | English | 978-1-250-22984-7 | Possédé | Pas Lu | Ebook | |
-| Murderbot 6 - Fugitive Telemetry | Martha Wells | English | 978-1-250-76538-3 | Possédé | Pas Lu | Ebook | |
+| Murderbot 5 - Network Effect | Martha Wells | English | 978-1-250-22984-7 | Possédé | Lu | Ebook | |
+| Murderbot 6 - Fugitive Telemetry | Martha Wells | English | 978-1-250-76538-3 | Possédé | Lu | Ebook | |
 | Irish Fairy and Folk Tales | W. B. Yeats | English | 978-1-3988-1926-9 | Possédé | Pas Lu | Cork | |
 | The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Pas Lu | Cork | |
 

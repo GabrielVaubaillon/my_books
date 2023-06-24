@@ -1,8 +1,8 @@
 - Ebook
-    - 45 livres (15.68% de la collection)
-    - 39 livres lus (86.67%)
-    - 8 livres en français (17.78%)
-    - 37 livres en anglais (82.22%)
+    - 46 livres (15.97% de la collection)
+    - 41 livres lus (89.13%)
+    - 8 livres en français (17.39%)
+    - 38 livres en anglais (82.61%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -18,6 +18,7 @@
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
 | Comment braquer une banque sans perdre son dentier | Catharina Ingelman-Sundberg | Français (tr.) | 978-2-823-81023 | Possédé | Lu | Ebook | |
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
+| Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Pas Lu | Ebook | |
 | The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 2 - The Wall of Storms | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
@@ -49,6 +50,6 @@
 | Murderbot 3 - Rogue Protocol | Martha Wells | English | 978-1-250-18543-3 | Possédé | Lu | Ebook | |
 | Murderbot 4 - Exit Strategy | Martha Wells | English | 978-1-250-18546-4 | Possédé | Lu | Ebook | |
 | Murderbot 4.5 - Home: Habitat, Range, Niche, Territory | Martha Wells | English | 978-1-250-83886-5 | Possédé | Lu | Ebook | |
-| Murderbot 5 - Network Effect | Martha Wells | English | 978-1-250-22984-7 | Possédé | Pas Lu | Ebook | |
-| Murderbot 6 - Fugitive Telemetry | Martha Wells | English | 978-1-250-76538-3 | Possédé | Pas Lu | Ebook | |
+| Murderbot 5 - Network Effect | Martha Wells | English | 978-1-250-22984-7 | Possédé | Lu | Ebook | |
+| Murderbot 6 - Fugitive Telemetry | Martha Wells | English | 978-1-250-76538-3 | Possédé | Lu | Ebook | |
 

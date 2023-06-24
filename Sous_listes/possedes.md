@@ -1,5 +1,5 @@
 ## possedes 
- - 287 parmi les 346 (82.95%)
+ - 288 parmi les 347 (83.0%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -127,6 +127,7 @@
 | Le vieux qui ne voulait pas fêter son anniversaire | Jonas Jonasson | Français (tr.) | 978-2-266-21852-8 | Possédé | Pas Lu | Antony | |
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
 | Du passé faisons table rase | Thierry Jonquet | Français | 978-2-07-030861-3 | Possédé | Pas Lu | Antony | |
+| Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Pas Lu | Ebook | |
 | Le phoque blanc | Rudyard Kipling | Français (tr.) | 978-2-07-061559-9 | Possédé | Lu | Antony | |
 | Le gambit des étoiles | Gérard Klein | Français | 2-253-03879-2 | Possédé | Lu | Avignon (Cartons) | |
 | L'île de Black Mor | Jean-François Laguionie | Français | 2-226-11-296-0 | Possédé | Lu | Antony | |
@@ -277,8 +278,8 @@
 | Murderbot 3 - Rogue Protocol | Martha Wells | English | 978-1-250-18543-3 | Possédé | Lu | Ebook | |
 | Murderbot 4 - Exit Strategy | Martha Wells | English | 978-1-250-18546-4 | Possédé | Lu | Ebook | |
 | Murderbot 4.5 - Home: Habitat, Range, Niche, Territory | Martha Wells | English | 978-1-250-83886-5 | Possédé | Lu | Ebook | |
-| Murderbot 5 - Network Effect | Martha Wells | English | 978-1-250-22984-7 | Possédé | Pas Lu | Ebook | |
-| Murderbot 6 - Fugitive Telemetry | Martha Wells | English | 978-1-250-76538-3 | Possédé | Pas Lu | Ebook | |
+| Murderbot 5 - Network Effect | Martha Wells | English | 978-1-250-22984-7 | Possédé | Lu | Ebook | |
+| Murderbot 6 - Fugitive Telemetry | Martha Wells | English | 978-1-250-76538-3 | Possédé | Lu | Ebook | |
 | Le serment des catacombes | Odile Weulersse | Français | 2-253-03954-3 | Possédé | Lu | Antony | |
 | Les pilleurs de sarcophages | Odile Weulersse | Français | 2-253-03532-7 | Possédé | Lu | Antony | |
 | Caïus et le gladiateur | Henry Winterfield | Français (tr.) | 978-2-01-322442-0 | Possédé | Lu | Antony | |
