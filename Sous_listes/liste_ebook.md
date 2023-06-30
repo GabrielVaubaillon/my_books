@@ -1,8 +1,8 @@
 - Ebook
-    - 47 livres (16.26% de la collection)
-    - 42 livres lus (89.36%)
-    - 8 livres en français (17.02%)
-    - 39 livres en anglais (82.98%)
+    - 48 livres (16.55% de la collection)
+    - 43 livres lus (89.58%)
+    - 8 livres en français (16.67%)
+    - 40 livres en anglais (83.33%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -11,7 +11,8 @@
 | La vie selon Ove | Fredik Backman | Français (tr.) | 978-2-258-10999-5 | Possédé | Lu | Ebook | |
 | Legends & Lattes | Travis Baldree | English | 978-1-0350-0733-2 | Possédé | Lu | Ebook | |
 | Le Maître et Marguerite | Mikhaïl Boulgakov | Français (tr.) | 978-2-221-24056-4 | Possédé | Lu | Ebook | |
-| Monk & Robot 1: A Psalm for the Wild Built | Becky Chambers | English | | Possédé | Pas Lu | Ebook | |
+| Monk & Robot 1: A Psalm for the Wild Built | Becky Chambers | English | 978-1-250-23622-7 | Possédé | Lu | Ebook | |
+| Monk & Robot 2: A Prayer for the Crown Shy | Becky Chambers | English | 978-1-250-23624-1 | Possédé | Pas Lu | Ebook | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
 | This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Lu | Ebook | |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |

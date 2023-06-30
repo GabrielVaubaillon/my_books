@@ -33,6 +33,7 @@
 | Jules Verne | 3 |
 | Bazire-Talamon | 2 |
 | Ray Bradbury | 2 |
+| Becky Chambers | 2 |
 | Agatha Christie | 2 |
 | Walter Farley | 2 |
 | Timothée de Fombelle | 2 |
@@ -76,7 +77,6 @@
 | Lewis Carrol | 1 |
 | Jacques Cassabois | 1 |
 | Cervantès | 1 |
-| Becky Chambers | 1 |
 | Arthur C. Clarke | 1 |
 | Susana Clarke | 1 |
 | Linda Cline | 1 |

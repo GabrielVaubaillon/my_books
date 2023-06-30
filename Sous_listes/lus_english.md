@@ -1,11 +1,12 @@
 ## lus_english 
- - 57 parmi les 349 (16.33%)
+ - 58 parmi les 350 (16.57%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Legends & Lattes | Travis Baldree | English | 978-1-0350-0733-2 | Possédé | Lu | Ebook | |
 | Fahrenheit 451 | Ray Bradbury | English | 978-0-00-654606-1 | Possédé | Lu | Avignon (Cartons) | |
 | The Martian Chronicles | Ray Bradbury | English | 978-0-00-647923 | Possédé | Lu | Avignon (Cartons) | |
+| Monk & Robot 1: A Psalm for the Wild Built | Becky Chambers | English | 978-1-250-23622-7 | Possédé | Lu | Ebook | |
 | And then there were None | Agatha Christie | English | 978-0-00-812320-8 | Possédé | Lu | Cork | |
 | Murder on the Orient Express | Agatha Christie | English | 978-0-00-752750-2 | Possédé | Lu | Cork | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
