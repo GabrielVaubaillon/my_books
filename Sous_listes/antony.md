@@ -1,8 +1,8 @@
 - Antony
-    - 160 livres (55.17% de la collection)
-    - 112 livres lus (70.0%)
-    - 160 livres en français (100.0%)
-    - 0 livres en anglais (0.0%)
+    - 162 livres (55.86% de la collection)
+    - 114 livres lus (70.37%)
+    - 160 livres en français (98.77%)
+    - 2 livres en anglais (1.23%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -31,6 +31,8 @@
 | La révolte de 10 x | Joan Davenport Carris | Français (tr.) | 2-08-161758-7 | Possédé | Lu | Antony | |
 | Le récit de Gilgamesh | Jacques Cassabois | Français | 978-2-218-93642-5 | Possédé | Lu | Antony | |
 | Don Quichotte (abrégé) | Cervantès | Français | 2-0139322247-5 | Possédé | Lu | Antony | |
+| And then there were None | Agatha Christie | English | 978-0-00-812320-8 | Possédé | Lu | Antony | |
+| Murder on the Orient Express | Agatha Christie | English | 978-0-00-752750-2 | Possédé | Lu | Antony | |
 | Les prisoniers du marais | Linda Cline | Français (tr.) | 2-253-02571-2 | Possédé | Lu | Antony | |
 | Pinocchio | Carlo Collodi | Français (tr.) | 978-2-01-321286-1 | Possédé | Lu | Antony | |
 | 25 métamorphoses d'Ovide | Annie Collognat | Français | 978-2-01-000906-8 | Possédé | Lu | Antony | |
