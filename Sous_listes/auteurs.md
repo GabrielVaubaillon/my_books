@@ -1,4 +1,4 @@
-194 Auteurs différents
+195 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -76,6 +76,7 @@
 | Lewis Carrol | 1 |
 | Jacques Cassabois | 1 |
 | Cervantès | 1 |
+| Becky Chambers | 1 |
 | Arthur C. Clarke | 1 |
 | Susana Clarke | 1 |
 | Linda Cline | 1 |

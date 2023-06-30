@@ -1,5 +1,5 @@
 ## possedes 
- - 288 parmi les 348 (82.76%)
+ - 289 parmi les 349 (82.81%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -42,6 +42,7 @@
 | La révolte de 10 x | Joan Davenport Carris | Français (tr.) | 2-08-161758-7 | Possédé | Lu | Antony | |
 | Le récit de Gilgamesh | Jacques Cassabois | Français | 978-2-218-93642-5 | Possédé | Lu | Antony | |
 | Don Quichotte (abrégé) | Cervantès | Français | 2-0139322247-5 | Possédé | Lu | Antony | |
+| Monk & Robot 1: A Psalm for the Wild Built | Becky Chambers | English | | Possédé | Pas Lu | Ebook | |
 | And then there were None | Agatha Christie | English | 978-0-00-812320-8 | Possédé | Lu | Cork | |
 | Murder on the Orient Express | Agatha Christie | English | 978-0-00-752750-2 | Possédé | Lu | Cork | |
 | TBP 1 - Le Problème à trois corps | Liu Cixin | Français (tr.) | 978-2-330-11355-1 | Possédé | Lu | Avignon (Cartons) | |
@@ -127,7 +128,7 @@
 | Le vieux qui ne voulait pas fêter son anniversaire | Jonas Jonasson | Français (tr.) | 978-2-266-21852-8 | Possédé | Pas Lu | Antony | |
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
 | Du passé faisons table rase | Thierry Jonquet | Français | 978-2-07-030861-3 | Possédé | Pas Lu | Antony | |
-| Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Pas Lu | Ebook | |
+| Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Lu | Ebook | |
 | Le phoque blanc | Rudyard Kipling | Français (tr.) | 978-2-07-061559-9 | Possédé | Lu | Antony | |
 | Le gambit des étoiles | Gérard Klein | Français | 2-253-03879-2 | Possédé | Lu | Avignon (Cartons) | |
 | L'île de Black Mor | Jean-François Laguionie | Français | 2-226-11-296-0 | Possédé | Lu | Antony | |

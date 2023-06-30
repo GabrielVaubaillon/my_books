@@ -1,5 +1,5 @@
 ## lus 
- - 261 parmi les 348 (75.0%)
+ - 262 parmi les 349 (75.07%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -103,6 +103,7 @@
 | Comment braquer une banque sans perdre son dentier | Catharina Ingelman-Sundberg | Français (tr.) | 978-2-823-81023 | Possédé | Lu | Ebook | |
 | L'attaque des titans (tome 1->22) | Hajime Isayama | Français (tr.) | | Non | Lu | | |
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
+| Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Lu | Ebook | |
 | Diabolic | S.J. Kincaid | Français (tr.) | | Non | Lu | | |
 | Le phoque blanc | Rudyard Kipling | Français (tr.) | 978-2-07-061559-9 | Possédé | Lu | Antony | |
 | Le gambit des étoiles | Gérard Klein | Français | 2-253-03879-2 | Possédé | Lu | Avignon (Cartons) | |

@@ -1,8 +1,8 @@
 - Ebook
-    - 46 livres (15.97% de la collection)
-    - 41 livres lus (89.13%)
-    - 8 livres en français (17.39%)
-    - 38 livres en anglais (82.61%)
+    - 47 livres (16.26% de la collection)
+    - 42 livres lus (89.36%)
+    - 8 livres en français (17.02%)
+    - 39 livres en anglais (82.98%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -11,6 +11,7 @@
 | La vie selon Ove | Fredik Backman | Français (tr.) | 978-2-258-10999-5 | Possédé | Lu | Ebook | |
 | Legends & Lattes | Travis Baldree | English | 978-1-0350-0733-2 | Possédé | Lu | Ebook | |
 | Le Maître et Marguerite | Mikhaïl Boulgakov | Français (tr.) | 978-2-221-24056-4 | Possédé | Lu | Ebook | |
+| Monk & Robot 1: A Psalm for the Wild Built | Becky Chambers | English | | Possédé | Pas Lu | Ebook | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
 | This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Lu | Ebook | |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
@@ -18,7 +19,7 @@
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
 | Comment braquer une banque sans perdre son dentier | Catharina Ingelman-Sundberg | Français (tr.) | 978-2-823-81023 | Possédé | Lu | Ebook | |
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
-| Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Pas Lu | Ebook | |
+| Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Lu | Ebook | |
 | The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 2 - The Wall of Storms | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
