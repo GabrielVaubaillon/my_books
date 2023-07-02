@@ -1,4 +1,4 @@
-195 Auteurs différents
+199 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -43,6 +43,7 @@
 | Victor Hugo | 2 |
 | Maurice Leblanc | 2 |
 | Jack London | 2 |
+| Guy de Maupassant | 2 |
 | Blaise Pascal | 2 |
 | Jacques Prévert | 2 |
 | J.H. Rosny Aîné | 2 |
@@ -88,6 +89,7 @@
 | Conrad | 1 |
 | Cressida Cowell | 1 |
 | Didier Daeninckx | 1 |
+| Alain Damasio | 1 |
 | James Dashner | 1 |
 | Stéphane Descornes & Hugues Micol | 1 |
 | Stéphane Descornes & Michaël Sterckeman | 1 |
@@ -150,6 +152,8 @@
 | Thomas More | 1 |
 | Anthony Morowitz | 1 |
 | Farley Mowat | 1 |
+| Propser Mérimée | 1 |
+| Amélie Nothomb | 1 |
 | Robert C. O'Brien | 1 |
 | Pierre Mac Orlan | 1 |
 | Laura Orvieto | 1 |

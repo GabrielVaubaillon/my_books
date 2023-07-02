@@ -1,5 +1,5 @@
 ## possedes_francais 
- - 222 parmi les 350 (63.43%)
+ - 223 parmi les 355 (62.82%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -51,6 +51,7 @@
 | Histoire populaire des sciences | Clifford D. Conner | Français (tr.) | 978-2-7578-3679-8 | Possédé | Pas Lu | Avignon (Cartons) | |
 | Au coeur des ténèbres | Conrad | Français (tr.) | 978-2-0813-9745-3 | Possédé | Lu | Antony | |
 | Comment dresser votre dragon | Cressida Cowell | Français (tr.) | 978-2-203-03261-3 | Possédé | Lu | Antony | |
+| La Horde du Contrevent | Alain Damasio | Français | 978-2-07-292751-5 | Possédé | Pas Lu | Antony | |
 | Le labyrinthe - L'épreuve | James Dashner | Français (tr.) | 978-2-266-20012-7 | Possédé | Lu | Antony (vente) | |
 | Contes et récits - Pirates, Corsaires et flibustiers | Stéphane Descornes & Hugues Micol | Français | 2-09-282612-3 | Possédé | Lu | Antony | |
 | Contes et récits - de Paris | Stéphane Descornes & Michaël Sterckeman | Français | 209282083-4 | Possédé | Lu | Antony | |

@@ -1,5 +1,5 @@
 ## pas_lus 
- - 87 parmi les 350 (24.86%)
+ - 87 parmi les 355 (24.51%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,7 +14,6 @@
 | J'ai bien connu Icare | Hans Baumann | Français (tr.) | 2-08-161866-4 | Possédé | Pas Lu | Antony | |
 | La concierge est dans le cercueil | José Benjamin | Français | 978-2-913019-58-4 | Possédé | Pas Lu | Antony | |
 | Bennett et sa cabane | Anthony Buckeridge | Français | 2-253-02338-8 | Possédé | Pas Lu | Antony | |
-| Monk & Robot 2: A Prayer for the Crown Shy | Becky Chambers | English | 978-1-250-23624-1 | Possédé | Pas Lu | Ebook | |
 | TBP 2 - La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Avignon (Cartons) | |
 | TBP 3 - La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Avignon (Cartons) | |
 | The Alchemist | Paul Coelho | English (tr.) | 978-0-06-112241-5 | Possédé | Pas Lu | Avignon (Cartons) | |
@@ -23,6 +22,7 @@
 | Sherlock Holmes - The complete novels and stories - Volume one | Sir Arthur Conan-Doyle | English | 978-1-9848-9953-8 | Possédé | | Avignon (Cartons) | Recueil |
 | Sherlock Holmes - The complete novels and stories - Volume two | Sir Arthur Conan-Doyle | English | 978-1-9848-9954-5 | Possédé | | Avignon (Cartons) | Recueil |
 | Histoire populaire des sciences | Clifford D. Conner | Français (tr.) | 978-2-7578-3679-8 | Possédé | Pas Lu | Avignon (Cartons) | |
+| La Horde du Contrevent | Alain Damasio | Français | 978-2-07-292751-5 | Possédé | Pas Lu | Antony | |
 | Philip K. Dick - Nouvelles completes I (1947-1953) | Philip K. Dick | Français (tr.) | 978-2-07-285870-3 | Possédé | | Avignon (Cartons) | Recueil |
 | Philip K. Dick - Nouvelles completes II (1954-1981) | Philip K. Dick | Français (tr.) | 978-2-07-285873-4 | Possédé | | Avignon (Cartons) | Recueil |
 | Ange Pitou | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 2 livres, Belle collection Auteur |

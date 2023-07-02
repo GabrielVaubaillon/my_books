@@ -46,7 +46,7 @@
 | Le récit de Gilgamesh | Jacques Cassabois | Français | 978-2-218-93642-5 | Possédé | Lu | Antony | |
 | Don Quichotte (abrégé) | Cervantès | Français | 2-0139322247-5 | Possédé | Lu | Antony | |
 | Monk & Robot 1: A Psalm for the Wild Built | Becky Chambers | English | 978-1-250-23622-7 | Possédé | Lu | Ebook | |
-| Monk & Robot 2: A Prayer for the Crown Shy | Becky Chambers | English | 978-1-250-23624-1 | Possédé | Pas Lu | Ebook | |
+| Monk & Robot 2: A Prayer for the Crown Shy | Becky Chambers | English | 978-1-250-23624-1 | Possédé | Lu | Ebook | |
 | And then there were None | Agatha Christie | English | 978-0-00-812320-8 | Possédé | Lu | Antony | |
 | Murder on the Orient Express | Agatha Christie | English | 978-0-00-752750-2 | Possédé | Lu | Antony | |
 | TBP 1 - Le Problème à trois corps | Liu Cixin | Français (tr.) | 978-2-330-11355-1 | Possédé | Lu | Avignon (Cartons) | |
@@ -70,6 +70,7 @@
 | Au coeur des ténèbres | Conrad | Français (tr.) | 978-2-0813-9745-3 | Possédé | Lu | Antony | |
 | Comment dresser votre dragon | Cressida Cowell | Français (tr.) | 978-2-203-03261-3 | Possédé | Lu | Antony | |
 | Cannibale | Didier Daeninckx | Français | | Non | Lu | | |
+| La Horde du Contrevent | Alain Damasio | Français | 978-2-07-292751-5 | Possédé | Pas Lu | Antony | |
 | Le labyrinthe - L'épreuve | James Dashner | Français (tr.) | 978-2-266-20012-7 | Possédé | Lu | Antony (vente) | |
 | Contes et récits - Pirates, Corsaires et flibustiers | Stéphane Descornes & Hugues Micol | Français | 2-09-282612-3 | Possédé | Lu | Antony | |
 | Contes et récits - de Paris | Stéphane Descornes & Michaël Sterckeman | Français | 209282083-4 | Possédé | Lu | Antony | |
@@ -172,6 +173,8 @@
 | Le trône de fer (L'integrale 3) | George R.R. Martin | Français (tr.) | 978-2-290-02216-0 | Possédé | Lu | Avignon (Cartons) | |
 | Le trône de fer (L'integrale 4) | George R.R. Martin | Français (tr.) | 978-2-290-02217-7 | Possédé | Lu | Avignon (Cartons) | |
 | Le trône de fer (L'integrale 5) | George R.R. Martin | Français (tr.) | 978-2-290-10709-6 | Possédé | Pas Lu | Avignon (Cartons) | |
+| Bel-Ami | Guy de Maupassant | Français | | Non | Lu | | |
+| Le Horla | Guy de Maupassant | Français | | Non | Lu | | |
 | Contes du jour et de la nuit | Maupassant | Français | 978-2-253-04654-7 | Possédé | Lu | Antony | |
 | La ballade de Pern - Histoire de Nerilka | Anne McCaffrey | Français (tr.) | 2-266-03885-0 | Possédé | Lu | Antony | |
 | La ballade de Pern - L'aube des dragons | Anne McCaffrey | Français (tr.) | 2-266-03380-8 | Possédé | Lu | Antony | |
@@ -188,6 +191,8 @@
 | L'utopie | Thomas More | Français | 9782290134115 | Possédé | Pas Lu | Antony | |
 | Pagaille à Paris | Anthony Morowitz | Français | | Non | Lu | | |
 | Mes amis les loups | Farley Mowat | Français (tr.) | 2-08-161794-3 | Possédé | Pas Lu | Antony | |
+| La Vénus d'Ille | Propser Mérimée | Français | | Non | Lu | | |
+| Stupeur et Tremblement | Amélie Nothomb | Français | | Non | Lu | | |
 | Z comme Zacharie | Robert C. O'Brien | Français (tr.) | 2-253-03882-2 | Possédé | Lu | Antony | |
 | Les clients du Bon Chien Jaune | Pierre Mac Orlan | Français | 978-2-07-056016-5 | Possédé | Lu | Antony | |
 | Contes et légendes de la naissance de Rome | Laura Orvieto | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |

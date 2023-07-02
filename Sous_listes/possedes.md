@@ -1,5 +1,5 @@
 ## possedes 
- - 290 parmi les 350 (82.86%)
+ - 291 parmi les 355 (81.97%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@
 | Le récit de Gilgamesh | Jacques Cassabois | Français | 978-2-218-93642-5 | Possédé | Lu | Antony | |
 | Don Quichotte (abrégé) | Cervantès | Français | 2-0139322247-5 | Possédé | Lu | Antony | |
 | Monk & Robot 1: A Psalm for the Wild Built | Becky Chambers | English | 978-1-250-23622-7 | Possédé | Lu | Ebook | |
-| Monk & Robot 2: A Prayer for the Crown Shy | Becky Chambers | English | 978-1-250-23624-1 | Possédé | Pas Lu | Ebook | |
+| Monk & Robot 2: A Prayer for the Crown Shy | Becky Chambers | English | 978-1-250-23624-1 | Possédé | Lu | Ebook | |
 | And then there were None | Agatha Christie | English | 978-0-00-812320-8 | Possédé | Lu | Antony | |
 | Murder on the Orient Express | Agatha Christie | English | 978-0-00-752750-2 | Possédé | Lu | Antony | |
 | TBP 1 - Le Problème à trois corps | Liu Cixin | Français (tr.) | 978-2-330-11355-1 | Possédé | Lu | Avignon (Cartons) | |
@@ -63,6 +63,7 @@
 | Histoire populaire des sciences | Clifford D. Conner | Français (tr.) | 978-2-7578-3679-8 | Possédé | Pas Lu | Avignon (Cartons) | |
 | Au coeur des ténèbres | Conrad | Français (tr.) | 978-2-0813-9745-3 | Possédé | Lu | Antony | |
 | Comment dresser votre dragon | Cressida Cowell | Français (tr.) | 978-2-203-03261-3 | Possédé | Lu | Antony | |
+| La Horde du Contrevent | Alain Damasio | Français | 978-2-07-292751-5 | Possédé | Pas Lu | Antony | |
 | Le labyrinthe - L'épreuve | James Dashner | Français (tr.) | 978-2-266-20012-7 | Possédé | Lu | Antony (vente) | |
 | Contes et récits - Pirates, Corsaires et flibustiers | Stéphane Descornes & Hugues Micol | Français | 2-09-282612-3 | Possédé | Lu | Antony | |
 | Contes et récits - de Paris | Stéphane Descornes & Michaël Sterckeman | Français | 209282083-4 | Possédé | Lu | Antony | |

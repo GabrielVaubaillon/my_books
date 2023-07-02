@@ -1,5 +1,5 @@
 ## lus_francais 
- - 205 parmi les 350 (58.57%)
+ - 209 parmi les 355 (58.87%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -101,6 +101,8 @@
 | Le trône de fer (L'integrale 2) | George R.R. Martin | Français (tr.) | 978-2-290-01944-3 | Possédé | Lu | Avignon (Cartons) | |
 | Le trône de fer (L'integrale 3) | George R.R. Martin | Français (tr.) | 978-2-290-02216-0 | Possédé | Lu | Avignon (Cartons) | |
 | Le trône de fer (L'integrale 4) | George R.R. Martin | Français (tr.) | 978-2-290-02217-7 | Possédé | Lu | Avignon (Cartons) | |
+| Bel-Ami | Guy de Maupassant | Français | | Non | Lu | | |
+| Le Horla | Guy de Maupassant | Français | | Non | Lu | | |
 | Contes du jour et de la nuit | Maupassant | Français | 978-2-253-04654-7 | Possédé | Lu | Antony | |
 | La ballade de Pern - Histoire de Nerilka | Anne McCaffrey | Français (tr.) | 2-266-03885-0 | Possédé | Lu | Antony | |
 | La ballade de Pern - L'aube des dragons | Anne McCaffrey | Français (tr.) | 2-266-03380-8 | Possédé | Lu | Antony | |
@@ -114,6 +116,8 @@
 | On ne badine pas avec les tueurs | Catherine Missonnier | Français | 2-7002-2063-3 | Possédé | Lu | Antony | |
 | Le vieil homme de la forêt | Dam Mitrecey | Français | 978-2-84064-279-4 | Possédé | Lu | Antony (vente) | |
 | Pagaille à Paris | Anthony Morowitz | Français | | Non | Lu | | |
+| La Vénus d'Ille | Propser Mérimée | Français | | Non | Lu | | |
+| Stupeur et Tremblement | Amélie Nothomb | Français | | Non | Lu | | |
 | Z comme Zacharie | Robert C. O'Brien | Français (tr.) | 2-253-03882-2 | Possédé | Lu | Antony | |
 | Les clients du Bon Chien Jaune | Pierre Mac Orlan | Français | 978-2-07-056016-5 | Possédé | Lu | Antony | |
 | Contes et légendes de la naissance de Rome | Laura Orvieto | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
