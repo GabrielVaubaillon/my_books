@@ -83,7 +83,7 @@
 | Le goéland | Jonathan Livingston | Français (tr.) | 2-08-161714-5 | Possédé | Lu | Antony | |
 | Croc-Blanc | Jack London | Français (tr.) | 978-2-01-322574-8 | Possédé | Lu | Antony | |
 | Martin Eden | Jack London | Français (tr.) | 978-2-07-079398-3 | Possédé | Pas Lu | Antony | |
-| Contes du jour et de la nuit | Maupassant | Français | 978-2-253-04654-7 | Possédé | Lu | Antony | |
+| Contes du jour et de la nuit | Guy de Maupassant | Français | 978-2-253-04654-7 | Possédé | Lu | Antony | |
 | La ballade de Pern - Histoire de Nerilka | Anne McCaffrey | Français (tr.) | 2-266-03885-0 | Possédé | Lu | Antony | |
 | La ballade de Pern - L'aube des dragons | Anne McCaffrey | Français (tr.) | 2-266-03380-8 | Possédé | Lu | Antony | |
 | La ballade de Pern - La Dame aux dragons | Anne McCaffrey | Français (tr.) | 2-266-03379-4 | Possédé | Lu | Antony | |

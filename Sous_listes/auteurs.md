@@ -1,4 +1,4 @@
-199 Auteurs différents
+198 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -27,6 +27,7 @@
 | Philip K. Dick | 3 |
 | Marc Fernandez | 3 |
 | Brian Herbert & Kevin J. Anderson | 3 |
+| Guy de Maupassant | 3 |
 | Philip Pullman | 3 |
 | Dennis E. Taylor | 3 |
 | Chrétien de Troyes | 3 |
@@ -43,7 +44,6 @@
 | Victor Hugo | 2 |
 | Maurice Leblanc | 2 |
 | Jack London | 2 |
-| Guy de Maupassant | 2 |
 | Blaise Pascal | 2 |
 | Jacques Prévert | 2 |
 | J.H. Rosny Aîné | 2 |
@@ -143,7 +143,6 @@
 | Stanislaw Lem | 1 |
 | Donna Leon | 1 |
 | Jonathan Livingston | 1 |
-| Maupassant | 1 |
 | Herman Melville | 1 |
 | Pierre Miquel | 1 |
 | Louis Mirman | 1 |

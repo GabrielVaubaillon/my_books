@@ -102,8 +102,8 @@
 | Le trône de fer (L'integrale 3) | George R.R. Martin | Français (tr.) | 978-2-290-02216-0 | Possédé | Lu | Avignon (Cartons) | |
 | Le trône de fer (L'integrale 4) | George R.R. Martin | Français (tr.) | 978-2-290-02217-7 | Possédé | Lu | Avignon (Cartons) | |
 | Bel-Ami | Guy de Maupassant | Français | | Non | Lu | | |
+| Contes du jour et de la nuit | Guy de Maupassant | Français | 978-2-253-04654-7 | Possédé | Lu | Antony | |
 | Le Horla | Guy de Maupassant | Français | | Non | Lu | | |
-| Contes du jour et de la nuit | Maupassant | Français | 978-2-253-04654-7 | Possédé | Lu | Antony | |
 | La ballade de Pern - Histoire de Nerilka | Anne McCaffrey | Français (tr.) | 2-266-03885-0 | Possédé | Lu | Antony | |
 | La ballade de Pern - L'aube des dragons | Anne McCaffrey | Français (tr.) | 2-266-03380-8 | Possédé | Lu | Antony | |
 | La ballade de Pern - La Dame aux dragons | Anne McCaffrey | Français (tr.) | 2-266-03379-4 | Possédé | Lu | Antony | |

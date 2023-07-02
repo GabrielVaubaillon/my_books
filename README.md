@@ -91,12 +91,12 @@ répartie.
 - 268 livres lus (75.49% du total)
 - 209 (77.99%) lus en français
 - 59 (22.01%) lus en anglais
-- 159 auteurs différents
+- 158 auteurs différents
 
 ### Total
 
 - 355 livres
 - 282 (79.44%) en Français
 - 73 (20.56%) en Anglais
-- 199 auteurs différents
+- 198 auteurs différents
 - 64 (18.03%) hors collection, mais lus
