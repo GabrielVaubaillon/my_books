@@ -1,5 +1,5 @@
 ## possedes 
- - 291 parmi les 355 (81.97%)
+ - 291 parmi les 358 (81.28%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |

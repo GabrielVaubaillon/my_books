@@ -1,5 +1,5 @@
 ## pas_lus 
- - 87 parmi les 355 (24.51%)
+ - 87 parmi les 358 (24.3%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |

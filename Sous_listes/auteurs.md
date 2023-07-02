@@ -1,4 +1,4 @@
-198 Auteurs différents
+200 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -48,6 +48,7 @@
 | Jacques Prévert | 2 |
 | J.H. Rosny Aîné | 2 |
 | John Steinbeck | 2 |
+| Vercors | 2 |
 | Voltaire | 2 |
 | H.G. Wells | 2 |
 | Henry Winterfield | 2 |
@@ -169,6 +170,7 @@
 | Prévost | 1 |
 | Raymond Queneau | 1 |
 | Racine | 1 |
+| Jules Renard | 1 |
 | Frison Roche | 1 |
 | Eugène Le Roy | 1 |
 | Françoise Sagan | 1 |
@@ -180,6 +182,7 @@
 | Walter Scott | 1 |
 | Luis Sepuvelda | 1 |
 | Mary W. Shelley | 1 |
+| Georges Simenon | 1 |
 | M. Sjöwall & P. Wahlöö | 1 |
 | Art Spiegelman | 1 |
 | Robert Louis Stevenson | 1 |
@@ -193,7 +196,6 @@
 | Fred Uhlman | 1 |
 | Fred Vargas | 1 |
 | José Mauro de Vascondos | 1 |
-| Vercors | 1 |
 | Boris Vian | 1 |
 | Delphine de Vigan | 1 |
 | Jean Webster | 1 |

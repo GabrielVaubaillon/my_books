@@ -240,6 +240,7 @@
 | A la croisée des mondes 3 - Le miroir d'ambre | Philip Pullman | Français (tr.) | 978-2-07-054360-9 | Possédé | Lu | Antony | |
 | Exercices de style | Raymond Queneau | Français | 2-07-037363-0 | Possédé | Lu | Antony | |
 | Andromaque | Racine | Français | 978-2-01-169120-0 | Possédé | Lu | Antony | |
+| Poil de Carotte | Jules Renard | Français | | Non | Lu | | |
 | Héros de l'Olympe 1 - Le héro perdu | Rick Riordan | Français (tr.) | | Non | Lu | | |
 | Héros de l'Olympe 2 - Le fils de Neptune | Rick Riordan | Français (tr.) | | Non | Lu | | |
 | Héros de l'Olympe 3 - La marque d'Athéna | Rick Riordan | Français (tr.) | | Non | Lu | | |
@@ -291,6 +292,7 @@
 | Quentin Durward | Walter Scott | Français (tr.) | | Possédé | Pas Lu | Antony | |
 | Le vieux qui lisait des romans d'amour | Luis Sepuvelda | Français (tr.) | 978-2-02-023930-2 | Possédé | Lu | Avignon (Cartons) | |
 | Frankenstein | Mary W. Shelley | Français (tr.) | | Non | Lu | | |
+| Le Chien Jaune | Georges Simenon | Français | | Non | Lu | | |
 | Les terroristes | M. Sjöwall & P. Wahlöö | Français (tr.) | 978-2-7436-2057-8 | Possédé | Pas Lu | Avignon (Cartons) | |
 | Maus | Art Spiegelman | Français (tr.) | | Non | Lu | | |
 | La Coupe d'Or | John Steinbeck | Français (tr.) | 2-07-038457-8 | Possédé | Lu | Antony | |
@@ -323,6 +325,7 @@
 | L'ami retrouvé | Fred Uhlman | Français | | Non | Lu | | |
 | L'homme à l'envers | Fred Vargas | Français | 978-2-290-34923-6 | Possédé | Lu | Avignon (Cartons) | |
 | Mon bel oranger | José Mauro de Vascondos | Français (tr.) | 2-253-02333-7 | Possédé | Lu | Antony | |
+| Le Silence de la Mer | Vercors | Français | | Non | Lu | | |
 | Les animaux dénaturés | Vercors | Français | 2-253-01023-5 | Possédé | Lu | Antony | |
 | Le tour du monde en 80 jours | Jules Verne | Français | 978-2-253-01269-6 | Possédé | Lu | Avignon (Cartons) | |
 | Les tribulations d'un chinois en chine | Jules Verne | Français | | Non | Lu | | |
