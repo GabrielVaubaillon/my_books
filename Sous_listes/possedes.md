@@ -1,5 +1,5 @@
 ## possedes 
- - 291 parmi les 358 (81.28%)
+ - 292 parmi les 359 (81.34%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -149,6 +149,7 @@
 | Le goéland | Jonathan Livingston | Français (tr.) | 2-08-161714-5 | Possédé | Lu | Antony | |
 | Croc-Blanc | Jack London | Français (tr.) | 978-2-01-322574-8 | Possédé | Lu | Antony | |
 | Martin Eden | Jack London | Français (tr.) | 978-2-07-079398-3 | Possédé | Pas Lu | Antony | |
+| Face au Vent | Jim Lynch | Français (tr.) | 978-2-35178-701-4 | Possédé | Lu | Antony | |
 | Feu et sang (partie 1) | George R.R. Martin | Français (tr.) | 978-2-7564-2787-4 | Possédé | Pas Lu | Avignon (Cartons) | |
 | Le trône de fer (L'integrale 1) | George R.R. Martin | Français (tr.) | 978-2-290-01943-6 | Possédé | Lu | Avignon (Cartons) | |
 | Le trône de fer (L'integrale 2) | George R.R. Martin | Français (tr.) | 978-2-290-01944-3 | Possédé | Lu | Avignon (Cartons) | |

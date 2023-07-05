@@ -1,4 +1,4 @@
-200 Auteurs différents
+201 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -144,6 +144,7 @@
 | Stanislaw Lem | 1 |
 | Donna Leon | 1 |
 | Jonathan Livingston | 1 |
+| Jim Lynch | 1 |
 | Herman Melville | 1 |
 | Pierre Miquel | 1 |
 | Louis Mirman | 1 |

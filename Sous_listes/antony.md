@@ -1,8 +1,8 @@
 - Antony
-    - 163 livres (56.01% de la collection)
-    - 114 livres lus (69.94%)
-    - 161 livres en français (98.77%)
-    - 2 livres en anglais (1.23%)
+    - 164 livres (56.16% de la collection)
+    - 115 livres lus (70.12%)
+    - 162 livres en français (98.78%)
+    - 2 livres en anglais (1.22%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -83,6 +83,7 @@
 | Le goéland | Jonathan Livingston | Français (tr.) | 2-08-161714-5 | Possédé | Lu | Antony | |
 | Croc-Blanc | Jack London | Français (tr.) | 978-2-01-322574-8 | Possédé | Lu | Antony | |
 | Martin Eden | Jack London | Français (tr.) | 978-2-07-079398-3 | Possédé | Pas Lu | Antony | |
+| Face au Vent | Jim Lynch | Français (tr.) | 978-2-35178-701-4 | Possédé | Lu | Antony | |
 | Contes du jour et de la nuit | Guy de Maupassant | Français | 978-2-253-04654-7 | Possédé | Lu | Antony | |
 | La ballade de Pern - Histoire de Nerilka | Anne McCaffrey | Français (tr.) | 2-266-03885-0 | Possédé | Lu | Antony | |
 | La ballade de Pern - L'aube des dragons | Anne McCaffrey | Français (tr.) | 2-266-03380-8 | Possédé | Lu | Antony | |

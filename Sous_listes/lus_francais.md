@@ -1,5 +1,5 @@
 ## lus_francais 
- - 212 parmi les 358 (59.22%)
+ - 213 parmi les 359 (59.33%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -97,6 +97,7 @@
 | Le garçon qui ne parlait pas | Donna Leon | Français (tr.) | 978-2-7578-5686-4 | Possédé | Lu | Avignon (Cartons) | |
 | Le goéland | Jonathan Livingston | Français (tr.) | 2-08-161714-5 | Possédé | Lu | Antony | |
 | Croc-Blanc | Jack London | Français (tr.) | 978-2-01-322574-8 | Possédé | Lu | Antony | |
+| Face au Vent | Jim Lynch | Français (tr.) | 978-2-35178-701-4 | Possédé | Lu | Antony | |
 | Le trône de fer (L'integrale 1) | George R.R. Martin | Français (tr.) | 978-2-290-01943-6 | Possédé | Lu | Avignon (Cartons) | |
 | Le trône de fer (L'integrale 2) | George R.R. Martin | Français (tr.) | 978-2-290-01944-3 | Possédé | Lu | Avignon (Cartons) | |
 | Le trône de fer (L'integrale 3) | George R.R. Martin | Français (tr.) | 978-2-290-02216-0 | Possédé | Lu | Avignon (Cartons) | |
