@@ -71,15 +71,15 @@ répartie.
     - 8 livres en français (16.67%)
     - 40 livres en anglais (83.33%)
 - Antony
-    - 164 livres (56.16% de la collection)
-    - 115 livres lus (70.12%)
-    - 162 livres en français (98.78%)
-    - 2 livres en anglais (1.22%)
-- Avignon
-    - 74 livres (25.34% de la collection)
-    - 45 livres lus (60.81%)
-    - 54 livres en français (72.97%)
-    - 20 livres en anglais (27.03%)
+    - 230 livres (78.77% de la collection)
+    - 160 livres lus (69.57%)
+    - 208 livres en français (90.43%)
+    - 22 livres en anglais (9.57%)
+- Paris
+    - 8 livres (2.74% de la collection)
+    - 0 livres lus (0.0%)
+    - 8 livres en français (100.0%)
+    - 0 livres en anglais (0.0%)
 - Cork
     - 5 livres (1.71% de la collection)
     - 0 livres lus (0.0%)

@@ -3,21 +3,21 @@
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Le guide du voyageur galactique | Douglas Adams | Français (tr.) | 978-2-07-043743-6 | Possédé | Lu | Avignon (Cartons) | |
+| Le guide du voyageur galactique | Douglas Adams | Français (tr.) | 978-2-07-043743-6 | Possédé | Lu | Antony (Cartons) | |
 | Les contes d'Andersen | Hans Christian Andersen | Français | 978-2-36315-139-1 | Possédé | Lu | Ebook | |
 | La fée et le géomètre | Jean-Pierre Andrevon | Français | 2-203-13615-4 | Possédé | Pas Lu | Antony | |
 | Terminus Leipzig | Max Annas & Jérôme Leroy | Français | 978-2-7578-9471-2 | Possédé | Pas Lu | Antony | |
 | Enquête au collège | Jean-Philippe Arrou-Vignod | Français | 978-2-07-061284-0 | Possédé | Lu | Antony | |
-| Fondation 1 | Isaac Asimov | Français (tr.) | 978-2-07-046361-9 | Possédé | Lu | Avignon (Cartons) | (Fondation, Fondation et Empire, Seconde Fondation) |
-| Fondation 2 | Isaac Asimov | Français (tr.) | 978-2-07-046362-6 | Possédé | Lu | Avignon (Cartons) | (fondation foudroyée, Terre et fondation) |
-| Noel sur Ganymede | Isaac Asimov | Français (tr.) | 2-207-30187-7 | Possédé | Pas Lu | Avignon (Cartons) | |
+| Fondation 1 | Isaac Asimov | Français (tr.) | 978-2-07-046361-9 | Possédé | Lu | Antony (Cartons) | (Fondation, Fondation et Empire, Seconde Fondation) |
+| Fondation 2 | Isaac Asimov | Français (tr.) | 978-2-07-046362-6 | Possédé | Lu | Antony (Cartons) | (fondation foudroyée, Terre et fondation) |
+| Noel sur Ganymede | Isaac Asimov | Français (tr.) | 2-207-30187-7 | Possédé | Pas Lu | Antony (Cartons) | |
 | Les contes bleus du chat perché | Marcel Aymé | Français | 2-07-033097-2 | Possédé | Lu | Antony | |
 | Les contes du chat perché | Marcel Aymé | Français | 9782070363438 | Possédé | Lu | Ebook | |
 | Les contes rouges du chat perché | Marcel Aymé | Français | 2-07-033098-2 | Possédé | Lu | Antony | |
 | La formation de l'esprit scientifique | Bachelard | Français | 978-2-7116-1150-8 | Possédé | Pas Lu | Antony | |
 | La vie selon Ove | Fredik Backman | Français (tr.) | 978-2-258-10999-5 | Possédé | Lu | Ebook | |
 | L'histoire de Géronimo | Géronimo (S.M. Barett) | Français (tr.) | 2-253-03703-6 | Possédé | Pas Lu | Antony | |
-| Gros Probleme | Dave Barry | Français (tr.) | 2-266-11957-5 | Possédé | Pas Lu | Avignon (Cartons) | |
+| Gros Probleme | Dave Barry | Français (tr.) | 2-266-11957-5 | Possédé | Pas Lu | Antony (Cartons) | |
 | Alamut | Vladimir Bartol | Français (tr.) | 2-85940-518-6 | Possédé | Pas Lu | Antony | |
 | J'ai bien connu Icare | Hans Baumann | Français (tr.) | 2-08-161866-4 | Possédé | Pas Lu | Antony | |
 | Michel et les routiers | Georges Bayard | Français | | Possédé | Lu | Antony | |
@@ -32,54 +32,54 @@
 | Les six compagnons et la pile atomique | Paul-Jacques Bonzon | Français | 2-01-016996-4 | Possédé | Lu | Antony | |
 | Les six compagnons à la tour Eiffel | Paul-Jacques Bonzon | Français | 2-01-209217-9 | Possédé | Lu | Antony | |
 | Contes et légendes du Dauphiné | Luce Bosquet | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
-| La planète des singes | Pierre Boule | Français | 978-2-266-28302-1 | Possédé | Lu | Avignon (Cartons) | |
+| La planète des singes | Pierre Boule | Français | 978-2-266-28302-1 | Possédé | Lu | Antony (Cartons) | |
 | Le Maître et Marguerite | Mikhaïl Boulgakov | Français (tr.) | 978-2-221-24056-4 | Possédé | Lu | Ebook | |
 | Bennett et sa cabane | Anthony Buckeridge | Français | 2-253-02338-8 | Possédé | Pas Lu | Antony | |
 | La révolte de 10 x | Joan Davenport Carris | Français (tr.) | 2-08-161758-7 | Possédé | Lu | Antony | |
 | Le récit de Gilgamesh | Jacques Cassabois | Français | 978-2-218-93642-5 | Possédé | Lu | Antony | |
 | Don Quichotte (abrégé) | Cervantès | Français | 2-0139322247-5 | Possédé | Lu | Antony | |
-| TBP 1 - Le Problème à trois corps | Liu Cixin | Français (tr.) | 978-2-330-11355-1 | Possédé | Lu | Avignon (Cartons) | |
-| TBP 2 - La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Avignon (Cartons) | |
-| TBP 3 - La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Avignon (Cartons) | |
-| 2001 : L'odyssée de l'espace | Arthur C. Clarke | Français (tr.) | 978-2-290-30814-1 | Possédé | Lu | Avignon (Cartons) | |
+| TBP 1 - Le Problème à trois corps | Liu Cixin | Français (tr.) | 978-2-330-11355-1 | Possédé | Lu | Antony (Cartons) | |
+| TBP 2 - La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Antony (Cartons) | |
+| TBP 3 - La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Antony (Cartons) | |
+| 2001 : L'odyssée de l'espace | Arthur C. Clarke | Français (tr.) | 978-2-290-30814-1 | Possédé | Lu | Antony (Cartons) | |
 | Les prisoniers du marais | Linda Cline | Français (tr.) | 2-253-02571-2 | Possédé | Lu | Antony | |
 | Pinocchio | Carlo Collodi | Français (tr.) | 978-2-01-321286-1 | Possédé | Lu | Antony | |
 | 25 métamorphoses d'Ovide | Annie Collognat | Français | 978-2-01-000906-8 | Possédé | Lu | Antony | |
 | La ceinture empoisonnée | Sir Arthur Conan-Doyle | Français (tr.) | 2-253-02563-1 | Possédé | Pas Lu | Antony | |
 | Le monde perdu | Sir Arthur Conan-Doyle | Français (tr.) | 2-01-019693-7 | Possédé | Pas Lu | Antony | |
 | Contes des indiens du Chiapas | Baptiste Condominas | Français | 978-2-7427-8205-5 | Possédé | Lu | Antony | |
-| Histoire populaire des sciences | Clifford D. Conner | Français (tr.) | 978-2-7578-3679-8 | Possédé | Pas Lu | Avignon (Cartons) | |
+| Histoire populaire des sciences | Clifford D. Conner | Français (tr.) | 978-2-7578-3679-8 | Possédé | Pas Lu | Antony (Cartons) | |
 | Au coeur des ténèbres | Conrad | Français (tr.) | 978-2-0813-9745-3 | Possédé | Lu | Antony | |
 | Comment dresser votre dragon | Cressida Cowell | Français (tr.) | 978-2-203-03261-3 | Possédé | Lu | Antony | |
 | La Horde du Contrevent | Alain Damasio | Français | 978-2-07-292751-5 | Possédé | Pas Lu | Antony | |
 | Le labyrinthe - L'épreuve | James Dashner | Français (tr.) | 978-2-266-20012-7 | Possédé | Lu | Antony (vente) | |
 | Contes et récits - Pirates, Corsaires et flibustiers | Stéphane Descornes & Hugues Micol | Français | 2-09-282612-3 | Possédé | Lu | Antony | |
 | Contes et récits - de Paris | Stéphane Descornes & Michaël Sterckeman | Français | 209282083-4 | Possédé | Lu | Antony | |
-| Philip K. Dick - Nouvelles completes I (1947-1953) | Philip K. Dick | Français (tr.) | 978-2-07-285870-3 | Possédé | | Avignon (Cartons) | Recueil |
-| Philip K. Dick - Nouvelles completes II (1954-1981) | Philip K. Dick | Français (tr.) | 978-2-07-285873-4 | Possédé | | Avignon (Cartons) | Recueil |
+| Philip K. Dick - Nouvelles completes I (1947-1953) | Philip K. Dick | Français (tr.) | 978-2-07-285870-3 | Possédé | | Antony (Cartons) | Recueil |
+| Philip K. Dick - Nouvelles completes II (1954-1981) | Philip K. Dick | Français (tr.) | 978-2-07-285873-4 | Possédé | | Antony (Cartons) | Recueil |
 | Le Sorgho rouge | Ya Ding | Français | 2-01-018282-0 | Possédé | Lu | Antony | |
 | Les chroniques de Spiderwick - L'integrale | Tony Diterlizzi & Holly Black | Français (tr.) | 978-2-266-18201-0 | Possédé | Lu | Antony | |
 | Les pollueurs font tache d'huile | Brian Doyle | Français (tr.) | 2-7427-1401-4 | Possédé | Lu | Antony | |
 | Tistou les pouces verts | Maurice Druon | Français | 2-01-0104153-3 | Possédé | Lu | Antony | |
-| Ange Pitou | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 2 livres, Belle collection Auteur |
-| Joseph Balsamo | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 4 livres, Belle collection Auteur |
-| La comtesse de Charny | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 4 livres, Belle collection Auteur |
-| Le collier de la reine | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 2 livres, Belle collection Auteur |
-| Le comte de Monte-Cristo | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 4 livres, Belle collection Auteur |
-| Le vicomte de Bragelonne | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 6 livres, Belle collection Auteur |
-| Les trois Mousquetaire | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 2 livres, Belle collection Auteur |
-| Vingt ans apres | Alexandre Dumas | Français | | Possédé | Pas Lu | Avignon | 2 livres, Belle collection Auteur |
+| Ange Pitou | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 2 livres, Belle collection Auteur |
+| Joseph Balsamo | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 4 livres, Belle collection Auteur |
+| La comtesse de Charny | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 4 livres, Belle collection Auteur |
+| Le collier de la reine | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 2 livres, Belle collection Auteur |
+| Le comte de Monte-Cristo | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 4 livres, Belle collection Auteur |
+| Le vicomte de Bragelonne | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 6 livres, Belle collection Auteur |
+| Les trois Mousquetaire | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 2 livres, Belle collection Auteur |
+| Vingt ans apres | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 2 livres, Belle collection Auteur |
 | Les lions de césar | Jean-Luc Déjean | Français | 978-2-01-322650-9 | Possédé | Lu | Antony | |
 | Flamme et l'Etalon Noir | Walter Farley | Français (tr.) | 2-01-00-1034-5 | Possédé | Lu | Antony | |
 | Le fils de l'Etalon noir | Walter Farley | Français (tr.) | | Possédé | Lu | Antony | |
-| Diego Martin 0 - Tapas Nocturnes | Marc Fernandez | Français | 978-2-253-24171-3 | Possédé | Lu | Avignon (Cartons) | |
-| Diego Martin 1 - Mala Vida | Marc Fernandez | Français | 978-2-253-08585-0 | Possédé | Lu | Avignon (Cartons) | |
-| Diego Martin 2 - Guérilla Social Club | Marc Fernandez | Français | 978-2-253-25804-9 | Possédé | Lu | Avignon (Cartons) | |
-| Le crépuscule et l'aube | Ken Follett | Français (tr.) | 978-2-221-15770-1 | Possédé | Pas Lu | Avignon (Cartons) | |
-| Peloton maison | Paul Fournel | Français | 978-2-02-149943-8 | Possédé | Lu | Avignon (Cartons) | |
+| Diego Martin 0 - Tapas Nocturnes | Marc Fernandez | Français | 978-2-253-24171-3 | Possédé | Lu | Antony (Cartons) | |
+| Diego Martin 1 - Mala Vida | Marc Fernandez | Français | 978-2-253-08585-0 | Possédé | Lu | Antony (Cartons) | |
+| Diego Martin 2 - Guérilla Social Club | Marc Fernandez | Français | 978-2-253-25804-9 | Possédé | Lu | Antony (Cartons) | |
+| Le crépuscule et l'aube | Ken Follett | Français (tr.) | 978-2-221-15770-1 | Possédé | Pas Lu | Antony (Cartons) | |
+| Peloton maison | Paul Fournel | Français | 978-2-02-149943-8 | Possédé | Lu | Antony (Cartons) | |
 | Journal | Anne Frank | Français (tr.) | 2-253-00127-9 | Possédé | Pas Lu | Antony | |
-| Dans le secret des nombres | Marianne Freiberger & Rachel Thomas | Français (tr.) | 978-2-10-078168-3 | Possédé | Lu | Avignon (Cartons) | |
-| Condor | Caryl Férey | Français | 978-2-07-274768-7 | Possédé | Lu | Avignon (Cartons) | |
+| Dans le secret des nombres | Marianne Freiberger & Rachel Thomas | Français (tr.) | 978-2-10-078168-3 | Possédé | Lu | Antony (Cartons) | |
+| Condor | Caryl Férey | Français | 978-2-07-274768-7 | Possédé | Lu | Antony (Cartons) | |
 | La bête du Gévaudan | José Féron | Français | 978-2-01-013833-3 | Possédé | Lu | Antony | |
 | Smith | Leon Garfield | Français (tr.) | 2-253-03350-2 | Possédé | Lu | Antony | |
 | Au pays du grand condor | Nadine Garrel | Français | 2-07-033022-2 | Possédé | Pas Lu | Antony | |
@@ -94,37 +94,37 @@
 | Les cheveux de Bérénice | Denis Guedj | Français | 2-02-066392-9 | Possédé | Lu | Antony | |
 | Ciel - L'hiver des machines | Johan Heliot | Français | 978-2-35488-238-9 | Possédé | Lu | Antony (vente) | |
 | Pour qui sonne le glas | Ernest Hemingway | Français (tr.) | | Possédé | Pas Lu | Antony | |
-| Dune Les origines - 1. La Communauté des Soeurs | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-25239-3 | Possédé | Pas Lu | Avignon (Cartons) | |
-| Dune Les origines - 2. Les Mentats de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-26727-4 | Possédé | Pas Lu | Avignon (Cartons) | |
-| Dune Les origines - 3. Les Navigateurs de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-32129-7 | Possédé | Pas Lu | Avignon (Cartons) | |
+| Dune Les origines - 1. La Communauté des Soeurs | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-25239-3 | Possédé | Pas Lu | Antony (Cartons) | |
+| Dune Les origines - 2. Les Mentats de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-26727-4 | Possédé | Pas Lu | Antony (Cartons) | |
+| Dune Les origines - 3. Les Navigateurs de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-32129-7 | Possédé | Pas Lu | Antony (Cartons) | |
 | Le perroquet qui bégayait | Alfred Hitchcock | Français (tr.) | 2-253-02766-9 | Possédé | Lu | Antony | |
 | L'Odyssée | Homère | Français (tr.) | 978-2-7071-9439-8 | Possédé | Lu | Antony | |
 | Contes et légendes du Moyen Age | Marcelle et Georges Huisman | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
-| Le meilleur des mondes | Aldous Huxley | Français (tr.) | 978-2-266-28303-8 | Possédé | Lu | Avignon (Cartons) | |
+| Le meilleur des mondes | Aldous Huxley | Français (tr.) | 978-2-266-28303-8 | Possédé | Lu | Antony (Cartons) | |
 | Comment braquer une banque sans perdre son dentier | Catharina Ingelman-Sundberg | Français (tr.) | 978-2-823-81023 | Possédé | Lu | Ebook | |
 | L'aventure, l'Ennui, le Sérieux - chapitre 1 | Jankélévitch | Français | 978-2-0813-9744-6 | Possédé | Pas Lu | Antony | |
 | Un sac de bille | Joseph Joffo | Français | 2-253-02777-4 | Possédé | Pas Lu | Antony | |
 | Le vieux qui ne voulait pas fêter son anniversaire | Jonas Jonasson | Français (tr.) | 978-2-266-21852-8 | Possédé | Pas Lu | Antony | |
 | Du passé faisons table rase | Thierry Jonquet | Français | 978-2-07-030861-3 | Possédé | Pas Lu | Antony | |
 | Le phoque blanc | Rudyard Kipling | Français (tr.) | 978-2-07-061559-9 | Possédé | Lu | Antony | |
-| Le gambit des étoiles | Gérard Klein | Français | 2-253-03879-2 | Possédé | Lu | Avignon (Cartons) | |
+| Le gambit des étoiles | Gérard Klein | Français | 2-253-03879-2 | Possédé | Lu | Antony (Cartons) | |
 | L'île de Black Mor | Jean-François Laguionie | Français | 2-226-11-296-0 | Possédé | Lu | Antony | |
 | Contes et légendes de Champagne | Philippe Lannion | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
 | 12 récits de l'énéide | Michel Laporte | Français | 978-2-0812-3029-3 | Possédé | Lu | Antony | |
 | Long John Silver | Björn Larsson | Français (tr.) | 2-253-15010-7 | Possédé | Lu | Antony | |
 | Arsène Lupin - La comtesse de Cagliosto | Maurice Leblanc | Français | 301-0-000-03034-8 | Possédé | Pas Lu | Antony | |
 | Les aventures extraordinaires d'Arsène Lupin - Tome 3 (Omnibus) | Maurice Leblanc | Français | 978-2-258-09388-1 | Possédé | Pas Lu | Antony | |
-| Le garçon qui ne parlait pas | Donna Leon | Français (tr.) | 978-2-7578-5686-4 | Possédé | Lu | Avignon (Cartons) | |
+| Le garçon qui ne parlait pas | Donna Leon | Français (tr.) | 978-2-7578-5686-4 | Possédé | Lu | Antony (Cartons) | |
 | Le goéland | Jonathan Livingston | Français (tr.) | 2-08-161714-5 | Possédé | Lu | Antony | |
 | Croc-Blanc | Jack London | Français (tr.) | 978-2-01-322574-8 | Possédé | Lu | Antony | |
 | Martin Eden | Jack London | Français (tr.) | 978-2-07-079398-3 | Possédé | Pas Lu | Antony | |
 | Face au Vent | Jim Lynch | Français (tr.) | 978-2-35178-701-4 | Possédé | Lu | Antony | |
-| Feu et sang (partie 1) | George R.R. Martin | Français (tr.) | 978-2-7564-2787-4 | Possédé | Pas Lu | Avignon (Cartons) | |
-| Le trône de fer (L'integrale 1) | George R.R. Martin | Français (tr.) | 978-2-290-01943-6 | Possédé | Lu | Avignon (Cartons) | |
-| Le trône de fer (L'integrale 2) | George R.R. Martin | Français (tr.) | 978-2-290-01944-3 | Possédé | Lu | Avignon (Cartons) | |
-| Le trône de fer (L'integrale 3) | George R.R. Martin | Français (tr.) | 978-2-290-02216-0 | Possédé | Lu | Avignon (Cartons) | |
-| Le trône de fer (L'integrale 4) | George R.R. Martin | Français (tr.) | 978-2-290-02217-7 | Possédé | Lu | Avignon (Cartons) | |
-| Le trône de fer (L'integrale 5) | George R.R. Martin | Français (tr.) | 978-2-290-10709-6 | Possédé | Pas Lu | Avignon (Cartons) | |
+| Feu et sang (partie 1) | George R.R. Martin | Français (tr.) | 978-2-7564-2787-4 | Possédé | Pas Lu | Antony (Cartons) | |
+| Le trône de fer (L'integrale 1) | George R.R. Martin | Français (tr.) | 978-2-290-01943-6 | Possédé | Lu | Antony (Cartons) | |
+| Le trône de fer (L'integrale 2) | George R.R. Martin | Français (tr.) | 978-2-290-01944-3 | Possédé | Lu | Antony (Cartons) | |
+| Le trône de fer (L'integrale 3) | George R.R. Martin | Français (tr.) | 978-2-290-02216-0 | Possédé | Lu | Antony (Cartons) | |
+| Le trône de fer (L'integrale 4) | George R.R. Martin | Français (tr.) | 978-2-290-02217-7 | Possédé | Lu | Antony (Cartons) | |
+| Le trône de fer (L'integrale 5) | George R.R. Martin | Français (tr.) | 978-2-290-10709-6 | Possédé | Pas Lu | Antony (Cartons) | |
 | Contes du jour et de la nuit | Guy de Maupassant | Français | 978-2-253-04654-7 | Possédé | Lu | Antony | |
 | La ballade de Pern - Histoire de Nerilka | Anne McCaffrey | Français (tr.) | 2-266-03885-0 | Possédé | Lu | Antony | |
 | La ballade de Pern - L'aube des dragons | Anne McCaffrey | Français (tr.) | 2-266-03380-8 | Possédé | Lu | Antony | |
@@ -142,9 +142,9 @@
 | Z comme Zacharie | Robert C. O'Brien | Français (tr.) | 2-253-03882-2 | Possédé | Lu | Antony | |
 | Les clients du Bon Chien Jaune | Pierre Mac Orlan | Français | 978-2-07-056016-5 | Possédé | Lu | Antony | |
 | Contes et légendes de la naissance de Rome | Laura Orvieto | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
-| 1984 | George Orwell | Français (tr.) | 2-07-036822-X | Possédé | Pas Lu | Avignon (Cartons) | |
-| 1984 (BD) | George Orwell | Français (tr.) | 978-2-246-82576-0 | Possédé | Lu | Avignon (Cartons) | |
-| La ferme des animaux (BD) | George Orwell | Français (tr.) | 978-23730901-8-5 | Possédé | Lu | Avignon (Cartons) | |
+| 1984 | George Orwell | Français (tr.) | 2-07-036822-X | Possédé | Pas Lu | Antony (Cartons) | |
+| 1984 (BD) | George Orwell | Français (tr.) | 978-2-246-82576-0 | Possédé | Lu | Antony (Cartons) | |
+| La ferme des animaux (BD) | George Orwell | Français (tr.) | 978-23730901-8-5 | Possédé | Lu | Antony (Cartons) | |
 | La cabane magique - Rencontres en haut de la tour Eiffel | May Pope Osborne | Français (tr.) | 978-2-7470-2615-4 | Possédé | Lu | Antony | |
 | Persée et autres métamorphoses | Ovide | Français (tr.) | 978-2-218-93332-5 | Possédé | Lu | Antony | |
 | Angèle | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
@@ -192,37 +192,37 @@
 | Le félin géant | J.H. Rosny Aîné | Français | 2-253-03324-3 | Possédé | Lu | Antony | |
 | jacquou le croquant | Eugène Le Roy | Français | 2-07-033519-4 | Possédé | Pas Lu | Antony | |
 | Bonjour tristesse | Françoise Sagan | Français | 978-2-266-19558-4 | Possédé | Lu | Antony | |
-| Le petit Prince | Antoine de Saint-Exupéry | Français | 978-2-07-040850-4 | Possédé | Lu | Avignon (Cartons) | |
+| Le petit Prince | Antoine de Saint-Exupéry | Français | 978-2-07-040850-4 | Possédé | Lu | Antony (Cartons) | |
 | Le tour du Tour par 36 détours | François Salvaing | Français | 2-209-06301-9 | Possédé | Pas Lu | Antony | |
 | Contes et légendes - La naissance de Rome | François Sautereau | Français | 978-2-09-253197-6 | Possédé | Lu | Antony | |
 | Quentin Durward | Walter Scott | Français (tr.) | | Possédé | Pas Lu | Antony | |
-| Le vieux qui lisait des romans d'amour | Luis Sepuvelda | Français (tr.) | 978-2-02-023930-2 | Possédé | Lu | Avignon (Cartons) | |
-| Les terroristes | M. Sjöwall & P. Wahlöö | Français (tr.) | 978-2-7436-2057-8 | Possédé | Pas Lu | Avignon (Cartons) | |
+| Le vieux qui lisait des romans d'amour | Luis Sepuvelda | Français (tr.) | 978-2-02-023930-2 | Possédé | Lu | Antony (Cartons) | |
+| Les terroristes | M. Sjöwall & P. Wahlöö | Français (tr.) | 978-2-7436-2057-8 | Possédé | Pas Lu | Antony (Cartons) | |
 | La Coupe d'Or | John Steinbeck | Français (tr.) | 2-07-038457-8 | Possédé | Lu | Antony | |
-| L'île au trésor | Robert Louis Stevenson | Français (tr.) | 2-253-00368-9 | Possédé | Lu | Avignon (Cartons) | |
+| L'île au trésor | Robert Louis Stevenson | Français (tr.) | 2-253-00368-9 | Possédé | Lu | Antony (Cartons) | |
 | Les six compagnons et la radio libre | Olivier Séchan | Français | 2-01-209358-2 | Possédé | Lu | Antony | |
 | Mystères et faits divers à Rome | Nathalie Sémenuik | Français | 978-2-0123-0344-7 | Possédé | Lu | Antony | Livres d'enquetes / jeux |
-| Le jeu de la dame | Walter Tevis | Français (tr.) | 978-2-35178-776-2 | Possédé | Lu | Avignon (Cartons) | |
-| Les enfants de Hurin | J.R.R. Tolkien | Français (tr.) | 978-2-298-01256-3 | Possédé | Lu | Avignon (Cartons) | Jolie édition illustrée |
+| Le jeu de la dame | Walter Tevis | Français (tr.) | 978-2-35178-776-2 | Possédé | Lu | Antony (Cartons) | |
+| Les enfants de Hurin | J.R.R. Tolkien | Français (tr.) | 978-2-298-01256-3 | Possédé | Lu | Antony (Cartons) | Jolie édition illustrée |
 | L'armée des pauvres | B. Traven | Français (tr.) | 978-2-7491-2090-4 | Possédé | Pas Lu | Antony | |
 | Excalibur - Roman des chevaliers de la Table Ronde | Chrétien de Troyes | Français | 2-205-02330-6 | Possédé | Lu | Antony | |
 | Perceval ou le conte du Graal | Chrétien de Troyes | Français | 978-2-01-169735-6 | Possédé | Lu | Antony | |
 | Roman de la table Ronde | Chrétien de Troyes | Français | 2-07-036696-0 | Possédé | Lu | Antony | |
-| L'homme à l'envers | Fred Vargas | Français | 978-2-290-34923-6 | Possédé | Lu | Avignon (Cartons) | |
+| L'homme à l'envers | Fred Vargas | Français | 978-2-290-34923-6 | Possédé | Lu | Antony (Cartons) | |
 | Mon bel oranger | José Mauro de Vascondos | Français (tr.) | 2-253-02333-7 | Possédé | Lu | Antony | |
 | Les animaux dénaturés | Vercors | Français | 2-253-01023-5 | Possédé | Lu | Antony | |
-| Le tour du monde en 80 jours | Jules Verne | Français | 978-2-253-01269-6 | Possédé | Lu | Avignon (Cartons) | |
-| Vingt mille lieues sous les mers | Jules Verne | Français | 978-2-253-00632-9 | Possédé | Lu | Avignon (Cartons) | |
+| Le tour du monde en 80 jours | Jules Verne | Français | 978-2-253-01269-6 | Possédé | Lu | Antony (Cartons) | |
+| Vingt mille lieues sous les mers | Jules Verne | Français | 978-2-253-00632-9 | Possédé | Lu | Antony (Cartons) | |
 | J'irai cracher sur vos tombes | Boris Vian | Français | | Possédé | Pas Lu | Antony | |
 | Candide ou l'optimiste | Voltaire | Français | 978-2-290-11864-1 | Possédé | Lu | Antony | |
 | Papa-Longues-Jambes | Jean Webster | Français (tr.) | 978-2-07-061266-6 | Possédé | Lu | Antony | |
 | L'homme invisible | H.G. Wells | Français (tr.) | 2-010-14423-6 | Possédé | Lu | Antony | |
-| La guerre des mondes | H.G. Wells | Français (tr.) | 2-07-033567-4 | Possédé | Pas Lu | Avignon (Cartons) | |
+| La guerre des mondes | H.G. Wells | Français (tr.) | 2-07-033567-4 | Possédé | Pas Lu | Antony (Cartons) | |
 | Le serment des catacombes | Odile Weulersse | Français | 2-253-03954-3 | Possédé | Lu | Antony | |
 | Les pilleurs de sarcophages | Odile Weulersse | Français | 2-253-03532-7 | Possédé | Lu | Antony | |
 | Caïus et le gladiateur | Henry Winterfield | Français (tr.) | 978-2-01-322442-0 | Possédé | Lu | Antony | |
 | L'affaire Caïus | Henry Winterfield | Français (tr.) | 978-2-01-322403-1 | Possédé | Lu | Antony | |
-| Le joueur d'échecs | Stefan Zweig | Français (tr.) | 2-253-05784-3 | Possédé | Lu | Avignon (Cartons) | |
+| Le joueur d'échecs | Stefan Zweig | Français (tr.) | 2-253-05784-3 | Possédé | Lu | Antony (Cartons) | |
 | Contes d'ici et d'ailleurs | | Français | 2-04-730354-0 | Possédé | Lu | Antony | |
 | Contes d'ici et d'ailleurs | | Français | 978-2-218-93322-6 | Possédé | Lu | Antony | |
 | Le vaisseau merveilleux et autres contes de Bretagne | | Français | 2-01-007716-4 | Possédé | Lu | Antony | |
