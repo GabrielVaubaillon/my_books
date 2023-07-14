@@ -4,8 +4,8 @@ HEADER = ("| Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes
           "| --- | --- | --- | --- | --- | --- | --- | --- |\n")
 
 LOCATIONS = {'ebook': ["Ebook"],
-             'antony': ["Antony", "Antony (vente)"],
-             'avignon': ["Avignon", "Avignon (Cartons)"],
+             'antony': ["Antony", "Antony (vente)", "Antony (Cartons)"],
+             'paris': ["Paris"],
              'cork': ["Cork"]
              }
 
