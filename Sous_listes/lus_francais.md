@@ -1,5 +1,5 @@
 ## lus_francais 
- - 213 parmi les 359 (59.33%)
+ - 214 parmi les 362 (59.12%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -159,6 +159,7 @@
 | L'oeil du Dragon 2 - Souffle d'Ombre | Mark Robson | Français (tr.) | 978-2-266-19149-4 | Possédé | Lu | Antony | |
 | L'oeil du Dragon 3 - Dent de Sabre | Mark Robson | Français (tr.) | 978-2-266-19150-0 | Possédé | Lu | Antony | |
 | L'oeil du Dragon 4 - Aurore | Mark Robson | Français (tr.) | 978-2-266-19151-7 | Possédé | Lu | Antony | |
+| Premier de cordée | Frison Roche | Français | 2-277-11936-9 | Possédé | Lu | Cork | |
 | La guerre du feu | J.H. Rosny Aîné | Français | 978-2-01-322595-3 | Possédé | Lu | Antony | |
 | Le félin géant | J.H. Rosny Aîné | Français | 2-253-03324-3 | Possédé | Lu | Antony | |
 | Harry Potter (1) à l'école des sorciers | J. K. Rowling | Français (tr.) | | Non | Lu | | |

@@ -1,4 +1,4 @@
-201 Auteurs différents
+204 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -111,7 +111,9 @@
 | Nadine Garrel | 1 |
 | Théophile Gautier | 1 |
 | Jean Giono | 1 |
+| José Giovanni | 1 |
 | William Goldman | 1 |
+| Miranda Jane Green | 1 |
 | Christian Grenier & Philippe Caron | 1 |
 | Jacob et Wilhelm Grimm | 1 |
 | Maria Gripe | 1 |
@@ -161,6 +163,7 @@
 | May Pope Osborne | 1 |
 | Alice Oseman | 1 |
 | Ovide | 1 |
+| R. I. Page | 1 |
 | Suzanne Pairault | 1 |
 | Charles Perrault | 1 |
 | G. Perron-Louis | 1 |

@@ -1,5 +1,5 @@
 ## pas_lus 
- - 87 parmi les 359 (24.23%)
+ - 89 parmi les 362 (24.59%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@
 | Sherlock Holmes - The complete novels and stories - Volume one | Sir Arthur Conan-Doyle | English | 978-1-9848-9953-8 | Possédé | | Antony (Cartons) | Recueil |
 | Sherlock Holmes - The complete novels and stories - Volume two | Sir Arthur Conan-Doyle | English | 978-1-9848-9954-5 | Possédé | | Antony (Cartons) | Recueil |
 | Histoire populaire des sciences | Clifford D. Conner | Français (tr.) | 978-2-7578-3679-8 | Possédé | Pas Lu | Antony (Cartons) | |
-| La Horde du Contrevent | Alain Damasio | Français | 978-2-07-292751-5 | Possédé | Pas Lu | Antony | |
+| La Horde du Contrevent | Alain Damasio | Français | 978-2-07-292751-5 | Possédé | Pas Lu | Cork | |
 | Philip K. Dick - Nouvelles completes I (1947-1953) | Philip K. Dick | Français (tr.) | 978-2-07-285870-3 | Possédé | | Antony (Cartons) | Recueil |
 | Philip K. Dick - Nouvelles completes II (1954-1981) | Philip K. Dick | Français (tr.) | 978-2-07-285873-4 | Possédé | | Antony (Cartons) | Recueil |
 | Ange Pitou | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 2 livres, Belle collection Auteur |
@@ -36,6 +36,8 @@
 | Le crépuscule et l'aube | Ken Follett | Français (tr.) | 978-2-221-15770-1 | Possédé | Pas Lu | Antony (Cartons) | |
 | Journal | Anne Frank | Français (tr.) | 2-253-00127-9 | Possédé | Pas Lu | Antony | |
 | Au pays du grand condor | Nadine Garrel | Français | 2-07-033022-2 | Possédé | Pas Lu | Antony | |
+| Meutre au Sommet | José Giovanni | Français | 2-84230-035-1 | Possédé | Pas Lu | Cork | Emprunté from pépé |
+| Mythes Celtiques | Miranda Jane Green | Français (tr.) | 979-10-414-1109-2 | Possédé | Pas Lu | Cork | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Pas Lu | Cork | |
 | Irish myths and legends 2 - Cuchulain and the Red Branch of Ulster | Lady Augusta Gregory | English | 978-1-84840-887-6 | Possédé | Pas Lu | Cork | |
 | Le château des enfants volés | Maria Gripe | Français (tr.) | 2-253-02698-0 | Possédé | Pas Lu | Antony | |
@@ -60,6 +62,7 @@
 | L'utopie | Thomas More | Français | 9782290134115 | Possédé | Pas Lu | Antony | |
 | Mes amis les loups | Farley Mowat | Français (tr.) | 2-08-161794-3 | Possédé | Pas Lu | Antony | |
 | 1984 | George Orwell | Français (tr.) | 2-07-036822-X | Possédé | Pas Lu | Antony (Cartons) | |
+| Mythes Nordiques | R. I. Page | Français (tr.) | 979-10-414-1112-2 | Possédé | Pas Lu | Cork | |
 | Angèle | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
 | César | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
 | Confidences | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
@@ -79,7 +82,6 @@
 | De l'esprit géométrique | Blaise Pascal | Français | | Possédé | Pas Lu | Antony | |
 | Principes élémentaires de philosophie | Georges Politzer | Français | 978-2-915854-15-2 | Possédé | Pas Lu | Antony | |
 | Manon Lescaut | Prévost | Français | 978-2-0812-7904-9 | Possédé | Pas Lu | Antony | |
-| Premier de cordée | Frison Roche | Français | 2-277-11936-9 | Possédé | Pas Lu | Antony | |
 | jacquou le croquant | Eugène Le Roy | Français | 2-07-033519-4 | Possédé | Pas Lu | Antony | |
 | Le tour du Tour par 36 détours | François Salvaing | Français | 2-209-06301-9 | Possédé | Pas Lu | Antony | |
 | Quentin Durward | Walter Scott | Français (tr.) | | Possédé | Pas Lu | Antony | |

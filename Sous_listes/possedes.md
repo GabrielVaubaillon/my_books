@@ -1,5 +1,5 @@
 ## possedes 
- - 292 parmi les 359 (81.34%)
+ - 295 parmi les 362 (81.49%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -63,7 +63,7 @@
 | Histoire populaire des sciences | Clifford D. Conner | Français (tr.) | 978-2-7578-3679-8 | Possédé | Pas Lu | Antony (Cartons) | |
 | Au coeur des ténèbres | Conrad | Français (tr.) | 978-2-0813-9745-3 | Possédé | Lu | Antony | |
 | Comment dresser votre dragon | Cressida Cowell | Français (tr.) | 978-2-203-03261-3 | Possédé | Lu | Antony | |
-| La Horde du Contrevent | Alain Damasio | Français | 978-2-07-292751-5 | Possédé | Pas Lu | Antony | |
+| La Horde du Contrevent | Alain Damasio | Français | 978-2-07-292751-5 | Possédé | Pas Lu | Cork | |
 | Le labyrinthe - L'épreuve | James Dashner | Français (tr.) | 978-2-266-20012-7 | Possédé | Lu | Antony (vente) | |
 | Contes et récits - Pirates, Corsaires et flibustiers | Stéphane Descornes & Hugues Micol | Français | 2-09-282612-3 | Possédé | Lu | Antony | |
 | Contes et récits - de Paris | Stéphane Descornes & Michaël Sterckeman | Français | 209282083-4 | Possédé | Lu | Antony | |
@@ -98,7 +98,9 @@
 | Au pays du grand condor | Nadine Garrel | Français | 2-07-033022-2 | Possédé | Pas Lu | Antony | |
 | Le pied de la momie | Théophile Gautier | Français | 978-2-218-96301 | Possédé | Lu | Antony | |
 | Le hussard sur le toit | Jean Giono | Français | 2-07-036240-0 | Possédé | Lu | Antony | |
+| Meutre au Sommet | José Giovanni | Français | 2-84230-035-1 | Possédé | Pas Lu | Cork | Emprunté from pépé |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
+| Mythes Celtiques | Miranda Jane Green | Français (tr.) | 979-10-414-1109-2 | Possédé | Pas Lu | Cork | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Pas Lu | Cork | |
 | Irish myths and legends 2 - Cuchulain and the Red Branch of Ulster | Lady Augusta Gregory | English | 978-1-84840-887-6 | Possédé | Pas Lu | Cork | |
 | La machination | Christian Grenier | Français | 2-253-02765-0 | Possédé | Lu | Antony | |
@@ -180,6 +182,7 @@
 | La cabane magique - Rencontres en haut de la tour Eiffel | May Pope Osborne | Français (tr.) | 978-2-7470-2615-4 | Possédé | Lu | Antony | |
 | Loveless | Alice Oseman | English | 9780008244132 | Possédé | Lu | Ebook | |
 | Persée et autres métamorphoses | Ovide | Français (tr.) | 978-2-218-93332-5 | Possédé | Lu | Antony | |
+| Mythes Nordiques | R. I. Page | Français (tr.) | 979-10-414-1112-2 | Possédé | Pas Lu | Cork | |
 | Angèle | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
 | César | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
 | Confidences | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
@@ -220,7 +223,7 @@
 | L'oeil du Dragon 2 - Souffle d'Ombre | Mark Robson | Français (tr.) | 978-2-266-19149-4 | Possédé | Lu | Antony | |
 | L'oeil du Dragon 3 - Dent de Sabre | Mark Robson | Français (tr.) | 978-2-266-19150-0 | Possédé | Lu | Antony | |
 | L'oeil du Dragon 4 - Aurore | Mark Robson | Français (tr.) | 978-2-266-19151-7 | Possédé | Lu | Antony | |
-| Premier de cordée | Frison Roche | Français | 2-277-11936-9 | Possédé | Pas Lu | Antony | |
+| Premier de cordée | Frison Roche | Français | 2-277-11936-9 | Possédé | Lu | Cork | |
 | La guerre du feu | J.H. Rosny Aîné | Français | 978-2-01-322595-3 | Possédé | Lu | Antony | |
 | Le félin géant | J.H. Rosny Aîné | Français | 2-253-03324-3 | Possédé | Lu | Antony | |
 | jacquou le croquant | Eugène Le Roy | Français | 2-07-033519-4 | Possédé | Pas Lu | Antony | |

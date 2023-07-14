@@ -1,8 +1,8 @@
 - Antony
-    - 230 livres (78.77% de la collection)
-    - 160 livres lus (69.57%)
-    - 208 livres en français (90.43%)
-    - 22 livres en anglais (9.57%)
+    - 228 livres (77.29% de la collection)
+    - 160 livres lus (70.18%)
+    - 206 livres en français (90.35%)
+    - 22 livres en anglais (9.65%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -58,7 +58,6 @@
 | Histoire populaire des sciences | Clifford D. Conner | Français (tr.) | 978-2-7578-3679-8 | Possédé | Pas Lu | Antony (Cartons) | |
 | Au coeur des ténèbres | Conrad | Français (tr.) | 978-2-0813-9745-3 | Possédé | Lu | Antony | |
 | Comment dresser votre dragon | Cressida Cowell | Français (tr.) | 978-2-203-03261-3 | Possédé | Lu | Antony | |
-| La Horde du Contrevent | Alain Damasio | Français | 978-2-07-292751-5 | Possédé | Pas Lu | Antony | |
 | Le labyrinthe - L'épreuve | James Dashner | Français (tr.) | 978-2-266-20012-7 | Possédé | Lu | Antony (vente) | |
 | Contes et récits - Pirates, Corsaires et flibustiers | Stéphane Descornes & Hugues Micol | Français | 2-09-282612-3 | Possédé | Lu | Antony | |
 | Contes et récits - de Paris | Stéphane Descornes & Michaël Sterckeman | Français | 209282083-4 | Possédé | Lu | Antony | |
@@ -189,7 +188,6 @@
 | L'oeil du Dragon 2 - Souffle d'Ombre | Mark Robson | Français (tr.) | 978-2-266-19149-4 | Possédé | Lu | Antony | |
 | L'oeil du Dragon 3 - Dent de Sabre | Mark Robson | Français (tr.) | 978-2-266-19150-0 | Possédé | Lu | Antony | |
 | L'oeil du Dragon 4 - Aurore | Mark Robson | Français (tr.) | 978-2-266-19151-7 | Possédé | Lu | Antony | |
-| Premier de cordée | Frison Roche | Français | 2-277-11936-9 | Possédé | Pas Lu | Antony | |
 | La guerre du feu | J.H. Rosny Aîné | Français | 978-2-01-322595-3 | Possédé | Lu | Antony | |
 | Le félin géant | J.H. Rosny Aîné | Français | 2-253-03324-3 | Possédé | Lu | Antony | |
 | jacquou le croquant | Eugène Le Roy | Français | 2-07-033519-4 | Possédé | Pas Lu | Antony | |
