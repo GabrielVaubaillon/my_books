@@ -118,7 +118,6 @@
 | Le garçon qui ne parlait pas | Donna Leon | Français (tr.) | 978-2-7578-5686-4 | Possédé | Lu | Antony (Cartons) | |
 | Le goéland | Jonathan Livingston | Français (tr.) | 2-08-161714-5 | Possédé | Lu | Antony | |
 | Croc-Blanc | Jack London | Français (tr.) | 978-2-01-322574-8 | Possédé | Lu | Antony | |
-| Face au Vent | Jim Lynch | Français (tr.) | 978-2-35178-701-4 | Possédé | Lu | Antony | |
 | Le trône de fer (L'integrale 1) | George R.R. Martin | Français (tr.) | 978-2-290-01943-6 | Possédé | Lu | Antony (Cartons) | |
 | Le trône de fer (L'integrale 2) | George R.R. Martin | Français (tr.) | 978-2-290-01944-3 | Possédé | Lu | Antony (Cartons) | |
 | Le trône de fer (L'integrale 3) | George R.R. Martin | Français (tr.) | 978-2-290-02216-0 | Possédé | Lu | Antony (Cartons) | |
@@ -150,6 +149,7 @@
 | La cabane magique - Rencontres en haut de la tour Eiffel | May Pope Osborne | Français (tr.) | 978-2-7470-2615-4 | Possédé | Lu | Antony | |
 | Loveless | Alice Oseman | English | 9780008244132 | Possédé | Lu | Ebook | |
 | Persée et autres métamorphoses | Ovide | Français (tr.) | 978-2-218-93332-5 | Possédé | Lu | Antony | |
+| Mythes Nordiques | R. I. Page | Français (tr.) | 979-10-414-1112-2 | Possédé | Lu | Cork | |
 | Robin des bois | Suzanne Pairault | Français | 2-01-001764-1 | Possédé | Lu | Antony | |
 | Inherithance cycle 1 - Eragon | Christopher Paolini | Français (tr.) | 978-2-7470-3334-3 | Possédé | Lu | Antony | |
 | Inherithance cycle 2 - L'Aîné | Christopher Paolini | Français (tr.) | 978-2-7470-2119-7 | Possédé | Lu | Antony | |

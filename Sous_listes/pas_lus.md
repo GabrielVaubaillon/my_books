@@ -57,12 +57,12 @@
 | Dandelion Dynasty 3 - The Veiled Throne | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 4 - Speaking Bones | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Martin Eden | Jack London | Français (tr.) | 978-2-07-079398-3 | Possédé | Pas Lu | Antony | |
+| Face au Vent | Jim Lynch | Français (tr.) | 978-2-35178-701-4 | Possédé | Pas Lu | Cork | |
 | Feu et sang (partie 1) | George R.R. Martin | Français (tr.) | 978-2-7564-2787-4 | Possédé | Pas Lu | Antony (Cartons) | |
 | Le trône de fer (L'integrale 5) | George R.R. Martin | Français (tr.) | 978-2-290-10709-6 | Possédé | Pas Lu | Antony (Cartons) | |
 | L'utopie | Thomas More | Français | 9782290134115 | Possédé | Pas Lu | Antony | |
 | Mes amis les loups | Farley Mowat | Français (tr.) | 2-08-161794-3 | Possédé | Pas Lu | Antony | |
 | 1984 | George Orwell | Français (tr.) | 2-07-036822-X | Possédé | Pas Lu | Antony (Cartons) | |
-| Mythes Nordiques | R. I. Page | Français (tr.) | 979-10-414-1112-2 | Possédé | Pas Lu | Cork | |
 | Angèle | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
 | César | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |
 | Confidences | Marcel Pagnol | Français | | Possédé | Pas Lu | Antony | Collection cuir rouge |

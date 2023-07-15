@@ -71,20 +71,20 @@ répartie.
     - 8 livres en français (16.67%)
     - 40 livres en anglais (83.33%)
 - Antony
-    - 228 livres (77.29% de la collection)
-    - 160 livres lus (70.18%)
-    - 206 livres en français (90.35%)
-    - 22 livres en anglais (9.65%)
+    - 227 livres (76.95% de la collection)
+    - 159 livres lus (70.04%)
+    - 205 livres en français (90.31%)
+    - 22 livres en anglais (9.69%)
 - Paris
     - 8 livres (2.71% de la collection)
     - 0 livres lus (0.0%)
     - 8 livres en français (100.0%)
     - 0 livres en anglais (0.0%)
 - Cork
-    - 10 livres (3.39% de la collection)
-    - 1 livres lus (10.0%)
-    - 5 livres en français (50.0%)
-    - 5 livres en anglais (50.0%)
+    - 11 livres (3.73% de la collection)
+    - 2 livres lus (18.18%)
+    - 6 livres en français (54.55%)
+    - 5 livres en anglais (45.45%)
 
 ### Mes Lus
 
