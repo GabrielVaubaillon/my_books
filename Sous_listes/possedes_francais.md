@@ -1,5 +1,5 @@
 ## possedes_francais 
- - 227 parmi les 362 (62.71%)
+ - 228 parmi les 363 (62.81%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -45,6 +45,7 @@
 | Les prisoniers du marais | Linda Cline | Français (tr.) | 2-253-02571-2 | Possédé | Lu | Antony | |
 | Pinocchio | Carlo Collodi | Français (tr.) | 978-2-01-321286-1 | Possédé | Lu | Antony | |
 | 25 métamorphoses d'Ovide | Annie Collognat | Français | 978-2-01-000906-8 | Possédé | Lu | Antony | |
+| Outaouais | Page Comann | Français | 978-2-38211-163-5 | Possédé | Pas Lu | Ebook | nom de plume deux auteurs |
 | La ceinture empoisonnée | Sir Arthur Conan-Doyle | Français (tr.) | 2-253-02563-1 | Possédé | Pas Lu | Antony | |
 | Le monde perdu | Sir Arthur Conan-Doyle | Français (tr.) | 2-01-019693-7 | Possédé | Pas Lu | Antony | |
 | Contes des indiens du Chiapas | Baptiste Condominas | Français | 978-2-7427-8205-5 | Possédé | Lu | Antony | |

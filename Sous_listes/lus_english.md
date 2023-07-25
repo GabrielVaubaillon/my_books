@@ -1,5 +1,5 @@
 ## lus_english 
- - 59 parmi les 362 (16.3%)
+ - 59 parmi les 363 (16.25%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |

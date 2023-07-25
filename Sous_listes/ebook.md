@@ -1,8 +1,8 @@
 - Ebook
-    - 48 livres (16.27% de la collection)
-    - 44 livres lus (91.67%)
-    - 8 livres en français (16.67%)
-    - 40 livres en anglais (83.33%)
+    - 49 livres (16.55% de la collection)
+    - 44 livres lus (89.8%)
+    - 9 livres en français (18.37%)
+    - 40 livres en anglais (81.63%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | Monk & Robot 1: A Psalm for the Wild Built | Becky Chambers | English | 978-1-250-23622-7 | Possédé | Lu | Ebook | |
 | Monk & Robot 2: A Prayer for the Crown Shy | Becky Chambers | English | 978-1-250-23624-1 | Possédé | Lu | Ebook | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
+| Outaouais | Page Comann | Français | 978-2-38211-163-5 | Possédé | Pas Lu | Ebook | nom de plume deux auteurs |
 | This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Lu | Ebook | |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Les contes de Grimm | Jacob et Wilhelm Grimm | Français | 978-2-36315-136-0 | Possédé | Lu | Ebook | |

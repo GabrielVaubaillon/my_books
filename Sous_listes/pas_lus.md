@@ -1,5 +1,5 @@
 ## pas_lus 
- - 89 parmi les 362 (24.59%)
+ - 90 parmi les 363 (24.79%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,6 +17,7 @@
 | TBP 2 - La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Antony (Cartons) | |
 | TBP 3 - La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Antony (Cartons) | |
 | The Alchemist | Paul Coelho | English (tr.) | 978-0-06-112241-5 | Possédé | Pas Lu | Antony (Cartons) | |
+| Outaouais | Page Comann | Français | 978-2-38211-163-5 | Possédé | Pas Lu | Ebook | nom de plume deux auteurs |
 | La ceinture empoisonnée | Sir Arthur Conan-Doyle | Français (tr.) | 2-253-02563-1 | Possédé | Pas Lu | Antony | |
 | Le monde perdu | Sir Arthur Conan-Doyle | Français (tr.) | 2-01-019693-7 | Possédé | Pas Lu | Antony | |
 | Sherlock Holmes - The complete novels and stories - Volume one | Sir Arthur Conan-Doyle | English | 978-1-9848-9953-8 | Possédé | | Antony (Cartons) | Recueil |

@@ -1,4 +1,4 @@
-204 Auteurs différents
+205 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -85,6 +85,7 @@
 | Paul Coelho | 1 |
 | Carlo Collodi | 1 |
 | Annie Collognat | 1 |
+| Page Comann | 1 |
 | Baptiste Condominas | 1 |
 | Clifford D. Conner | 1 |
 | Conrad | 1 |
