@@ -1,5 +1,5 @@
 ## lus_english 
- - 59 parmi les 363 (16.25%)
+ - 60 parmi les 363 (16.53%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -62,4 +62,5 @@
 | Murderbot 4.5 - Home: Habitat, Range, Niche, Territory | Martha Wells | English | 978-1-250-83886-5 | Possédé | Lu | Ebook | |
 | Murderbot 5 - Network Effect | Martha Wells | English | 978-1-250-22984-7 | Possédé | Lu | Ebook | |
 | Murderbot 6 - Fugitive Telemetry | Martha Wells | English | 978-1-250-76538-3 | Possédé | Lu | Ebook | |
+| The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Lu | Cork | |
 

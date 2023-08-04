@@ -70,5 +70,5 @@
 | Murderbot 5 - Network Effect | Martha Wells | English | 978-1-250-22984-7 | Possédé | Lu | Ebook | |
 | Murderbot 6 - Fugitive Telemetry | Martha Wells | English | 978-1-250-76538-3 | Possédé | Lu | Ebook | |
 | Irish Fairy and Folk Tales | W. B. Yeats | English | 978-1-3988-1926-9 | Possédé | Pas Lu | Cork | |
-| The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Pas Lu | Cork | |
+| The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Lu | Cork | |
 

@@ -1,5 +1,5 @@
 ## pas_lus 
- - 90 parmi les 363 (24.79%)
+ - 89 parmi les 363 (24.52%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -92,5 +92,4 @@
 | J'irai cracher sur vos tombes | Boris Vian | Français | | Possédé | Pas Lu | Antony | |
 | La guerre des mondes | H.G. Wells | Français (tr.) | 2-07-033567-4 | Possédé | Pas Lu | Antony (Cartons) | |
 | Irish Fairy and Folk Tales | W. B. Yeats | English | 978-1-3988-1926-9 | Possédé | Pas Lu | Cork | |
-| The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Pas Lu | Cork | |
 

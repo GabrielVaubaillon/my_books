@@ -1,6 +1,6 @@
 - Cork
     - 11 livres (3.72% de la collection)
-    - 2 livres lus (18.18%)
+    - 3 livres lus (27.27%)
     - 6 livres en français (54.55%)
     - 5 livres en anglais (45.45%)
 
@@ -16,5 +16,5 @@
 | Mythes Nordiques | R. I. Page | Français (tr.) | 979-10-414-1112-2 | Possédé | Lu | Cork | |
 | Premier de cordée | Frison Roche | Français | 2-277-11936-9 | Possédé | Lu | Cork | |
 | Irish Fairy and Folk Tales | W. B. Yeats | English | 978-1-3988-1926-9 | Possédé | Pas Lu | Cork | |
-| The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Pas Lu | Cork | |
+| The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Lu | Cork | |
 

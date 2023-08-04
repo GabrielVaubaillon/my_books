@@ -298,5 +298,5 @@
 | Contes d'ici et d'ailleurs | | Français | 978-2-218-93322-6 | Possédé | Lu | Antony | |
 | Le vaisseau merveilleux et autres contes de Bretagne | | Français | 2-01-007716-4 | Possédé | Lu | Antony | |
 | Les six compagnons et le carré magique | | Français | | Possédé | Lu | Antony | |
-| The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Pas Lu | Cork | |
+| The Antology of Irish Folk Tales | | English | 978-0-75099-321-0 | Possédé | Lu | Cork | |
 
