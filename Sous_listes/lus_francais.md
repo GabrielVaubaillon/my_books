@@ -1,5 +1,5 @@
 ## lus_francais 
- - 214 parmi les 363 (58.95%)
+ - 215 parmi les 363 (59.23%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -42,6 +42,7 @@
 | Hunger Games 3 - La Révolte | Suzanne Collins | Français (tr.) | | Non | Lu | | |
 | Pinocchio | Carlo Collodi | Français (tr.) | 978-2-01-321286-1 | Possédé | Lu | Antony | |
 | 25 métamorphoses d'Ovide | Annie Collognat | Français | 978-2-01-000906-8 | Possédé | Lu | Antony | |
+| Outaouais | Page Comann | Français | 978-2-38211-163-5 | Possédé | Lu | Ebook | nom de plume deux auteurs |
 | Contes des indiens du Chiapas | Baptiste Condominas | Français | 978-2-7427-8205-5 | Possédé | Lu | Antony | |
 | Au coeur des ténèbres | Conrad | Français (tr.) | 978-2-0813-9745-3 | Possédé | Lu | Antony | |
 | Comment dresser votre dragon | Cressida Cowell | Français (tr.) | 978-2-203-03261-3 | Possédé | Lu | Antony | |
