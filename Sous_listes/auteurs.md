@@ -2,7 +2,7 @@
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
-| Brandon Sanderson | 17 |
+| Brandon Sanderson | 18 |
 | Marcel Pagnol | 16 |
 | J.R.R. Tolkien | 11 |
 | Rick Riordan | 10 |

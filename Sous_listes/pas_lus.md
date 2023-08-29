@@ -1,5 +1,5 @@
 ## pas_lus 
- - 88 parmi les 363 (24.24%)
+ - 89 parmi les 364 (24.45%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -84,6 +84,7 @@
 | Manon Lescaut | Prévost | Français | 978-2-0812-7904-9 | Possédé | Pas Lu | Antony | |
 | jacquou le croquant | Eugène Le Roy | Français | 2-07-033519-4 | Possédé | Pas Lu | Antony | |
 | Le tour du Tour par 36 détours | François Salvaing | Français | 2-209-06301-9 | Possédé | Pas Lu | Antony | |
+| Yumi and the Nightmare Painter | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Pas Lu | Ebook | |
 | Quentin Durward | Walter Scott | Français (tr.) | | Possédé | Pas Lu | Antony | |
 | Les terroristes | M. Sjöwall & P. Wahlöö | Français (tr.) | 978-2-7436-2057-8 | Possédé | Pas Lu | Antony (Cartons) | |
 | Unfinished Tales | J.R.R. Tolkien | English | 978-0-261-10362-7 | Possédé | Pas Lu | Antony (Cartons) | |
