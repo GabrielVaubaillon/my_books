@@ -1,9 +1,10 @@
 ## possedes_english 
- - 69 parmi les 364 (18.96%)
+ - 70 parmi les 365 (19.18%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | The complete Robot | Isaac Asimov | English | 978-0-00-827781-9 | Possédé | Pas Lu | Antony (Cartons) | Recueil |
+| The Handmaid's Tale | Margaret Atwood | English | 9781446485477 | Possédé | Pas Lu | Ebook | |
 | Legends & Lattes | Travis Baldree | English | 978-1-0350-0733-2 | Possédé | Lu | Ebook | |
 | Fahrenheit 451 | Ray Bradbury | English | 978-0-00-654606-1 | Possédé | Lu | Antony (Cartons) | |
 | The Martian Chronicles | Ray Bradbury | English | 978-0-00-647923 | Possédé | Lu | Antony (Cartons) | |

@@ -1,4 +1,4 @@
-205 Auteurs différents
+206 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -58,6 +58,7 @@
 | Max Annas & Jérôme Leroy | 1 |
 | Jean Anouilh | 1 |
 | Jean-Philippe Arrou-Vignod | 1 |
+| Margaret Atwood | 1 |
 | Bachelard | 1 |
 | Fredik Backman | 1 |
 | Travis Baldree | 1 |

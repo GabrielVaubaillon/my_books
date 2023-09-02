@@ -1,5 +1,5 @@
 ## pas_lus 
- - 89 parmi les 364 (24.45%)
+ - 90 parmi les 365 (24.66%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -7,6 +7,7 @@
 | Terminus Leipzig | Max Annas & Jérôme Leroy | Français | 978-2-7578-9471-2 | Possédé | Pas Lu | Antony | |
 | Noel sur Ganymede | Isaac Asimov | Français (tr.) | 2-207-30187-7 | Possédé | Pas Lu | Antony (Cartons) | |
 | The complete Robot | Isaac Asimov | English | 978-0-00-827781-9 | Possédé | Pas Lu | Antony (Cartons) | Recueil |
+| The Handmaid's Tale | Margaret Atwood | English | 9781446485477 | Possédé | Pas Lu | Ebook | |
 | La formation de l'esprit scientifique | Bachelard | Français | 978-2-7116-1150-8 | Possédé | Pas Lu | Antony | |
 | L'histoire de Géronimo | Géronimo (S.M. Barett) | Français (tr.) | 2-253-03703-6 | Possédé | Pas Lu | Antony | |
 | Gros Probleme | Dave Barry | Français (tr.) | 2-266-11957-5 | Possédé | Pas Lu | Antony (Cartons) | |
