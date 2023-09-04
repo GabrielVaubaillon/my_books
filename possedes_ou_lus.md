@@ -114,7 +114,7 @@
 | Meutre au Sommet | José Giovanni | Français | 2-84230-035-1 | Possédé | Pas Lu | Cork | Emprunté from pépé |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Mythes Celtiques | Miranda Jane Green | Français (tr.) | 979-10-414-1109-2 | Possédé | Pas Lu | Cork | |
-| Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Pas Lu | Cork | |
+| Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Lu | Cork | |
 | Irish myths and legends 2 - Cuchulain and the Red Branch of Ulster | Lady Augusta Gregory | English | 978-1-84840-887-6 | Possédé | Pas Lu | Cork | |
 | L'ordinatueur | Christian Grenier | Français | | Non | Lu | | |
 | La machination | Christian Grenier | Français | 2-253-02765-0 | Possédé | Lu | Antony | |

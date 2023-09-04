@@ -1,5 +1,5 @@
 ## pas_lus 
- - 90 parmi les 365 (24.66%)
+ - 89 parmi les 365 (24.38%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -39,7 +39,6 @@
 | Au pays du grand condor | Nadine Garrel | Français | 2-07-033022-2 | Possédé | Pas Lu | Antony | |
 | Meutre au Sommet | José Giovanni | Français | 2-84230-035-1 | Possédé | Pas Lu | Cork | Emprunté from pépé |
 | Mythes Celtiques | Miranda Jane Green | Français (tr.) | 979-10-414-1109-2 | Possédé | Pas Lu | Cork | |
-| Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Pas Lu | Cork | |
 | Irish myths and legends 2 - Cuchulain and the Red Branch of Ulster | Lady Augusta Gregory | English | 978-1-84840-887-6 | Possédé | Pas Lu | Cork | |
 | Le château des enfants volés | Maria Gripe | Français (tr.) | 2-253-02698-0 | Possédé | Pas Lu | Antony | |
 | Pour qui sonne le glas | Ernest Hemingway | Français (tr.) | | Possédé | Pas Lu | Antony | |

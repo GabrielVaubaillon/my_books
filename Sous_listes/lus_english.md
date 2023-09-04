@@ -1,5 +1,5 @@
 ## lus_english 
- - 60 parmi les 365 (16.44%)
+ - 61 parmi les 365 (16.71%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,6 +13,7 @@
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
 | This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Lu | Ebook | |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
+| Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Lu | Cork | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
 | Dune 1 - Dune | Frank Herbert | English | 978-0-340-96019-6 | Possédé | Lu | Antony (Cartons) | |
 | Dune 2 - Dune Messiah | Frank Herbert | English | 978-0-593-09823-3 | Possédé | Lu | Antony (Cartons) | |
