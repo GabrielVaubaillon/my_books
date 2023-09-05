@@ -1,5 +1,5 @@
 ## lus 
- - 276 parmi les 365 (75.62%)
+ - 277 parmi les 365 (75.89%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -9,6 +9,7 @@
 | Enquête au collège | Jean-Philippe Arrou-Vignod | Français | 978-2-07-061284-0 | Possédé | Lu | Antony | |
 | Fondation 1 | Isaac Asimov | Français (tr.) | 978-2-07-046361-9 | Possédé | Lu | Antony (Cartons) | (Fondation, Fondation et Empire, Seconde Fondation) |
 | Fondation 2 | Isaac Asimov | Français (tr.) | 978-2-07-046362-6 | Possédé | Lu | Antony (Cartons) | (fondation foudroyée, Terre et fondation) |
+| The Handmaid's Tale | Margaret Atwood | English | 9781446485477 | Possédé | Lu | Ebook | |
 | Le passe muraille | Marcel Aymé | Français | | Non | Lu | | |
 | Les contes bleus du chat perché | Marcel Aymé | Français | 2-07-033097-2 | Possédé | Lu | Antony | |
 | Les contes du chat perché | Marcel Aymé | Français | 9782070363438 | Possédé | Lu | Ebook | |

@@ -10,7 +10,7 @@
 | Fondation 2 | Isaac Asimov | Français (tr.) | 978-2-07-046362-6 | Possédé | Lu | Antony (Cartons) | (fondation foudroyée, Terre et fondation) |
 | Noel sur Ganymede | Isaac Asimov | Français (tr.) | 2-207-30187-7 | Possédé | Pas Lu | Antony (Cartons) | |
 | The complete Robot | Isaac Asimov | English | 978-0-00-827781-9 | Possédé | Pas Lu | Antony (Cartons) | Recueil |
-| The Handmaid's Tale | Margaret Atwood | English | 9781446485477 | Possédé | Pas Lu | Ebook | |
+| The Handmaid's Tale | Margaret Atwood | English | 9781446485477 | Possédé | Lu | Ebook | |
 | Le passe muraille | Marcel Aymé | Français | | Non | Lu | | |
 | Les contes bleus du chat perché | Marcel Aymé | Français | 2-07-033097-2 | Possédé | Lu | Antony | |
 | Les contes du chat perché | Marcel Aymé | Français | 9782070363438 | Possédé | Lu | Ebook | |
