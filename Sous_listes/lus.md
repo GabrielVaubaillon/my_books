@@ -1,5 +1,5 @@
 ## lus 
- - 277 parmi les 365 (75.89%)
+ - 278 parmi les 365 (76.16%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -217,6 +217,7 @@
 | Stormlight Archives 4 - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Possédé | Lu | Ebook | |
 | Tress of the emerald sea | Brandon Sanderson | English | 978-1-938570-34-6 | Possédé | Lu | Ebook | |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
+| Yumi and the Nightmare Painter | Brandon Sanderson | English | 978-1-938570-40-7 | Possédé | Lu | Ebook | |
 | Contes et légendes - La naissance de Rome | François Sautereau | Français | 978-2-09-253197-6 | Possédé | Lu | Antony | |
 | Le vieux qui lisait des romans d'amour | Luis Sepuvelda | Français (tr.) | 978-2-02-023930-2 | Possédé | Lu | Antony (Cartons) | |
 | Frankenstein | Mary W. Shelley | Français (tr.) | | Non | Lu | | |

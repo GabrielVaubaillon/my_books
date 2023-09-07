@@ -1,5 +1,5 @@
 ## lus_english 
- - 62 parmi les 365 (16.99%)
+ - 63 parmi les 365 (17.26%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -46,6 +46,7 @@
 | Stormlight Archives 4 - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Possédé | Lu | Ebook | |
 | Tress of the emerald sea | Brandon Sanderson | English | 978-1-938570-34-6 | Possédé | Lu | Ebook | |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
+| Yumi and the Nightmare Painter | Brandon Sanderson | English | 978-1-938570-40-7 | Possédé | Lu | Ebook | |
 | Of mice and men | John Steinbeck | English | 979-10-358-1029-0 | Possédé | Lu | Antony (Cartons) | edition apprendre l'anglais (depuis le français) |
 | Children of Hurin | J.R.R. Tolkien | English | 9780007322589 | Possédé | Lu | Ebook | |
 | The Hobbit | J.R.R. Tolkien | English | 978-0-007-48731-8 | Possédé | Lu | Ebook | |
