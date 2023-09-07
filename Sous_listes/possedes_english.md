@@ -1,5 +1,5 @@
 ## possedes_english 
- - 70 parmi les 365 (19.18%)
+ - 71 parmi les 366 (19.4%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -31,6 +31,7 @@
 | Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Lu | Ebook | |
 | The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
 | To Kill A Mocking-Bird | Harper Lee | English | 978-0-09-941978-5 | Possédé | Pas Lu | Cork | |
+| Pachinko | Min Jin Lee | English | 978-1-4555-6391-3 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 2 - The Wall of Storms | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 3 - The Veiled Throne | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |

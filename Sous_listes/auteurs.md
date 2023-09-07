@@ -1,4 +1,4 @@
-206 Auteurs différents
+207 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -145,6 +145,7 @@
 | Björn Larsson | 1 |
 | Ursula K. Le-Guin | 1 |
 | Harper Lee | 1 |
+| Min Jin Lee | 1 |
 | Stanislaw Lem | 1 |
 | Donna Leon | 1 |
 | Jonathan Livingston | 1 |

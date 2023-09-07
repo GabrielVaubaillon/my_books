@@ -1,5 +1,5 @@
 ## lus 
- - 278 parmi les 365 (76.16%)
+ - 278 parmi les 366 (75.96%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
