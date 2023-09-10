@@ -1,5 +1,5 @@
 ## lus_english 
- - 63 parmi les 366 (17.21%)
+ - 64 parmi les 367 (17.44%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -29,6 +29,7 @@
 | Bartleby the scrivener | Herman Melville | English/Français | | Non | Lu | | |
 | Animal farm | George Orwell | English | 978-0-141-03613-7 | Possédé | Lu | Antony (Cartons) | |
 | Loveless | Alice Oseman | English | 9780008244132 | Possédé | Lu | Ebook | |
+| Mort | Terry Pratchett | English | 978-1-407-03450-8 | Possédé | Lu | Ebook | |
 | Sea of Tranquility | Emily Saint-John-Mandel | English | 9780593321454 | Possédé | Lu | Ebook | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | Lu | Ebook | Recueil |
 | Elantris | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Lu | Ebook | |

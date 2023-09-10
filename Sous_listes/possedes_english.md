@@ -1,5 +1,5 @@
 ## possedes_english 
- - 71 parmi les 366 (19.4%)
+ - 72 parmi les 367 (19.62%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -38,6 +38,7 @@
 | Dandelion Dynasty 4 - Speaking Bones | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Animal farm | George Orwell | English | 978-0-141-03613-7 | Possédé | Lu | Antony (Cartons) | |
 | Loveless | Alice Oseman | English | 9780008244132 | Possédé | Lu | Ebook | |
+| Mort | Terry Pratchett | English | 978-1-407-03450-8 | Possédé | Lu | Ebook | |
 | Sea of Tranquility | Emily Saint-John-Mandel | English | 9780593321454 | Possédé | Lu | Ebook | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | Lu | Ebook | Recueil |
 | Elantris | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Lu | Ebook | |

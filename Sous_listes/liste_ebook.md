@@ -1,8 +1,8 @@
 - Ebook
-    - 52 livres (17.39% de la collection)
-    - 47 livres lus (90.38%)
-    - 9 livres en français (17.31%)
-    - 43 livres en anglais (82.69%)
+    - 53 livres (17.67% de la collection)
+    - 48 livres lus (90.57%)
+    - 9 livres en français (16.98%)
+    - 44 livres en anglais (83.02%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -32,6 +32,7 @@
 | Loveless | Alice Oseman | English | 9780008244132 | Possédé | Lu | Ebook | |
 | Les contes de Perrault | Charles Perrault | Français | 978-2-36315-137-7 | Possédé | Lu | Ebook | |
 | Mamie Luger | Benoît Philippon | Français | 978-2-35204-946-3 | Possédé | Lu | Ebook | |
+| Mort | Terry Pratchett | English | 978-1-407-03450-8 | Possédé | Lu | Ebook | |
 | Sea of Tranquility | Emily Saint-John-Mandel | English | 9780593321454 | Possédé | Lu | Ebook | |
 | Arcanum Unbounded | Brandon Sanderson | English | 978-1-473-21806-2 | Possédé | Lu | Ebook | Recueil |
 | Elantris | Brandon Sanderson | English | 978-0-575-09745-2 | Possédé | Lu | Ebook | |

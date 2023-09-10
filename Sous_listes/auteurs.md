@@ -1,4 +1,4 @@
-207 Auteurs différents
+208 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -174,6 +174,7 @@
 | Georges Politzer | 1 |
 | Joël Pommerat | 1 |
 | Jean Portail | 1 |
+| Terry Pratchett | 1 |
 | Prévost | 1 |
 | Raymond Queneau | 1 |
 | Racine | 1 |

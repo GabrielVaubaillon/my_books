@@ -1,5 +1,5 @@
 ## possedes 
- - 299 parmi les 366 (81.69%)
+ - 300 parmi les 367 (81.74%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -215,6 +215,7 @@
 | Principes élémentaires de philosophie | Georges Politzer | Français | 978-2-915854-15-2 | Possédé | Pas Lu | Antony | |
 | Pinnocchio (théatre) | Joël Pommerat | Français | 978-2-33-04858-7 | Possédé | Lu | Antony | |
 | Contes et légendes de la camargue et des gitans | Jean Portail | Français | | Possédé | Lu | Antony | Collection Fernand Nathan |
+| Mort | Terry Pratchett | English | 978-1-407-03450-8 | Possédé | Lu | Ebook | |
 | L'opéra de la lune | Jacques Prévert | Français | 2-07-050635-5 | Possédé | Lu | Antony | |
 | Le cancre | Jacques Prévert | Français | 2-07-039219-8 | Possédé | Lu | Antony | |
 | Manon Lescaut | Prévost | Français | 978-2-0812-7904-9 | Possédé | Pas Lu | Antony | |
