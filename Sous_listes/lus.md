@@ -1,5 +1,5 @@
 ## lus 
- - 279 parmi les 367 (76.02%)
+ - 280 parmi les 368 (76.09%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -18,6 +18,7 @@
 | Legends & Lattes | Travis Baldree | English | 978-1-0350-0733-2 | Possédé | Lu | Ebook | |
 | Le père Goriot | Honoré de Balzac | Français | | Non | Lu | | |
 | Le grand secret | Barjavel | Français | | Non | Lu | | |
+| Les FLeurs du Mal | Charles Baudelaire | Français | | Non | Lu | | |
 | Michel et les routiers | Georges Bayard | Français | | Possédé | Lu | Antony | |
 | Vipère au poing | Hervé Bazin | Français | 978-2-253-00145-4 | Possédé | Lu | Antony | |
 | La plume de l'ange | Bazire-Talamon | Français | 978-2-09-252104-5 | Possédé | Lu | Antony | |

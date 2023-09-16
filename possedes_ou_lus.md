@@ -23,6 +23,7 @@
 | Le grand secret | Barjavel | Français | | Non | Lu | | |
 | Gros Probleme | Dave Barry | Français (tr.) | 2-266-11957-5 | Possédé | Pas Lu | Antony (Cartons) | |
 | Alamut | Vladimir Bartol | Français (tr.) | 2-85940-518-6 | Possédé | Pas Lu | Antony | |
+| Les FLeurs du Mal | Charles Baudelaire | Français | | Non | Lu | | |
 | J'ai bien connu Icare | Hans Baumann | Français (tr.) | 2-08-161866-4 | Possédé | Pas Lu | Antony | |
 | Michel et les routiers | Georges Bayard | Français | | Possédé | Lu | Antony | |
 | Vipère au poing | Hervé Bazin | Français | 978-2-253-00145-4 | Possédé | Lu | Antony | |

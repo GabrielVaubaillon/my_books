@@ -1,5 +1,5 @@
 ## lus_francais 
- - 215 parmi les 367 (58.58%)
+ - 216 parmi les 368 (58.7%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@
 | La vie selon Ove | Fredik Backman | Français (tr.) | 978-2-258-10999-5 | Possédé | Lu | Ebook | |
 | Le père Goriot | Honoré de Balzac | Français | | Non | Lu | | |
 | Le grand secret | Barjavel | Français | | Non | Lu | | |
+| Les FLeurs du Mal | Charles Baudelaire | Français | | Non | Lu | | |
 | Michel et les routiers | Georges Bayard | Français | | Possédé | Lu | Antony | |
 | Vipère au poing | Hervé Bazin | Français | 978-2-253-00145-4 | Possédé | Lu | Antony | |
 | La plume de l'ange | Bazire-Talamon | Français | 978-2-09-252104-5 | Possédé | Lu | Antony | |

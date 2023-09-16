@@ -1,4 +1,4 @@
-208 Auteurs différents
+209 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -67,6 +67,7 @@
 | Barjavel | 1 |
 | Dave Barry | 1 |
 | Vladimir Bartol | 1 |
+| Charles Baudelaire | 1 |
 | Hans Baumann | 1 |
 | Georges Bayard | 1 |
 | Hervé Bazin | 1 |
