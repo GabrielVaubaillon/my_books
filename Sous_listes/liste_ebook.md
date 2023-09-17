@@ -1,6 +1,6 @@
 - Ebook
     - 53 livres (17.67% de la collection)
-    - 48 livres lus (90.57%)
+    - 49 livres lus (92.45%)
     - 9 livres en français (16.98%)
     - 44 livres en anglais (83.02%)
 
@@ -24,7 +24,7 @@
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
 | Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Lu | Ebook | |
 | The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
-| Pachinko | Min Jin Lee | English | 978-1-4555-6391-3 | Possédé | Pas Lu | Ebook | |
+| Pachinko | Min Jin Lee | English | 978-1-4555-6391-3 | Possédé | Lu | Ebook | |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 2 - The Wall of Storms | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 3 - The Veiled Throne | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |

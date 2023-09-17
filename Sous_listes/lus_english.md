@@ -1,5 +1,5 @@
 ## lus_english 
- - 64 parmi les 368 (17.39%)
+ - 65 parmi les 368 (17.66%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -25,6 +25,7 @@
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
 | Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Lu | Ebook | |
 | The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
+| Pachinko | Min Jin Lee | English | 978-1-4555-6391-3 | Possédé | Lu | Ebook | |
 | Solaris | Stanislaw Lem | English (tr.) | 978-0-15-602760-1 | Non | Lu | | |
 | Bartleby the scrivener | Herman Melville | English/Français | | Non | Lu | | |
 | Animal farm | George Orwell | English | 978-0-141-03613-7 | Possédé | Lu | Antony (Cartons) | |

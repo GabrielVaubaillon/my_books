@@ -1,5 +1,5 @@
 ## lus 
- - 280 parmi les 368 (76.09%)
+ - 281 parmi les 368 (76.36%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -118,6 +118,7 @@
 | 12 récits de l'énéide | Michel Laporte | Français | 978-2-0812-3029-3 | Possédé | Lu | Antony | |
 | Long John Silver | Björn Larsson | Français (tr.) | 2-253-15010-7 | Possédé | Lu | Antony | |
 | The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
+| Pachinko | Min Jin Lee | English | 978-1-4555-6391-3 | Possédé | Lu | Ebook | |
 | Solaris | Stanislaw Lem | English (tr.) | 978-0-15-602760-1 | Non | Lu | | |
 | Le garçon qui ne parlait pas | Donna Leon | Français (tr.) | 978-2-7578-5686-4 | Possédé | Lu | Antony (Cartons) | |
 | Le goéland | Jonathan Livingston | Français (tr.) | 2-08-161714-5 | Possédé | Lu | Antony | |
