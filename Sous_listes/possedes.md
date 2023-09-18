@@ -100,7 +100,7 @@
 | Au pays du grand condor | Nadine Garrel | Français | 2-07-033022-2 | Possédé | Pas Lu | Antony | |
 | Le pied de la momie | Théophile Gautier | Français | 978-2-218-96301 | Possédé | Lu | Antony | |
 | Le hussard sur le toit | Jean Giono | Français | 2-07-036240-0 | Possédé | Lu | Antony | |
-| Meutre au Sommet | José Giovanni | Français | 2-84230-035-1 | Possédé | Pas Lu | Cork | Emprunté from pépé |
+| Meutre au Sommet | José Giovanni | Français | 2-84230-035-1 | Possédé | Lu | Cork | Emprunté from pépé |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Mythes Celtiques | Miranda Jane Green | Français (tr.) | 979-10-414-1109-2 | Possédé | Pas Lu | Cork | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Lu | Cork | |

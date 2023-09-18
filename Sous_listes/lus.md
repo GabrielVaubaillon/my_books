@@ -1,5 +1,5 @@
 ## lus 
- - 281 parmi les 368 (76.36%)
+ - 282 parmi les 368 (76.63%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -82,6 +82,7 @@
 | Smith | Leon Garfield | Français (tr.) | 2-253-03350-2 | Possédé | Lu | Antony | |
 | Le pied de la momie | Théophile Gautier | Français | 978-2-218-96301 | Possédé | Lu | Antony | |
 | Le hussard sur le toit | Jean Giono | Français | 2-07-036240-0 | Possédé | Lu | Antony | |
+| Meutre au Sommet | José Giovanni | Français | 2-84230-035-1 | Possédé | Lu | Cork | Emprunté from pépé |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Lu | Cork | |
 | L'ordinatueur | Christian Grenier | Français | | Non | Lu | | |

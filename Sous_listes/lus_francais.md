@@ -1,5 +1,5 @@
 ## lus_francais 
- - 216 parmi les 368 (58.7%)
+ - 217 parmi les 368 (58.97%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -72,6 +72,7 @@
 | Smith | Leon Garfield | Français (tr.) | 2-253-03350-2 | Possédé | Lu | Antony | |
 | Le pied de la momie | Théophile Gautier | Français | 978-2-218-96301 | Possédé | Lu | Antony | |
 | Le hussard sur le toit | Jean Giono | Français | 2-07-036240-0 | Possédé | Lu | Antony | |
+| Meutre au Sommet | José Giovanni | Français | 2-84230-035-1 | Possédé | Lu | Cork | Emprunté from pépé |
 | L'ordinatueur | Christian Grenier | Français | | Non | Lu | | |
 | La machination | Christian Grenier | Français | 2-253-02765-0 | Possédé | Lu | Antony | |
 | Contes et légendes - Les douze travaux d'hercule | Christian Grenier & Philippe Caron | Français | 2-09-282318-3 | Possédé | Lu | Antony | |
