@@ -81,7 +81,7 @@
 | Le collier de la reine | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 2 livres, Belle collection Auteur |
 | Le comte de Monte-Cristo | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 4 livres, Belle collection Auteur |
 | Le vicomte de Bragelonne | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 6 livres, Belle collection Auteur |
-| Les trois Mousquetaire | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 2 livres, Belle collection Auteur |
+| Les trois Mousquetaire | Alexandre Dumas | Français | | Possédé | Lu | Paris | 2 livres, Belle collection Auteur |
 | Vingt ans apres | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 2 livres, Belle collection Auteur |
 | Les lions de césar | Jean-Luc Déjean | Français | 978-2-01-322650-9 | Possédé | Lu | Antony | |
 | This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Lu | Ebook | |

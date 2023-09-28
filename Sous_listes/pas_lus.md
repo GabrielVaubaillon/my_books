@@ -1,5 +1,5 @@
 ## pas_lus 
- - 86 parmi les 368 (23.37%)
+ - 85 parmi les 368 (23.1%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -31,7 +31,6 @@
 | Le collier de la reine | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 2 livres, Belle collection Auteur |
 | Le comte de Monte-Cristo | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 4 livres, Belle collection Auteur |
 | Le vicomte de Bragelonne | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 6 livres, Belle collection Auteur |
-| Les trois Mousquetaire | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 2 livres, Belle collection Auteur |
 | Vingt ans apres | Alexandre Dumas | Français | | Possédé | Pas Lu | Paris | 2 livres, Belle collection Auteur |
 | Le crépuscule et l'aube | Ken Follett | Français (tr.) | 978-2-221-15770-1 | Possédé | Pas Lu | Antony (Cartons) | |
 | Journal | Anne Frank | Français (tr.) | 2-253-00127-9 | Possédé | Pas Lu | Antony | |

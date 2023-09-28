@@ -1,5 +1,5 @@
 ## lus 
- - 282 parmi les 368 (76.63%)
+ - 283 parmi les 368 (76.9%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -65,6 +65,7 @@
 | Les chroniques de Spiderwick - L'integrale | Tony Diterlizzi & Holly Black | Français (tr.) | 978-2-266-18201-0 | Possédé | Lu | Antony | |
 | Les pollueurs font tache d'huile | Brian Doyle | Français (tr.) | 2-7427-1401-4 | Possédé | Lu | Antony | |
 | Tistou les pouces verts | Maurice Druon | Français | 2-01-0104153-3 | Possédé | Lu | Antony | |
+| Les trois Mousquetaire | Alexandre Dumas | Français | | Possédé | Lu | Paris | 2 livres, Belle collection Auteur |
 | Les lions de césar | Jean-Luc Déjean | Français | 978-2-01-322650-9 | Possédé | Lu | Antony | |
 | This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Lu | Ebook | |
 | Flamme et l'Etalon Noir | Walter Farley | Français (tr.) | 2-01-00-1034-5 | Possédé | Lu | Antony | |

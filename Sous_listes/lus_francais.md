@@ -1,5 +1,5 @@
 ## lus_francais 
- - 217 parmi les 368 (58.97%)
+ - 218 parmi les 368 (59.24%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -56,6 +56,7 @@
 | Les chroniques de Spiderwick - L'integrale | Tony Diterlizzi & Holly Black | Français (tr.) | 978-2-266-18201-0 | Possédé | Lu | Antony | |
 | Les pollueurs font tache d'huile | Brian Doyle | Français (tr.) | 2-7427-1401-4 | Possédé | Lu | Antony | |
 | Tistou les pouces verts | Maurice Druon | Français | 2-01-0104153-3 | Possédé | Lu | Antony | |
+| Les trois Mousquetaire | Alexandre Dumas | Français | | Possédé | Lu | Paris | 2 livres, Belle collection Auteur |
 | Les lions de césar | Jean-Luc Déjean | Français | 978-2-01-322650-9 | Possédé | Lu | Antony | |
 | Flamme et l'Etalon Noir | Walter Farley | Français (tr.) | 2-01-00-1034-5 | Possédé | Lu | Antony | |
 | Le fils de l'Etalon noir | Walter Farley | Français (tr.) | | Possédé | Lu | Antony | |
