@@ -1,5 +1,5 @@
 - Ebook
-    - 53 livres (17.67% de la collection)
+    - 53 livres (17.61% de la collection)
     - 49 livres lus (92.45%)
     - 9 livres en français (16.98%)
     - 44 livres en anglais (83.02%)

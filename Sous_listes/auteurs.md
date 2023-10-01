@@ -36,6 +36,7 @@
 | Ray Bradbury | 2 |
 | Becky Chambers | 2 |
 | Agatha Christie | 2 |
+| Amal El-Mothar & Max Gladstone | 2 |
 | Walter Farley | 2 |
 | Timothée de Fombelle | 2 |
 | Lady Augusta Gregory | 2 |
@@ -102,7 +103,6 @@
 | Brian Doyle | 1 |
 | Maurice Druon | 1 |
 | Jean-Luc Déjean | 1 |
-| Amal El-Mothar & Max Gladstone | 1 |
 | Ken Follett | 1 |
 | Paul Fournel | 1 |
 | Anne Frank | 1 |

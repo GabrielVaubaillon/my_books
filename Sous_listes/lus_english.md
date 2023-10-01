@@ -1,5 +1,5 @@
 ## lus_english 
- - 65 parmi les 368 (17.66%)
+ - 66 parmi les 369 (17.89%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -12,6 +12,7 @@
 | And then there were None | Agatha Christie | English | 978-0-00-812320-8 | Possédé | Lu | Antony | |
 | Murder on the Orient Express | Agatha Christie | English | 978-0-00-752750-2 | Possédé | Lu | Antony | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
+| This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-523-1 | Possédé | Lu | Cork | |
 | This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Lu | Ebook | |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Lu | Cork | |

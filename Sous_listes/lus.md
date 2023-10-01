@@ -1,5 +1,5 @@
 ## lus 
- - 283 parmi les 368 (76.9%)
+ - 284 parmi les 369 (76.96%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -67,6 +67,7 @@
 | Tistou les pouces verts | Maurice Druon | Français | 2-01-0104153-3 | Possédé | Lu | Antony | |
 | Les trois Mousquetaire | Alexandre Dumas | Français | | Possédé | Lu | Paris | 2 livres, Belle collection Auteur |
 | Les lions de césar | Jean-Luc Déjean | Français | 978-2-01-322650-9 | Possédé | Lu | Antony | |
+| This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-523-1 | Possédé | Lu | Cork | |
 | This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Lu | Ebook | |
 | Flamme et l'Etalon Noir | Walter Farley | Français (tr.) | 2-01-00-1034-5 | Possédé | Lu | Antony | |
 | Le fils de l'Etalon noir | Walter Farley | Français (tr.) | | Possédé | Lu | Antony | |
