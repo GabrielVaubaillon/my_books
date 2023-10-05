@@ -1,8 +1,8 @@
 - Ebook
-    - 53 livres (17.61% de la collection)
-    - 49 livres lus (92.45%)
-    - 9 livres en français (16.98%)
-    - 44 livres en anglais (83.02%)
+    - 54 livres (17.82% de la collection)
+    - 50 livres lus (92.59%)
+    - 9 livres en français (16.67%)
+    - 45 livres en anglais (83.33%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | Le Maître et Marguerite | Mikhaïl Boulgakov | Français (tr.) | 978-2-221-24056-4 | Possédé | Lu | Ebook | |
 | Monk & Robot 1: A Psalm for the Wild Built | Becky Chambers | English | 978-1-250-23622-7 | Possédé | Lu | Ebook | |
 | Monk & Robot 2: A Prayer for the Crown Shy | Becky Chambers | English | 978-1-250-23624-1 | Possédé | Lu | Ebook | |
+| The Murder of Roger Ackroyd | Agatha Christie | English | 9782380376913 | Possédé | Lu | Ebook | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
 | Outaouais | Page Comann | Français | 978-2-38211-163-5 | Possédé | Lu | Ebook | nom de plume deux auteurs |
 | This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Lu | Ebook | |

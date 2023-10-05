@@ -1,5 +1,5 @@
 ## pas_lus 
- - 85 parmi les 369 (23.04%)
+ - 86 parmi les 371 (23.18%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -35,6 +35,7 @@
 | Le crépuscule et l'aube | Ken Follett | Français (tr.) | 978-2-221-15770-1 | Possédé | Pas Lu | Antony (Cartons) | |
 | Journal | Anne Frank | Français (tr.) | 2-253-00127-9 | Possédé | Pas Lu | Antony | |
 | Au pays du grand condor | Nadine Garrel | Français | 2-07-033022-2 | Possédé | Pas Lu | Antony | |
+| The Gentle Art of Tramping | Stephen Graham | English | 978-1-4482-1724-3 | Possédé | Pas Lu | Cork | |
 | Mythes Celtiques | Miranda Jane Green | Français (tr.) | 979-10-414-1109-2 | Possédé | Pas Lu | Cork | |
 | Irish myths and legends 2 - Cuchulain and the Red Branch of Ulster | Lady Augusta Gregory | English | 978-1-84840-887-6 | Possédé | Pas Lu | Cork | |
 | Le château des enfants volés | Maria Gripe | Français (tr.) | 2-253-02698-0 | Possédé | Pas Lu | Antony | |

@@ -1,4 +1,4 @@
-209 Auteurs différents
+210 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -22,6 +22,7 @@
 | Christopher Paolini | 4 |
 | Mark Robson | 4 |
 | Odile Weulersse | 4 |
+| Agatha Christie | 3 |
 | Liu Cixin | 3 |
 | Suzanne Collins | 3 |
 | Philip K. Dick | 3 |
@@ -35,7 +36,6 @@
 | Bazire-Talamon | 2 |
 | Ray Bradbury | 2 |
 | Becky Chambers | 2 |
-| Agatha Christie | 2 |
 | Amal El-Mothar & Max Gladstone | 2 |
 | Walter Farley | 2 |
 | Timothée de Fombelle | 2 |
@@ -116,6 +116,7 @@
 | Jean Giono | 1 |
 | José Giovanni | 1 |
 | William Goldman | 1 |
+| Stephen Graham | 1 |
 | Miranda Jane Green | 1 |
 | Christian Grenier & Philippe Caron | 1 |
 | Jacob et Wilhelm Grimm | 1 |
