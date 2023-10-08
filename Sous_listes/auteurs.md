@@ -13,6 +13,7 @@
 | Paul-Jacques Bonzon | 6 |
 | Frank Herbert | 6 |
 | George R.R. Martin | 6 |
+| Agatha Christie | 5 |
 |  | 5 |
 | Isaac Asimov | 4 |
 | Marcel Aymé | 4 |
@@ -22,7 +23,6 @@
 | Christopher Paolini | 4 |
 | Mark Robson | 4 |
 | Odile Weulersse | 4 |
-| Agatha Christie | 3 |
 | Liu Cixin | 3 |
 | Suzanne Collins | 3 |
 | Philip K. Dick | 3 |

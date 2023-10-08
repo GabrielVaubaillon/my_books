@@ -1,5 +1,5 @@
 ## pas_lus 
- - 86 parmi les 371 (23.18%)
+ - 87 parmi les 373 (23.32%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | J'ai bien connu Icare | Hans Baumann | Français (tr.) | 2-08-161866-4 | Possédé | Pas Lu | Antony | |
 | La concierge est dans le cercueil | José Benjamin | Français | 978-2-913019-58-4 | Possédé | Pas Lu | Antony | |
 | Bennett et sa cabane | Anthony Buckeridge | Français | 2-253-02338-8 | Possédé | Pas Lu | Antony | |
+| Death on the Nile | Agatha Christie | English | 9780007422289 | Possédé | Pas Lu | Ebook | |
 | TBP 2 - La Forêt sombre | Liu Cixin | Français (tr.) | 978-2-330-12511-0 | Possédé | Pas Lu | Antony (Cartons) | |
 | TBP 3 - La Mort immortelle | Liu Cixin | Français (tr.) | 978-2-330-14319-0 | Possédé | Pas Lu | Antony (Cartons) | |
 | The Alchemist | Paul Coelho | English (tr.) | 978-0-06-112241-5 | Possédé | Pas Lu | Antony (Cartons) | |

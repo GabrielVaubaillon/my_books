@@ -1,5 +1,5 @@
 ## possedes_english 
- - 75 parmi les 371 (20.22%)
+ - 77 parmi les 373 (20.64%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -11,6 +11,8 @@
 | Monk & Robot 1: A Psalm for the Wild Built | Becky Chambers | English | 978-1-250-23622-7 | Possédé | Lu | Ebook | |
 | Monk & Robot 2: A Prayer for the Crown Shy | Becky Chambers | English | 978-1-250-23624-1 | Possédé | Lu | Ebook | |
 | And then there were None | Agatha Christie | English | 978-0-00-812320-8 | Possédé | Lu | Antony | |
+| Cards on the Table | Agatha Christie | English | 9780007422197 | Possédé | Lu | Ebook | |
+| Death on the Nile | Agatha Christie | English | 9780007422289 | Possédé | Pas Lu | Ebook | |
 | Murder on the Orient Express | Agatha Christie | English | 978-0-00-752750-2 | Possédé | Lu | Antony | |
 | The Murder of Roger Ackroyd | Agatha Christie | English | 9782380376913 | Possédé | Lu | Ebook | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |

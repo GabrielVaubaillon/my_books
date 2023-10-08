@@ -1,8 +1,8 @@
 - Ebook
-    - 54 livres (17.82% de la collection)
-    - 50 livres lus (92.59%)
-    - 9 livres en français (16.67%)
-    - 45 livres en anglais (83.33%)
+    - 56 livres (18.36% de la collection)
+    - 51 livres lus (91.07%)
+    - 9 livres en français (16.07%)
+    - 47 livres en anglais (83.93%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,8 @@
 | Le Maître et Marguerite | Mikhaïl Boulgakov | Français (tr.) | 978-2-221-24056-4 | Possédé | Lu | Ebook | |
 | Monk & Robot 1: A Psalm for the Wild Built | Becky Chambers | English | 978-1-250-23622-7 | Possédé | Lu | Ebook | |
 | Monk & Robot 2: A Prayer for the Crown Shy | Becky Chambers | English | 978-1-250-23624-1 | Possédé | Lu | Ebook | |
+| Cards on the Table | Agatha Christie | English | 9780007422197 | Possédé | Lu | Ebook | |
+| Death on the Nile | Agatha Christie | English | 9780007422289 | Possédé | Pas Lu | Ebook | |
 | The Murder of Roger Ackroyd | Agatha Christie | English | 9782380376913 | Possédé | Lu | Ebook | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
 | Outaouais | Page Comann | Français | 978-2-38211-163-5 | Possédé | Lu | Ebook | nom de plume deux auteurs |
