@@ -1,5 +1,5 @@
 ## lus_english 
- - 68 parmi les 373 (18.23%)
+ - 69 parmi les 374 (18.45%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -11,6 +11,7 @@
 | Monk & Robot 2: A Prayer for the Crown Shy | Becky Chambers | English | 978-1-250-23624-1 | Possédé | Lu | Ebook | |
 | And then there were None | Agatha Christie | English | 978-0-00-812320-8 | Possédé | Lu | Antony | |
 | Cards on the Table | Agatha Christie | English | 9780007422197 | Possédé | Lu | Ebook | |
+| Death on the Nile | Agatha Christie | English | 9780007422289 | Possédé | Lu | Ebook | |
 | Murder on the Orient Express | Agatha Christie | English | 978-0-00-752750-2 | Possédé | Lu | Antony | |
 | The Murder of Roger Ackroyd | Agatha Christie | English | 9782380376913 | Possédé | Lu | Ebook | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |

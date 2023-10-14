@@ -1,5 +1,5 @@
 ## possedes 
- - 305 parmi les 373 (81.77%)
+ - 306 parmi les 374 (81.82%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -47,7 +47,7 @@
 | Monk & Robot 2: A Prayer for the Crown Shy | Becky Chambers | English | 978-1-250-23624-1 | Possédé | Lu | Ebook | |
 | And then there were None | Agatha Christie | English | 978-0-00-812320-8 | Possédé | Lu | Antony | |
 | Cards on the Table | Agatha Christie | English | 9780007422197 | Possédé | Lu | Ebook | |
-| Death on the Nile | Agatha Christie | English | 9780007422289 | Possédé | Pas Lu | Ebook | |
+| Death on the Nile | Agatha Christie | English | 9780007422289 | Possédé | Lu | Ebook | |
 | Murder on the Orient Express | Agatha Christie | English | 978-0-00-752750-2 | Possédé | Lu | Antony | |
 | The Murder of Roger Ackroyd | Agatha Christie | English | 9782380376913 | Possédé | Lu | Ebook | |
 | TBP 1 - Le Problème à trois corps | Liu Cixin | Français (tr.) | 978-2-330-11355-1 | Possédé | Lu | Antony (Cartons) | |
@@ -251,6 +251,7 @@
 | Stormlight Archives 3 - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Possédé | Lu | Ebook | |
 | Stormlight Archives 3.5 - Dawnshard | Brandon Sanderson | English | 978-1-938570-26-1 | Possédé | Lu | Ebook | |
 | Stormlight Archives 4 - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Possédé | Lu | Ebook | |
+| The Sunlit Man | Brandon Sanderson | English | 978-1-938570-41-4 | Possédé | Pas Lu | Ebook | |
 | Tress of the emerald sea | Brandon Sanderson | English | 978-1-938570-34-6 | Possédé | Lu | Ebook | |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
 | Yumi and the Nightmare Painter | Brandon Sanderson | English | 978-1-938570-40-7 | Possédé | Lu | Ebook | |
