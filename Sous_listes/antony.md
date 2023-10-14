@@ -50,10 +50,6 @@
 | The Alchemist | Paul Coelho | English (tr.) | 978-0-06-112241-5 | Possédé | Pas Lu | Antony (Cartons) | |
 | Pinocchio | Carlo Collodi | Français (tr.) | 978-2-01-321286-1 | Possédé | Lu | Antony | |
 | 25 métamorphoses d'Ovide | Annie Collognat | Français | 978-2-01-000906-8 | Possédé | Lu | Antony | |
-| La ceinture empoisonnée | Sir Arthur Conan-Doyle | Français (tr.) | 2-253-02563-1 | Possédé | Pas Lu | Antony | |
-| Le monde perdu | Sir Arthur Conan-Doyle | Français (tr.) | 2-01-019693-7 | Possédé | Pas Lu | Antony | |
-| Sherlock Holmes - The complete novels and stories - Volume one | Sir Arthur Conan-Doyle | English | 978-1-9848-9953-8 | Possédé | | Antony (Cartons) | Recueil |
-| Sherlock Holmes - The complete novels and stories - Volume two | Sir Arthur Conan-Doyle | English | 978-1-9848-9954-5 | Possédé | | Antony (Cartons) | Recueil |
 | Contes des indiens du Chiapas | Baptiste Condominas | Français | 978-2-7427-8205-5 | Possédé | Lu | Antony | |
 | Histoire populaire des sciences | Clifford D. Conner | Français (tr.) | 978-2-7578-3679-8 | Possédé | Pas Lu | Antony (Cartons) | |
 | Au coeur des ténèbres | Conrad | Français (tr.) | 978-2-0813-9745-3 | Possédé | Lu | Antony | |
@@ -66,6 +62,10 @@
 | Le Sorgho rouge | Ya Ding | Français | 2-01-018282-0 | Possédé | Lu | Antony | |
 | Les chroniques de Spiderwick - L'integrale | Tony Diterlizzi & Holly Black | Français (tr.) | 978-2-266-18201-0 | Possédé | Lu | Antony | |
 | Les pollueurs font tache d'huile | Brian Doyle | Français (tr.) | 2-7427-1401-4 | Possédé | Lu | Antony | |
+| La ceinture empoisonnée | Sir Arthur Conan Doyle | Français (tr.) | 2-253-02563-1 | Possédé | Pas Lu | Antony | |
+| Le monde perdu | Sir Arthur Conan Doyle | Français (tr.) | 2-01-019693-7 | Possédé | Pas Lu | Antony | |
+| Sherlock Holmes - The complete novels and stories - Volume one | Sir Arthur Conan Doyle | English | 978-1-9848-9953-8 | Possédé | | Antony (Cartons) | Recueil |
+| Sherlock Holmes - The complete novels and stories - Volume two | Sir Arthur Conan Doyle | English | 978-1-9848-9954-5 | Possédé | | Antony (Cartons) | Recueil |
 | Tistou les pouces verts | Maurice Druon | Français | 2-01-0104153-3 | Possédé | Lu | Antony | |
 | Les lions de césar | Jean-Luc Déjean | Français | 978-2-01-322650-9 | Possédé | Lu | Antony | |
 | Flamme et l'Etalon Noir | Walter Farley | Français (tr.) | 2-01-00-1034-5 | Possédé | Lu | Antony | |

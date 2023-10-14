@@ -17,7 +17,7 @@
 |  | 5 |
 | Isaac Asimov | 4 |
 | Marcel Aymé | 4 |
-| Sir Arthur Conan-Doyle | 4 |
+| Sir Arthur Conan Doyle | 4 |
 | Ken Liu | 4 |
 | George Orwell | 4 |
 | Christopher Paolini | 4 |

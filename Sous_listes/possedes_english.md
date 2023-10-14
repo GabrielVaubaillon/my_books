@@ -17,8 +17,8 @@
 | The Murder of Roger Ackroyd | Agatha Christie | English | 9782380376913 | Possédé | Lu | Ebook | |
 | Piranesi | Susana Clarke | English | 978-1-5266-2244-0 | Possédé | Lu | Ebook | |
 | The Alchemist | Paul Coelho | English (tr.) | 978-0-06-112241-5 | Possédé | Pas Lu | Antony (Cartons) | |
-| Sherlock Holmes - The complete novels and stories - Volume one | Sir Arthur Conan-Doyle | English | 978-1-9848-9953-8 | Possédé | | Antony (Cartons) | Recueil |
-| Sherlock Holmes - The complete novels and stories - Volume two | Sir Arthur Conan-Doyle | English | 978-1-9848-9954-5 | Possédé | | Antony (Cartons) | Recueil |
+| Sherlock Holmes - The complete novels and stories - Volume one | Sir Arthur Conan Doyle | English | 978-1-9848-9953-8 | Possédé | | Antony (Cartons) | Recueil |
+| Sherlock Holmes - The complete novels and stories - Volume two | Sir Arthur Conan Doyle | English | 978-1-9848-9954-5 | Possédé | | Antony (Cartons) | Recueil |
 | This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-523-1 | Possédé | Lu | Cork | |
 | This Is How You Lose the Time War | Amal El-Mothar & Max Gladstone | English | 978-1-52940-524-8 | Possédé | Lu | Ebook | |
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
