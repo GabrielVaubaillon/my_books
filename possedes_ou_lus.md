@@ -166,6 +166,7 @@
 | Long John Silver | Björn Larsson | Français (tr.) | 2-253-15010-7 | Possédé | Lu | Antony | |
 | The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
 | Arsène Lupin - La comtesse de Cagliosto | Maurice Leblanc | Français | 301-0-000-03034-8 | Possédé | Pas Lu | Antony | |
+| Integrale Arsene Lupin | Maurice Leblanc | Français | | Possédé | Pas Lu | Ebook | |
 | Les aventures extraordinaires d'Arsène Lupin - Tome 3 (Omnibus) | Maurice Leblanc | Français | 978-2-258-09388-1 | Possédé | Pas Lu | Antony | |
 | To Kill A Mocking-Bird | Harper Lee | English | 978-0-09-941978-5 | Possédé | Pas Lu | Cork | |
 | Pachinko | Min Jin Lee | English | 978-1-4555-6391-3 | Possédé | Lu | Ebook | |
@@ -300,7 +301,7 @@
 | Stormlight Archives 3 - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Possédé | Lu | Ebook | |
 | Stormlight Archives 3.5 - Dawnshard | Brandon Sanderson | English | 978-1-938570-26-1 | Possédé | Lu | Ebook | |
 | Stormlight Archives 4 - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Possédé | Lu | Ebook | |
-| The Sunlit Man | Brandon Sanderson | English | 978-1-938570-41-4 | Possédé | Pas Lu | Ebook | |
+| The Sunlit Man | Brandon Sanderson | English | 978-1-938570-41-4 | Possédé | Lu | Ebook | |
 | Tress of the emerald sea | Brandon Sanderson | English | 978-1-938570-34-6 | Possédé | Lu | Ebook | |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
 | Yumi and the Nightmare Painter | Brandon Sanderson | English | 978-1-938570-40-7 | Possédé | Lu | Ebook | |

@@ -1,5 +1,5 @@
 ## pas_lus 
- - 87 parmi les 374 (23.26%)
+ - 87 parmi les 375 (23.2%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -48,6 +48,7 @@
 | Le vieux qui ne voulait pas fêter son anniversaire | Jonas Jonasson | Français (tr.) | 978-2-266-21852-8 | Possédé | Pas Lu | Antony | |
 | Du passé faisons table rase | Thierry Jonquet | Français | 978-2-07-030861-3 | Possédé | Pas Lu | Antony | |
 | Arsène Lupin - La comtesse de Cagliosto | Maurice Leblanc | Français | 301-0-000-03034-8 | Possédé | Pas Lu | Antony | |
+| Integrale Arsene Lupin | Maurice Leblanc | Français | | Possédé | Pas Lu | Ebook | |
 | Les aventures extraordinaires d'Arsène Lupin - Tome 3 (Omnibus) | Maurice Leblanc | Français | 978-2-258-09388-1 | Possédé | Pas Lu | Antony | |
 | To Kill A Mocking-Bird | Harper Lee | English | 978-0-09-941978-5 | Possédé | Pas Lu | Cork | |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
@@ -82,7 +83,6 @@
 | Manon Lescaut | Prévost | Français | 978-2-0812-7904-9 | Possédé | Pas Lu | Antony | |
 | jacquou le croquant | Eugène Le Roy | Français | 2-07-033519-4 | Possédé | Pas Lu | Antony | |
 | Le tour du Tour par 36 détours | François Salvaing | Français | 2-209-06301-9 | Possédé | Pas Lu | Antony | |
-| The Sunlit Man | Brandon Sanderson | English | 978-1-938570-41-4 | Possédé | Pas Lu | Ebook | |
 | Quentin Durward | Walter Scott | Français (tr.) | | Possédé | Pas Lu | Antony | |
 | Les terroristes | M. Sjöwall & P. Wahlöö | Français (tr.) | 978-2-7436-2057-8 | Possédé | Pas Lu | Antony (Cartons) | |
 | Unfinished Tales | J.R.R. Tolkien | English | 978-0-261-10362-7 | Possédé | Pas Lu | Antony (Cartons) | |

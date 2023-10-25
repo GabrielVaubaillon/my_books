@@ -1,8 +1,8 @@
 - Ebook
-    - 57 livres (18.63% de la collection)
-    - 52 livres lus (91.23%)
-    - 9 livres en français (15.79%)
-    - 48 livres en anglais (84.21%)
+    - 58 livres (18.89% de la collection)
+    - 53 livres lus (91.38%)
+    - 10 livres en français (17.24%)
+    - 48 livres en anglais (82.76%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -27,6 +27,7 @@
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
 | Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Lu | Ebook | |
 | The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
+| Integrale Arsene Lupin | Maurice Leblanc | Français | | Possédé | Pas Lu | Ebook | |
 | Pachinko | Min Jin Lee | English | 978-1-4555-6391-3 | Possédé | Lu | Ebook | |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 2 - The Wall of Storms | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
@@ -48,7 +49,7 @@
 | Stormlight Archives 3 - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Possédé | Lu | Ebook | |
 | Stormlight Archives 3.5 - Dawnshard | Brandon Sanderson | English | 978-1-938570-26-1 | Possédé | Lu | Ebook | |
 | Stormlight Archives 4 - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Possédé | Lu | Ebook | |
-| The Sunlit Man | Brandon Sanderson | English | 978-1-938570-41-4 | Possédé | Pas Lu | Ebook | |
+| The Sunlit Man | Brandon Sanderson | English | 978-1-938570-41-4 | Possédé | Lu | Ebook | |
 | Tress of the emerald sea | Brandon Sanderson | English | 978-1-938570-34-6 | Possédé | Lu | Ebook | |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
 | Yumi and the Nightmare Painter | Brandon Sanderson | English | 978-1-938570-40-7 | Possédé | Lu | Ebook | |

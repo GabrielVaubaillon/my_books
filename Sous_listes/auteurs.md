@@ -28,6 +28,7 @@
 | Philip K. Dick | 3 |
 | Marc Fernandez | 3 |
 | Brian Herbert & Kevin J. Anderson | 3 |
+| Maurice Leblanc | 3 |
 | Guy de Maupassant | 3 |
 | Philip Pullman | 3 |
 | Dennis E. Taylor | 3 |
@@ -43,7 +44,6 @@
 | Christian Grenier | 2 |
 | Ernest Hemingway | 2 |
 | Victor Hugo | 2 |
-| Maurice Leblanc | 2 |
 | Jack London | 2 |
 | Blaise Pascal | 2 |
 | Jacques Prévert | 2 |

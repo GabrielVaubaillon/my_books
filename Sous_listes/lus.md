@@ -1,5 +1,5 @@
 ## lus 
- - 287 parmi les 374 (76.74%)
+ - 288 parmi les 375 (76.8%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -224,6 +224,7 @@
 | Stormlight Archives 3 - Oathbringer | Brandon Sanderson | English | 978-0-7653-9983-0 | Possédé | Lu | Ebook | |
 | Stormlight Archives 3.5 - Dawnshard | Brandon Sanderson | English | 978-1-938570-26-1 | Possédé | Lu | Ebook | |
 | Stormlight Archives 4 - Rythm of War | Brandon Sanderson | English | 978-0-575-09340-9 | Possédé | Lu | Ebook | |
+| The Sunlit Man | Brandon Sanderson | English | 978-1-938570-41-4 | Possédé | Lu | Ebook | |
 | Tress of the emerald sea | Brandon Sanderson | English | 978-1-938570-34-6 | Possédé | Lu | Ebook | |
 | Warbreaker | Brandon Sanderson | English | 978-0-575-09747-6 | Possédé | Lu | Ebook | |
 | Yumi and the Nightmare Painter | Brandon Sanderson | English | 978-1-938570-40-7 | Possédé | Lu | Ebook | |

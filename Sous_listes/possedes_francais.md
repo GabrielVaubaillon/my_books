@@ -1,5 +1,5 @@
 ## possedes_francais 
- - 228 parmi les 374 (60.96%)
+ - 229 parmi les 375 (61.07%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -116,6 +116,7 @@
 | 12 récits de l'énéide | Michel Laporte | Français | 978-2-0812-3029-3 | Possédé | Lu | Antony | |
 | Long John Silver | Björn Larsson | Français (tr.) | 2-253-15010-7 | Possédé | Lu | Antony | |
 | Arsène Lupin - La comtesse de Cagliosto | Maurice Leblanc | Français | 301-0-000-03034-8 | Possédé | Pas Lu | Antony | |
+| Integrale Arsene Lupin | Maurice Leblanc | Français | | Possédé | Pas Lu | Ebook | |
 | Les aventures extraordinaires d'Arsène Lupin - Tome 3 (Omnibus) | Maurice Leblanc | Français | 978-2-258-09388-1 | Possédé | Pas Lu | Antony | |
 | Le garçon qui ne parlait pas | Donna Leon | Français (tr.) | 978-2-7578-5686-4 | Possédé | Lu | Antony (Cartons) | |
 | Le goéland | Jonathan Livingston | Français (tr.) | 2-08-161714-5 | Possédé | Lu | Antony | |
