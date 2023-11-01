@@ -1,5 +1,5 @@
 ## possedes 
- - 307 parmi les 375 (81.87%)
+ - 308 parmi les 376 (81.91%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -118,6 +118,7 @@
 | La bilbiothécaire | Gudule | Français | 978-2-01-322406-2 | Possédé | Lu | Antony | |
 | Les cheveux de Bérénice | Denis Guedj | Français | 2-02-066392-9 | Possédé | Lu | Antony | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
+| Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
 | Ciel - L'hiver des machines | Johan Heliot | Français | 978-2-35488-238-9 | Possédé | Lu | Antony (vente) | |
 | Pour qui sonne le glas | Ernest Hemingway | Français (tr.) | | Possédé | Pas Lu | Antony | |
 | Dune Les origines - 1. La Communauté des Soeurs | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-25239-3 | Possédé | Pas Lu | Antony (Cartons) | |
@@ -148,7 +149,7 @@
 | Long John Silver | Björn Larsson | Français (tr.) | 2-253-15010-7 | Possédé | Lu | Antony | |
 | The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
 | Arsène Lupin - La comtesse de Cagliosto | Maurice Leblanc | Français | 301-0-000-03034-8 | Possédé | Pas Lu | Antony | |
-| Integrale Arsene Lupin | Maurice Leblanc | Français | | Possédé | Pas Lu | Ebook | |
+| Integrale Arsène Lupin | Maurice Leblanc | Français | | Possédé | Pas Lu | Ebook | "Arsène Lupin, Gentleman-Cambrioleur" "Arsène Lupin contre Herlock Sholmès" "L'Aiguille Creuse" "813" "Le Bouchon de cristal" "Les Confidences d'Arsène Lupin" "L'Éclat d'obus" "Le Triangle d'or" "L'Île au trentes cerceuils" "Les Dents du Tigre" "Les Huit Coups de l'horloge" "La Comtesse de Cagliostro" "Les Dents D'Hercule Petitgris" "La Demoiselle aux Yeux Verts" "L'Homme à la peau de bique" "L'Agence Barnett et Cie" "La demeure mystérieuse" "La Barre-y-va" "Le Cabochon d'émeraude" "La Femme aux deux sourires" "Victor de la Brigade mondaine" "Le Cagliostro se venge" "Les Milliards d'Arsène Lupin" |
 | Les aventures extraordinaires d'Arsène Lupin - Tome 3 (Omnibus) | Maurice Leblanc | Français | 978-2-258-09388-1 | Possédé | Pas Lu | Antony | |
 | To Kill A Mocking-Bird | Harper Lee | English | 978-0-09-941978-5 | Possédé | Pas Lu | Cork | |
 | Pachinko | Min Jin Lee | English | 978-1-4555-6391-3 | Possédé | Lu | Ebook | |

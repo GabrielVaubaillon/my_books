@@ -1,4 +1,4 @@
-210 Auteurs différents
+211 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -125,6 +125,7 @@
 | Gudule | 1 |
 | Denis Guedj | 1 |
 | Tessa Hastjarjanto | 1 |
+| Virgina Heath | 1 |
 | Johan Heliot | 1 |
 | Alfred Hitchcock | 1 |
 | Homère | 1 |

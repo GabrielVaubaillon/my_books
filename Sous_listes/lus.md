@@ -1,5 +1,5 @@
 ## lus 
- - 288 parmi les 375 (76.8%)
+ - 289 parmi les 376 (76.86%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -98,6 +98,7 @@
 | La bilbiothécaire | Gudule | Français | 978-2-01-322406-2 | Possédé | Lu | Antony | |
 | Les cheveux de Bérénice | Denis Guedj | Français | 2-02-066392-9 | Possédé | Lu | Antony | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
+| Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
 | Ciel - L'hiver des machines | Johan Heliot | Français | 978-2-35488-238-9 | Possédé | Lu | Antony (vente) | |
 | Le Vieil Homme et la Mer | Ernest Hemingway | Français (tr.) | | Non | Lu | | |
 | Dune 1 - Dune | Frank Herbert | English | 978-0-340-96019-6 | Possédé | Lu | Antony (Cartons) | |

@@ -1,5 +1,5 @@
 ## lus_francais 
- - 218 parmi les 375 (58.13%)
+ - 218 parmi les 376 (57.98%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |

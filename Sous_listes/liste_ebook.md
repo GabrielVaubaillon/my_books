@@ -1,8 +1,8 @@
 - Ebook
-    - 58 livres (18.89% de la collection)
-    - 53 livres lus (91.38%)
-    - 10 livres en français (17.24%)
-    - 48 livres en anglais (82.76%)
+    - 59 livres (19.16% de la collection)
+    - 54 livres lus (91.53%)
+    - 10 livres en français (16.95%)
+    - 49 livres en anglais (83.05%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23,11 +23,12 @@
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Les contes de Grimm | Jacob et Wilhelm Grimm | Français | 978-2-36315-136-0 | Possédé | Lu | Ebook | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
+| Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
 | Comment braquer une banque sans perdre son dentier | Catharina Ingelman-Sundberg | Français (tr.) | 978-2-823-81023 | Possédé | Lu | Ebook | |
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
 | Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Lu | Ebook | |
 | The books of Earthsea (integrale) | Ursula K. Le-Guin | English | 978-1-473-22355-4 | Possédé | Lu | Ebook | "A Wizard of Earthsea" "The Tombs of Atuan" "The Farthest Shore" "Tehanu" "The Other Wind" "Tales of Earthsea" |
-| Integrale Arsene Lupin | Maurice Leblanc | Français | | Possédé | Pas Lu | Ebook | |
+| Integrale Arsène Lupin | Maurice Leblanc | Français | | Possédé | Pas Lu | Ebook | "Arsène Lupin, Gentleman-Cambrioleur" "Arsène Lupin contre Herlock Sholmès" "L'Aiguille Creuse" "813" "Le Bouchon de cristal" "Les Confidences d'Arsène Lupin" "L'Éclat d'obus" "Le Triangle d'or" "L'Île au trentes cerceuils" "Les Dents du Tigre" "Les Huit Coups de l'horloge" "La Comtesse de Cagliostro" "Les Dents D'Hercule Petitgris" "La Demoiselle aux Yeux Verts" "L'Homme à la peau de bique" "L'Agence Barnett et Cie" "La demeure mystérieuse" "La Barre-y-va" "Le Cabochon d'émeraude" "La Femme aux deux sourires" "Victor de la Brigade mondaine" "Le Cagliostro se venge" "Les Milliards d'Arsène Lupin" |
 | Pachinko | Min Jin Lee | English | 978-1-4555-6391-3 | Possédé | Lu | Ebook | |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |
 | Dandelion Dynasty 2 - The Wall of Storms | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |

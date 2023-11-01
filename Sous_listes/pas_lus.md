@@ -1,5 +1,5 @@
 ## pas_lus 
- - 87 parmi les 375 (23.2%)
+ - 87 parmi les 376 (23.14%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -48,7 +48,7 @@
 | Le vieux qui ne voulait pas fêter son anniversaire | Jonas Jonasson | Français (tr.) | 978-2-266-21852-8 | Possédé | Pas Lu | Antony | |
 | Du passé faisons table rase | Thierry Jonquet | Français | 978-2-07-030861-3 | Possédé | Pas Lu | Antony | |
 | Arsène Lupin - La comtesse de Cagliosto | Maurice Leblanc | Français | 301-0-000-03034-8 | Possédé | Pas Lu | Antony | |
-| Integrale Arsene Lupin | Maurice Leblanc | Français | | Possédé | Pas Lu | Ebook | |
+| Integrale Arsène Lupin | Maurice Leblanc | Français | | Possédé | Pas Lu | Ebook | "Arsène Lupin, Gentleman-Cambrioleur" "Arsène Lupin contre Herlock Sholmès" "L'Aiguille Creuse" "813" "Le Bouchon de cristal" "Les Confidences d'Arsène Lupin" "L'Éclat d'obus" "Le Triangle d'or" "L'Île au trentes cerceuils" "Les Dents du Tigre" "Les Huit Coups de l'horloge" "La Comtesse de Cagliostro" "Les Dents D'Hercule Petitgris" "La Demoiselle aux Yeux Verts" "L'Homme à la peau de bique" "L'Agence Barnett et Cie" "La demeure mystérieuse" "La Barre-y-va" "Le Cabochon d'émeraude" "La Femme aux deux sourires" "Victor de la Brigade mondaine" "Le Cagliostro se venge" "Les Milliards d'Arsène Lupin" |
 | Les aventures extraordinaires d'Arsène Lupin - Tome 3 (Omnibus) | Maurice Leblanc | Français | 978-2-258-09388-1 | Possédé | Pas Lu | Antony | |
 | To Kill A Mocking-Bird | Harper Lee | English | 978-0-09-941978-5 | Possédé | Pas Lu | Cork | |
 | Dandelion Dynasty 1 - The Grace of Kings | Ken Liu | English | 9781837930180 | Possédé | Pas Lu | Ebook | |

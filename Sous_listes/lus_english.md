@@ -1,5 +1,5 @@
 ## lus_english 
- - 70 parmi les 375 (18.67%)
+ - 71 parmi les 376 (18.88%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,7 @@
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Lu | Cork | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
+| Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
 | Dune 1 - Dune | Frank Herbert | English | 978-0-340-96019-6 | Possédé | Lu | Antony (Cartons) | |
 | Dune 2 - Dune Messiah | Frank Herbert | English | 978-0-593-09823-3 | Possédé | Lu | Antony (Cartons) | |
 | Dune 3 - Children of Dune | Frank Herbert | English | 978-0-593-09824-0 | Possédé | Lu | Antony (Cartons) | |
