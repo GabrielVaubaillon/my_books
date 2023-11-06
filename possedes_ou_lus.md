@@ -146,6 +146,9 @@
 | Dune 4 - God emperor of Dune | Frank Herbert | English | 978-0-593-09825-7 | Possédé | Lu | Antony (Cartons) | |
 | Dune 5 - Heretics of Dune | Frank Herbert | English | 978-0-593-09826-4 | Possédé | Lu | Antony (Cartons) | |
 | Dune 6 - Chapterhouse : Dune | Frank Herbert | English | 978-0-593-09827-1 | Possédé | Lu | Antony (Cartons) | |
+| The Brown Sisters 1: Get a Life, Chloe Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
+| The Brown Sisters 2: Take a Hint, Dani Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
+| The Brown Sisters 3: Act Your Age, Eve Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
 | Le perroquet qui bégayait | Alfred Hitchcock | Français (tr.) | 2-253-02766-9 | Possédé | Lu | Antony | |
 | L'Odyssée | Homère | Français (tr.) | 978-2-7071-9439-8 | Possédé | Lu | Antony | |
 | Les contemplations | Victor Hugo | Français | | Non | Lu | | |

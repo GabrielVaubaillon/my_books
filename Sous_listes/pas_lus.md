@@ -1,5 +1,5 @@
 ## pas_lus 
- - 88 parmi les 378 (23.28%)
+ - 91 parmi les 381 (23.88%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -44,6 +44,9 @@
 | Dune Les origines - 1. La Communauté des Soeurs | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-25239-3 | Possédé | Pas Lu | Antony (Cartons) | |
 | Dune Les origines - 2. Les Mentats de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-26727-4 | Possédé | Pas Lu | Antony (Cartons) | |
 | Dune Les origines - 3. Les Navigateurs de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-32129-7 | Possédé | Pas Lu | Antony (Cartons) | |
+| The Brown Sisters 1: Get a Life, Chloe Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
+| The Brown Sisters 2: Take a Hint, Dani Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
+| The Brown Sisters 3: Act Your Age, Eve Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
 | L'aventure, l'Ennui, le Sérieux - chapitre 1 | Jankélévitch | Français | 978-2-0813-9744-6 | Possédé | Pas Lu | Antony | |
 | Un sac de bille | Joseph Joffo | Français | 2-253-02777-4 | Possédé | Pas Lu | Antony | |
 | Le vieux qui ne voulait pas fêter son anniversaire | Jonas Jonasson | Français (tr.) | 978-2-266-21852-8 | Possédé | Pas Lu | Antony | |

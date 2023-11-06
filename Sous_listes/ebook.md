@@ -1,8 +1,8 @@
 - Ebook
-    - 61 livres (19.68% de la collection)
-    - 55 livres lus (90.16%)
-    - 11 livres en français (18.03%)
-    - 50 livres en anglais (81.97%)
+    - 64 livres (20.45% de la collection)
+    - 55 livres lus (85.94%)
+    - 11 livres en français (17.19%)
+    - 53 livres en anglais (82.81%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26,6 +26,9 @@
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
 | Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
 | Never Rescue a Rogue | Virgina Heath | English | 9781250787798 | Possédé | Lu | Ebook | |
+| The Brown Sisters 1: Get a Life, Chloe Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
+| The Brown Sisters 2: Take a Hint, Dani Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
+| The Brown Sisters 3: Act Your Age, Eve Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
 | Comment braquer une banque sans perdre son dentier | Catharina Ingelman-Sundberg | Français (tr.) | 978-2-823-81023 | Possédé | Lu | Ebook | |
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
 | Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Lu | Ebook | |

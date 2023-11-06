@@ -1,4 +1,4 @@
-212 Auteurs différents
+213 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -28,6 +28,7 @@
 | Philip K. Dick | 3 |
 | Marc Fernandez | 3 |
 | Brian Herbert & Kevin J. Anderson | 3 |
+| Talia Hibbert | 3 |
 | Maurice Leblanc | 3 |
 | Guy de Maupassant | 3 |
 | Philip Pullman | 3 |
