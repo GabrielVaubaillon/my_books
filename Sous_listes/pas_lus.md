@@ -1,10 +1,11 @@
 ## pas_lus 
- - 87 parmi les 377 (23.08%)
+ - 88 parmi les 378 (23.28%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | La fée et le géomètre | Jean-Pierre Andrevon | Français | 2-203-13615-4 | Possédé | Pas Lu | Antony | |
 | Terminus Leipzig | Max Annas & Jérôme Leroy | Français | 978-2-7578-9471-2 | Possédé | Pas Lu | Antony | |
+| Aurélien | Aragon | Français | 9782070377503 | Possédé | Pas Lu | Ebook | |
 | Noel sur Ganymede | Isaac Asimov | Français (tr.) | 2-207-30187-7 | Possédé | Pas Lu | Antony (Cartons) | |
 | The complete Robot | Isaac Asimov | English | 978-0-00-827781-9 | Possédé | Pas Lu | Antony (Cartons) | Recueil |
 | La formation de l'esprit scientifique | Bachelard | Français | 978-2-7116-1150-8 | Possédé | Pas Lu | Antony | |

@@ -1,12 +1,13 @@
 - Ebook
-    - 60 livres (19.42% de la collection)
-    - 55 livres lus (91.67%)
-    - 10 livres en français (16.67%)
-    - 50 livres en anglais (83.33%)
+    - 61 livres (19.68% de la collection)
+    - 55 livres lus (90.16%)
+    - 11 livres en français (18.03%)
+    - 50 livres en anglais (81.97%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Les contes d'Andersen | Hans Christian Andersen | Français | 978-2-36315-139-1 | Possédé | Lu | Ebook | |
+| Aurélien | Aragon | Français | 9782070377503 | Possédé | Pas Lu | Ebook | |
 | The Handmaid's Tale | Margaret Atwood | English | 9781446485477 | Possédé | Lu | Ebook | |
 | Les contes du chat perché | Marcel Aymé | Français | 9782070363438 | Possédé | Lu | Ebook | |
 | La vie selon Ove | Fredik Backman | Français (tr.) | 978-2-258-10999-5 | Possédé | Lu | Ebook | |

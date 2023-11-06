@@ -1,4 +1,4 @@
-211 Auteurs différents
+212 Auteurs différents
 
 | Auteur | nb livres lus ou possédés |
 | --- | --- |
@@ -59,6 +59,7 @@
 | Jean-Pierre Andrevon | 1 |
 | Max Annas & Jérôme Leroy | 1 |
 | Jean Anouilh | 1 |
+| Aragon | 1 |
 | Jean-Philippe Arrou-Vignod | 1 |
 | Margaret Atwood | 1 |
 | Bachelard | 1 |
