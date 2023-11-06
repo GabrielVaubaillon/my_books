@@ -1,8 +1,8 @@
 - Ebook
-    - 59 livres (19.16% de la collection)
-    - 54 livres lus (91.53%)
-    - 10 livres en français (16.95%)
-    - 49 livres en anglais (83.05%)
+    - 60 livres (19.42% de la collection)
+    - 55 livres lus (91.67%)
+    - 10 livres en français (16.67%)
+    - 50 livres en anglais (83.33%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,6 +24,7 @@
 | Les contes de Grimm | Jacob et Wilhelm Grimm | Français | 978-2-36315-136-0 | Possédé | Lu | Ebook | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
 | Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
+| Never Rescue a Rogue | Virgina Heath | English | 9781250787798 | Possédé | Lu | Ebook | |
 | Comment braquer une banque sans perdre son dentier | Catharina Ingelman-Sundberg | Français (tr.) | 978-2-823-81023 | Possédé | Lu | Ebook | |
 | Howl's Moving Castle | Diana Wynne Jones | English | 9780062244512 | Possédé | Lu | Ebook | |
 | Flowers For Algernon | Daniel Keyes | English | 978-0-575-08849-8 | Possédé | Lu | Ebook | |

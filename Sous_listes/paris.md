@@ -1,5 +1,5 @@
 - Paris
-    - 8 livres (2.6% de la collection)
+    - 8 livres (2.59% de la collection)
     - 1 livres lus (12.5%)
     - 8 livres en français (100.0%)
     - 0 livres en anglais (0.0%)
