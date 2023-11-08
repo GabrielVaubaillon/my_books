@@ -132,8 +132,9 @@
 | La bilbiothécaire | Gudule | Français | 978-2-01-322406-2 | Possédé | Lu | Antony | |
 | Les cheveux de Bérénice | Denis Guedj | Français | 2-02-066392-9 | Possédé | Lu | Antony | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
-| Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
-| Never Rescue a Rogue | Virgina Heath | English | 9781250787798 | Possédé | Lu | Ebook | |
+| Merriwell sisters 1: Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
+| Merriwell sisters 2: Never Rescue a Rogue | Virgina Heath | English | 9781250787798 | Possédé | Lu | Ebook | |
+| Merriwell sisters 3: Never Wager with a Walflower | Virgina Heath | English | 9781250787811 | Possédé | Pas Lu | Ebook | |
 | Ciel - L'hiver des machines | Johan Heliot | Français | 978-2-35488-238-9 | Possédé | Lu | Antony (vente) | |
 | Le Vieil Homme et la Mer | Ernest Hemingway | Français (tr.) | | Non | Lu | | |
 | Pour qui sonne le glas | Ernest Hemingway | Français (tr.) | | Possédé | Pas Lu | Antony | |

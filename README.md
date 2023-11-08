@@ -58,45 +58,45 @@ répartie.
 
 ### Ma collection
 
-- 313 livres possédés (82.15% du total)
-- 222 livres lus (70.93%)
-- et 91 non lus (29.07%)
-- 230 livres en français (73.48%)
-- 83 livres en anglais (26.52%)
+- 314 livres possédés (82.2% du total)
+- 222 livres lus (70.7%)
+- et 92 non lus (29.3%)
+- 230 livres en français (73.25%)
+- 84 livres en anglais (26.75%)
 - 182 auteurs différents
 - 1 livres prêté(s)
 - Ebook
-    - 64 livres (20.45% de la collection)
-    - 55 livres lus (85.94%)
-    - 11 livres en français (17.19%)
-    - 53 livres en anglais (82.81%)
+    - 65 livres (20.7% de la collection)
+    - 55 livres lus (84.62%)
+    - 11 livres en français (16.92%)
+    - 54 livres en anglais (83.08%)
 - Antony
-    - 227 livres (72.52% de la collection)
+    - 227 livres (72.29% de la collection)
     - 159 livres lus (70.04%)
     - 205 livres en français (90.31%)
     - 22 livres en anglais (9.69%)
 - Paris
-    - 8 livres (2.56% de la collection)
+    - 8 livres (2.55% de la collection)
     - 1 livres lus (12.5%)
     - 8 livres en français (100.0%)
     - 0 livres en anglais (0.0%)
 - Cork
-    - 13 livres (4.15% de la collection)
+    - 13 livres (4.14% de la collection)
     - 6 livres lus (46.15%)
     - 6 livres en français (46.15%)
     - 7 livres en anglais (53.85%)
 
 ### Mes Lus
 
-- 290 livres lus (76.12% du total)
+- 290 livres lus (75.92% du total)
 - 218 (75.17%) lus en français
 - 72 (24.83%) lus en anglais
 - 171 auteurs différents
 
 ### Total
 
-- 381 livres
-- 293 (76.9%) en Français
-- 88 (23.1%) en Anglais
+- 382 livres
+- 293 (76.7%) en Français
+- 89 (23.3%) en Anglais
 - 213 auteurs différents
-- 68 (17.85%) hors collection, mais lus
+- 68 (17.8%) hors collection, mais lus

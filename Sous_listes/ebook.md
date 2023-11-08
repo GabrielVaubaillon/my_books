@@ -1,8 +1,8 @@
 - Ebook
-    - 64 livres (20.45% de la collection)
-    - 55 livres lus (85.94%)
-    - 11 livres en français (17.19%)
-    - 53 livres en anglais (82.81%)
+    - 65 livres (20.7% de la collection)
+    - 55 livres lus (84.62%)
+    - 11 livres en français (16.92%)
+    - 54 livres en anglais (83.08%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,8 +24,9 @@
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Les contes de Grimm | Jacob et Wilhelm Grimm | Français | 978-2-36315-136-0 | Possédé | Lu | Ebook | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
-| Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
-| Never Rescue a Rogue | Virgina Heath | English | 9781250787798 | Possédé | Lu | Ebook | |
+| Merriwell sisters 1: Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
+| Merriwell sisters 2: Never Rescue a Rogue | Virgina Heath | English | 9781250787798 | Possédé | Lu | Ebook | |
+| Merriwell sisters 3: Never Wager with a Walflower | Virgina Heath | English | 9781250787811 | Possédé | Pas Lu | Ebook | |
 | The Brown Sisters 1: Get a Life, Chloe Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
 | The Brown Sisters 2: Take a Hint, Dani Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
 | The Brown Sisters 3: Act Your Age, Eve Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |

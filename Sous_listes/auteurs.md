@@ -27,6 +27,7 @@
 | Suzanne Collins | 3 |
 | Philip K. Dick | 3 |
 | Marc Fernandez | 3 |
+| Virgina Heath | 3 |
 | Brian Herbert & Kevin J. Anderson | 3 |
 | Talia Hibbert | 3 |
 | Maurice Leblanc | 3 |
@@ -43,7 +44,6 @@
 | Timothée de Fombelle | 2 |
 | Lady Augusta Gregory | 2 |
 | Christian Grenier | 2 |
-| Virgina Heath | 2 |
 | Ernest Hemingway | 2 |
 | Victor Hugo | 2 |
 | Jack London | 2 |
