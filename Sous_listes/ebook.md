@@ -1,6 +1,6 @@
 - Ebook
     - 65 livres (20.7% de la collection)
-    - 55 livres lus (84.62%)
+    - 56 livres lus (86.15%)
     - 11 livres en français (16.92%)
     - 54 livres en anglais (83.08%)
 
@@ -26,7 +26,7 @@
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
 | Merriwell sisters 1: Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
 | Merriwell sisters 2: Never Rescue a Rogue | Virgina Heath | English | 9781250787798 | Possédé | Lu | Ebook | |
-| Merriwell sisters 3: Never Wager with a Walflower | Virgina Heath | English | 9781250787811 | Possédé | Pas Lu | Ebook | |
+| Merriwell sisters 3: Never Wager with a Walflower | Virgina Heath | English | 9781250787811 | Possédé | Lu | Ebook | |
 | The Brown Sisters 1: Get a Life, Chloe Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
 | The Brown Sisters 2: Take a Hint, Dani Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
 | The Brown Sisters 3: Act Your Age, Eve Brown | Talia Hibbert | English | 978-0-06-294127-5 | Possédé | Pas Lu | Ebook | |
