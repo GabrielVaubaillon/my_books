@@ -1,8 +1,8 @@
 - Ebook
-    - 65 livres (20.7% de la collection)
-    - 56 livres lus (86.15%)
-    - 11 livres en français (16.92%)
-    - 54 livres en anglais (83.08%)
+    - 66 livres (20.95% de la collection)
+    - 57 livres lus (86.36%)
+    - 11 livres en français (16.67%)
+    - 55 livres en anglais (83.33%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,6 +24,7 @@
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Les contes de Grimm | Jacob et Wilhelm Grimm | Français | 978-2-36315-136-0 | Possédé | Lu | Ebook | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
+| Loathe To Love You | Ali Hazelwood | English | 978-1-4087-2863-5 | Possédé | Lu | Ebook | |
 | Merriwell sisters 1: Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
 | Merriwell sisters 2: Never Rescue a Rogue | Virgina Heath | English | 9781250787798 | Possédé | Lu | Ebook | |
 | Merriwell sisters 3: Never Wager with a Walflower | Virgina Heath | English | 9781250787811 | Possédé | Lu | Ebook | |
