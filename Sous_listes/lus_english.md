@@ -20,7 +20,7 @@
 | The Princess Bride | William Goldman | English | 978-0-544-17722-2 | Possédé | Lu | Ebook | |
 | Irish myths and legends - Gods and Fighting mens | Lady Augusta Gregory | English | 978-1-84840-812-8 | Possédé | Lu | Cork | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
-| Loathe To Love You | Ali Hazelwood | English | 978-1-4087-2863-5 | Possédé | Lu | Ebook | |
+| Loathe To Love You | Ali Hazelwood | English | 978-1-4087-2863-5 | Possédé | Lu | Ebook | "Under One Roof", "Stuck with You", "Below Zero" |
 | Merriwell sisters 1: Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
 | Merriwell sisters 2: Never Rescue a Rogue | Virgina Heath | English | 9781250787798 | Possédé | Lu | Ebook | |
 | Merriwell sisters 3: Never Wager with a Walflower | Virgina Heath | English | 9781250787811 | Possédé | Lu | Ebook | |
