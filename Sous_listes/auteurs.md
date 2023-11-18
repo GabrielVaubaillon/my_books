@@ -44,6 +44,7 @@
 | Timothée de Fombelle | 2 |
 | Lady Augusta Gregory | 2 |
 | Christian Grenier | 2 |
+| Ali Hazelwood | 2 |
 | Ernest Hemingway | 2 |
 | Victor Hugo | 2 |
 | Jack London | 2 |
@@ -128,7 +129,6 @@
 | Gudule | 1 |
 | Denis Guedj | 1 |
 | Tessa Hastjarjanto | 1 |
-| Ali Hazelwood | 1 |
 | Johan Heliot | 1 |
 | Alfred Hitchcock | 1 |
 | Homère | 1 |

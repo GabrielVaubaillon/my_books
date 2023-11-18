@@ -1,5 +1,5 @@
 ## pas_lus 
- - 91 parmi les 383 (23.76%)
+ - 92 parmi les 384 (23.96%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -40,6 +40,7 @@
 | Mythes Celtiques | Miranda Jane Green | Français (tr.) | 979-10-414-1109-2 | Possédé | Pas Lu | Cork | |
 | Irish myths and legends 2 - Cuchulain and the Red Branch of Ulster | Lady Augusta Gregory | English | 978-1-84840-887-6 | Possédé | Pas Lu | Cork | |
 | Le château des enfants volés | Maria Gripe | Français (tr.) | 2-253-02698-0 | Possédé | Pas Lu | Antony | |
+| The Love Hypothesis | Ali Hazelwood | English | 9780593336830 | Possédé | Pas Lu | Ebook | |
 | Pour qui sonne le glas | Ernest Hemingway | Français (tr.) | | Possédé | Pas Lu | Antony | |
 | Dune Les origines - 1. La Communauté des Soeurs | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-25239-3 | Possédé | Pas Lu | Antony (Cartons) | |
 | Dune Les origines - 2. Les Mentats de Dune | Brian Herbert & Kevin J. Anderson | Français (tr.) | 978-2-266-26727-4 | Possédé | Pas Lu | Antony (Cartons) | |
