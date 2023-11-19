@@ -1,5 +1,5 @@
 ## possedes_francais 
- - 230 parmi les 384 (59.9%)
+ - 230 parmi les 385 (59.74%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |

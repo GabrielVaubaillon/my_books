@@ -1,5 +1,5 @@
 ## possedes 
- - 316 parmi les 384 (82.29%)
+ - 317 parmi les 385 (82.34%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -120,6 +120,7 @@
 | Les cheveux de Bérénice | Denis Guedj | Français | 2-02-066392-9 | Possédé | Lu | Antony | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
 | Loathe To Love You | Ali Hazelwood | English | 978-1-4087-2863-5 | Possédé | Lu | Ebook | "Under One Roof", "Stuck with You", "Below Zero" |
+| Love, Theorically | Ali Hazelwood | English | 9780593336878 | Possédé | Pas Lu | Ebook | |
 | The Love Hypothesis | Ali Hazelwood | English | 9780593336830 | Possédé | Lu | Ebook | |
 | Merriwell sisters 1: Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
 | Merriwell sisters 2: Never Rescue a Rogue | Virgina Heath | English | 9781250787798 | Possédé | Lu | Ebook | |

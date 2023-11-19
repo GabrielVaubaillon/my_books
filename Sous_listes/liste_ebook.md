@@ -1,8 +1,8 @@
 - Ebook
-    - 67 livres (21.2% de la collection)
-    - 58 livres lus (86.57%)
-    - 11 livres en français (16.42%)
-    - 56 livres en anglais (83.58%)
+    - 68 livres (21.45% de la collection)
+    - 58 livres lus (85.29%)
+    - 11 livres en français (16.18%)
+    - 57 livres en anglais (83.82%)
 
 | Titre | Auteur | Langue | ISBN | Possédé | Lu | Situation | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -25,6 +25,7 @@
 | Les contes de Grimm | Jacob et Wilhelm Grimm | Français | 978-2-36315-136-0 | Possédé | Lu | Ebook | |
 | Tales of Lunis Aquaria | Tessa Hastjarjanto | English | 9789083006512 | Possédé | Lu | Ebook | |
 | Loathe To Love You | Ali Hazelwood | English | 978-1-4087-2863-5 | Possédé | Lu | Ebook | "Under One Roof", "Stuck with You", "Below Zero" |
+| Love, Theorically | Ali Hazelwood | English | 9780593336878 | Possédé | Pas Lu | Ebook | |
 | The Love Hypothesis | Ali Hazelwood | English | 9780593336830 | Possédé | Lu | Ebook | |
 | Merriwell sisters 1: Never Fall for Your Fiancée | Virgina Heath | English | 9781250787774 | Possédé | Lu | Ebook | |
 | Merriwell sisters 2: Never Rescue a Rogue | Virgina Heath | English | 9781250787798 | Possédé | Lu | Ebook | |
