@@ -59,15 +59,15 @@ répartie.
 ### Ma collection
 
 - 317 livres possédés (82.34% du total)
-- 225 livres lus (70.98%)
-- et 92 non lus (29.02%)
+- 226 livres lus (71.29%)
+- et 91 non lus (28.71%)
 - 230 livres en français (72.56%)
 - 87 livres en anglais (27.44%)
 - 183 auteurs différents
 - 1 livres prêté(s)
 - Ebook
     - 68 livres (21.45% de la collection)
-    - 58 livres lus (85.29%)
+    - 59 livres lus (86.76%)
     - 11 livres en français (16.18%)
     - 57 livres en anglais (83.82%)
 - Antony
@@ -88,9 +88,9 @@ répartie.
 
 ### Mes Lus
 
-- 293 livres lus (76.1% du total)
-- 218 (74.4%) lus en français
-- 75 (25.6%) lus en anglais
+- 294 livres lus (76.36% du total)
+- 218 (74.15%) lus en français
+- 76 (25.85%) lus en anglais
 - 172 auteurs différents
 
 ### Total
