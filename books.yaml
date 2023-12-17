@@ -1,0 +1,5896 @@
+# TODO: use a real database, stupid
+# Can add:
+#   - dates and language for reading
+#   - subseries
+#   - partial reading for collections
+#   - lended books for situation
+#   - genre (jeunesse/non-fiction/contes/nouvelles, ...) maybe with tags
+#   - impact: ready to sell/give them or bring the book to the end of the world
+#   - translator
+#   - dates and nationality of authors
+#   - theatre
+#   - movies
+#   - tv series
+#   - link wikipedia if exist
+# TEST VALID:
+#   - strict yaml valid: no duplicate keys, no important key missing (schema)
+#   - check no duplicate in authors
+# ----------------------------------------------------------------------
+
+languages:
+  # https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+  en:
+    en: English
+    fr: Anglais
+  fr:
+    en: French
+    fr: Français
+  da:
+    en: Danish
+    fr: Danois
+    da: Dansk
+  sv:
+    en: Swedish
+    fr: Suédois
+    sv: Svenska
+  sl:
+    en: Slovenian
+    fr: Slovène
+    sl: Slovenščina
+  ru:
+    en: Russian
+    fr: Russe
+    ru: русский язык
+  es:
+    en: Spanish
+    fr: Espagnol
+    es: Español
+  zh:
+    en: Chinese
+    fr: Chinois
+    zh: 中文, 汉语, 漢語
+  pt:
+    en: Portuguese
+    fr: Portugais
+    pt: Português
+  it:
+    en: Italian
+    fr: Italien
+    it: Italiano
+  nl:
+    en: Dutch
+    fr: Néerlandais
+    nl: Nederlands
+  de:
+    en: German
+    fr: Allemand
+    de: Deutsch
+  grc:
+    en: Ancient Greek
+    fr: Grec Ancient
+  ja:
+    en: Japanese
+    fr: Japonais
+    ja: 日本語 (にほんご)
+  pl:
+    en: Polish
+    fr: Polonais
+    pl: Polski
+  la:
+    en: Latin
+    fr: Latin
+    la: Latine
+
+works:
+  W_001:
+    titles:
+      en: The Hitchhiker's Guide to the Galaxy
+      fr: Le Guide du Voyageur Galactique
+    language: en
+    read: yes
+    books: B_001
+    authors: A_001
+  W_002:
+    titles:
+      fr: Contes d'Andersen
+      en: Andersen's Fairy Tales
+    language: da
+    read: yes
+    books: B_002
+    authors: A_002
+  W_003:
+    titles:
+      fr: La Fée et le Géomètre
+    language: fr
+    read: no
+    books: B_003
+    authors: A_003
+  W_004:
+    titles:
+      fr: Terminus Leipzig
+    language: fr
+    read: no
+    books: B_004
+    authors: A_004;A_005
+  W_005:
+    titles:
+      fr: Antigone
+      en: Antigone
+    language: fr
+    read: yes
+    books:
+    authors: A_006
+  W_006:
+    titles:
+      fr: Aurélien
+      en: Aurélien
+    language: fr
+    read: no
+    books: B_006
+    authors: A_007
+  W_007:
+    titles:
+      fr: Enquête au collège
+    language: fr
+    read: yes
+    books: B_007
+    authors: A_008
+  W_008:
+    titles:
+      fr: Fondation
+      en: Foundation
+    language: en
+    read: yes
+    books: B_008
+    authors: A_009
+  W_009:
+    titles:
+      fr: Fondation et Empire
+      en: Foundation and Empire
+    language: en
+    read: yes
+    books: B_008
+    authors: A_009
+  W_010:
+    titles:
+      fr: Seconde Fondation
+      en: Second Foundation
+    language: en
+    read: yes
+    books: B_008
+    authors: A_009
+  W_011:
+    titles:
+      fr: Fondation Foudroyée
+      en: Foundation's Edge
+    language: en
+    read: yes
+    books: B_009
+    authors: A_009
+  W_012:
+    titles:
+      fr: Terre et Fondation
+      en: Foundation and Earth
+    language: en
+    read: yes
+    books: B_009
+    authors: A_009
+  W_013:
+    titles:
+      fr: Noël sur Ganymède
+    language: en
+    read: no
+    books: B_010
+    authors: A_009
+  W_014:
+    titles:
+      en: The complete Robot
+      fr: Nous les robots
+    language: en
+    read: no
+    books: B_011
+    authors: A_009
+  W_015:
+    titles:
+      en: The Handmaid's Tale
+      fr: La Servante Écarlate
+    language: en
+    read: yes
+    books: B_012
+    authors: A_010
+  W_016:
+    titles:
+      fr: Le passe muraille
+      en: The Man Who Walked through Walls
+    language: fr
+    read: yes
+    books:
+    authors: A_011
+  W_017:
+    titles:
+      fr: Les contes bleus du chat perché
+    language: fr
+    read: yes
+    books: B_013;B_015
+    authors: A_011
+  W_018:
+    titles:
+      fr: Les contes rouges du chat perché
+    language: fr
+    read: yes
+    books: B_014;B_015
+    authors: A_011
+  W_019:
+    titles:
+      fr: La formation de l'esprit scientifique
+    language: fr
+    read: no
+    books: B_016
+    authors: A_012
+  W_020:
+    titles:
+      fr: "Vieux, râleur et suicidaire: La vie selon Ove"
+      en: A man called Ove
+      sv: En man som heter Ove
+    language: sv
+    read: yes
+    books: B_017
+    authors: A_013
+  W_021:
+    titles:
+      en: Legends & Lattes
+    language: en
+    read: yes
+    books: B_018
+    authors: A_014
+  W_022:
+    titles:
+      fr: Le père Goriot
+      en: Father Goriot
+    language: fr
+    read: yes
+    books:
+    authors: A_015
+  W_023:
+    titles:
+      fr: Le grand secret
+      en: The Immortals
+    language: fr
+    read: yes
+    books:
+    authors: A_016
+  W_024:
+    titles:
+      fr: Gros Problème
+      en: Big Trouble
+    language: en
+    read: no
+    books: B_019
+    authors: A_017
+  W_025:
+    titles:
+      fr: Alamut
+      en: Alamut
+      sl: Alamut
+    language: sl
+    read: no
+    books: B_020
+    authors: A_018
+  W_026:
+    titles:
+      fr: Les Fleurs du Mal
+      en: The Flowers of Evil
+    language: fr
+    read: yes
+    books:
+    authors: A_019
+  W_027:
+    titles:
+      fr: J'ai bien connu Icare
+    language: fr
+    read: no
+    books: B_021
+    authors: A_020
+  W_028:
+    titles:
+      fr: Michel et les routiers
+    language: fr
+    read: yes
+    books: B_022
+    authors: A_021
+  W_029:
+    titles:
+      fr: Vipère au poing
+      en: Viper in the Fist
+    language: fr
+    read: yes
+    books: B_023
+    authors: A_022
+  W_030:
+    titles:
+      fr: La plume de l'ange
+    language: fr
+    read: yes
+    books: B_024
+    authors: A_023;A_024
+  W_031:
+    titles:
+      fr: Le singe de Buffon
+    language: fr
+    read: yes
+    books: B_025
+    authors: A_023;A_024
+  W_032:
+    titles:
+      fr: La concierge est dans le cercueil
+    language: fr
+    read: no
+    books: B_026
+    authors: A_025
+  W_033:
+    titles:
+      fr: Les six compagnons dans la ville rose
+    language: fr
+    read: yes
+    books: B_027
+    authors: A_026
+  W_034:
+    titles:
+      fr: Les six compagnons et l'émetteur pirate
+    language: fr
+    read: yes
+    books: B_028
+    authors: A_026
+  W_035:
+    titles:
+      fr: Les six compagnons et la disparue de Montélimar
+    language: fr
+    read: yes
+    books: B_029
+    authors: A_026
+  W_036:
+    titles:
+      fr: Les six compagnons et la perruque rouge
+    language: fr
+    read: yes
+    books: B_030
+    authors: A_026
+  W_037:
+    titles:
+      fr: Les six compagnons et la pile atomique
+    language: fr
+    read: yes
+    books: B_031
+    authors: A_026
+  W_038:
+    titles:
+      fr: Les six compagnons à la tour Eiffel
+    language: fr
+    read: yes
+    books: B_032
+    authors: A_026
+  W_039:
+    titles:
+      fr: Contes et légendes du Dauphiné
+    language: fr
+    read: yes
+    books: B_033
+    authors: A_027
+  W_040:
+    titles:
+      fr: La planète des singes
+      en: Planet of the Apes
+    language: fr
+    read: yes
+    books: B_034
+    authors: A_028
+  W_041:
+    titles:
+      en: The Master and Margarita
+      fr: Le Maître et Marguerite
+      ru: Мастер и Маргарита
+    language: ru
+    read: yes
+    books: B_035
+    authors: A_029
+  W_042:
+    titles:
+      en: Fahrenheit 451
+      fr: Fahrenheit 451
+    language: en
+    read: yes
+    books: B_036
+    authors: A_030
+  W_043:
+    titles:
+      en: The Martian Chronicles
+      fr: Chroniques martiennes
+    language: en
+    read: yes
+    books: B_037
+    authors: A_030
+  W_044:
+    titles:
+      fr: Bennett et sa cabane
+    language: fr
+    read: no
+    books: B_038
+    authors: A_031
+  W_045:
+    titles:
+      fr: Yvain, le chevalier au lion
+    language: fr
+    read: yes
+    books:
+    authors: A_032
+  W_046:
+    titles:
+      fr: La révolte de 10x
+      en: The revolt of 10x
+    language: en
+    read: yes
+    books: B_039
+    authors: A_033
+  W_047:
+    titles:
+      en: Alice's Adventures in Wonderland
+      fr: Les Aventures d'Alice au pays des merveilles
+    language: en
+    read: yes
+    books:
+    authors: A_034
+  W_048:
+    titles:
+      fr: Le récit de Gilgamesh
+    language: fr
+    read: yes
+    books: B_040
+    authors: A_035
+  W_049:
+    titles:
+      fr: L’Ingénieux Hidalgo Don Quichotte de la Manche
+      en: Don Quixote
+      es: El ingenioso hidalgo don Quijote de la Mancha
+    language: es
+    read: no
+    books: B_041
+    authors: A_036
+  W_050:
+    titles:
+      en: A Psalm for the Wild Built
+      fr: Un psaume pour les recyclés sauvages
+    language: en
+    read: yes
+    books: B_042
+    authors: A_037
+  W_051:
+    titles:
+      en: A Prayer for the Crown Shy
+      fr: Une prière pour les Cimes Timides
+    language: en
+    read: yes
+    books: B_043
+    authors: A_037
+  W_052:
+    titles:
+      en: And then there were None
+      fr: Ils étaient dix
+    language: en
+    read: yes
+    books: B_044
+    authors: A_038
+  W_053:
+    titles:
+      en: Cards on the Table
+      fr: Cartes sur table
+    language: en
+    read: yes
+    books: B_045
+    authors: A_038
+  W_054:
+    titles:
+      en: Death on the Nile
+      fr: Mort sur le Nil
+    language: en
+    read: yes
+    books: B_046
+    authors: A_038
+  W_055:
+    titles:
+      en: Murder on the Orient Express
+      fr: Le Crime de l'Orient Express
+    language: en
+    read: yes
+    books: B_047
+    authors: A_038
+  W_056:
+    titles:
+      en: The Murder of Roger Ackroyd
+      fr: Le Meurtre de Roger Ackroyd
+    language: en
+    read: yes
+    books: B_048
+    authors: A_038
+  W_057:
+    titles:
+      en: Three Body Problem
+      fr: Le Problème à Trois Corps
+      zh: 三体
+    language: zh
+    read: yes
+    books: B_049
+    authors: A_039
+  W_058:
+    titles:
+      en: The Dark Forest
+      fr: La Forêt Sombre
+      zh: 黑暗森林
+    language: zh
+    read: no
+    books: B_050
+    authors: A_039
+  W_059:
+    titles:
+      en: Death's End
+      fr: La Mort Immortelle
+      zh: 死神永生
+    language: zh
+    read: no
+    books: B_051
+    authors: A_039
+  W_060:
+    titles:
+      fr: "2001: l'Odyssée de l'Espace"
+      en: "2001: A Space Odyssey"
+    language: en
+    read: yes
+    books: B_052
+    authors: A_040
+  W_061:
+    titles:
+      en: Piranesi
+    language: en
+    read: yes
+    books: B_053
+    authors: A_041
+  W_062:
+    titles:
+      fr: Les prisoniers du marais
+    language: en
+    read: yes
+    books: B_054
+    authors: A_042
+  W_063:
+    titles:
+      en: The Alchemist
+      fr: L'Alchimiste
+      pt: O Alquimista
+    language: pt
+    read: no
+    books: B_055
+    authors: A_043
+  W_064:
+    titles:
+      en: The Hunger Games
+      fr: Hunger Games
+    language: en
+    read: yes
+    books:
+    authors: A_044
+  W_065:
+    titles:
+      en: Catching Fire
+      fr: L'Embrasement
+    language: en
+    read: yes
+    books:
+    authors: A_044
+  W_066:
+    titles:
+      en: Mockingjay
+      fr: La Révolte
+    language: en
+    read: yes
+    books:
+    authors: A_044
+  W_067:
+    titles:
+      fr: Les aventures de Pinocchio
+      en: The Adventures of Pinocchio
+      it: Le avventure di Pinocchio
+    language: it
+    read: yes
+    books: B_056
+    authors: A_045
+  W_068:
+    titles:
+      fr: 25 Métamorphoses d'Ovide
+    language: fr
+    read: yes
+    books: B_057
+    authors: A_046
+  W_069:
+    titles:
+      fr: Outaouais
+    language: fr
+    read: yes
+    books: B_058
+    authors: A_047
+  W_070:
+    titles:
+      fr: Contes des indiens du Chiapas
+    language: fr
+    read: yes
+    books: B_059
+    authors: A_048
+  W_071:
+    titles:
+      fr: Histoire populaire des sciences
+    language: en
+    read: no
+    books: B_060
+    authors: A_049
+  W_072:
+    titles:
+      en: Heart of Darkness
+      fr: Au coeur des ténèbre
+    language: en
+    read: yes
+    books: B_061
+    authors: A_050
+  W_073:
+    titles:
+      fr: Comment dresser votre dragon
+      en: How to Train Your Dragon
+    language: en
+    read: yes
+    books: B_062
+    authors: A_051
+  W_074:
+    titles:
+      fr: Cannibale
+    language: fr
+    read: yes
+    books:
+    authors: A_052
+  W_075:
+    titles:
+      fr: La Horde du Contrevent
+    language: fr
+    read: no
+    books: B_063
+    authors: A_053
+  W_076:
+    titles:
+      fr: Labyrinthe - L'Épreuve
+      en: The Maze Runner
+    language: en
+    read: yes
+    books: B_064
+    authors: A_054
+  W_077:
+    titles:
+      fr: Contes et récits - Pirates, Corsaires et Flibustiers
+    language: fr
+    read: yes
+    books: B_065
+    authors: A_055;A_056
+  W_078:
+    titles:
+      fr: Contes et récits de Paris
+    language: fr
+    read: yes
+    books: B_066
+    authors: A_055;A_057
+  W_079:
+    titles:
+      en: Blade Runner / Do Androids Dream of Electric Sheep?
+      fr: Blade Runner / Les androïdes rêvent-ils de moutons électriques?
+    language: en
+    read: yes
+    books:
+    authors: A_058
+  W_080:
+    titles:
+      en: Philip K. Dick Complete Short Stories
+      fr: Philip K. Dick - Nouvelles completes
+    language: en
+    read: no
+    books: B_067;B_068
+    authors: A_058
+  W_081:
+    titles:
+      fr: Le Sorgho Rouge
+    language: fr
+    read: yes
+    books: B_069
+    authors: A_059
+  W_082:
+    titles:
+      en: The Field Guide
+      fr: Le Livre magique
+    language: en
+    read: yes
+    books: B_070
+    authors: A_060;A_061
+  W_083:
+    titles:
+      en: The Seeing Stone
+      fr: La Lunette de Pierre
+    language: en
+    read: yes
+    books: B_070
+    authors: A_060;A_061
+  W_084:
+    titles:
+      en: Lucinda's Secret
+      fr: Le Secret de Lucinda
+    language: en
+    read: yes
+    books: B_070
+    authors: A_060;A_061
+  W_085:
+    titles:
+      en: The Ironwood Tree
+      fr: L'Arbre de fer
+    language: en
+    read: yes
+    books: B_070
+    authors: A_060;A_061
+  W_086:
+    titles:
+      en: The Wrath of Mulgarath
+      fr: La Colère de Mulgarath
+    language: en
+    read: yes
+    books: B_070
+    authors: A_060;A_061
+  W_087:
+    titles:
+      fr: Les pollueurs font tache d'huile
+    language: fr
+    read: yes
+    books: B_071
+    authors: A_062
+  W_088:
+    titles:
+      fr: La ceinture empoisonnée
+      en: The Poison Belt
+    language: en
+    read: no
+    books: B_072
+    authors: A_063
+  W_089:
+    titles:
+      en: The Lost World
+      fr: Le Monde Perdu
+    language: en
+    read: no
+    books: B_073
+    authors: A_063
+  W_090:
+    titles:
+      fr: Tistou les pouces verts
+    language: fr
+    read: yes
+    books: B_074
+    authors: A_064
+  W_091:
+    titles:
+      fr: Ange Pitou
+    language: fr
+    read: no
+    books: B_075
+    authors: A_065
+  W_092:
+    titles:
+      fr: Joseph Balsamo
+    language: fr
+    read: no
+    books: B_076
+    authors: A_065
+  W_093:
+    titles:
+      fr: La Comtesse de Charny
+    language: fr
+    read: no
+    books: B_077
+    authors: A_065
+  W_094:
+    titles:
+      fr: Le Collier de la Reine
+    language: fr
+    read: no
+    books: B_078
+    authors: A_065
+  W_095:
+    titles:
+      fr: Le Comte de Monte-Cristo
+      en: The Count of Monte Cristo
+    language: fr
+    read: no
+    books: B_079
+    authors: A_065
+  W_096:
+    titles:
+      fr: Le Vicomte de Bragelonne
+      en: The Vicomte de Bragelonne
+    language: fr
+    read: no
+    books: B_080
+    authors: A_065
+  W_097:
+    titles:
+      fr: Les Trois Mousquetaires
+      en: The Three Musketeers
+    language: fr
+    read: yes
+    books: B_081
+    authors: A_065
+  W_098:
+    titles:
+      fr: Vingt ans après
+      en: Twenty Years After
+    language: fr
+    read: no
+    books: B_082
+    authors: A_065
+  W_099:
+    titles:
+      fr: Les Lions de César
+    language: fr
+    read: yes
+    books: B_083
+    authors: A_066
+  W_100:
+    titles:
+      en: This Is How You Lose the Time War
+      fr: Les Oiseaux du temps
+    language: en
+    read: yes
+    books: B_084;B_085
+    authors: A_067;A_068
+  W_101:
+    titles:
+      fr: Flamme et l'Etalon Noir
+      en: The Black Stallion and Flame
+    language: en
+    read: yes
+    books: B_086
+    authors: A_069
+  W_102:
+    titles:
+      fr: Le Fils de l'Etalon Noir
+      en: Son of the Black Stallion
+    language: en
+    read: yes
+    books: B_087
+    authors: A_069
+  W_103:
+    titles:
+      fr: Tapas Nocturnes
+    language: fr
+    read: yes
+    books: B_088
+    authors: A_070
+  W_104:
+    titles:
+      fr: Mala Vida
+    language: fr
+    read: yes
+    books: B_089
+    authors: A_070
+  W_105:
+    titles:
+      fr: Guérilla Social Club
+    language: fr
+    read: yes
+    books: B_090
+    authors: A_070
+  W_106:
+    titles:
+      fr: Le Crépuscule et l'Aube
+      en: The Evening and the Morning
+    language: en
+    read: no
+    books: B_091
+    authors: A_071
+  W_107:
+    titles:
+      fr: La Vie suspendue
+    language: fr
+    read: yes
+    books:
+    authors: A_072
+  W_108:
+    titles:
+      fr: Les Yeux d’Elisha
+    language: fr
+    read: yes
+    books:
+    authors: A_072
+  W_109:
+    titles:
+      fr: Peloton Maison
+    language: fr
+    read: yes
+    books: B_092
+    authors: A_073
+  W_110:
+    titles:
+      fr: Le Journal d'Anne Frank
+      en: The Diary of a Young Girl
+      nl: Het Achterhuis
+    language: nl
+    read: no
+    books: B_093
+    authors: A_074
+  W_111:
+    titles:
+      fr: Dans le Secret des Nombres
+      en: Understanding Numbers
+    language: en
+    read: yes
+    books: B_094
+    authors: A_075;A_076
+  W_112:
+    titles:
+      fr: Condor
+    language: fr
+    read: yes
+    books: B_095
+    authors: A_077
+  W_113:
+    titles:
+      fr: La Bête du Gévaudan
+    language: fr
+    read: yes
+    books: B_096
+    authors: A_078
+  W_114:
+    titles:
+      fr: American Gods
+      en: American Gods
+    language: en
+    read: yes
+    books:
+    authors: A_079
+  W_115:
+    titles:
+      fr: Smith
+      en: "Smith: The Story of a Pickpocket"
+    language: en
+    read: yes
+    books: B_097
+    authors: A_080
+  W_126:
+    titles:
+      fr: Au Pays du Grand Condor
+    language: fr
+    read: no
+    books: B_098
+    authors: A_081
+  W_127:
+    titles:
+      fr: Le Pied de la Momie
+    language: fr
+    read: yes
+    books: B_099
+    authors: A_082
+  W_128:
+    titles:
+      fr: Le Hussard sur le Toit
+    language: fr
+    read: yes
+    books: B_100
+    authors: A_083
+  W_129:
+    titles:
+      fr: Meutre au Sommet
+    language: fr
+    read: yes
+    books: B_101
+    authors: A_084
+  W_130:
+    titles:
+      en: The Princess Bride
+      fr: Princess Bride
+    language: en
+    read: yes
+    books: B_102
+    authors: A_085
+  W_116:
+    titles:
+      en: The Gentle Art of Tramping
+    language: en
+    read: no
+    books: B_103
+    authors: A_086
+  W_117:
+    titles:
+      fr: Mythes Celtiques
+      en: Celtic Myths
+    language: en
+    read: no
+    books: B_104
+    authors: A_087
+  W_118:
+    titles:
+      en: Gods and Fighting Mens
+    language: en
+    read: yes
+    books: B_105
+    authors: A_088
+  W_119:
+    titles:
+      en: Cuchulain and the Red Branch of Ulster
+    language: en
+    read: no
+    books: B_106
+    authors: A_088
+  W_120:
+    titles:
+      fr: L'Ordinatueur
+    language: fr
+    read: yes
+    books:
+    authors: A_089
+  W_121:
+    titles:
+      fr: La Machination
+    language: fr
+    read: yes
+    books: B_107
+    authors: A_089
+  W_122:
+    titles:
+      fr: Contes et Légendes - Les Douze Travaux d'Hercule
+    language: fr
+    read: yes
+    books: B_108
+    authors: A_089;A_090
+  W_123:
+    titles:
+      fr: Les Contes de Grimm
+      en: Grimms' Fairy Tales
+    language: de
+    read: yes
+    books: B_109
+    authors: A_091
+  W_124:
+    titles:
+      fr: Le Château des Enfants Volés
+    language: sv
+    read: no
+    books: B_110
+    authors: A_092
+  W_125:
+    titles:
+      fr: La Guerre des Livres
+    language: fr
+    read: yes
+    books: B_111
+    authors: A_093
+  W_131:
+    titles:
+      fr: La Bibliothécaire
+    language: fr
+    read: yes
+    books: B_112
+    authors: A_094
+  W_132:
+    titles:
+      fr: Les Cheveux de Bérénice
+    language: fr
+    read: yes
+    books: B_113
+    authors: A_095
+  W_133:
+    titles:
+      en: Tales of Lunis Aquaria
+    language: en
+    read: yes
+    books: B_114
+    authors: A_096
+  W_134:
+    titles:
+      en: Under One Roof
+    language: en
+    read: yes
+    books: B_115
+    authors: A_097
+  W_135:
+    titles:
+      en: Stuck with You
+    language: en
+    read: yes
+    books: B_115
+    authors: A_097
+  W_136:
+    titles:
+      en: Below Zero
+    language: en
+    read: yes
+    books: B_115
+    authors: A_097
+  W_137:
+    titles:
+      en: Never Fall for Your Fiancée
+      fr: Fiancés d'un jour, fiancés toujours
+    language: en
+    read: yes
+    books: B_116
+    authors: A_098
+  W_138:
+    titles:
+      en: Never Rescue a Rogue
+    language: en
+    read: yes
+    books: B_117
+    authors: A_098
+  W_139:
+    titles:
+      en: Never Wager with a Wallflower
+    language: en
+    read: yes
+    books: B_118
+    authors: A_098
+  W_140:
+    titles:
+      fr: Ciel - L'Hiver des Machines
+    language: fr
+    read: yes
+    books: B_119
+    authors: A_099
+  W_141:
+    titles:
+      fr: Le Vieil Homme et la Mer
+      en: The Old Man and the Sea
+    language: en
+    read: yes
+    books:
+    authors: A_100
+  W_142:
+    titles:
+      fr: Pour qui Sonne le Glas
+      en: For Whom the Bell Tolls
+    language: en
+    read: no
+    books: B_120
+    authors: A_100
+  W_143:
+    titles:
+      en: Sisterhood of Dune
+      fr: La Communauté des soeurs
+    language: en
+    read: no
+    books: B_121
+    authors: A_101;A_102
+  W_144:
+    titles:
+      en: Mentats of Dune
+      fr: Les Mentats de Dune
+    language: en
+    read: no
+    books: B_122
+    authors: A_101;A_102
+  W_145:
+    titles:
+      en: Navigators of Dune
+      fr: Les Navigateurs de Dune
+    language: en
+    read: no
+    books: B_123
+    authors: A_101;A_102
+  W_146:
+    titles:
+      en: Dune
+      fr: Dune
+    language: en
+    read: yes
+    books: B_124
+    authors: A_103
+  W_147:
+    titles:
+      en: Dune Messiah
+      fr: Le Messie de Dune
+    language: en
+    read: yes
+    books: B_125
+    authors: A_103
+  W_148:
+    titles:
+      en: Children of Dune
+      fr: Les Enfants de Dune
+    language: en
+    read: yes
+    books: B_126
+    authors: A_103
+  W_149:
+    titles:
+      en: God Emperor of Dune
+      fr: L'Empereur-Dieu de Dune
+    language: en
+    read: yes
+    books: B_127
+    authors: A_103
+  W_150:
+    titles:
+      en: Heretics of Dune
+      fr: Les Hérétiques de Dune
+    language: en
+    read: yes
+    books: B_128
+    authors: A_103
+  W_151:
+    titles:
+      en: Chapterhouse Dune
+      fr: La Maison des mères
+    language: en
+    read: yes
+    books: B_129
+    authors: A_103
+  W_152:
+    titles:
+      en: Get a Life, Chloe Brown
+    language: en
+    read: yes
+    books: B_130
+    authors: A_104
+  W_153:
+    titles:
+      en: Take a Hint, Dani Brown
+    language: en
+    read: no
+    books: B_130
+    authors: A_104
+  W_154:
+    titles:
+      en: Act Your Age, Eve Brown
+    language: en
+    read: no
+    books: B_130
+    authors: A_104
+  W_155:
+    titles:
+      fr: Le Perroquet qui Bégayait
+      en: The Mystery of the Stuttering Parrot
+    language: en
+    read: yes
+    books: B_131
+    authors: A_105
+  W_156:
+    titles:
+      fr: L'Odyssée
+      en: Odyssey
+    language: grc
+    read: yes
+    books: B_132
+    authors: A_106
+  W_157:
+    titles:
+      fr: Les Contemplations
+      en: Les Contemplations
+    language: fr
+    read: yes
+    books:
+    authors: A_107
+  W_158:
+    titles:
+      fr: Les Misérables
+      en: Les Misérables
+    language: fr
+    read: yes
+    books:
+    authors: A_107
+  W_159:
+    titles:
+      fr: Contes et Légendes du Moyen-Age
+    language: fr
+    read: yes
+    books: B_133
+    authors: A_108;A_109
+  W_160:
+    titles:
+      fr: Le Meilleur des Mondes
+      en: Brave New World
+    language: en
+    read: yes
+    books: B_134
+    authors: A_110
+  W_161:
+    titles:
+      fr: Comment Braquer une Banque Sans Perdre son Dentier
+    language: sv
+    read: yes
+    books: B_135
+    authors: A_111
+  W_162:
+    titles:
+      fr: L'Attaque des Titans
+      en: Attack on Titan
+      ja: 進撃の巨人, Shingeki no Kyojin
+    language: ja
+    read: yes
+    books:
+    authors: A_112
+    notes: only read tome 1->22 (to the sea)
+  W_163:
+    titles:
+      fr: L'Aventure, l'Ennui, le Sérieux - Chapitre 1
+    language: fr
+    read: yes
+    books: B_136
+    authors: A_113
+  W_164:
+    titles:
+      fr: Un Sac de Bille
+      en: A Bag of Marbles
+    language: fr
+    read: no
+    books: B_137
+    authors: A_114
+  W_165:
+    titles:
+      fr: Le Vieux qui ne Voulait pas Fêter son Anniversaire
+      en: The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared
+      sv: Hundraåringen som klev ut genom fönstret och försvann
+    language: sv
+    read: no
+    books: B_138
+    authors: A_115
+  W_166:
+    titles:
+      en: Howl's Moving Castle
+      fr: Le Château de Hurle
+    language: en
+    read: yes
+    books: B_139
+    authors: A_116
+  W_167:
+    titles:
+      fr: Du Passé Faisons Table Rase
+    language: fr
+    read: no
+    books: B_140
+    authors: A_117
+  W_168:
+    titles:
+      fr: Des fleurs pour Algernon
+      en: Flowers For Algernon
+    language: en
+    read: yes
+    books: B_141
+    authors: A_118
+  W_169:
+    titles:
+      fr: Diabolic
+      en: The Diabolic
+    language: en
+    read: yes
+    books:
+    authors: A_119
+  W_170:
+    titles:
+      fr: Le Phoque Blanc
+      en: The White Seal
+    language: en
+    read: yes
+    books: B_142
+    authors: A_120
+    notes: short story
+  W_171:
+    titles:
+      fr: Le Gambit des Étoiles
+    language: fr
+    read: yes
+    books: B_143
+    authors: A_121
+  W_172:
+    titles:
+      fr: L'Île de Black Mor
+    language: fr
+    read: yes
+    books: B_144
+    authors: A_122
+  W_173:
+    titles:
+      fr: Contes et Légendes de Champagne
+    language: fr
+    read: yes
+    books: B_145
+    authors: A_123
+  W_174:
+    titles:
+      fr: 12 Récits de l'Énéide
+    language: fr
+    read: yes
+    books: B_146
+    authors: A_124
+  W_175:
+    titles:
+      fr: Long John Silver
+    language: sv
+    read: yes
+    books: B_147
+    authors: A_125
+  W_176:
+    titles:
+      en: A Wizard of Earthsea
+      fr: Le Sorcier de Terremer
+    language: en
+    read: yes
+    books: B_148
+    authors: A_126
+  W_177:
+    titles:
+      en: The Tombs of Atuan
+      fr: Les Tombeaux d'Atuan
+    language: en
+    read: yes
+    books: B_148
+    authors: A_126
+  W_178:
+    titles:
+      en: The Farthest Shore
+      fr: L'Ultime Rivage
+    language: en
+    read: yes
+    books: B_148
+    authors: A_126
+  W_179:
+    titles:
+      en: Tehanu
+      fr: Tehanu
+    language: en
+    read: yes
+    books: B_148
+    authors: A_126
+  W_180:
+    titles:
+      en: Tales of Earthsea
+      fr: Contes de Terremer
+    language: en
+    read: yes
+    books: B_148
+    authors: A_126
+  W_181:
+    titles:
+      en: The Other Wind
+      fr: Le Vent d'ailleurs
+    language: en
+    read: yes
+    books: B_148
+    authors: A_126
+  W_182:
+    titles:
+      fr: Arsène Lupin, Gentleman-Cambrioleur
+    language: fr
+    read: yes
+    books: B_149
+    authors: A_127
+  W_183:
+    titles:
+      fr: Arsène Lupin contre Herlock Sholmès
+    language: fr
+    read: no
+    books: B_149
+    authors: A_127
+  W_184:
+    titles:
+      fr: L'Aiguille Creuse
+    language: fr
+    read: no
+    books: B_149
+    authors: A_127
+  W_185:
+    titles:
+      fr: 813
+    language: fr
+    read: no
+    books: B_149
+    authors: A_127
+  W_186:
+    titles:
+      fr: Le Bouchon de Cristal
+    language: fr
+    read: no
+    books: B_149
+    authors: A_127
+  W_187:
+    titles:
+      fr: Les Confidences d'Arsène Lupin
+    language: fr
+    read: no
+    books: B_149
+    authors: A_127
+  W_188:
+    titles:
+      fr: L'Éclat d'Obus
+    language: fr
+    read: no
+    books: B_149
+    authors: A_127
+  W_189:
+    titles:
+      fr: Le Triangle d'Or
+    language: fr
+    read: no
+    books: B_149
+    authors: A_127
+  W_190:
+    titles:
+      fr: L'Île au Trente Cerceuils
+    language: fr
+    read: no
+    books: B_149
+    authors: A_127
+  W_191:
+    titles:
+      fr: Les Dents du Tigre
+    language: fr
+    read: no
+    books: B_149
+    authors: A_127
+  W_192:
+    titles:
+      fr: Les Huit Coups de l'Horloge
+    language: fr
+    read: no
+    books: B_149
+    authors: A_127
+  W_193:
+    titles:
+      fr: La Comtesse de Cagliostro
+    language: fr
+    read: no
+    books: B_149;B_150
+    authors: A_127
+  W_194:
+    titles:
+      fr: Les Dents d'Hercule Petitgris
+    language: fr
+    read: no
+    books: B_149
+    authors: A_127
+  W_195:
+    titles:
+      fr: La Demoiselle aux Yeux Verts
+    language: fr
+    read: no
+    books: B_149;B_312
+    authors: A_127
+  W_196:
+    titles:
+      fr: L'Homme à la Peau de Bique
+    language: fr
+    read: no
+    books: B_149;B_312
+    authors: A_127
+  W_197:
+    titles:
+      fr: L'Agence Barnett et Cie
+    language: fr
+    read: no
+    books: B_149;B_312
+    authors: A_127
+  W_198:
+    titles:
+      fr: La Demeure Mystérieuse
+    language: fr
+    read: no
+    books: B_149;B_312
+    authors: A_127
+  W_199:
+    titles:
+      fr: La Barre-y-va
+    language: fr
+    read: no
+    books: B_149;B_312
+    authors: A_127
+  W_200:
+    titles:
+      fr: Le Cabochon d'Emeraude
+    language: fr
+    read: no
+    books: B_149;B_312
+    authors: A_127
+  W_201:
+    titles:
+      fr: La Femme aux Deux Sourires
+    language: fr
+    read: no
+    books: B_149;B_312
+    authors: A_127
+  W_202:
+    titles:
+      fr: Victor de la Brigade Mondaine
+    language: fr
+    read: no
+    books: B_149;B_312
+    authors: A_127
+  W_203:
+    titles:
+      fr: Le Cagliostro se Venge
+    language: fr
+    read: no
+    books: B_149;B_312
+    authors: A_127
+  W_204:
+    titles:
+      fr: Les Milliards d'Arsène Lupin
+    language: fr
+    read: no
+    books: B_149
+    authors: A_127
+  W_205:
+    titles:
+      en: To Kill A Mocking-Bird
+      fr: Ne tirez pas sur l'oiseau moqueur
+    language: en
+    read: no
+    books: B_151
+    authors: A_128
+  W_206:
+    titles:
+      en: Pachinko
+      fr: Pachinko
+    language: en
+    read: yes
+    books: B_152
+    authors: A_129
+  W_207:
+    titles:
+      en: Solaris
+      fr: Solaris
+      pl: Solaris
+    language: pl
+    read: yes
+    books:
+    authors: A_130
+  W_208:
+    titles:
+      fr: Le Garçon qui ne Parlait Pas
+      en: The Golden Egg
+    language: en
+    read: yes
+    books: B_153
+    authors: A_131
+  W_209:
+    titles:
+      fr: La Grâce des Rois
+      en: The Grace of Kings
+    language: en
+    read: no
+    books: B_154
+    authors: A_132
+  W_210:
+    titles:
+      en: The Wall of Storms
+      fr: Le Goût de la victoire / Le Mur de tempêtes
+    language: en
+    read: no
+    books: B_154
+    authors: A_132
+  W_211:
+    titles:
+      en: The Veiled Throne
+    language: en
+    read: no
+    books: B_154
+    authors: A_132
+  W_212:
+    titles:
+      en: Speaking Bones
+    language: en
+    read: no
+    books: B_154
+    authors: A_132
+  W_213:
+    titles:
+      fr: Jonathan Livingston le goéland
+      en: Livingston Seagull – A Story
+    language: en
+    read: no
+    books: B_155
+    authors: A_133
+    notes: not sure if read or not
+  W_214:
+    titles:
+      fr: Croc-Blanc
+      en: White Fang
+    language: en
+    read: yes
+    books: B_156
+    authors: A_134
+  W_215:
+    titles:
+      fr: Martin Eden
+      en: Martin Eden
+    language: en
+    read: no
+    books: B_157
+    authors: A_134
+  W_216:
+    titles:
+      fr: Face au Vent
+    language: en
+    read: no
+    books: B_158
+    authors: A_135
+  W_217:
+    titles:
+      fr: Feu et Sang
+      en: Fire and Blood
+    language: en
+    read: no
+    books: B_159
+    authors: A_136
+  W_218:
+    titles:
+      en: A Game of Thrones
+      fr: Le Trône de fer / Le Donjon rouge
+    language: en
+    read: yes
+    books: B_160
+    authors: A_136
+  W_219:
+    titles:
+      en: A Clash of Kings
+      fr: La Bataille des Rois / L'Ombre Maléfique / L'Invisible Forteresse
+    language: en
+    read: yes
+    books: B_161
+    authors: A_136
+  W_220:
+    titles:
+      en: "us: A Storm of Swords; uk: (Steel and Snow / Blood and Gold)"
+      fr: (Les Brigands / Intrigues à Port-Réal) / L’Épée de feu / Les Noces pourpres / La Loi du régicide
+    language: en
+    read: yes
+    books: B_162
+    authors: A_136
+  W_221:
+    titles:
+      en: A Feast for Crows
+      fr: Le Chaos / Les Sables de Dorne / Un festin pour les corbeaux
+    language: en
+    read: yes
+    books: B_163
+    authors: A_136
+  W_222:
+    titles:
+      en: "us: A Dance with Dragons; uk: (Dreams and Dust / After the Feast)"
+      fr: Le Bûcher d'un roi / Les Dragons de Meereen / Une danse avec les dragons
+    language: en
+    read: no
+    books: B_164
+    authors: A_136
+  W_223:
+    titles:
+      fr: Bel-Ami
+      en: Bel-Ami
+    language: fr
+    read: yes
+    books:
+    authors: A_137
+  W_224:
+    titles:
+      fr: Contes du Jour et de la Nuit
+    language: fr
+    read: yes
+    books: B_165
+    authors: A_137
+  W_225:
+    titles:
+      fr: Le Horla
+      en: The Horla
+    language: fr
+    read: yes
+    books:
+    authors: A_137
+  W_226:
+    titles:
+      en: Bartleby the Scrivener
+      fr: Bartleby
+    language: en
+    read: yes
+    books:
+    authors: A_138
+  W_227:
+    titles:
+      fr: Le Piège Gaulois
+    language: fr
+    read: yes
+    books: B_166
+    authors: A_139
+  W_228:
+    titles:
+      fr: Youg
+    language: fr
+    read: yes
+    books: B_167
+    authors: A_140
+  W_229:
+    titles:
+      fr: On ne badine pas avec les tueurs
+    language: fr
+    read: yes
+    books: B_168
+    authors: A_141
+  W_230:
+    titles:
+      fr: Le vieil homme de la forêt
+    language: fr
+    read: yes
+    books: B_169
+    authors: A_142
+  W_231:
+    titles:
+      fr: L'Utopie
+      en: Utopia
+    language: la
+    read: yes
+    books: B_170
+    authors: A_143
+  W_232:
+    titles:
+      fr: Pagaille à Paris
+    language: fr
+    read: yes
+    books:
+    authors: A_144
+  W_233:
+    titles:
+      fr: Mes amis les loups
+      en: Never Cry Wolf
+    language: en
+    read: no
+    books: B_171
+    authors: A_145
+  W_234:
+    titles:
+      fr: La Vénus d'Ille
+    language: fr
+    read: yes
+    books:
+    authors: A_146
+  W_235:
+    titles:
+      fr: Stupeur et Tremblement
+    language: fr
+    read: yes
+    books:
+    authors: A_147
+  W_236:
+    titles:
+      fr: Z comme Zacharie
+      en: Z for Zachariah
+    language: en
+    read: yes
+    books: B_172
+    authors: A_148
+  W_237:
+    titles:
+      fr: Les clients du Bon Chien Jaune
+    language: fr
+    read: yes
+    books: B_173
+    authors: A_149
+  W_238:
+    titles:
+      fr: Contes et légendes de la naissance de Rome
+    language: fr
+    read: yes
+    books: B_174
+    authors: A_150
+  W_239:
+    titles:
+      fr: 1984
+      en: 1984
+    language: en
+    read: no
+    books: B_175;B_176
+    authors: A_151
+  W_240:
+    titles:
+      fr: La Ferme des Animaux
+      en: Animal Farm
+    language: en
+    read: yes
+    books: B_177;B_178
+    authors: A_151
+  W_241:
+    titles:
+      fr: La Cabane Magique - Rencontres en haut de la tour Eiffel
+    language: en
+    read: yes
+    books: B_179
+    authors: A_152
+  W_242:
+    titles:
+      en: Loveless
+    language: en
+    read: yes
+    books: B_180
+    authors: A_153
+  W_243:
+    titles:
+      fr: Persée et autres métamorphoses
+    language: la
+    read: yes
+    books: B_181
+    authors: A_154
+  W_244:
+    titles:
+      fr: Mythes Nordiques
+      en: Norse Myths
+    language: en
+    read: yes
+    books: B_182
+    authors: A_155
+  W_245:
+    titles:
+      fr: Angèle
+    language: fr
+    read: no
+    books: B_183
+    authors: A_156
+  W_246:
+    titles:
+      fr: César
+    language: fr
+    read: no
+    books: B_184
+    authors: A_156
+  W_247:
+    titles:
+      fr: Confidences
+    language: fr
+    read: no
+    books: B_185
+    authors: A_156
+  W_248:
+    titles:
+      fr: Fanny
+    language: fr
+    read: no
+    books: B_186
+    authors: A_156
+  W_249:
+    titles:
+      fr: Jazz
+    language: fr
+    read: no
+    books: B_187
+    authors: A_156
+  W_250:
+    titles:
+      fr: Jean de Florette
+    language: fr
+    read: no
+    books: B_188
+    authors: A_156
+  W_251:
+    titles:
+      fr: La femme du boulanger
+    language: fr
+    read: no
+    books: B_189
+    authors: A_156
+  W_252:
+    titles:
+      fr: La fille du puisatier
+    language: fr
+    read: no
+    books: B_190
+    authors: A_156
+  W_253:
+    titles:
+      fr: La gloire de mon père
+    language: fr
+    read: no
+    books: B_191
+    authors: A_156
+  W_254:
+    titles:
+      fr: Le château de ma mère
+    language: fr
+    read: no
+    books: B_192
+    authors: A_156
+  W_255:
+    titles:
+      fr: Le schpountz
+    language: fr
+    read: no
+    books: B_193
+    authors: A_156
+  W_256:
+    titles:
+      fr: Le temps des secrets
+    language: fr
+    read: no
+    books: B_194
+    authors: A_156
+  W_257:
+    titles:
+      fr: Manon des sources
+    language: fr
+    read: no
+    books: B_195
+    authors: A_156
+  W_258:
+    titles:
+      fr: Marius
+    language: fr
+    read: no
+    books: B_196
+    authors: A_156
+  W_259:
+    titles:
+      fr: Merlusse Cigalon
+    language: fr
+    read: no
+    books: B_197
+    authors: A_156
+  W_260:
+    titles:
+      fr: Topaze
+    language: fr
+    read: no
+    books: B_198
+    authors: A_156
+  W_261:
+    titles:
+      fr: Robin des bois
+    language: fr
+    read: yes
+    books: B_199
+    authors: A_157
+  W_262:
+    titles:
+      fr: Eragon
+      en: Eragon
+    language: en
+    read: yes
+    books: B_200
+    authors: A_158
+  W_263:
+    titles:
+      fr: L'Aîné
+      en: Eldest
+    language: en
+    read: yes
+    books: B_201
+    authors: A_158
+  W_264:
+    titles:
+      fr: Brisingr
+      en: Brisingr
+    language: en
+    read: yes
+    books: B_202
+    authors: A_158
+  W_265:
+    titles:
+      fr: L'Héritage
+      en: Inheritance
+    language: en
+    read: yes
+    books: B_203
+    authors: A_158
+  W_266:
+    titles:
+      fr: De l'Esprit Géométrique
+    language: fr
+    read: no
+    books: B_204
+    authors: A_159
+  W_267:
+    titles:
+      fr: Pensée sur la justice - Trois Discours sur la condition des grands
+    language: fr
+    read: no
+    books: B_205
+    authors: A_159
+  W_268:
+    titles:
+      fr: Les contes de Perrault
+    language: fr
+    read: yes
+    books: B_206
+    authors: A_160
+  W_269:
+    titles:
+      fr: Contes et légendes de Bourgogne
+    language: fr
+    read: yes
+    books: B_207
+    authors: A_161
+  W_270:
+    titles:
+      fr: Mamie Luger
+    language: fr
+    read: yes
+    books: B_208
+    authors: A_162
+  W_271:
+    titles:
+      fr: Principes élémentaires de philosophie
+    language: fr
+    read: no
+    books: B_209
+    authors: A_163
+  W_272:
+    titles:
+      fr: Pinocchio (theatre)
+    language: fr
+    read: yes
+    books: B_210
+    authors: A_164
+    notes: theatres
+  W_273:
+    titles:
+      fr: Contes et légendes de la Camargue et des Gitans
+    language: fr
+    read: yes
+    books: B_211
+    authors: A_165
+  W_274:
+    titles:
+      en: Mort
+    language: en
+    read: yes
+    books: B_212
+    authors: A_166
+  W_275:
+    titles:
+      fr: L'opéra de la lune
+    language: fr
+    read: yes
+    books: B_213
+    authors: A_167
+  W_276:
+    titles:
+      fr: Le Cancre
+    language: fr
+    read: yes
+    books: B_214
+    authors: A_167
+  W_277:
+    titles:
+      fr: Manon Lescaut
+    language: fr
+    read: no
+    books: B_215
+    authors: A_168
+  W_278:
+    titles:
+      fr: Les Royaumes du Nord
+      en: Nothern Lights
+    language: en
+    read: yes
+    books: B_216
+    authors: A_169
+  W_279:
+    titles:
+      fr: La Tour des Anges
+      en: The Subtle Knife
+    language: en
+    read: yes
+    books: B_217
+    authors: A_169
+  W_280:
+    titles:
+      fr: Le Miroir d'Ambre
+      en: The Amber Spyglass
+    language: en
+    read: yes
+    books: B_218
+    authors: A_169
+  W_281:
+    titles:
+      fr: Exercices de Style
+    language: fr
+    read: yes
+    books: B_219
+    authors: A_170
+  W_282:
+    titles:
+      fr: Andromaque
+    language: fr
+    read: yes
+    books: B_220
+    authors: A_171
+  W_283:
+    titles:
+      fr: Poil de Carotte
+    language: fr
+    read: yes
+    books:
+    authors: A_172
+  W_284:
+    titles:
+      fr: Le héro perdu
+      en: The Lost Hero
+    language: en
+    read: yes
+    books:
+    authors: A_173
+  W_285:
+    titles:
+      fr: Le Fils de Neptune
+      en: The Son of Neptune
+    language: en
+    read: yes
+    books:
+    authors: A_173
+  W_286:
+    titles:
+      fr: La Marque d'Athéna
+      en: The Mark of Athena
+    language: en
+    read: yes
+    books:
+    authors: A_173
+  W_287:
+    titles:
+      fr: La Maison d'Hadès
+      en: The House of Hades
+    language: en
+    read: yes
+    books:
+    authors: A_173
+  W_288:
+    titles:
+      fr: Le Sang de l'Olympe
+      en: The Blood of Olympus
+    language: en
+    read: yes
+    books:
+    authors: A_173
+  W_289:
+    titles:
+      fr: Le Voleur de Foudre
+      en: The Lightning Thief
+    language: en
+    read: yes
+    books:
+    authors: A_173
+  W_290:
+    titles:
+      fr: La Mer des Monstres
+      en: The Sea of Monsters
+    language: en
+    read: yes
+    books:
+    authors: A_173
+  W_291:
+    titles:
+      fr: Le Sort du Titan
+      en: The Titan's Curse
+    language: en
+    read: yes
+    books:
+    authors: A_173
+  W_292:
+    titles:
+      fr: La Bataille du Labyrinthe
+      en: The Battle of the Labyrinth
+    language: en
+    read: yes
+    books:
+    authors: A_173
+  W_293:
+    titles:
+      fr: Le Dernier Olympien
+      en: The Last Olympian
+    language: en
+    read: yes
+    books:
+    authors: A_173
+  W_294:
+    titles:
+      fr: Vulcain
+      en: Firestorm
+    language: en
+    read: yes
+    books:
+    authors: A_174
+    notes: read fr isbn 978-2-266-21337-0
+  W_295:
+    titles:
+      fr: Souffle d'Ombre
+      en: Shadow
+    language: en
+    read: yes
+    books: B_221
+    authors: A_174
+  W_296:
+    titles:
+      fr: Dent de Sabre
+      en: Longfang
+    language: en
+    read: yes
+    books: B_222
+    authors: A_174
+  W_297:
+    titles:
+      fr: Aurore
+      en: Aurora
+    language: en
+    read: yes
+    books: B_223
+    authors: A_174
+  W_298:
+    titles:
+      fr: Premier de Cordée
+    language: fr
+    read: yes
+    books: B_224
+    authors: A_175
+  W_299:
+    titles:
+      fr: La Guerre du Feu
+    language: fr
+    read: yes
+    books: B_225
+    authors: A_176
+  W_300:
+    titles:
+      fr: Le Félin Géant
+    language: fr
+    read: yes
+    books: B_226
+    authors: A_176
+  W_301:
+    titles:
+      fr: À l'école des sorciers
+      en: The Philosopher's Stone
+    language: en
+    read: yes
+    books:
+    authors: A_177
+  W_302:
+    titles:
+      fr: La chambre des secrets
+      en: The Chamber of Secrets
+    language: en
+    read: yes
+    books:
+    authors: A_177
+  W_303:
+    titles:
+      fr: Le prisonnier d'Azkaban
+      en: The Prisoner of Azkaban
+    language: en
+    read: yes
+    books:
+    authors: A_177
+  W_304:
+    titles:
+      fr: La Coupe de feu
+      en: The Goblet of Fire
+    language: en
+    read: yes
+    books:
+    authors: A_177
+  W_305:
+    titles:
+      en: The Order of the Phoenix
+      fr: L'Ordre du Phénix
+    language: en
+    read: yes
+    books:
+    authors: A_177
+  W_306:
+    titles:
+      en: The Half-Blood Prince
+      fr: Le Prince de sang-mêlé
+    language: en
+    read: yes
+    books:
+    authors: A_177
+  W_307:
+    titles:
+      en: The Deathly Hallows
+      fr: Les Reliques de la Mort
+    language: en
+    read: yes
+    books:
+    authors: A_177
+  W_308:
+    titles:
+      fr: Bonjour tristesse
+    language: fr
+    read: yes
+    books: B_227
+    authors: A_178
+  W_309:
+    titles:
+      fr: Le Collectionneur
+    language: fr
+    read: yes
+    books:
+    authors: A_179;A_180
+  W_310:
+    titles:
+      fr: Les Portails d'Outre Temps
+    language: fr
+    read: yes
+    books:
+    authors: A_179;A_180
+  W_311:
+    titles:
+      fr: La 37eme Prophétie
+    language: fr
+    read: yes
+    books:
+    authors: A_179;A_180
+  W_312:
+    titles:
+      fr: Le Petit Prince
+      en: The Little Prince
+    language: en;fr
+    read: yes
+    books: B_320
+    authors: A_181
+  W_313:
+    titles:
+      en: Sea of Tranquility
+    language: en
+    read: yes
+    books: B_228
+    authors: A_182
+  W_314:
+    titles:
+      fr: Le tour du Tour par 36 détours
+    language: fr
+    read: yes
+    books: B_229
+    authors: A_183
+  W_315:
+    titles:
+      fr: Alcatraz contre les infâmes bibliothécaires
+      en: Alcatraz Versus the Evil Librarians
+    language: en
+    read: yes
+    books:
+    authors: A_184
+  W_316:
+    titles:
+      fr: Jacquou le croquant
+    language: fr
+    read: no
+    books: B_230
+    authors: A_185
+  W_317:
+    titles:
+      en: Elantris
+      fr: Elantris
+    language: en
+    read: yes
+    books: B_231
+    authors: A_184
+  W_318:
+    titles:
+      en: Warbreaker
+      fr: Warbreaker
+    language: en
+    read: yes
+    books: B_232
+    authors: A_184
+  W_319:
+    titles:
+      en: Tress of the emerald sea
+      fr: Tress de la mer Émeraude
+    language: en
+    read: yes
+    books: B_233
+    authors: A_184
+  W_320:
+    titles:
+      en: Yumi and the Nightmare Painter
+      fr: Yumi et le Peintre de cauchemars
+    language: en
+    read: yes
+    books: B_234
+    authors: A_184
+  W_321:
+    titles:
+      en: The Sunlit Man
+      fr: L'Ensoleillé
+    language: en
+    read: yes
+    books: B_235
+    authors: A_184
+  W_322:
+    titles:
+      en: The Final Empire
+      fr: L'Empire ultime
+    language: en
+    read: yes
+    books:
+    authors: A_184
+  W_323:
+    titles:
+      en: The Well of Ascension
+      fr: Le Puits de l'ascension
+    language: en
+    read: yes
+    books:
+    authors: A_184
+  W_324:
+    titles:
+      en: The Hero of Ages
+      fr: Le Héros des siècles
+    language: en
+    read: yes
+    books:
+    authors: A_184
+  W_325:
+    titles:
+      en: The Alloy of Law
+      fr: L'Alliage de la justice
+    language: en
+    read: yes
+    books: B_236
+    authors: A_184
+  W_326:
+    titles:
+      en: Shadows of Self
+      fr: Jeux de masques
+    language: en
+    read: yes
+    books: B_236
+    authors: A_184
+  W_327:
+    titles:
+      en: The Bands of Mourning
+      fr: Les Bracelets des larmes
+    language: en
+    read: yes
+    books: B_236
+    authors: A_184
+  W_328:
+    titles:
+      en: The Lost Metal
+    language: en
+    read: yes
+    books: B_237
+    authors: A_184
+  W_329:
+    titles:
+      en: The Way of Kings
+      fr: La Voie des rois
+    language: en
+    read: yes
+    books: B_238
+    authors: A_184
+  W_330:
+    titles:
+      en: Words of Radiance
+      fr: Le Livre des Radieux
+    language: en
+    read: yes
+    books: B_238
+    authors: A_184
+  W_331:
+    titles:
+      en: Oathbringer
+      fr: Justicière
+    language: en
+    read: yes
+    books: B_238
+    authors: A_184
+  W_332:
+    titles:
+      en: Dawnshard
+      fr: Éclat de l'Aube
+    language: en
+    read: yes
+    books: B_239
+    authors: A_184
+  W_333:
+    titles:
+      en: Rythm of War
+      fr: Rythme de guerre
+    language: en
+    read: yes
+    books: B_240
+    authors: A_184
+  W_334:
+    titles:
+      fr: Contes et légendes - La naissance de Rome
+    language: fr
+    read: yes
+    books: B_241
+    authors: A_186
+  W_335:
+    titles:
+      en: The Love Hypothesis
+    language: en
+    read: yes
+    books: B_242
+    authors: A_097
+  W_336:
+    titles:
+      fr: Quentin Durward
+      en: Quentin Durward
+    language: en
+    read: no
+    books: B_243
+    authors: A_187
+  W_337:
+    titles:
+      fr: Le vieux qui lisait des romans d'amour
+      en: The Old Man Who Read Love Stories
+      es: Un viejo que leía novelas de amor
+    language: es
+    read: yes
+    books: B_244
+    authors: A_188
+  W_338:
+    titles:
+      en: Frankenstein
+      fr: Frankenstein
+    language: en
+    read: yes
+    books:
+    authors: A_189
+  W_339:
+    titles:
+      fr: Le Chien Jaune
+    language: fr
+    read: yes
+    books:
+    authors: A_190
+  W_340:
+    titles:
+      fr: Les Terroristes
+      en: The Terrorists
+      sv: Terroristerna
+    language: sv
+    read: no
+    books: B_245
+    authors: A_191;A_192
+  W_341:
+    titles:
+      fr: Maus
+      en: Maus
+    language: en
+    read: yes
+    books: B_302
+    authors: A_193
+  W_342:
+    titles:
+      fr: La Coupe d'Or
+      en: Cup of Gold
+    language: en
+    read: yes
+    books: B_246
+    authors: A_194
+  W_343:
+    titles:
+      fr: Des souris et des hommes
+      en: Of Mices and Men
+    language: en
+    read: yes
+    books: B_247
+    authors: A_194
+  W_344:
+    titles:
+      fr: L'île au trésor
+      en: Treasure Island
+    language: en
+    read: yes
+    books: B_248
+    authors: A_195
+  W_345:
+    titles:
+      en: Dracula
+      fr: Dracula
+    language: en
+    read: yes
+    books:
+    authors: A_196
+  W_346:
+    titles:
+      fr: Les six compagnons et la radio libre
+    language: fr
+    read: yes
+    books: B_249
+    authors: A_197
+  W_347:
+    titles:
+      fr: Mystère et faits divers à Rome
+    language: fr
+    read: yes
+    books: B_250
+    authors: A_198
+  W_348:
+    titles:
+      fr: Nous sommes legions
+      en: We Are Legion
+    language: en
+    read: yes
+    books:
+    authors: A_199
+  W_349:
+    titles:
+      fr: Nous sommes nombreux
+      en: For We Are Many
+    language: en
+    read: yes
+    books:
+    authors: A_199
+  W_350:
+    titles:
+      fr: Tous ces mondes
+      en: All These Worlds
+    language: en
+    read: yes
+    books:
+    authors: A_199
+  W_351:
+    titles:
+      fr: Inconnu à cette adresse
+      en: Address Unknown
+    language: en
+    read: yes
+    books:
+    authors: A_200
+    notes: isbn read 2-253-10826-9
+  W_352:
+    titles:
+      fr: Le Jeu de la Dame
+      en: The Queen's Gambit
+    language: en
+    read: yes
+    books: B_251
+    authors: A_201
+  W_353:
+    titles:
+      fr: Les enfants de Húrin
+      en: Children of Húrin
+    language: en
+    read: yes
+    books: B_252;B_253
+    authors: A_202
+    notes: edited Christopher Tolkien
+  W_354:
+    titles:
+      fr: Le Hobbit
+      en: The Hobbit
+    language: en
+    read: yes
+    books: B_254;B_255
+    authors: A_202
+  W_355:
+    titles:
+      fr: La Communautée de l'anneaux
+      en: The Fellowship Of The Ring
+    language: en
+    read: yes
+    books: B_256;B_259
+    authors: A_202
+  W_356:
+    titles:
+      fr: Les Deux Tours
+      en: The Two Towers
+    language: en
+    read: yes
+    books: B_257;B_259
+    authors: A_202
+  W_357:
+    titles:
+      fr: Le Retour du Roi
+      en: The Return Of The King
+    language: en
+    read: yes
+    books: B_258;B_259
+    authors: A_202
+  W_358:
+    titles:
+      fr: Le Silmarillion
+      en: The Silmarillion
+    language: en
+    read: yes
+    books: B_260;B_261
+    authors: A_202
+    notes: edited Christopher Tolkien
+  W_359:
+    titles:
+      fr: Contes et légendes inachevés
+      en: Unfinished Tales
+    language: en
+    read: no
+    books: B_262
+    authors: A_202
+    notes: edited by Christopher Tolkien
+  W_360:
+    titles:
+      fr: Vendredi ou la vie sauvage
+    language: fr
+    read: yes
+    books:
+    authors: A_203
+  W_361:
+    titles:
+      fr: L'armée des pauvres
+      de: General kommst aus dem Dschungel
+    language: de
+    read: no
+    books: B_263
+    authors: A_204
+  W_362:
+    titles:
+      fr: Roman de la Table Ronde
+    language: fr
+    read: yes
+    books: B_264;B_266
+    authors: A_205
+  W_363:
+    titles:
+      fr: Perceval ou le conte du Graal
+    language: fr
+    read: yes
+    books: B_265
+    authors: A_205
+  W_364:
+    titles:
+      fr: L'ami retrouvé
+    language: fr
+    read: yes
+    books:
+    authors: A_206
+  W_365:
+    titles:
+      fr: L'homme à l'envers
+    language: fr
+    read: yes
+    books: B_267
+    authors: A_207
+  W_366:
+    titles:
+      fr: Mon bel oranger
+      pt: Meu Pé de Laranja Lima
+    language: pt
+    read: yes
+    books: B_268
+    authors: A_208
+  W_367:
+    titles:
+      fr: Le Silence de la Mer
+      en: Silence of the Sea
+    language: fr
+    read: yes
+    books:
+    authors: A_209
+  W_368:
+    titles:
+      fr: Les animaux dénaturés
+      en: You Shall Know Them / The Murder of the Missing Link / Borderline
+    language: fr
+    read: yes
+    books: B_269
+    authors: A_209
+  W_369:
+    titles:
+      fr: Le tour du monde en 80 jours
+      en: Around the World in Eighty Days
+    language: fr
+    read: yes
+    books: B_270
+    authors: A_210
+  W_370:
+    titles:
+      fr: Les tribulations d'un chinois en Chine
+      en: Tribulations of a Chinaman in China
+    language: fr
+    read: yes
+    books:
+    authors: A_210
+  W_371:
+    titles:
+      fr: Vingt mille lieues sous les mers
+      en: Twenty Thousand Leagues Under the Seas
+    language: fr
+    read: yes
+    books: B_271
+    authors: A_210
+  W_372:
+    titles:
+      fr: J'irai cracher sur vos tombes
+    language: fr
+    read: no
+    books: B_272
+    authors: A_211
+  W_373:
+    titles:
+      fr: No et moi
+    language: fr
+    read: yes
+    books:
+    authors: A_212
+  W_374:
+    titles:
+      fr: Candide ou l'optimiste
+      en: Candide
+    language: fr
+    read: yes
+    books: B_273
+    authors: A_213
+  W_375:
+    titles:
+      fr: Zadig
+    language: fr
+    read: yes
+    books:
+    authors: A_213
+  W_376:
+    titles:
+      fr: Papa-Longues-Jambes
+      en: Daddy-Long-Legs
+    language: en
+    read: yes
+    books: B_274
+    authors: A_214
+  W_377:
+    titles:
+      en: The Martian
+      fr: Seul sur Mars
+    language: en
+    read: yes
+    books: B_275
+    authors: A_215
+  W_378:
+    titles:
+      en: Love, Theoretically
+    language: en
+    read: yes
+    books: B_276
+    authors: A_097
+  W_379:
+    titles:
+      fr: L'homme invisible
+      en: The Invisible Man
+    language: en
+    read: yes
+    books: B_277
+    authors: A_216
+  W_380:
+    titles:
+      fr: La guerre des mondes
+      en: The War of the Worlds
+    language: en
+    read: no
+    books: B_278
+    authors: A_216
+  W_381:
+    titles:
+      en: All Systems Red
+      fr: Défaillances systèmes
+    language: en
+    read: yes
+    books: B_279
+    authors: A_217
+  W_382:
+    titles:
+      en: Artificial Condition
+      fr: Schémas artificiels
+    language: en
+    read: yes
+    books: B_280
+    authors: A_217
+  W_383:
+    titles:
+      en: Rogue Protocol
+      fr: Cheval de Troie
+    language: en
+    read: yes
+    books: B_281
+    authors: A_217
+  W_384:
+    titles:
+      en: Exit Strategy
+      fr: Stratégie de sortie
+    language: en
+    read: yes
+    books: B_282
+    authors: A_217
+  W_385:
+    titles:
+      en: Network Effect
+      fr: Effet de réseau
+    language: en
+    read: yes
+    books: B_283
+    authors: A_217
+  W_386:
+    titles:
+      en: Fugitive Telemetry
+      fr: Télémétrie fugitive
+    language: en
+    read: yes
+    books: B_284
+    authors: A_217
+  W_387:
+    titles:
+      en: "Home: Habitat, Range, Niche, Territory"
+    language: en
+    read: yes
+    books: B_285
+    authors: A_217
+  W_388:
+    titles:
+      fr: Le chevalier au bouclier vert
+    language: fr
+    read: yes
+    books:
+    authors: A_218
+  W_389:
+    titles:
+      fr: Le messager d'Athène
+    language: fr
+    read: yes
+    books:
+    authors: A_218
+  W_390:
+    titles:
+      fr: Le serment des catacombes
+    language: fr
+    read: yes
+    books: B_286
+    authors: A_218
+  W_391:
+    titles:
+      fr: Les pilleurs de sarcophages
+    language: fr
+    read: yes
+    books: B_287
+    authors: A_218
+  W_392:
+    titles:
+      fr: Caïus et le gladiateur
+      de: Caius geht ein Licht auf
+    language: de
+    read: yes
+    books: B_288
+    authors: A_219
+  W_393:
+    titles:
+      fr: L'affaire Caïus
+      de: Caius ist ein Dummkopf
+    language: de
+    read: yes
+    books: B_289
+    authors: A_219
+  W_394:
+    titles:
+      en: Irish Fairy and Folk Tales
+    language: en
+    read: no
+    books: B_290
+    authors: A_220
+  W_395:
+    titles:
+      fr: Le joueur d'échecs
+      en: Chess
+      de: Schachnovelle
+    language: de
+    read: yes
+    books: B_291
+    authors: A_221
+  W_396:
+    titles:
+      fr: Le vaisseau merveilleux et autres contes de Bretagne
+    language: fr
+    read: yes
+    books: B_292
+    authors:
+  W_397:
+    titles:
+      fr: Les six compagnons et le carré magique
+    language: fr
+    read: yes
+    books: B_293
+    authors:
+  W_398:
+    titles:
+      fr: Le Vol du dragon
+      en: Dragonflight
+    language: en
+    read: yes
+    books: B_294
+    authors: A_222
+  W_399:
+    titles:
+      fr: La quête du dragon
+      en: Dragonquest
+    language: en
+    read: yes
+    books: B_295
+    authors: A_222
+  W_400:
+    titles:
+      fr: Le dragon blanc
+      en: The White Dragon
+    language: en
+    read: yes
+    books: B_296
+    authors: A_222
+  W_401:
+    titles:
+      fr: La dame aux dragons
+      en: "Moreta: Dragonlady of Pern"
+    language: en
+    read: yes
+    books: B_297
+    authors: A_222
+  W_402:
+    titles:
+      fr: Histoire de Nerilka
+      en: Nerilka's Story
+    language: en
+    read: yes
+    books: B_298
+    authors: A_222
+  W_403:
+    titles:
+      fr: L'aube des dragons
+      en: Dragonsdawn
+    language: en
+    read: yes
+    books: B_299
+    authors: A_222
+  W_404:
+    titles:
+      fr: Les renégats de Pern
+      en: The Renegades of Pern
+    language: en
+    read: yes
+    books: B_300
+    authors: A_222
+  W_405:
+    titles:
+      fr: L'histoire de Géronimo
+      en: Geronimo
+    language: en
+    read: no
+    books: B_301
+    authors: A_223;A_224
+  W_406:
+    titles:
+      en: Kindred
+      fr: Liens de sang
+    language: en
+    read: no
+    books: B_303
+    authors: A_225
+  W_407:
+    titles:
+      en: On Earth We're Briefly Gorgeous
+    language: en
+    read: no
+    books: B_304
+    authors: A_226
+  W_408:
+    titles:
+      en: Chinese Myths
+      fr: Mythes Chinois
+    language: en
+    read: no
+    books: B_305
+    authors: A_227
+  W_409:
+    titles:
+      fr: Mythes Aztèques et Mayas
+      en: Aztec and Maya Myths
+    language: en
+    read: no
+    books: B_306
+    authors: A_228
+  W_410:
+    titles:
+      fr: Mythes Egyptiens
+      en: Egyptian Myths
+    language: en
+    read: no
+    books: B_307
+    authors: A_229
+  W_411:
+    titles:
+      fr: Cent ans de solitude
+      es: Cien años de soledad
+      en: One Hundred Years of Solitude
+    language: es
+    read: no
+    books: B_308
+    authors: A_230
+  W_412:
+    titles:
+      fr: Le poid du papillon
+      it: Il peso della farfalla
+    language: it
+    read: no
+    books: B_309
+    authors: A_231
+  W_413:
+    titles:
+      fr: L'oeil du Loup
+    language: fr
+    read: yes
+    books:
+    authors: A_232
+  W_414:
+    titles:
+      fr: Les légendes de Terre
+    language: fr
+    read: yes
+    books:
+    authors: A_233
+  W_415:
+    titles:
+      en: System Collapse
+    language: en
+    read: yes
+    books: B_310
+    authors: A_217
+  W_416:
+    titles:
+      en: The Neverending Story
+      de: Die unendliche Geschichte
+      fr: L'Histoire sans fin
+    language: de
+    read: no
+    books: B_311
+    authors: A_234
+  W_417:
+    titles:
+      en: A Study in Scarlet
+      fr: Une Étude en Rouge
+    language: en
+    read: yes
+    books: B_313
+    authors: A_063
+  W_418:
+    titles:
+      en: The Sign of Four
+      fr: Le Signe des Quatres
+    language: en
+    read: yes
+    books: B_313
+    authors: A_063
+  W_419:
+    titles:
+      en: The Adventures of Sherlock Holmes
+      fr: Les Aventures de Sherlock Holmes
+    language: en
+    read: no
+    books: B_313
+    authors: A_063
+  W_420:
+    titles:
+      en: The Memoirs of Sherlock Holmes
+      fr: Les Mémoires de Sherlock Holmes
+    language: en
+    read: no
+    books: B_313
+    authors: A_063
+  W_421:
+    titles:
+      en: The Hound of the Baskervilles
+      fr: Le Chien des Baskerville
+    language: en
+    read: yes
+    books: B_313
+    authors: A_063
+  W_422:
+    titles:
+      en: The Return of Sherlock Holmes
+      fr: Le Retour de Sherlock Holmes
+    language: en
+    read: no
+    books: B_314
+    authors: A_063
+  W_423:
+    titles:
+      en: The Valley of Fear
+      fr: La Vallée de la peur
+    language: en
+    read: yes
+    books: B_314
+    authors: A_063
+  W_424:
+    titles:
+      en: His Last Bow
+      fr: Son dernier coup d’archet
+    language: en
+    read: no
+    books: B_314
+    authors: A_063
+  W_425:
+    titles:
+      en: The Case-Book of Sherlock Holmes
+      fr: Les Archives de Sherlock Holmes
+    language: en
+    read: no
+    books: B_314
+    authors: A_063
+  W_426:
+    titles:
+      en: Arcanum Unbounded
+    language: en
+    read: yes
+    books: B_315
+    authors: A_184
+  W_427:
+    titles:
+      en: The Fall of Gondolin
+      fr: La Chute de Gondolin
+    language: en
+    read: no
+    books: B_316
+    authors: A_202
+    notes: edited Christopher Tolkien
+  W_428:
+    titles:
+      en: African Myths & Legends
+      fr: Mythes et Légendes Africains
+    language: en
+    read: no
+    books: B_317
+    authors:
+  W_429:
+    titles:
+      en: Indian Myths & Legends
+      fr: Mythes et Légendes Indiens
+    language: en
+    read: no
+    books: B_318
+    authors:
+  W_430:
+    titles:
+      en: Persian Myths & Legends
+      fr: Mythes et Légendes Perses
+    language: en
+    read: no
+    books: B_319
+    authors:
+  W_431:
+    titles:
+      en: The Salt Path
+    language: en
+    read: no
+    books: B_321
+    authors: A_235
+  W_432:
+    titles:
+      en: The Anthology of Irish Folk Tales
+    language: en
+    read: yes
+    books: B_322
+    authors:
+  W_433:
+    titles:
+      fr: Contes d'ici et d'ailleurs
+    language: fr
+    read: yes
+    books: B_323
+    authors:
+  W_434:
+    titles:
+      fr: Contes d'ici et d'ailleurs
+    language: fr
+    read: yes
+    books: B_324
+    authors:
+    notes: same title, but not same content as W_433
+
+books:
+  B_001:
+    title: Le Guide du Voyageur Galactique
+    language: fr
+    isbn: 978-2-07-043753
+    situation: Cork
+  B_002:
+    title: Les contes d'Andersen
+    language: fr
+    isbn: 978-2-36315-139-1
+    situation: Ebook
+  B_003:
+    title: La Fée et le Géomètre
+    language: fr
+    isbn: 2-203-13615-4
+    situation: Cork
+  B_004:
+    title: Terminus Leipzig
+    language: fr
+    isbn: 978-2-7578-9471-2
+    situation: Cork
+  B_006:
+    title: Aurélien
+    language: fr
+    isbn: 9782070377503
+    situation: Ebook
+  B_007:
+    title: Enquête au collège
+    language: fr
+    isbn: 978-2-07-061284
+    situation: Antony
+  B_008:
+    title: Fondation 1
+    language: fr
+    isbn: 978-2-07-046361-9
+    situation: Cork
+  B_009:
+    title: Fondation 2
+    language: fr
+    isbn: 978-2-07-046362-6
+    situation: Cork
+  B_010:
+    title: Noël sur Ganymède
+    language: fr
+    isbn: 2-207-30187-7
+    situation: Cork
+  B_011:
+    title: The complete Robot
+    language: en
+    isbn: 978-0-00-827781-9
+    situation: Cork
+    notes: A lot of Asimov short stories about robots
+  B_012:
+    title: The Handmaid's Tale
+    language: en
+    isbn: 9781446485477
+    situation: Ebook
+  B_013:
+    title: Les contes bleus du chat perché
+    language: fr
+    isbn: 2-07-033097
+    situation: Antony
+  B_014:
+    title: Les contes rouges du chat perché
+    language: fr
+    isbn: 2-07-033-098
+    situation: Antony
+  B_015:
+    title: Les contes du chat perché
+    language: fr
+    isbn: 9782070363438
+    situation: Ebook
+    notes: avec les contes rouges et les contes bleus
+  B_016:
+    title: La formation de l'esprit scientifique
+    language: fr
+    isbn: 978-2-7116-1150-8
+    situation: Antony
+  B_017:
+    title: La vie selon Ove
+    language: fr
+    isbn: 978-2-258-10999-5
+    situation: Ebook
+  B_018:
+    title: Legends & Lattes
+    language: en
+    isbn: 978-1-0350-0733-2
+    situation: Ebook
+  B_019:
+    title: Gros Problème
+    language: fr
+    isbn: 2-266-11957
+    situation: Cork
+  B_020:
+    title: Alamut
+    language: fr
+    isbn: 2-85940-518-6
+    situation: Cork
+  B_021:
+    title: J'ai bien connu Icare
+    language: fr
+    isbn: 2-08-161866-4
+    situation: Cork
+  B_022:
+    title: Michel et les routiers
+    language: fr
+    isbn:
+    situation: Antony
+  B_023:
+    title: Vipère au poing
+    language: fr
+    isbn: 978-2-253-00145-4
+    situation: Antony
+  B_024:
+    title: La plume de l'ange
+    language: fr
+    isbn: 978-2-09-252104-5
+    situation: Antony
+  B_025:
+    title: Le singe de Buffon
+    language: fr
+    isbn: 978-2-09-250385-0
+    situation: Antony
+  B_026:
+    title: La concierge est dans le cercueil
+    language: fr
+    isbn: 978-2-913019-58-4
+    situation: Antony
+  B_027:
+    title: Les six compagnons dans la ville rose
+    language: fr
+    isbn: 2-01-014317-5
+    situation: Antony
+  B_028:
+    title: Les six compagnons et l'émetteur pirate
+    language: fr
+    isbn: 2-01-017796-7
+    situation: Antony
+  B_029:
+    title: Les six compagnons et la disparue de Montélimar
+    language: fr
+    isbn: 2-01-209400-7
+    situation: Antony
+  B_030:
+    title: Les six compagnons et la perruque rouge
+    language: fr
+    isbn: 2-01-00-0775-1
+    situation: Antony
+  B_031:
+    title: Les six compagnons et la pile atomique
+    language: fr
+    isbn: 2-01-016996-4
+    situation: Antony
+  B_032:
+    title: Les six compagnons à la tour Eiffel
+    language: fr
+    isbn: 2-01-209217-9
+    situation: Antony
+  B_033:
+    title: Contes et légendes du Dauphiné
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Fernand Nathan
+  B_034:
+    title: La planète des singes
+    language: fr
+    isbn: 978-2-266-28302
+    situation: Cork
+  B_035:
+    title: Le Maître et Marguerite
+    language: fr
+    isbn: 978-2-221-24056-4
+    situation: Ebook
+  B_036:
+    title: Fahrenheit 451
+    language: en
+    isbn: 978-0-00-654606-1
+    situation: Cork
+  B_037:
+    title: The Martian Chronicles
+    language: en
+    isbn: 978-0-00-647923
+    situation: Cork
+  B_038:
+    title: Bennett et sa cabane
+    language: fr
+    isbn: 2-253-02338-8
+    situation: Antony
+  B_039:
+    title: La révolte de 10x
+    language: fr
+    isbn: 2-08-161758
+    situation: Antony
+  B_040:
+    title: Le récit de Gilgamesh
+    language: fr
+    isbn: 978-2-218-93642-5
+    situation: Antony
+  B_041:
+    title: Don Quichotte (abrégé)
+    language: fr
+    isbn: 2-0139322247-5
+    situation: Antony
+  B_042:
+    title: A Psalm for the Wild Built
+    language: en
+    isbn: 978-1-250-23622-7
+    situation: Ebook
+  B_043:
+    title: A Prayer for the Crown Shy
+    language: en
+    isbn: 978-1-250-23624-1
+    situation: Ebook
+  B_044:
+    title: And then there were None
+    language: en
+    isbn: 978-0-00-812320-8
+    situation: Cork
+  B_045:
+    title: Cards on the Table
+    language: en
+    isbn: 9780007422197
+    situation: Ebook
+  B_046:
+    title: Death on the Nile
+    language: en
+    isbn: 9780007422289
+    situation: Ebook
+  B_047:
+    title: Murder on the Orient Express
+    language: en
+    isbn: 978-0-00-752750
+    situation: Cork
+  B_048:
+    title: The Murder of Roger Ackroyd
+    language: en
+    isbn: 9782380376913
+    situation: Ebook
+  B_049:
+    title: Le Problème à Trois Corps
+    language: fr
+    isbn: 978-2-330-11355-1
+    situation: Cork
+  B_050:
+    title: La Forêt Sombre
+    language: fr
+    isbn: 978-2-330-12511-0
+    situation: Cork
+  B_051:
+    title: La Mort Immortelle
+    language: fr
+    isbn: 978-2-330-14319-0
+    situation: Cork
+  B_052:
+    title: "2001: l'Odyssée de l'Espace"
+    language: fr
+    isbn: 978-2-290-30814-1
+    situation: Cork
+  B_053:
+    title: Piranesi
+    language: en
+    isbn: 978-1-5266-2244-0
+    situation: Ebook
+  B_054:
+    title: Les prisoniers du marais
+    language: fr
+    isbn: 2-253-02571-2
+    situation: Antony
+  B_055:
+    title: The Alchemist
+    language: en
+    isbn: 978-0-06-112241-5
+    situation: Cork
+  B_056:
+    title: Pinocchio
+    language: fr
+    isbn: 978-2-01-321286-1
+    situation: Antony
+  B_057:
+    title: 25 Métamorphoses d'Ovide
+    language: fr
+    isbn: 978-2-01-000906-8
+    situation: Antony
+  B_058:
+    title: Outaouais
+    language: fr
+    isbn: 978-2-38211-163-5
+    situation: Ebook
+  B_059:
+    title: Contes des indiens du Chiapas
+    language: fr
+    isbn: 978-2-7427-8250-5
+    situation: Antony
+  B_060:
+    title: Histoire populaire des sciences
+    language: fr
+    isbn: 978-2-7578-3679-8
+    situation: Cork
+  B_061:
+    title: Au coeur des ténèbre
+    language: fr
+    isbn: 978-2-0813-9745-3
+    situation: Antony
+  B_062:
+    title: Comment dresser votre dragon
+    language: fr
+    isbn: 978-2-203-03261-3
+    situation: Antony
+  B_063:
+    title: La Horde du Contrevent
+    language: fr
+    isbn: 978-2-07-292751-5
+    situation: Cork
+  B_064:
+    title: Labyrinthe - L'Épreuve
+    language: fr
+    isbn: 978-2-266-20012-7
+    situation: Antony/Vente
+  B_065:
+    title: Contes et récits - Pirates, Corsaires et Flibustiers
+    language: fr
+    isbn: 2-09-282612-3
+    situation: Antony
+  B_066:
+    title: Contes et récits de Paris
+    language: fr
+    isbn: 209282083-4
+    situation: Antony
+  B_067:
+    title: Philip K. Dick - Nouvelles completes I (1947-1953)
+    language: fr
+    isbn: 978-2-07-285870-3
+    situation: Cork
+  B_068:
+    title: Philip K. Dick - Nouvelles completes II (1954-1981)
+    language: fr
+    isbn: 978-2-07-285873-4
+    situation: Cork
+  B_069:
+    title: Le Sorgho Rouge
+    language: fr
+    isbn: 2-01-018282-0
+    situation: Antony
+  B_070:
+    title: Les Chroniques de Spiderwick - L'integrale
+    language: fr
+    isbn: 978-2-266-18201-0
+    situation: Cork
+  B_071:
+    title: Les pollueurs font tache d'huile
+    language: fr
+    isbn: 2-7427-1401-4
+    situation: Antony
+  B_072:
+    title: La ceinture empoisonnée
+    language: fr
+    isbn: 2-253-02563
+    situation: Cork
+  B_073:
+    title: Le Monde Perdu
+    language: fr
+    isbn: 2-01-019693-7
+    situation: Cork
+  B_074:
+    title: Tistou les pouces verts
+    language: fr
+    isbn: 2-01-0104153-3
+    situation: Antony
+  B_075:
+    title: Ange Pitou
+    language: fr
+    isbn:
+    situation: Paris
+    notes: 2 Tomes, Collection Dumas (cuir rouge)
+  B_076:
+    title: Joseph Balsamo
+    language: fr
+    isbn:
+    situation: Paris
+    notes: 4 Tomes, Collection Dumas (cuir rouge)
+  B_077:
+    title: La Comtesse de Charny
+    language: fr
+    isbn:
+    situation: Paris
+    notes: 4 Tomes, Collection Dumas (cuir rouge)
+  B_078:
+    title: Le Collier de la Reine
+    language: fr
+    isbn:
+    situation: Paris
+    notes: 2 Tomes, Collection Dumas (cuir rouge)
+  B_079:
+    title: Le Comte de Monte-Cristo
+    language: fr
+    isbn:
+    situation: Paris
+    notes: 4 Tomes, Collection Dumas (cuir rouge)
+  B_080:
+    title: Le Vicomte de Bragelonne
+    language: fr
+    isbn:
+    situation: Paris
+    notes: 6 Tomes, Collection Dumas (cuir rouge)
+  B_081:
+    title: Les Trois Mousquetaires
+    language: fr
+    isbn:
+    situation: Paris
+    notes: 2 Tomes, Collection Dumas (cuir rouge)
+  B_082:
+    title: Vingt ans après
+    language: fr
+    isbn:
+    situation: Paris
+    notes: 2 Tomes, Collection Dumas (cuir rouge)
+  B_083:
+    title: Les Lions de César
+    language: fr
+    isbn: 978-2-01-322650-9
+    situation: Antony
+  B_084:
+    title: This Is How You Lose the Time War
+    language: en
+    isbn: 978-1-52940-523-1
+    situation: Cork
+  B_085:
+    title: This Is How You Lose the Time War
+    language: en
+    isbn: 978-1-52940-524-8
+    situation: Ebook
+  B_086:
+    title: Flamme et l'Etalon Noir
+    language: fr
+    isbn: 2-01-00-1034-5
+    situation: Antony
+  B_087:
+    title: Le Fils de l'Etalon Noir
+    language: fr
+    isbn:
+    situation: Antony
+  B_088:
+    title: Tapas Nocturnes
+    language: fr
+    isbn: 978-2-253-24171-3
+    situation: Cork
+  B_089:
+    title: Mala Vida
+    language: fr
+    isbn: 978-2-253-08585-0
+    situation: Cork
+  B_090:
+    title: Guérilla Social Club
+    language: fr
+    isbn: 978-2-253-08585-0
+    situation: Cork
+  B_091:
+    title: Le Crépuscule et l'Aube
+    language: fr
+    isbn: 978-2-221-15770-1
+    situation: Cork
+  B_092:
+    title: Peloton Maison
+    language: fr
+    isbn: 978-2-02-149943-8
+    situation: Cork
+  B_093:
+    title: Journal
+    language: fr
+    isbn: 2-253-00127-9
+    situation: Cork
+  B_094:
+    title: Dans le Secret des Nombres
+    language: fr
+    isbn: 978-2-10-078168-3
+    situation: Cork
+  B_095:
+    title: Condor
+    language: fr
+    isbn: 978-2-07-274768-7
+    situation: Cork
+  B_096:
+    title: La Bête du Gévaudan
+    language: fr
+    isbn: 978-2-01-013833-3
+    situation: Antony
+  B_097:
+    title: Smith
+    language: fr
+    isbn: 2-253-03350-2
+    situation: Antony
+  B_098:
+    title: Au Pays du Grand Condor
+    language: fr
+    isbn: 2-07-033022-2
+    situation: Antony
+  B_099:
+    title: Le Pied de la Momie
+    language: fr
+    isbn: 978-2-218-96301
+    situation: Antony
+  B_100:
+    title: Le Hussard sur le Toit
+    language: fr
+    isbn: 2-07-036240-0
+    situation: Antony
+  B_101:
+    title: Meutre au Sommet
+    language: fr
+    isbn: 2-84230-035-1
+    situation: Cork
+    notes: emprunte from pepe
+  B_102:
+    title: The Princess Bride
+    language: en
+    isbn: 978-0-544-17722-2
+    situation: Ebook
+  B_103:
+    title: The Gentle Art of Tramping
+    language: en
+    isbn: 978-1-4482-1724-3
+    situation: Cork
+  B_104:
+    title: Mythes Celtiques
+    language: fr
+    isbn: 979-10-414-1109-2
+    situation: Cork
+  B_105:
+    title: Irish Myths and Legends - Gods and Fighting Mens
+    language: en
+    isbn: 978-1-84840-812-8
+    situation: Cork
+  B_106:
+    title: Irish Myths and Legends 2 -Cuchulain and the Red Branch of Ulster
+    language: en
+    isbn: 978-1-84840-887-6
+    situation: Cork
+  B_107:
+    title: La Machination
+    language: fr
+    isbn: 2-253-02765-0
+    situation: Antony
+  B_108:
+    title: Contes et Légendes - Les Douze Travaux d'Hercule
+    language: fr
+    isbn: 2-09-282318-3
+    situation: Antony
+  B_109:
+    title: Les Contes de Grimm
+    language: fr
+    isbn: 978-2-36315-136-0
+    situation: Ebook
+  B_110:
+    title: Le Château des Enfants Volés
+    language: fr
+    isbn: 2-253-02698-0
+    situation: Antony
+  B_111:
+    title: La Guerre des Livres
+    language: fr
+    isbn: 978-2-07-061882-8
+    situation: Cork
+  B_112:
+    title: La Bibliothécaire
+    language: fr
+    isbn: 978-2-01-322406-2
+    situation: Antony
+  B_113:
+    title: Les Cheveux de Bérénice
+    language: fr
+    isbn: 2-02-066392-9
+    situation: Cork
+  B_114:
+    title: Tales of Lunis Aquaria
+    language: en
+    isbn: 9789083006512
+    situation: Ebook
+  B_115:
+    title: Loathe To Love You
+    language: en
+    isbn: 978-1-4087-2863-5
+    situation: Ebook
+  B_116:
+    title: Never Fall for Your Fiancée
+    language: en
+    isbn: 9781250787774
+    situation: Ebook
+  B_117:
+    title: Never Rescue a Rogue
+    language: en
+    isbn: 9781250787798
+    situation: Ebook
+  B_118:
+    title: Never Wager with a Wallflower
+    language: en
+    isbn: 9781250787811
+    situation: Ebook
+  B_119:
+    title: Ciel - L'Hiver des Machines
+    language: fr
+    isbn: 978-2-35488-238-9
+    situation: Antony/Vente
+  B_120:
+    title: Pour qui Sonne le Glas
+    language: fr
+    isbn:
+    situation: Cork
+    notes: Belle Edition
+  B_121:
+    title: La Communauté des soeurs
+    language: fr
+    isbn: 978-2-266-25239-3
+    situation: Cork
+  B_122:
+    title: Les Mentats de Dune
+    language: fr
+    isbn: 978-2-266-26727-4
+    situation: Cork
+  B_123:
+    title: Les Navigateurs de Dune
+    language: fr
+    isbn: 978-2-266-32129-7
+    situation: Cork
+  B_124:
+    title: Dune
+    language: en
+    isbn: 978-0-340-96019-6
+    situation: Cork
+  B_125:
+    title: Dune Messiah
+    language: en
+    isbn: 978-0-593-09823-3
+    situation: Cork
+  B_126:
+    title: Children of Dune
+    language: en
+    isbn: 978-0-593-09824-0
+    situation: Cork
+  B_127:
+    title: God Emperor of Dune
+    language: en
+    isbn: 978-0-593-09825-7
+    situation: Cork
+  B_128:
+    title: Heretics of Dune
+    language: en
+    isbn: 978-0-593-09826-4
+    situation: Cork
+  B_129:
+    title: Chapterhouse Dune
+    language: en
+    isbn: 978-0-593-09827-1
+    situation: Cork
+  B_130:
+    title: The Brown Sisters Serie
+    language: en
+    isbn: 978-0-06-294127-5
+    situation: Ebook
+  B_131:
+    title: Le Perroquet qui Bégayait
+    language: fr
+    isbn: 2-253-02766-9
+    situation: Cork
+    notes: Pour raisons Marketing, auteur is Alfred Hitchcock
+  B_132:
+    title: L'Odyssée
+    language: fr
+    isbn: 978-2-7071-9439-8
+    situation: Antony
+  B_133:
+    title: Contes et Légendes du Moyen-Age
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Fernand Nathan
+  B_134:
+    title: Le Meilleur des Mondes
+    language: fr
+    isbn: 978-2-266-28303-8
+    situation: Antony
+  B_135:
+    title: Comment Braquer une Banque Sans Perdre son Dentier
+    language: fr
+    isbn: 978-2-823-8-1023
+    situation: Ebook
+  B_136:
+    title: L'Aventure, l'Ennui, le Sérieux - Chapitre 1
+    language: fr
+    isbn: 978-2-0813-9744-6
+    situation: Antony
+  B_137:
+    title: Un Sac de Bille
+    language: fr
+    isbn: 2-253-02777-4
+    situation: Cork
+  B_138:
+    title: Le Vieux qui ne Voulait pas Fêter son Anniversaire
+    language: fr
+    isbn: 978-2-266-21852
+    situation: Cork
+  B_139:
+    title: Howl's Moving Castle
+    language: en
+    isbn: 9780062244512
+    situation: Ebook
+  B_140:
+    title: Du Passé Faisons Table Rase
+    language: fr
+    isbn: 978-2-07-030861-3
+    situation: Cork
+  B_141:
+    title: Flowers For Algernon
+    language: en
+    isbn: 978-0-575-08849-8
+    situation: Ebook
+  B_142:
+    title: Le Phoque Blanc
+    language: fr
+    isbn: 978-2-07-061559-9
+    situation: Antony
+  B_143:
+    title: Le Gambit des Étoiles
+    language: fr
+    isbn: 2-253-03879-2
+    situation: Cork
+  B_144:
+    title: L'Île de Black Mor
+    language: fr
+    isbn: 2-226-11-296-0
+    situation: Antony
+  B_145:
+    title: Contes et Légendes de Champagne
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Fernand Nathan
+  B_146:
+    title: 12 Récits de l'Énéide
+    language: fr
+    isbn: 978-2-0812-3029-3
+    situation: Antony
+  B_147:
+    title: Long John Silver
+    language: fr
+    isbn: 2-253-15010-7
+    situation: Antony
+  B_148:
+    title: The Books of Eathsea
+    language: en
+    isbn: 978-1-473-22355-4
+    situation: Ebook
+  B_149:
+    title: Integrale Arsène Lupin
+    language: fr
+    isbn:
+    situation: Ebook
+  B_150:
+    title: Arsène Lupin - La Comtesse de Cagliostro
+    language: fr
+    isbn: 301-0-000-03034-8
+    situation: Cork
+  B_151:
+    title: To Kill A Mocking-Bird
+    language: en
+    isbn: 978-0-09-947978-5
+    situation: Cork
+  B_152:
+    title: Pachinko
+    language: en
+    isbn: 978-1-4555-6391-3
+    situation: Ebook
+  B_153:
+    title: Le Garçon qui ne Parlait Pas
+    language: fr
+    isbn: 978-2-7578-5686-4
+    situation: Cork
+  B_154:
+    title: The Dandelion Dynasty
+    language: en
+    isbn: 9781837930180
+    situation: Ebook
+  B_155:
+    title: Jonathan Livingston le goéland
+    language: fr
+    isbn: 2-08-161714-5
+    situation: Antony
+  B_156:
+    title: Croc-Blanc
+    language: fr
+    isbn: 978-2-01-322574-8
+    situation: Cork
+  B_157:
+    title: Martin Eden
+    language: fr
+    isbn: 978-2-07-079398-3
+    situation: Cork
+  B_158:
+    title: Face au Vent
+    language: fr
+    isbn: 978-2-35178-701-4
+    situation: Cork
+  B_159:
+    title: Feu et Sang (partie 1)
+    language: fr
+    isbn: 978-2-7564-2787-4
+    situation: Cork
+  B_160:
+    title: Le Trône de Fer - L'integrale 1
+    language: fr
+    isbn: 978-2-290-01943-6
+    situation: Cork
+  B_161:
+    title: Le Trône de Fer - L'integrale 2
+    language: fr
+    isbn: 978-2-290-01944-3
+    situation: Cork
+  B_162:
+    title: Le Trône de Fer - L'integrale 3
+    language: fr
+    isbn: 978-2-290-02216-0
+    situation: Cork
+  B_163:
+    title: Le Trône de Fer - L'integrale 4
+    language: fr
+    isbn: 978-2-290-02217-7
+    situation: Cork
+  B_164:
+    title: Le Trône de Fer - L'integrale 5
+    language: fr
+    isbn: 978-2-290-10709-6
+    situation: Cork
+  B_165:
+    title: Contes du Jour et de la Nuit
+    language: fr
+    isbn: 978-2-253-04654-7
+    situation: Antony
+  B_166:
+    title: Le Piège Gaulois
+    language: fr
+    isbn: 2-253-03612-9
+    situation: Antony
+  B_167:
+    title: Youg
+    language: fr
+    isbn: 2-07-033301-9
+    situation: Antony
+  B_168:
+    title: On ne badine pas avec les tueurs
+    language: fr
+    isbn: 2-7002-2063-3
+    situation: Antony
+  B_169:
+    title: Le vieil homme de la forêt
+    language: fr
+    isbn: 978-2-84064-279-4
+    situation: Antony/Vente
+  B_170:
+    title: L'Utopie
+    language: fr
+    isbn: 9782290134115
+    situation: Antony
+  B_171:
+    title: Mes amis les loups
+    language: fr
+    isbn: 2-08-161794-3
+    situation: Cork
+  B_172:
+    title: Z comme Zacharie
+    language: fr
+    isbn: 2-253-03882-2
+    situation: Antony
+  B_173:
+    title: Les clients du Bon Chien Jaune
+    language: fr
+    isbn: 978-2-07-056016-5
+    situation: Antony
+  B_174:
+    title: Contes et légendes de la naissance de Rome
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Fernand Nathan
+  B_175:
+    title: 1984
+    language: fr
+    isbn: 2-07-036822-X
+    situation: Cork
+  B_176:
+    title: 1984
+    language: fr
+    isbn: 978-2-246-82576-0
+    situation: Cork
+    notes: Adaptation BD
+  B_177:
+    title: Animal Farm
+    language: en
+    isbn: 978-0-141-03613-7
+    situation: Cork
+  B_178:
+    title: La Ferme des Animaux
+    language: fr
+    isbn: 978-23730901-8-5
+    situation: Cork
+  B_179:
+    title: La Cabane Magique - Rencontres en haut de la tour Eiffel
+    language: fr
+    isbn: 978-2-7470-2615-4
+    situation: Antony
+  B_180:
+    title: Loveless
+    language: en
+    isbn: 9780008244132
+    situation: Ebook
+  B_181:
+    title: Persée et autres métamorphoses
+    language: fr
+    isbn: 978-2-218-93332-5
+    situation: Antony
+  B_182:
+    title: Mythes Nordiques
+    language: fr
+    isbn: 979-10-414-1112-2
+    situation: Cork
+  B_183:
+    title: Angèle
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_184:
+    title: César
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_185:
+    title: Confidences
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_186:
+    title: Fanny
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_187:
+    title: Jazz
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_188:
+    title: Jean de Florette
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_189:
+    title: La femme du boulanger
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_190:
+    title: La fille du puisatier
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_191:
+    title: La gloire de mon père
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_192:
+    title: Le château de ma mère
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_193:
+    title: Le schpountz
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_194:
+    title: Le temps des secrets
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_195:
+    title: Manon des sources
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_196:
+    title: Marius
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_197:
+    title: Merlusse Cigalon
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_198:
+    title: Topaze
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Cuir Rouge Pagnol
+  B_199:
+    title: Robin des bois
+    language: fr
+    isbn: 2-01-001764-1
+    situation: Antony
+  B_200:
+    title: Eragon
+    language: fr
+    isbn: 978-2-7470-3334-3
+    situation: Cork
+  B_201:
+    title: L'Aîné
+    language: fr
+    isbn: 978-2-7470-2119-7
+    situation: Cork
+  B_202:
+    title: Brisingr
+    language: fr
+    isbn: 978-2-7470-2961-2
+    situation: Cork
+  B_203:
+    title: L'Héritage
+    language: fr
+    isbn: 978-2-7470-2855-4
+    situation: Cork
+  B_204:
+    title: De l'Esprit Géométrique
+    language: fr
+    isbn:
+    situation: Antony
+  B_205:
+    title: Pensée sur la justice - Trois Discours sur la condition des grands
+    language: fr
+    isbn: 978-2-0812-4981-3
+    situation: Antony
+  B_206:
+    title: Les contes de Perrault
+    language: fr
+    isbn: 978-2-36315-137-7
+    situation: Ebook
+  B_207:
+    title: Contes et légendes de Bourgogne
+    language: fr
+    isbn:
+    situation: Antony
+  B_208:
+    title: Mamie Luger
+    language: fr
+    isbn: 978-2-35204-946-3
+    situation: Ebook
+  B_209:
+    title: Principes élémentaires de philosophie
+    language: fr
+    isbn: 978-2-91854-15-2
+    situation: Cork
+  B_210:
+    title: Pinocchio (theatre)
+    language: fr
+    isbn: 978-2-33-04858-7
+    situation: Antony
+  B_211:
+    title: Contes et légendes de la Camargue et des Gitans
+    language: fr
+    isbn:
+    situation: Antony
+    notes: Collection Fernand Nathan
+  B_212:
+    title: Mort
+    language: en
+    isbn: 978-1-407-03450-8
+    situation: Ebook
+  B_213:
+    title: L'opéra de la lune
+    language: fr
+    isbn: 2-07-050635-5
+    situation: Antony
+  B_214:
+    title: Le Cancre
+    language: fr
+    isbn: 2-07-039219-8
+    situation: Antony
+  B_215:
+    title: Manon Lescaut
+    language: fr
+    isbn: 978-2-0812-7904-9
+    situation: Antony
+  B_216:
+    title: Les Royaumes du Nord
+    language: fr
+    isbn: 978-2-07-050997-4
+    situation: Cork
+  B_217:
+    title: La Tour des Anges
+    language: fr
+    isbn: 978-2-07-050988-5
+    situation: Cork
+  B_218:
+    title: Le Miroir d'Ambre
+    language: fr
+    isbn: 978-2-07-054360-9
+    situation: Cork
+  B_219:
+    title: Exercices de Style
+    language: fr
+    isbn: 2-07-037363-0
+    situation: Antony
+  B_220:
+    title: Andromaque
+    language: fr
+    isbn: 978-2-01-169120-0
+    situation: Antony
+  B_221:
+    title: Souffle d'Ombre
+    language: fr
+    isbn: 978-2-266-19149-4
+    situation: Cork
+  B_222:
+    title: Dent de Sabre
+    language: fr
+    isbn: 978-2-266-19150-0
+    situation: Cork
+  B_223:
+    title: Aurore
+    language: fr
+    isbn: 978-2-266-19151-7
+    situation: Cork
+  B_224:
+    title: Premier de Cordée
+    language: fr
+    isbn: 2-277-11936-9
+    situation: Cork
+  B_225:
+    title: La Guerre du Feu
+    language: fr
+    isbn: 978-2-01-322595-3
+    situation: Antony
+  B_226:
+    title: Le Félin Géant
+    language: fr
+    isbn: 2-253-03324-3
+    situation: Antony
+  B_227:
+    title: Bonjour tristesse
+    language: fr
+    isbn: 978-2-266-19558-4
+    situation: Antony
+  B_228:
+    title: Sea of Tranquility
+    language: en
+    isbn: 9780593321454
+    situation: Ebook
+  B_229:
+    title: Le tour du Tour par 36 détours
+    language: fr
+    isbn: 2-209-06301-9
+    situation: Cork
+  B_230:
+    title: Jacquou le croquant
+    language: fr
+    isbn: 2-07-033519-4
+    situation: Antony
+  B_231:
+    title: Elantris
+    language: en
+    isbn: 978-0-575-09745-2
+    situation: Ebook
+  B_232:
+    title: Warbreaker
+    language: en
+    isbn: 978-0-575-09747-6
+    situation: Ebook
+  B_233:
+    title: Tress of the emerald sea
+    language: en
+    isbn: 978-1-938570-34-6
+    situation: Ebook
+  B_234:
+    title: Yumi and the Nightmare Painter
+    language: en
+    isbn: 978-1-938570-40-7
+    situation: Ebook
+  B_235:
+    title: The Sunlit Man
+    language: en
+    isbn: 978-1-938570-41-4
+    situation: Ebook
+  B_236:
+    title: "Mistborn: The Wax and Wayne Series"
+    language: en
+    isbn: 978-1-250-29349-7
+    situation: Ebook
+  B_237:
+    title: The Lost Metal
+    language: en
+    isbn: 978-1-473-21529-0
+    situation: Ebook
+  B_238:
+    title: The Stormlight Archive, Books 1-3
+    language: en
+    isbn: 978-1-4299-9280-0
+    situation: Ebook
+  B_239:
+    title: Dawnshard
+    language: en
+    isbn: 978-1-938570-26-1
+    situation: Ebook
+  B_240:
+    title: Rythm of War
+    language: en
+    isbn: 978-0-575-09340-9
+    situation: Ebook
+  B_241:
+    title: Contes et légendes - La naissance de Rome
+    language: fr
+    isbn: 978-2-09-253197-6
+    situation: Antony
+  B_242:
+    title: The Love Hypothesis
+    language: en
+    isbn: 978-0-59333683-0
+    situation: Ebook
+  B_243:
+    title: Quentin Durward
+    language: fr
+    isbn:
+    situation: Antony
+  B_244:
+    title: Le vieux qui lisait des romans d'amour
+    language: fr
+    isbn: 978-2-02-023930-2
+    situation: Cork
+  B_245:
+    title: Les Terroristes
+    language: fr
+    isbn: 978-2-7436-2057-8
+    situation: Cork
+  B_246:
+    title: La Coupe d'Or
+    language: fr
+    isbn: 2-07-038457-8
+    situation: Antony
+  B_247:
+    title: Of Mices and Men
+    language: en
+    isbn: 979-10-358-1029-0
+    situation: Cork
+    notes: English, but with help in French
+  B_248:
+    title: L'île au trésor
+    language: fr
+    isbn: 2-253-00368-9
+    situation: Cork
+  B_249:
+    title: Les six compagnons et la radio libre
+    language: fr
+    isbn: 2-01-209358-2
+    situation: Antony
+  B_250:
+    title: Mystère et faits divers à Rome
+    language: fr
+    isbn: 978-2-0123-0344-7
+    situation: Antony
+    notes: livre enquete/jeux
+  B_251:
+    title: Le Jeu de la Dame
+    language: fr
+    isbn: 978-2-35178-776-2
+    situation: Cork
+  B_252:
+    title: Children of Húrin
+    language: en
+    isbn: 9780007322589
+    situation: Ebook
+  B_253:
+    title: Les enfants de Húrin
+    language: fr
+    isbn: 978-2-298-01256-3
+    situation: Cork
+    notes: Nice edition
+  B_254:
+    title: The Hobbit
+    language: en
+    isbn: 978-0-007-48731-8
+    situation: Ebook
+  B_255:
+    title: The Hobbit
+    language: en
+    isbn: 978-0-261-10334-4
+    situation: Cork
+  B_256:
+    title: The Fellowship Of The Ring
+    language: en
+    isbn: 978-0-261-10235-4
+    situation: Cork
+  B_257:
+    title: The Two Towers
+    language: en
+    isbn: 978-0-261-10236-1
+    situation: Cork
+  B_258:
+    title: The Return Of The King
+    language: en
+    isbn: 978-0-261-10235-4
+    situation: Cork
+  B_259:
+    title: The Lord Of The Rings
+    language: en
+    isbn: 978-0-007-32259-6
+    situation: Ebook
+  B_260:
+    title: The Silmarillion
+    language: en
+    isbn: 9780007322565
+    situation: Ebook
+  B_261:
+    title: The Silmarillion
+    language: en
+    isbn: 978-0-261-10273-6
+    situation: Cork
+  B_262:
+    title: Unfinished Tales
+    language: en
+    isbn: 978-0-261-10362
+    situation: Cork
+  B_263:
+    title: L'armée des pauvres
+    language: fr
+    isbn: 978-2-7491-2090-4
+    situation: Cork
+  B_264:
+    title: Excalibur - Roman des chevaliers de la Table Ronde
+    language: fr
+    isbn: 2-205-02330-6
+    situation: Antony
+  B_265:
+    title: Perceval ou le conte du Graal
+    language: fr
+    isbn: 978-2-01-169735-6
+    situation: Antony
+  B_266:
+    title: Roman de la Table Ronde
+    language: fr
+    isbn: 978-2-01-169735-6
+    situation: Antony
+  B_267:
+    title: L'homme à l'envers
+    language: fr
+    isbn: 978-2-290-34923-6
+    situation: Cork
+  B_268:
+    title: Mon bel oranger
+    language: fr
+    isbn: 2-253-02333-7
+    situation: Antony
+  B_269:
+    title: Les animaux dénaturés
+    language: fr
+    isbn: 2-253-01023-5
+    situation: Antony
+  B_270:
+    title: Le tour du monde en 80 jours
+    language: fr
+    isbn: 978-2-253-01269-6
+    situation: Cork
+  B_271:
+    title: Vingt mille lieues sous les mers
+    language: fr
+    isbn: 978-2-253-00632-9
+    situation: Cork
+  B_272:
+    title: J'irai cracher sur vos tombes
+    language: fr
+    isbn:
+    situation: Antony
+  B_273:
+    title: Candide ou l'optimiste
+    language: fr
+    isbn: 978-2-290-11864-1
+    situation: Antony
+  B_274:
+    title: Papa-Longues-Jambes
+    language: fr
+    isbn: 978-2-07-061266-6
+    situation: Antony
+  B_275:
+    title: The Martian
+    language: en
+    isbn: 978-0-553-41802-6
+    situation: Prêté P_001
+  B_276:
+    title: Love, Theoretically
+    language: en
+    isbn: 9780593336878
+    situation: Ebook
+  B_277:
+    title: L'homme invisible
+    language: fr
+    isbn: 2-010-14423-6
+    situation: Antony
+  B_278:
+    title: La guerre des mondes
+    language: fr
+    isbn: 2-07-033567-4
+    situation: Cork
+  B_279:
+    title: All Systems Red
+    language: en
+    isbn: 978-0-7653-9752-2
+    situation: Ebook
+  B_280:
+    title: Artificial Condition
+    language: en
+    isbn: 978-1-250-18693-5
+    situation: Ebook
+  B_281:
+    title: Rogue Protocol
+    language: en
+    isbn: 978-1-250-18543-3
+    situation: Ebook
+  B_282:
+    title: Exit Strategy
+    language: en
+    isbn: 978-1-250-18543-3
+    situation: Ebook
+  B_283:
+    title: Network Effect
+    language: en
+    isbn: 978-1-250-22984-7
+    situation: Ebook
+  B_284:
+    title: Fugitive Telemetry
+    language: en
+    isbn: 978-1-250-76538-3
+    situation: Ebook
+  B_285:
+    title: "Home: Habitat, Range, Niche, Territory"
+    language: en
+    isbn: 978-1-250-76538-3
+    situation: Ebook
+  B_286:
+    title: Le serment des catacombes
+    language: fr
+    isbn: 2-253-03954-3
+    situation: Antony
+  B_287:
+    title: Les pilleurs de sarcophages
+    language: fr
+    isbn: 2-253-03532-7
+    situation: Antony
+  B_288:
+    title: Caïus et le gladiateur
+    language: fr
+    isbn: 978-2-01-322442-0
+    situation: Antony
+  B_289:
+    title: L'affaire Caïus
+    language: fr
+    isbn: 978-2-01-322403-1
+    situation: Antony
+  B_290:
+    title: Irish Fairy and Folk Tales
+    language: en
+    isbn: 978-1-3988-1926-9
+    situation: Cork
+  B_291:
+    title: Le joueur d'échecs
+    language: fr
+    isbn: 2-253-05784-3
+    situation: Cork
+  B_292:
+    title: Le vaisseau merveilleux et autres contes de Bretagne
+    language: fr
+    isbn: 2-01-007716-4
+    situation: Antony
+  B_293:
+    title: Les six compagnons et le carré magique
+    language: fr
+    isbn:
+    situation: Antony
+  B_294:
+    title: Le Vol du dragon
+    language: fr
+    isbn: 2-266-02879
+    situation: Antony
+  B_295:
+    title: La quête du dragon
+    language: fr
+    isbn: 2-266-02880-4
+    situation: Antony
+  B_296:
+    title: Le dragon blanc
+    language: fr
+    isbn: 2-266-02881-2
+    situation: Antony
+  B_297:
+    title: La dame aux dragons
+    language: fr
+    isbn: 2-266-03379-4
+    situation: Antony
+  B_298:
+    title: Histoire de Nerilka
+    language: fr
+    isbn: 2-266-03885-0
+    situation: Antony
+  B_299:
+    title: L'aube des dragons
+    language: fr
+    isbn: 2-266-03380-8
+    situation: Antony
+  B_300:
+    title: Les renégats de Pern
+    language: fr
+    isbn: 2-266-03886-9
+    situation: Antony
+  B_301:
+    title: L'histoire de Géronimo
+    language: fr
+    isbn: 2-253-03703-6
+    situation: Cork
+  B_302:
+    title: The complete MAUS
+    language: en
+    isbn: 978-0-141-01408-1
+    situation: Cork
+  B_303:
+    title: Kindred
+    language: en
+    isbn: 978-1-4722-5822-9
+    situation: Cork
+  B_304:
+    title: On Earth We're Briefly Gorgeous
+    language: en
+    isbn: 978-1-529-11068-5
+    situation: Cork
+  B_305:
+    title: Mythes Chinois
+    language: fr
+    isbn: 979-10-414-1108-5
+    situation: Cork
+  B_306:
+    title: Mythes Aztèques et Mayas
+    language: fr
+    isbn: 979-10-414-1105-4
+    situation: Cork
+  B_307:
+    title: Mythes Egyptiens
+    language: fr
+    isbn: 979-10-414-1104-7
+    situation: Cork
+  B_308:
+    title: Cent ans de solitude
+    language: fr
+    isbn: 978-2-7578-9327-2
+    situation: Cork
+  B_309:
+    title: Le poid du papillon
+    language: fr
+    isbn: 978-2-07-044958-3
+    situation: Cork
+  B_310:
+    title: System Collapse
+    language: en
+    isbn: 978-1-250-82698-5
+    situation: Ebook
+  B_311:
+    title: The Neverending Story
+    language: en
+    isbn: 978-0-525-55604-6
+    situation: Ebook
+  B_312:
+    title: Les aventures extraordinaires d'Arsène Lupin - Tome 3 (omnibus)
+    language: fr
+    isbn: 978-2-258-09388-1
+    situation: Cork
+  B_313:
+    title: Sherlock Holmes - The Complete Novels and Stories - Volume One
+    language: en
+    isbn: 978-1-9848-9953-8
+    situation: Cork
+  B_314:
+    title: Sherlock Holmes - The Complete Novels and Stories - Volume Two
+    language: en
+    isbn: 978-1-9848-9954-8
+    situation: Cork
+  B_315:
+    title: Arcanum Unbounded
+    language: en
+    isbn: 978-1-473-21806-2
+    situation: Ebook
+  B_316:
+    title: The Fall of Gondolin
+    language: en
+    isbn: 978-0-00-850397-0
+    situation: Cork
+  B_317:
+    title: African Myths & Legends
+    language: en
+    isbn: 978-1-83964-888-5
+    situation: Cork
+  B_318:
+    title: Indian Myths & Legends
+    language: en
+    isbn: 978-1-80417-327-5
+    situation: Cork
+  B_319:
+    title: Persian Myths & Legends
+    language: en
+    isbn: 978-1-80417-325-1
+    situation: Cork
+  B_320:
+    title: Le Petit Prince
+    language: fr
+    isbn: 978-2-07-040850-4
+    situation: Cork
+  B_321:
+    title: The Salt Path
+    language: en
+    isbn: 978-1-405-93718-4
+    situation: Cork
+  B_322:
+    title: The Antology of Irish Folk Tales
+    language: en
+    isbn: 978-0-75099-321-0
+    situation: Cork
+  B_323:
+    title: Contes d'ici et d'ailleurs
+    language: fr
+    isbn: 2-04-730354-0
+    situation: Antony
+  B_324:
+    title: Contes d'ici et d'ailleurs
+    language: fr
+    isbn: 978-2-218-93322-6
+    situation: Antony
+
+authors:
+  A_001:
+    name: Douglas Adams
+  A_002:
+    name: Hans Christian Andersen
+  A_003:
+    name: Jean-Pierre Andrevon
+  A_004:
+    name: Max Annas
+  A_005:
+    name: Jérôme Leroy
+  A_006:
+    name: Jean Anouilh
+  A_007:
+    name: Louis Aragon
+  A_008:
+    name: Jean-Philippe Arrou-Vignod
+    sorting_name: ArrouVignod
+  A_009:
+    name: Isaac Asimov
+  A_010:
+    name: Margaret Atwood
+  A_011:
+    name: Marcel Aymé
+    sorting_name: Ayme
+  A_012:
+    name: Gaston Bachelard
+  A_013:
+    name: Fredik Backman
+  A_014:
+    name: Travis Baldree
+  A_015:
+    name: Honoré de Balzac
+  A_016:
+    name: René Barjavel
+  A_017:
+    name: Dave Barry
+  A_018:
+    name: Vladimir Bartol
+  A_019:
+    name: Charles Baudelaire
+  A_020:
+    name: Hans Baumann
+  A_021:
+    name: Georges Bayard
+  A_022:
+    name: Hervé Bazin
+  A_023:
+    name: Laure Bazire
+  A_024:
+    name: Flore Talamon
+  A_025:
+    name: José Benjamin
+  A_026:
+    name: Paul-Jacques Bonzon
+  A_027:
+    name: Luce Bosquet
+  A_028:
+    name: Pierre Boule
+  A_029:
+    name: Mikhaïl Boulgakov
+  A_030:
+    name: Ray Bradbury
+  A_031:
+    name: Anthony Buckeridge
+  A_032:
+    name: Anne-Marie Cadot-Colin
+    sorting_name: CadotColin
+  A_033:
+    name: Joan Davenport Carris
+    sorting_name: DavenportCarris
+  A_034:
+    name: Lewis Carrol
+  A_035:
+    name: Jacques Cassabois
+  A_036:
+    name: Miguel de Cervantes Saavedra
+    sorting_name: Cervantes
+  A_037:
+    name: Becky Chambers
+  A_038:
+    name: Agatha Christie
+  A_039:
+    name: Liu Cixin
+  A_040:
+    name: Arthur C. Clarke
+  A_041:
+    name: Susana Clarke
+  A_042:
+    name: Linda Cline
+  A_043:
+    name: Paul Coelho
+  A_044:
+    name: Suzanne Collins
+  A_045:
+    name: Carlo Collodi
+  A_046:
+    name: Annie Collognat
+  A_047:
+    name: Page Comann
+  A_048:
+    name: Baptiste Condominas
+  A_049:
+    name: Clifford D. Conner
+  A_050:
+    name: Joseph Conrad
+  A_051:
+    name: Cressida Cowell
+  A_052:
+    name: Didier Daeninckx
+  A_053:
+    name: Alain Damasio
+  A_054:
+    name: James Dashner
+  A_055:
+    name: Stéphane Descornes
+  A_056:
+    name: Hugues Micol
+  A_057:
+    name: Michaël Steckerman
+  A_058:
+    name: Philip K. Dick
+  A_059:
+    name: Ya Ding
+  A_060:
+    name: Tony Diterlizzi
+  A_061:
+    name: Holly Black
+  A_062:
+    name: Brian Doyle
+  A_063:
+    name: Arthur Conan Doyle
+  A_064:
+    name: Maurice Druon
+  A_065:
+    name: Alexandre Dumas
+  A_066:
+    name: Jean-Luc Déjean
+    sorting_name: Dejean
+  A_067:
+    name: Amal El-Mothar
+    sorting_name: ElMothar
+  A_068:
+    name: Max Gladstone
+  A_069:
+    name: Walter Farley
+  A_070:
+    name: Marc Fernandez
+  A_071:
+    name: Ken Follett
+  A_072:
+    name: Timothée de Fombelle
+  A_073:
+    name: Paul Fournel
+  A_074:
+    name: Anne Frank
+  A_075:
+    name: Marianne Freiberger
+  A_076:
+    name: Rachel Thomas
+  A_077:
+    name: Caryl Férey
+  A_078:
+    name: José Féron
+  A_079:
+    name: Neil Gaiman
+  A_080:
+    name: Leon Garfield
+  A_081:
+    name: Nadine Garrel
+  A_082:
+    name: Théophile Gautier
+  A_083:
+    name: Jean Giono
+  A_084:
+    name: José Giovanni
+  A_085:
+    name: William Goldman
+  A_086:
+    name: Stephen Graham
+  A_087:
+    name: Miranda Jane Aldhouse-Green
+    sorting_name: AldhouseGreen
+  A_088:
+    name: Lady Augusta Gregory
+  A_089:
+    name: Christian Grenier
+  A_090:
+    name: Philippe Caron
+  A_091:
+    name: Jacob & Wilhelm Grimm
+  A_092:
+    name: Maria Gripe
+  A_093:
+    name: Alain Grousset
+  A_094:
+    name: Gudule
+  A_095:
+    name: Denis Guedj
+  A_096:
+    name: Tessa Hastjarjanto
+  A_097:
+    name: Ali Hazelwood
+  A_098:
+    name: Virgina Heath
+  A_099:
+    name: Johan Heliot
+  A_100:
+    name: Ernest Hemingway
+  A_101:
+    name: Brian Herbert
+  A_102:
+    name: Kevin J. Anderson
+  A_103:
+    name: Frank Herbert
+  A_104:
+    name: Talia Hibbert
+  A_105:
+    name: Robert Arthur, Jr
+    sorting_name: Arthur
+  A_106:
+    name: Homère
+  A_107:
+    name: Victor Hugo
+  A_108:
+    name: Marcelle Huisman
+  A_109:
+    name: Georges Huisman
+  A_110:
+    name: Aldous Huxley
+  A_111:
+    name: Catharina Ingelman-Sundberg
+    sorting_name: IngelmanSundberg
+  A_112:
+    name: Hajime Isayama
+  A_113:
+    name: Vladimir Jankélévitch
+    sorting_name: Jankelevitch
+  A_114:
+    name: Joseph Joffo
+  A_115:
+    name: Jonas Jonasson
+  A_116:
+    name: Diana Wynne Jones
+  A_117:
+    name: Thierry Jonquet
+  A_118:
+    name: Daniel Keyes
+  A_119:
+    name: S.J. Kincaid
+  A_120:
+    name: Rudyard Kipling
+  A_121:
+    name: Gérard Klein
+  A_122:
+    name: Jean-François Laguionie
+  A_123:
+    name: Philippe Lannion
+  A_124:
+    name: Michel Laporte
+  A_125:
+    name: Björn Larsson
+  A_126:
+    name: Ursula K. Le Guin
+    sorting_name: LeGuin
+  A_127:
+    name: Maurice Leblanc
+  A_128:
+    name: Harper Lee
+  A_129:
+    name: Min Jin Lee
+  A_130:
+    name: Stanislaw Lem
+  A_131:
+    name: Donna Leon
+  A_132:
+    name: Ken Liu
+  A_133:
+    name: Richard Bach
+  A_134:
+    name: Jack London
+  A_135:
+    name: Jim Lynch
+  A_136:
+    name: George R.R. Martin
+  A_137:
+    name: Guy de Maupassant
+  A_138:
+    name: Herman Melville
+  A_139:
+    name: Pierre Miquel
+  A_140:
+    name: Louis Mirman
+  A_141:
+    name: Catherine Missonnier
+  A_142:
+    name: Dam Mitrecey
+  A_143:
+    name: Thomas More
+  A_144:
+    name: Anthony Morowitz
+  A_145:
+    name: Farley Mowat
+  A_146:
+    name: Prosper Mérimée
+    sorting_name: Merimee
+  A_147:
+    name: Amélie Nothomb
+  A_148:
+    name: Robert C. O'Brien
+    sorting_name: OBrien
+  A_149:
+    name: Pierre Mac Orlan
+    sorting_name: MacOrlan
+  A_150:
+    name: Laura Orvieto
+  A_151:
+    name: George Orwell
+  A_152:
+    name: Mary Pope Osborne
+  A_153:
+    name: Alice Oseman
+  A_154:
+    name: Ovide
+  A_155:
+    name: R. I. Page
+  A_156:
+    name: Marcel Pagnol
+  A_157:
+    name: Suzanne Pairault
+  A_158:
+    name: Christopher Paolini
+  A_159:
+    name: Blaise Pascal
+  A_160:
+    name: Charles Perrault
+  A_161:
+    name: G. Perron Louis
+    sorting_name: PerronLouis
+  A_162:
+    name: Benoît Philippon
+  A_163:
+    name: Georges Politzer
+  A_164:
+    name: Joël Pommerat
+  A_165:
+    name: Jean Portail
+  A_166:
+    name: Terry Pratchett
+  A_167:
+    name: Jacques Prévert
+    sorting_name: Prevert
+  A_168:
+    name: Prévost
+    sorting_name: Prevost
+  A_169:
+    name: Philip Pullman
+  A_170:
+    name: Raymond Queneau
+  A_171:
+    name: Racine
+  A_172:
+    name: Jules Renard
+  A_173:
+    name: Rick Riordan
+  A_174:
+    name: Mark Robson
+  A_175:
+    name: Frison Roche
+  A_176:
+    name: J.H. Rosny Aîné
+    sorting_name: Rosny
+  A_177:
+    name: J. K. Rowling
+  A_178:
+    name: Françoise Sagan
+  A_179:
+    name: Emanuelle de Saint Chamas
+    sorting_name: SaintChamas
+  A_180:
+    name: Benoît de Saint Chamas
+    sorting_name: SaintChamas
+  A_181:
+    name: Antoine de Saint-Exupéry
+    sorting_name: SaintExupery
+  A_182:
+    name: Emily Saint John-Mandel
+    sorting_name: SaintJohnMandel
+  A_183:
+    name: François Salvaing
+  A_184:
+    name: Brandon Sanderson
+  A_185:
+    name: Eugène Le Roy
+    sorting_name: LeRoy
+  A_186:
+    name: François Sautereau
+  A_187:
+    name: Walter Scott
+  A_188:
+    name: Luis Sepuvelda
+  A_189:
+    name: Mary W. Shelley
+  A_190:
+    name: Georges Simenon
+  A_191:
+    name: Maj Sjöwall
+  A_192:
+    name: Per Wahlöö
+  A_193:
+    name: Art Spiegelman
+  A_194:
+    name: John Steinbeck
+  A_195:
+    name: Robert Louis Stevenson
+  A_196:
+    name: Bram Stoker
+  A_197:
+    name: Olivier Séchan
+  A_198:
+    name: Nathalie Sémenuik
+  A_199:
+    name: Dennis E. Taylor
+  A_200:
+    name: Kressmann Taylor
+  A_201:
+    name: Walter Trevis
+  A_202:
+    name: J.R.R. Tolkien
+  A_203:
+    name: Michel Tournier
+  A_204:
+    name: Bruno Traven
+  A_205:
+    name: Chrétien de Troyes
+  A_206:
+    name: Fred Uhlman
+  A_207:
+    name: Fred Vargas
+  A_208:
+    name: José Mauro de Vascondos
+  A_209:
+    name: Vercors
+    notes: pseudonyme de Jean Bruller
+  A_210:
+    name: Jules Verne
+  A_211:
+    name: Boris Vian
+  A_212:
+    name: Delphine de Vigan
+  A_213:
+    name: Voltaire
+  A_214:
+    name: Jean Webster
+  A_215:
+    name: Andy Weir
+  A_216:
+    name: H.G. Wells
+  A_217:
+    name: Martha Wells
+  A_218:
+    name: Odile Weulersse
+  A_219:
+    name: Henry Winterfield
+  A_220:
+    name: W. B. Yeats
+  A_221:
+    name: Stefan Zweig
+  A_222:
+    name: Anne McCaffrey
+  A_223:
+    name: Géronimo
+    sorting_name: geronimo
+  A_224:
+    name: S.M. Barett
+  A_225:
+    name: Octavia E. Butler
+  A_226:
+    name: Ocean Vuong
+  A_227:
+    name: Anne Birrell
+  A_228:
+    name: Karl Taube
+  A_229:
+    name: George Hart
+  A_230:
+    name: Gabriel García Márquez
+    sorting_name: Marquez
+  A_231:
+    name: Erri de Luca
+  A_232:
+    name: Daniel Pennac
+  A_233:
+    name: Pierre Pelot
+  A_234:
+    name: Michael Ende
+  A_235:
+    name: Raynor Winn
+
+series:
+  S_001:
+    name:
+      en: The Hitchhiker's Guide to the Galaxy
+      fr: Le Guide du voyageur galactique
+    abbreviation: H2G2
+    works:
+      1: W_001
+    notes: Une trilogie en 5 tomes
+  S_002:
+    name:
+      en: Foundation
+      fr: Fondation
+    works:
+      1: W_008
+      2: W_009
+      3: W_010
+      4: W_011
+      5: W_012
+    notes: first trilogy, then 4&5 are second part, there are others books linked to the series
+  S_003:
+    name:
+      fr: Les six Compagnons
+    works:
+      a: W_033
+      b: W_034
+      c: W_035
+      d: W_036
+      e: W_037
+      f: W_038
+      g: W_346
+      h: W_397
+    notes: Pas d'ordre (pas cherche en tout cas)
+  S_004:
+    name:
+      en: Monk & Robot
+      fr: Histoires de moine et de robot
+    works:
+      1: W_050
+      2: W_051
+  S_005:
+    name:
+      en: Remembrance of Earth's Past
+      fr: trilogie du Problème à trois corps
+      zh: 地球往事
+    abbreviation: TBP
+    works:
+      1: W_057
+      2: W_058
+      3: W_059
+    notes: Often called Three-Body Problem trilogy
+  S_006:
+    name:
+      en: Hunger Games
+      fr: Hunger Games
+    works:
+      1: W_064
+      2: W_065
+      3: W_066
+  S_007:
+    name:
+      en: The Chronicles of Spiderwick
+      fr: Les Chroniques de Spiderwick
+    works:
+      1: W_082
+      2: W_083
+      3: W_084
+      4: W_085
+      5: W_086
+  S_008:
+    name:
+      fr: Mémoires d'un Médecin
+    works:
+      1: W_092
+      2: W_094
+      3: W_091
+      4: W_093
+  S_009:
+    name:
+      fr: Trilogie des Mousquetaires
+      en: The d'Artagnan Romances
+    works:
+      1: W_097
+      2: W_098
+      3: W_096
+  S_010:
+    name:
+      fr: L'Étalon noir
+      en: The Black Stallion
+    works:
+      3: W_102
+      15: W_101
+  S_011:
+    name:
+      fr: Diego Martin
+    works:
+      0: W_103
+      1: W_104
+      2: W_105
+  S_012:
+    name:
+      fr: Tobie Lolness
+    works:
+      1: W_107
+      2: W_108
+  S_013:
+    name:
+      en: The Merriwell Sisters
+    works:
+      1: W_137
+      2: W_138
+      3: W_139
+  S_014:
+    name:
+      en: Dune
+      fr: Dune
+    works:
+      1: W_146
+      2: W_147
+      3: W_148
+      4: W_149
+      5: W_150
+      6: W_151
+    subseries:
+      a: S-015
+  S_015:
+    name:
+      fr: Dune, Les origines
+      en: Great Schools of Dune
+    works:
+      1: W_143
+      2: W_144
+      3: W_145
+  S_016:
+    name:
+      en: The Brown Sisters
+    works:
+      1: W_152
+      2: W_153
+      3: W_154
+  S_017:
+    name:
+      en: Earthsea
+      fr: Cycle de Terremer
+    works:
+      1: W_176
+      2: W_177
+      3: W_178
+      4: W_179
+      5: W_180
+      6: W_181
+  S_018:
+    name:
+      fr: Arsène Lupin
+      en: Arsène Lupin
+    works:
+      1: W_182
+      2: W_183
+      3: W_184
+      4: W_185
+      5: W_186
+      7: W_187
+      8: W_188
+      9: W_189
+      10: W_190
+      11: W_191
+      12: W_192
+      13: W_193
+      14: W_194
+      15: W_195
+      16: W_196
+      17: W_197
+      18: W_198
+      19: W_199
+      20: W_200
+      21: W_201
+      22: W_202
+      23: W_203
+      24: W_204
+  S_019:
+    name:
+      fr: La Dynastie des Dents-de-Lion
+      en: Dandelion Dynasty
+    works:
+      1: W_209
+      2: W_210
+      3: W_211
+      4: W_212
+  S_020:
+    name:
+      en: A Song of Ice and Fire
+      fr: Le Trône de fer
+    abbreviation: ASOIAF
+    works:
+      1: W_217
+      2: W_218
+      3: W_219
+      4: W_220
+      5: W_221
+    notes: Game of Thrones
+  S_021:
+    name:
+      en: The Inheritance Cycle
+      fr: L'Héritage
+    works:
+      1: W_262
+      2: W_263
+      3: W_264
+      4: W_265
+    notes: Murthag Sorti
+  S_022:
+    name:
+      en: His Dark Materials
+      fr: À la croisée des mondes
+    works:
+      1: W_278
+      2: W_279
+      3: W_280
+  S_023:
+    name:
+      en: Percy Jackson & The Olympians
+      fr: Percy Jackson
+    works:
+      1: W_289
+      2: W_290
+      3: W_291
+      4: W_292
+      5: W_293
+    subseries:
+      a: S_024
+  S_024:
+    name:
+      en: The Heroes of Olympus
+      fr: Héros de l'Olympe
+    works:
+      1: W_284
+      2: W_285
+      3: W_286
+      4: W_287
+      5: W_288
+  S_025:
+    name:
+      en: Dragon Orb
+      fr: L'Oeil du Dragon
+    works:
+      1: W_294
+      2: W_295
+      3: W_296
+      4: W_297
+  S_026:
+    name:
+      en: Harry Potter
+      fr: Harry Potter
+    works:
+      1: W_301
+      2: W_302
+      3: W_303
+      4: W_304
+      5: W_305
+      6: W_306
+      7: W_307
+  S_027:
+    name:
+      fr: Strom
+    works:
+      1: W_309
+      2: W_310
+      3: W_311
+    notes: others works available (6 books total)
+  S_028:
+    name:
+      en: Cosmere
+      fr: Cosmère
+    works:
+      a: W_317
+      b: W_318
+      c: W_319
+      d: W_320
+      e: W_321
+      f: W_426
+    subseries:
+      a: S_029
+      b: S_032
+  S_029:
+    name:
+      en: Mistborn
+      fr: Fils-des-brumes
+    subseries:
+      1: S_030
+      2: S_031
+  S_030:
+    name:
+      en: Mistborn - Era 1
+      fr: Série Fils-des-brumes originale
+    works:
+      1: W_322
+      2: W_323
+      3: W_324
+  S_031:
+    name:
+      en: Mistborn - Era 2 / Wax and Wayne
+      fr: Série Wax et Wayne
+    works:
+      1: W_325
+      2: W_326
+      3: W_327
+      4: W_328
+  S_032:
+    name:
+      en: The Stormlight Archive
+      fr: Les Archives de Roshar
+    works:
+      1: W_329
+      2: W_330
+      3: W_331
+      3.5: W_332
+      4: W_333
+  S_033:
+    name:
+      fr: Nous sommes Bob
+      en: Bobiverse
+    works:
+      1: W_348
+      2: W_349
+      3: W_350
+  S_034:
+    name:
+      en: The Murderbot Diaries
+      fr: Journal d'un AssaSynth
+    works:
+      1: W_381
+      2: W_382
+      3: W_383
+      4: W_384
+      4.5: W_387
+      5: W_385
+      6: W_386
+      7: W_415
+  S_035:
+    name:
+      en: Dragonriders of Pern
+      fr: La Ballade de Pern
+    works:
+      1: W_398
+      2: W_399
+      5: W_400
+      7: W_401
+      8: W_402
+      9: W_403
+    notes: order of publication (main novels) (might not be fully correct)
+

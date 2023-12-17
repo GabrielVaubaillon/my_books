@@ -1,0 +1,898 @@
+<table>
+	<thead>
+		<tr>
+			<th colspan=2>Titre</th>
+			<th>Auteur·rice</th>
+			<th>Langue</th>
+			<th>Lu</th>
+			<th>Situation</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan=2>Enquête au collège</td>
+			<td>Jean-Philippe Arrou-Vignod</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les contes bleus du chat perché</td>
+			<td>Marcel Aymé</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les contes rouges du chat perché</td>
+			<td>Marcel Aymé</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La formation de l'esprit scientifique</td>
+			<td>Gaston Bachelard</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Jonathan Livingston le goéland</td>
+			<td>Richard Bach</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Michel et les routiers</td>
+			<td>Georges Bayard</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Vipère au poing</td>
+			<td>Hervé Bazin</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La plume de l'ange</td>
+			<td>Laure Bazire / Flore Talamon</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le singe de Buffon</td>
+			<td>Laure Bazire / Flore Talamon</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La concierge est dans le cercueil</td>
+			<td>José Benjamin</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les six compagnons dans la ville rose</td>
+			<td>Paul-Jacques Bonzon</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les six compagnons et l'émetteur pirate</td>
+			<td>Paul-Jacques Bonzon</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les six compagnons et la disparue de Montélimar</td>
+			<td>Paul-Jacques Bonzon</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les six compagnons et la perruque rouge</td>
+			<td>Paul-Jacques Bonzon</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les six compagnons et la pile atomique</td>
+			<td>Paul-Jacques Bonzon</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les six compagnons à la tour Eiffel</td>
+			<td>Paul-Jacques Bonzon</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes et légendes du Dauphiné</td>
+			<td>Luce Bosquet</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Bennett et sa cabane</td>
+			<td>Anthony Buckeridge</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le récit de Gilgamesh</td>
+			<td>Jacques Cassabois</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td>Don Quichotte (abrégé)</td>
+			<td>L’Ingénieux Hidalgo Don Quichotte de la Manche</td>
+			<td>Miguel de Cervantes Saavedra</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les prisoniers du marais</td>
+			<td>Linda Cline</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td>Pinocchio</td>
+			<td>Les aventures de Pinocchio</td>
+			<td>Carlo Collodi</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>25 Métamorphoses d'Ovide</td>
+			<td>Annie Collognat</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes des indiens du Chiapas</td>
+			<td>Baptiste Condominas</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Au coeur des ténèbre</td>
+			<td>Joseph Conrad</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Comment dresser votre dragon</td>
+			<td>Cressida Cowell</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Labyrinthe - L'Épreuve</td>
+			<td>James Dashner</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony/Vente</td>
+		</tr>
+		<tr>
+			<td colspan=2>La révolte de 10x</td>
+			<td>Joan Davenport Carris</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les Lions de César</td>
+			<td>Jean-Luc Déjean</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes et récits - Pirates, Corsaires et Flibustiers</td>
+			<td>Stéphane Descornes / Hugues Micol</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes et récits de Paris</td>
+			<td>Stéphane Descornes / Michaël Steckerman</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le Sorgho Rouge</td>
+			<td>Ya Ding</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les pollueurs font tache d'huile</td>
+			<td>Brian Doyle</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Tistou les pouces verts</td>
+			<td>Maurice Druon</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Flamme et l'Etalon Noir</td>
+			<td>Walter Farley</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le Fils de l'Etalon Noir</td>
+			<td>Walter Farley</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La Bête du Gévaudan</td>
+			<td>José Féron</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Smith</td>
+			<td>Leon Garfield</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Au Pays du Grand Condor</td>
+			<td>Nadine Garrel</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le Pied de la Momie</td>
+			<td>Théophile Gautier</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le Hussard sur le Toit</td>
+			<td>Jean Giono</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes et Légendes - Les Douze Travaux d'Hercule</td>
+			<td>Christian Grenier / Philippe Caron</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La Machination</td>
+			<td>Christian Grenier</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le Château des Enfants Volés</td>
+			<td>Maria Gripe</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La Bibliothécaire</td>
+			<td>Gudule</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Ciel - L'Hiver des Machines</td>
+			<td>Johan Heliot</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony/Vente</td>
+		</tr>
+		<tr>
+			<td colspan=2>L'Odyssée</td>
+			<td>Homère</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes et Légendes du Moyen-Age</td>
+			<td>Marcelle Huisman / Georges Huisman</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le Meilleur des Mondes</td>
+			<td>Aldous Huxley</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>L'Aventure, l'Ennui, le Sérieux - Chapitre 1</td>
+			<td>Vladimir Jankélévitch</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le Phoque Blanc</td>
+			<td>Rudyard Kipling</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>L'Île de Black Mor</td>
+			<td>Jean-François Laguionie</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes et Légendes de Champagne</td>
+			<td>Philippe Lannion</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>12 Récits de l'Énéide</td>
+			<td>Michel Laporte</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Long John Silver</td>
+			<td>Björn Larsson</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Jacquou le croquant</td>
+			<td>Eugène Le Roy</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les clients du Bon Chien Jaune</td>
+			<td>Pierre Mac Orlan</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes du Jour et de la Nuit</td>
+			<td>Guy de Maupassant</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Histoire de Nerilka</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>L'aube des dragons</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La dame aux dragons</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La quête du dragon</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le Vol du dragon</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le dragon blanc</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les renégats de Pern</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le Piège Gaulois</td>
+			<td>Pierre Miquel</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Youg</td>
+			<td>Louis Mirman</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>On ne badine pas avec les tueurs</td>
+			<td>Catherine Missonnier</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le vieil homme de la forêt</td>
+			<td>Dam Mitrecey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony/Vente</td>
+		</tr>
+		<tr>
+			<td colspan=2>L'Utopie</td>
+			<td>Thomas More</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Z comme Zacharie</td>
+			<td>Robert C. O'Brien</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes et légendes de la naissance de Rome</td>
+			<td>Laura Orvieto</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La Cabane Magique - Rencontres en haut de la tour Eiffel</td>
+			<td>Mary Pope Osborne</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Persée et autres métamorphoses</td>
+			<td>Ovide</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Angèle</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Confidences</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>César</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Fanny</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Jazz</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Jean de Florette</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La femme du boulanger</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La fille du puisatier</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La gloire de mon père</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le château de ma mère</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le schpountz</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le temps des secrets</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Manon des sources</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Marius</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Merlusse Cigalon</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Topaze</td>
+			<td>Marcel Pagnol</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Robin des bois</td>
+			<td>Suzanne Pairault</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>De l'Esprit Géométrique</td>
+			<td>Blaise Pascal</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Pensée sur la justice - Trois Discours sur la condition des grands</td>
+			<td>Blaise Pascal</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes et légendes de Bourgogne</td>
+			<td>G. Perron Louis</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Pinocchio (theatre)</td>
+			<td>Joël Pommerat</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes et légendes de la Camargue et des Gitans</td>
+			<td>Jean Portail</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>L'opéra de la lune</td>
+			<td>Jacques Prévert</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le Cancre</td>
+			<td>Jacques Prévert</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Manon Lescaut</td>
+			<td>Prévost</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Exercices de Style</td>
+			<td>Raymond Queneau</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Andromaque</td>
+			<td>Racine</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La Guerre du Feu</td>
+			<td>J.H. Rosny Aîné</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le Félin Géant</td>
+			<td>J.H. Rosny Aîné</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Bonjour tristesse</td>
+			<td>Françoise Sagan</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes et légendes - La naissance de Rome</td>
+			<td>François Sautereau</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Quentin Durward</td>
+			<td>Walter Scott</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>La Coupe d'Or</td>
+			<td>John Steinbeck</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les six compagnons et la radio libre</td>
+			<td>Olivier Séchan</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mystère et faits divers à Rome</td>
+			<td>Nathalie Sémenuik</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td>Excalibur - Roman des chevaliers de la Table Ronde</td>
+			<td>Roman de la Table Ronde</td>
+			<td>Chrétien de Troyes</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Perceval ou le conte du Graal</td>
+			<td>Chrétien de Troyes</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Roman de la Table Ronde</td>
+			<td>Chrétien de Troyes</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mon bel oranger</td>
+			<td>José Mauro de Vascondos</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les animaux dénaturés</td>
+			<td>Vercors</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>J'irai cracher sur vos tombes</td>
+			<td>Boris Vian</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Candide ou l'optimiste</td>
+			<td>Voltaire</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Papa-Longues-Jambes</td>
+			<td>Jean Webster</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>L'homme invisible</td>
+			<td>H.G. Wells</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le serment des catacombes</td>
+			<td>Odile Weulersse</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les pilleurs de sarcophages</td>
+			<td>Odile Weulersse</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Caïus et le gladiateur</td>
+			<td>Henry Winterfield</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>L'affaire Caïus</td>
+			<td>Henry Winterfield</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes d'ici et d'ailleurs</td>
+			<td></td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes d'ici et d'ailleurs</td>
+			<td></td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le vaisseau merveilleux et autres contes de Bretagne</td>
+			<td></td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les six compagnons et le carré magique</td>
+			<td></td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+	</tbody>
+</table>

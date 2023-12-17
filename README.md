@@ -1,102 +1,39 @@
-# Mon Suivi de Bibliothèque en Ligne :)
-
-## Liens Rapides
-
-[**Clique ici pour tous les livres**](possedes_ou_lus.md) (lus ou dans ma collection perso)
-
-[**Clique ici pour ma collection**](Sous_listes/possedes.md) (que ma collection, pas les livres lus qui ne sont pas à moi)
-
-[**Clique ici pour la liste de mes livres numériques**](Sous_listes/ebook.md)
-
-[**Clique ici pour les livres terminés seulement**](Sous_listes/lus.md) (que les livres lus)
-
-[**Clique ici pour toutes les sous-listes**](Sous_listes/README.md) (livres séparés par caractéristiques)
-
-## Description
-
-### C'est quoi ici?
-
-Ici c'est un endroit où je peux suivre ma collection de livre. L'avantage c'est que j'ai un accès en ligne en
-permanence, et que je peux partager mes listes avec tout le monde.
-
-### Comment je cherche un livre/auteur en particulier?
-
-Toute les listes sont triées par nom d'auteurs, ordre alphabétique.
-
-La liste totale de tout les livres c'est la liste possedes_ou_lus [(clique ici)](possedes_ou_lus.md). Ensuite, le plus
-rapide c'est d'utiliser la recherche dans la page (CTRL+F) pour chercher un titre ou un auteur.
-
-**Attention!!** Si j'ai le livre en version anglaise, le titre sera sûrement en anglais!
-Il est souvent plus simple de chercher par auteur d'abord.
-
-Si tu as plus d'info sur le livre que tu cherche, tu peux essayer de le trouver dans les listes réduites, elles sont
-situées dans le dossier [Sous_listes](Sous_listes/README.md).
-
-### Quels critères pour qu'un livre soit ici?
-
-- Fiction (tu trouvera pas *Fundamentals of Software Architecture* par Mark Richards et Neal Ford ici)
-- Possédé (à moi, je l'ai)
-- Lu après 2018 (beaucoup de ceux que j'ai lu avant sont là aussi, mais pas du tout exhaustif)
-- Important. La c'est hyper subjectif: je met les livres dont je veux me souvenir. Beaucoup de BD que j'ai lu ne
-sont pas présentes par exemple, certains tout petits livres non plus.
-
-### Pourquoi?
-
-L'idée c'est juste de suivre ma collection. Ensuite de se souvenir de ce que j'ai lu ou pas. Ça peut servir à éviter de
-racheter involontairement un livre que j'ai déjà (ça m'empeche pas de le faire volontairement, cf. J.R.R. Tolkien).
-
-C'est aussi juste une façon d'accumuler les données, si je veux en faire autre chose plus tard, j'ai déjà le matériaux
-de base. (exemples: enregistrer la liste, puis la donner à un site pour avoir des recommandations)
-
-Je peux aussi, quand je cherche un livre à lire, regarder la liste des bouquins que j'ai, mais que j'ai pas encore lu.
-
-Je voulais aussi un moyen de me "balader" dans ma collection facilement, alors que j'ai plusieurs endroits où elle est
-répartie.
-
-<!-- Everything after this line is auto-generated -->
-## Stats
-
-### Ma collection
-
-- 317 livres possédés (82.34% du total)
-- 226 livres lus (71.29%)
-- et 91 non lus (28.71%)
-- 230 livres en français (72.56%)
-- 87 livres en anglais (27.44%)
-- 183 auteurs différents
-- 1 livres prêté(s)
-- Ebook
-    - 68 livres (21.45% de la collection)
-    - 59 livres lus (86.76%)
-    - 11 livres en français (16.18%)
-    - 57 livres en anglais (83.82%)
-- Antony
-    - 227 livres (71.61% de la collection)
-    - 159 livres lus (70.04%)
-    - 205 livres en français (90.31%)
-    - 22 livres en anglais (9.69%)
-- Paris
-    - 8 livres (2.52% de la collection)
-    - 1 livres lus (12.5%)
-    - 8 livres en français (100.0%)
-    - 0 livres en anglais (0.0%)
-- Cork
-    - 13 livres (4.1% de la collection)
-    - 6 livres lus (46.15%)
-    - 6 livres en français (46.15%)
-    - 7 livres en anglais (53.85%)
-
-### Mes Lus
-
-- 294 livres lus (76.36% du total)
-- 218 (74.15%) lus en français
-- 76 (25.85%) lus en anglais
-- 172 auteurs différents
-
-### Total
-
-- 385 livres
-- 293 (76.1%) en Français
-- 92 (23.9%) en Anglais
-- 214 auteurs différents
-- 68 (17.66%) hors collection, mais lus
+# Mes livres - lus et possédés
+## Liens rapides
+[Tous](List/all.md)
+[Livres lus](List/read.md)
+[Livres possédés](List/owned.md)
+[Livres numériques](List/ebook_owned.md)
+## Statistiques
+### Collection [(323 livres / 363 oeuvres)](List/owned.md)
+- [239 (65.84%) oeuvres lues](List/owned_read.md)
+- [124 (34.16%) oeuvres à lire](List/owned_not_read.md)
+- [235 (72.76%) livres en Français](List/owned_french.md)
+- [88 (27.24%) livres en Français](List/owned_english.md)
+- [202 auteurs differents](List/authors_owned.md)
+- [Antony: 126 (39.01%) livres, 125 (34.44%) oeuvres](List/antony_owned.md)
+   - [96 (76.8%) oeuvres lues](List/antony_read.md)
+   - [29 (23.2%) oeuvres à lire](List/antony_not_read.md)
+   - [126 (100.0%) livres en Français](List/antony_owned_french.md)
+   - [0 (0.0%) livres en Anglais](List/antony_owned_english.md)
+- [Cork: 127 (39.32%) livres, 146 (40.22%) oeuvres](List/cork_owned.md)
+   - [78 (53.42%) oeuvres lues](List/cork_read.md)
+   - [68 (46.58%) oeuvres à lire](List/cork_not_read.md)
+   - [90 (70.87%) livres en Français](List/cork_owned_french.md)
+   - [37 (29.13%) livres en Anglais](List/cork_owned_english.md)
+- [Ebook: 61 (18.89%) livres, 102 (28.1%) oeuvres](List/ebook_owned.md)
+   - [72 (70.59%) oeuvres lues](List/ebook_read.md)
+   - [30 (29.41%) oeuvres à lire](List/ebook_not_read.md)
+   - [11 (18.03%) livres en Français](List/ebook_owned_french.md)
+   - [50 (81.97%) livres en Anglais](List/ebook_owned_english.md)
+- [Paris: 8 (2.48%) livres, 8 (2.2%) oeuvres](List/paris_owned.md)
+   - [1 (12.5%) oeuvres lues](List/paris_read.md)
+   - [7 (87.5%) oeuvres à lire](List/paris_not_read.md)
+   - [8 (100.0%) livres en Français](List/paris_owned_french.md)
+   - [0 (0.0%) livres en Anglais](List/paris_owned_english.md)
+### Lus [(310 oeuvres)](List/read.md)
+- [239 (77.1%) oeuvres lues parmis ma collection actuelle](List/owned_read.md)
+- [71 (22.9%) oeuvres lues hors ma collection actuelle](List/read_not_owned.md)
+- [183 auteurs differents](List/authors_read.md)
+### Autres
+- [Toutes les oeuvres](List/all.md)
