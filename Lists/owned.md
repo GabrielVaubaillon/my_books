@@ -138,15 +138,15 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>La formation de l'esprit scientifique</td>
-			<td>Gaston Bachelard</td>
+			<td colspan=2>Jonathan Livingston le goéland</td>
+			<td>Richard Bach</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Jonathan Livingston le goéland</td>
-			<td>Richard Bach</td>
+			<td colspan=2>La formation de l'esprit scientifique</td>
+			<td>Gaston Bachelard</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
@@ -1029,14 +1029,14 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Dune Messiah</td>
+			<td colspan=2>Dune</td>
 			<td>Frank Herbert</td>
 			<td>en</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Dune</td>
+			<td colspan=2>Dune Messiah</td>
 			<td>Frank Herbert</td>
 			<td>en</td>
 			<td>Lu</td>

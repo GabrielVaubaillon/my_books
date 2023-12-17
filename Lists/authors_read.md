@@ -8,6 +8,16 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>Brandon Sanderson</td>
+			<td>19</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>Rick Riordan</td>
+			<td>10</td>
+			<td>0</td>
+		</tr>
+		<tr>
 			<td>Martha Wells</td>
 			<td>8</td>
 			<td>8</td>
@@ -103,12 +113,12 @@
 			<td>0</td>
 		</tr>
 		<tr>
-			<td>Benoît de Saint Chamas</td>
+			<td>Emanuelle de Saint Chamas</td>
 			<td>3</td>
 			<td>0</td>
 		</tr>
 		<tr>
-			<td>Emanuelle de Saint Chamas</td>
+			<td>Benoît de Saint Chamas</td>
 			<td>3</td>
 			<td>0</td>
 		</tr>
@@ -798,12 +808,12 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Susana Clarke</td>
+			<td>Arthur C. Clarke</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Arthur C. Clarke</td>
+			<td>Susana Clarke</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -911,16 +921,6 @@
 			<td>Douglas Adams</td>
 			<td>1</td>
 			<td>1</td>
-		</tr>
-		<tr>
-			<td>Brandon Sanderson</td>
-			<td>19</td>
-			<td>15</td>
-		</tr>
-		<tr>
-			<td>Rick Riordan</td>
-			<td>10</td>
-			<td>0</td>
 		</tr>
 	</tbody>
 </table>

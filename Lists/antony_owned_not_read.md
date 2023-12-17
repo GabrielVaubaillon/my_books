@@ -10,15 +10,15 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td colspan=2>La formation de l'esprit scientifique</td>
-			<td>Gaston Bachelard</td>
+			<td colspan=2>Jonathan Livingston le goéland</td>
+			<td>Richard Bach</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Jonathan Livingston le goéland</td>
-			<td>Richard Bach</td>
+			<td colspan=2>La formation de l'esprit scientifique</td>
+			<td>Gaston Bachelard</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>

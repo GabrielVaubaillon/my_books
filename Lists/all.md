@@ -129,14 +129,14 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
-			<td>La formation de l'esprit scientifique</td>
-			<td>Gaston Bachelard</td>
+			<td>Jonathan Livingston le goéland</td>
+			<td>Richard Bach</td>
 			<td>Pas Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
-			<td>Jonathan Livingston le goéland</td>
-			<td>Richard Bach</td>
+			<td>La formation de l'esprit scientifique</td>
+			<td>Gaston Bachelard</td>
 			<td>Pas Lu</td>
 			<td>Possédé</td>
 		</tr>

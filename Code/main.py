@@ -23,13 +23,13 @@ def sorted_authors_list(authors_id, lib, w_owned, w_read, key="name"):
     def sort_name(a_id, lib):
         name = lib["authors"][a_id]["sorting_name"].lower()
         fullname = lib["authors"][a_id]["name"].lower()
-        return name + fullname
+        return (name, fullname)
     def sort_owned(a_id, lib, w_owned):
         name = lib["authors"][a_id]["sorting_name"].lower()
-        return f"{len(set(lib['authors'][a_id]['works']) & w_owned)}_{name}"
+        return (len(set(lib['authors'][a_id]['works']) & w_owned), name)
     def sort_read(a_id, lib, w_read):
         name = lib["authors"][a_id]["sorting_name"].lower()
-        return f"{len(set(lib['authors'][a_id]['works']) & w_read)}_{name}"
+        return (len(set(lib['authors'][a_id]['works']) & w_read), name)
     if key == "name":
         ids.sort(key=lambda x: sort_name(x, lib))
     elif key == "owned":
@@ -53,7 +53,7 @@ def sorted_book_list(book_ids, lib):
             fullname = lib["authors"][authors[0]]["name"].lower()
         title = lib["books"][b_id]["title"]
         situation = lib["books"][b_id]["situation"]
-        return author + fullname + title + situation
+        return (author, fullname, title, situation)
 
     ids.sort(key=lambda x: sorting_key(x, lib))
     return ids
@@ -73,7 +73,7 @@ def sorted_works_list(work_ids, lib):
             title = lib["works"][w_id]["titles"]["fr"]
         else:
             title = lib["works"][w_id]["titles"]["en"]
-        return author + fullname + title
+        return (author, fullname, title)
 
     ids.sort(key=lambda x: sorting_key(x, lib))
     return ids

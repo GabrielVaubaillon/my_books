@@ -8,6 +8,26 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>Maurice Leblanc</td>
+			<td>1</td>
+			<td>23</td>
+		</tr>
+		<tr>
+			<td>Marcel Pagnol</td>
+			<td>0</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>Brandon Sanderson</td>
+			<td>19</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>Arthur Conan Doyle</td>
+			<td>4</td>
+			<td>11</td>
+		</tr>
+		<tr>
 			<td>Martha Wells</td>
 			<td>8</td>
 			<td>8</td>
@@ -221,11 +241,6 @@
 			<td>Marcel Aymé</td>
 			<td>3</td>
 			<td>2</td>
-		</tr>
-		<tr>
-			<td>Maurice Leblanc</td>
-			<td>1</td>
-			<td>23</td>
 		</tr>
 		<tr>
 			<td>Stefan Zweig</td>
@@ -538,13 +553,13 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Min Jin Lee</td>
-			<td>1</td>
+			<td>Harper Lee</td>
+			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Harper Lee</td>
-			<td>0</td>
+			<td>Min Jin Lee</td>
+			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>
@@ -848,12 +863,12 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Susana Clarke</td>
+			<td>Arthur C. Clarke</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Arthur C. Clarke</td>
+			<td>Susana Clarke</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -1001,21 +1016,6 @@
 			<td>Douglas Adams</td>
 			<td>1</td>
 			<td>1</td>
-		</tr>
-		<tr>
-			<td>Marcel Pagnol</td>
-			<td>0</td>
-			<td>16</td>
-		</tr>
-		<tr>
-			<td>Brandon Sanderson</td>
-			<td>19</td>
-			<td>15</td>
-		</tr>
-		<tr>
-			<td>Arthur Conan Doyle</td>
-			<td>4</td>
-			<td>11</td>
 		</tr>
 	</tbody>
 </table>

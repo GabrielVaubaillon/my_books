@@ -73,12 +73,12 @@
 			<td>2</td>
 		</tr>
 		<tr>
-			<td>Gaston Bachelard</td>
+			<td>Richard Bach</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Richard Bach</td>
+			<td>Gaston Bachelard</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
