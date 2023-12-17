@@ -553,13 +553,13 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Harper Lee</td>
-			<td>0</td>
+			<td>Min Jin Lee</td>
+			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Min Jin Lee</td>
-			<td>1</td>
+			<td>Harper Lee</td>
+			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>
@@ -633,12 +633,12 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Georges Huisman</td>
+			<td>Marcelle Huisman</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Marcelle Huisman</td>
+			<td>Georges Huisman</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -863,12 +863,12 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Arthur C. Clarke</td>
+			<td>Susana Clarke</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Susana Clarke</td>
+			<td>Arthur C. Clarke</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>

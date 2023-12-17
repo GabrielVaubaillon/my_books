@@ -26,10 +26,12 @@ def sorted_authors_list(authors_id, lib, w_owned, w_read, key="name"):
         return (name, fullname)
     def sort_owned(a_id, lib, w_owned):
         name = lib["authors"][a_id]["sorting_name"].lower()
-        return (len(set(lib['authors'][a_id]['works']) & w_owned), name)
+        fullname = lib["authors"][a_id]["name"].lower()
+        return (len(set(lib['authors'][a_id]['works']) & w_owned), name, fullname)
     def sort_read(a_id, lib, w_read):
         name = lib["authors"][a_id]["sorting_name"].lower()
-        return (len(set(lib['authors'][a_id]['works']) & w_read), name)
+        fullname = lib["authors"][a_id]["name"].lower()
+        return (len(set(lib['authors'][a_id]['works']) & w_read), name, fullname)
     if key == "name":
         ids.sort(key=lambda x: sort_name(x, lib))
     elif key == "owned":
@@ -507,8 +509,8 @@ def main():
         b_s_owned = b_by_situation[situation]
         readme += [
             f"- [{situation}: {percent(b_s_owned, b_owned)} livres, {percent(w_s_owned, w_owned)} oeuvres](Lists/{s_prefix}_owned.md)",
-            f"   - [{percent(situations_subsets[situation]['w_owned_read'], w_s_owned)} oeuvres lues](Lists/{s_prefix}_read.md)",
-            f"   - [{percent(situations_subsets[situation]['w_owned_not_read'], w_s_owned)} oeuvres à lire](Lists/{s_prefix}_not_read.md)",
+            f"   - [{percent(situations_subsets[situation]['w_owned_read'], w_s_owned)} oeuvres lues](Lists/{s_prefix}_owned_read.md)",
+            f"   - [{percent(situations_subsets[situation]['w_owned_not_read'], w_s_owned)} oeuvres à lire](Lists/{s_prefix}_owned_not_read.md)",
             f"   - [{percent(situations_subsets[situation]['owned_french'], b_s_owned)} livres en Français](Lists/{s_prefix}_owned_french.md)",
             f"   - [{percent(situations_subsets[situation]['owned_english'], b_s_owned)} livres en Anglais](Lists/{s_prefix}_owned_english.md)",
         ]
