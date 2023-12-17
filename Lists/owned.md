@@ -701,14 +701,14 @@
 			<td>Amal El-Mothar / Max Gladstone</td>
 			<td>en</td>
 			<td>Lu</td>
-			<td>Ebook</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>This Is How You Lose the Time War</td>
 			<td>Amal El-Mothar / Max Gladstone</td>
 			<td>en</td>
 			<td>Lu</td>
-			<td>Cork</td>
+			<td>Ebook</td>
 		</tr>
 		<tr>
 			<td colspan=2>The Neverending Story</td>
@@ -1029,14 +1029,14 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Dune</td>
+			<td colspan=2>Dune Messiah</td>
 			<td>Frank Herbert</td>
 			<td>en</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Dune Messiah</td>
+			<td colspan=2>Dune</td>
 			<td>Frank Herbert</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -2219,14 +2219,14 @@
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>
-			<td>Ebook</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>The Silmarillion</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>
-			<td>Cork</td>
+			<td>Ebook</td>
 		</tr>
 		<tr>
 			<td colspan=2>The Two Towers</td>

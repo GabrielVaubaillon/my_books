@@ -25,9 +25,11 @@ def sorted_authors_list(authors_id, lib, w_owned, w_read, key="name"):
         fullname = lib["authors"][a_id]["name"].lower()
         return name + fullname
     def sort_owned(a_id, lib, w_owned):
-        return len(set(lib["authors"][a_id]["works"]) & w_owned)
+        name = lib["authors"][a_id]["sorting_name"].lower()
+        return f"{len(set(lib['authors'][a_id]['works']) & w_owned)}_{name}"
     def sort_read(a_id, lib, w_read):
-        return len(set(lib["authors"][a_id]["works"]) & w_read)
+        name = lib["authors"][a_id]["sorting_name"].lower()
+        return f"{len(set(lib['authors'][a_id]['works']) & w_read)}_{name}"
     if key == "name":
         ids.sort(key=lambda x: sort_name(x, lib))
     elif key == "owned":
@@ -50,7 +52,8 @@ def sorted_book_list(book_ids, lib):
             author = lib["authors"][authors[0]]["sorting_name"].lower()
             fullname = lib["authors"][authors[0]]["name"].lower()
         title = lib["books"][b_id]["title"]
-        return author + fullname + title
+        situation = lib["books"][b_id]["situation"]
+        return author + fullname + title + situation
 
     ids.sort(key=lambda x: sorting_key(x, lib))
     return ids
@@ -479,18 +482,21 @@ def main():
         "# Mes livres - lus et possédés",
         # "[Click here for English](README_EN.md), # TODO
         "## Liens rapides",
-        "[Tous](List/all.md)",
-        "[Livres lus](List/read.md)",
-        "[Livres possédés](List/owned.md)",
-        "[Livres numériques](List/ebook_owned.md)",
+        "[Tous](Lists/all.md)",
+        "",
+        "[Livres lus](Lists/read.md)",
+        "",
+        "[Livres possédés](Lists/owned.md)",
+        "",
+        "[Livres numériques](Lists/ebook_owned.md)",
         "## Statistiques",
         # TODO: faq livres vs oeuvres
-        f"### Collection [({len(b_owned)} livres / {len(w_owned)} oeuvres)](List/owned.md)",
-        f"- [{percent(w_owned_read, w_owned)} oeuvres lues](List/owned_read.md)",
-        f"- [{percent(w_owned_not_read, w_owned)} oeuvres à lire](List/owned_not_read.md)",
-        f"- [{percent(b_owned_french, b_owned)} livres en Français](List/owned_french.md)",
-        f"- [{percent(b_owned_english, b_owned)} livres en Français](List/owned_english.md)",
-        f"- [{len(a_owned)} auteurs differents](List/authors_owned.md)"
+        f"### Collection [({len(b_owned)} livres / {len(w_owned)} oeuvres)](Lists/owned.md)",
+        f"- [{percent(w_owned_read, w_owned)} oeuvres lues](Lists/owned_read.md)",
+        f"- [{percent(w_owned_not_read, w_owned)} oeuvres à lire](Lists/owned_not_read.md)",
+        f"- [{percent(b_owned_french, b_owned)} livres en Français](Lists/owned_french.md)",
+        f"- [{percent(b_owned_english, b_owned)} livres en Français](Lists/owned_english.md)",
+        f"- [{len(a_owned)} auteurs differents](Lists/authors_owned.md)"
         # TODO: lended/borrowed books
     ]
     list_situations = list(situations)
@@ -500,19 +506,19 @@ def main():
         w_s_owned = w_by_situation[situation]
         b_s_owned = b_by_situation[situation]
         readme += [
-            f"- [{situation}: {percent(b_s_owned, b_owned)} livres, {percent(w_s_owned, w_owned)} oeuvres](List/{s_prefix}_owned.md)",
-            f"   - [{percent(situations_subsets[situation]['w_owned_read'], w_s_owned)} oeuvres lues](List/{s_prefix}_read.md)",
-            f"   - [{percent(situations_subsets[situation]['w_owned_not_read'], w_s_owned)} oeuvres à lire](List/{s_prefix}_not_read.md)",
-            f"   - [{percent(situations_subsets[situation]['owned_french'], b_s_owned)} livres en Français](List/{s_prefix}_owned_french.md)",
-            f"   - [{percent(situations_subsets[situation]['owned_english'], b_s_owned)} livres en Anglais](List/{s_prefix}_owned_english.md)",
+            f"- [{situation}: {percent(b_s_owned, b_owned)} livres, {percent(w_s_owned, w_owned)} oeuvres](Lists/{s_prefix}_owned.md)",
+            f"   - [{percent(situations_subsets[situation]['w_owned_read'], w_s_owned)} oeuvres lues](Lists/{s_prefix}_read.md)",
+            f"   - [{percent(situations_subsets[situation]['w_owned_not_read'], w_s_owned)} oeuvres à lire](Lists/{s_prefix}_not_read.md)",
+            f"   - [{percent(situations_subsets[situation]['owned_french'], b_s_owned)} livres en Français](Lists/{s_prefix}_owned_french.md)",
+            f"   - [{percent(situations_subsets[situation]['owned_english'], b_s_owned)} livres en Anglais](Lists/{s_prefix}_owned_english.md)",
         ]
     readme += [
-        f"### Lus [({len(w_read)} oeuvres)](List/read.md)",
-        f"- [{percent(w_owned_read, w_read)} oeuvres lues parmis ma collection actuelle](List/owned_read.md)",
-        f"- [{percent(w_read_not_owned, w_read)} oeuvres lues hors ma collection actuelle](List/read_not_owned.md)",
-        f"- [{len(a_read)} auteurs differents](List/authors_read.md)",
+        f"### Lus [({len(w_read)} oeuvres)](Lists/read.md)",
+        f"- [{percent(w_owned_read, w_read)} oeuvres lues parmis ma collection actuelle](Lists/owned_read.md)",
+        f"- [{percent(w_read_not_owned, w_read)} oeuvres lues hors ma collection actuelle](Lists/read_not_owned.md)",
+        f"- [{len(a_read)} auteurs differents](Lists/authors_read.md)",
         f"### Autres",
-        f"- [Toutes les oeuvres](List/all.md)",
+        f"- [Toutes les oeuvres](Lists/all.md)",
         #f"- x séries",
         #f"- langues originales des oeuvres:",
     ]
