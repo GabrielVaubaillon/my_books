@@ -553,8 +553,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td>The Antology of Irish Folk Tales</td>
-			<td>The Anthology of Irish Folk Tales</td>
+			<td colspan=2>The Anthology of Irish Folk Tales</td>
 			<td></td>
 			<td>en</td>
 			<td>Lu</td>
