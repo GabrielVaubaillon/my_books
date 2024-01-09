@@ -2,7 +2,7 @@
 	<thead>
 		<tr>
 			<th colspan=2>Titre</th>
-			<th>Auteur·rice</th>
+			<th>AuteurÂ·rice</th>
 			<th>Langue</th>
 			<th>Lu</th>
 			<th>Situation</th>
@@ -273,7 +273,7 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Never Fall for Your Fiancée</td>
+			<td colspan=2>Never Fall for Your FiancÃ©e</td>
 			<td>Virgina Heath</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -576,21 +576,21 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Beren and Lúthien</td>
+			<td colspan=2>Beren and LÃºthien</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Children of Húrin</td>
+			<td colspan=2>Children of HÃºrin</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Children of Húrin</td>
+			<td colspan=2>Children of HÃºrin</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -692,7 +692,7 @@
 			<td>Andy Weir</td>
 			<td>en</td>
 			<td>Lu</td>
-			<td>Prêté P_001</td>
+			<td>PrÃªtÃ© P_001</td>
 		</tr>
 		<tr>
 			<td colspan=2>The War of the Worlds</td>

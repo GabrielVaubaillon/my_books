@@ -2,7 +2,7 @@
 	<thead>
 		<tr>
 			<th colspan=2>Titre</th>
-			<th>Auteur·rice</th>
+			<th>AuteurÂ·rice</th>
 			<th>Langue</th>
 			<th>Lu</th>
 			<th>Situation</th>
@@ -150,7 +150,7 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Never Fall for Your Fiancée</td>
+			<td colspan=2>Never Fall for Your FiancÃ©e</td>
 			<td>Virgina Heath</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -367,7 +367,7 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Children of Húrin</td>
+			<td colspan=2>Children of HÃºrin</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>

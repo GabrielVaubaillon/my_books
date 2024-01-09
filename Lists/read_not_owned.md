@@ -2,9 +2,9 @@
 	<thead>
 		<tr>
 			<th>Titre</th>
-			<th>Auteur·rice</th>
+			<th>AuteurÂ·rice</th>
 			<th>Lu</th>
-			<th>Possédé</th>
+			<th>PossÃ©dÃ©</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -12,427 +12,427 @@
 			<td>Antigone</td>
 			<td>Jean Anouilh</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le passe muraille</td>
-			<td>Marcel Aymé</td>
+			<td>Marcel AymÃ©</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>Le père Goriot</td>
-			<td>Honoré de Balzac</td>
+			<td>Le pÃ¨re Goriot</td>
+			<td>HonorÃ© de Balzac</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le grand secret</td>
-			<td>René Barjavel</td>
+			<td>RenÃ© Barjavel</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Les Fleurs du Mal</td>
 			<td>Charles Baudelaire</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Yvain, le chevalier au lion</td>
 			<td>Anne-Marie Cadot-Colin</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Les Aventures d'Alice au pays des merveilles</td>
 			<td>Lewis Carrol</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Hunger Games</td>
 			<td>Suzanne Collins</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>L'Embrasement</td>
 			<td>Suzanne Collins</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>La Révolte</td>
+			<td>La RÃ©volte</td>
 			<td>Suzanne Collins</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Cannibale</td>
 			<td>Didier Daeninckx</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>Blade Runner / Les androïdes rêvent-ils de moutons électriques?</td>
+			<td>Blade Runner / Les androÃ¯des rÃªvent-ils de moutons Ã©lectriques?</td>
 			<td>Philip K. Dick</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>La Vie suspendue</td>
-			<td>Timothée de Fombelle</td>
+			<td>TimothÃ©e de Fombelle</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>Les Yeux d’Elisha</td>
-			<td>Timothée de Fombelle</td>
+			<td>Les Yeux dâ€™Elisha</td>
+			<td>TimothÃ©e de Fombelle</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>American Gods</td>
 			<td>Neil Gaiman</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>L'Ordinatueur</td>
 			<td>Christian Grenier</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le Vieil Homme et la Mer</td>
 			<td>Ernest Hemingway</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Les Contemplations</td>
 			<td>Victor Hugo</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>Les Misérables</td>
+			<td>Les MisÃ©rables</td>
 			<td>Victor Hugo</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>L'Attaque des Titans</td>
 			<td>Hajime Isayama</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Diabolic</td>
 			<td>S.J. Kincaid</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Solaris</td>
 			<td>Stanislaw Lem</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Bel-Ami</td>
 			<td>Guy de Maupassant</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le Horla</td>
 			<td>Guy de Maupassant</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Bartleby</td>
 			<td>Herman Melville</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>La Vénus d'Ille</td>
-			<td>Prosper Mérimée</td>
+			<td>La VÃ©nus d'Ille</td>
+			<td>Prosper MÃ©rimÃ©e</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>Pagaille à Paris</td>
+			<td>Pagaille Ã  Paris</td>
 			<td>Anthony Morowitz</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Stupeur et Tremblement</td>
-			<td>Amélie Nothomb</td>
+			<td>AmÃ©lie Nothomb</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>Les légendes de Terre</td>
+			<td>Les lÃ©gendes de Terre</td>
 			<td>Pierre Pelot</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>L'oeil du Loup</td>
 			<td>Daniel Pennac</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Poil de Carotte</td>
 			<td>Jules Renard</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>La Bataille du Labyrinthe</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>La Maison d'Hadès</td>
+			<td>La Maison d'HadÃ¨s</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>La Marque d'Athéna</td>
+			<td>La Marque d'AthÃ©na</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>La Mer des Monstres</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le Dernier Olympien</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le Fils de Neptune</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le Sang de l'Olympe</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le Sort du Titan</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le Voleur de Foudre</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>Le héro perdu</td>
+			<td>Le hÃ©ro perdu</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Vulcain</td>
 			<td>Mark Robson</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>L'Ordre du Phénix</td>
+			<td>L'Ordre du PhÃ©nix</td>
 			<td>J. K. Rowling</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>La Coupe de feu</td>
 			<td>J. K. Rowling</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>La chambre des secrets</td>
 			<td>J. K. Rowling</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>Le Prince de sang-mêlé</td>
+			<td>Le Prince de sang-mÃªlÃ©</td>
 			<td>J. K. Rowling</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le prisonnier d'Azkaban</td>
 			<td>J. K. Rowling</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Les Reliques de la Mort</td>
 			<td>J. K. Rowling</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>À l'école des sorciers</td>
+			<td>Ã€ l'Ã©cole des sorciers</td>
 			<td>J. K. Rowling</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>La 37eme Prophétie</td>
-			<td>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
+			<td>La 37eme ProphÃ©tie</td>
+			<td>Emanuelle de Saint Chamas / BenoÃ®t de Saint Chamas</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le Collectionneur</td>
-			<td>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
+			<td>Emanuelle de Saint Chamas / BenoÃ®t de Saint Chamas</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Les Portails d'Outre Temps</td>
-			<td>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
+			<td>Emanuelle de Saint Chamas / BenoÃ®t de Saint Chamas</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>Alcatraz contre les infâmes bibliothécaires</td>
+			<td>Alcatraz contre les infÃ¢mes bibliothÃ©caires</td>
 			<td>Brandon Sanderson</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>L'Empire ultime</td>
 			<td>Brandon Sanderson</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>Le Héros des siècles</td>
+			<td>Le HÃ©ros des siÃ¨cles</td>
 			<td>Brandon Sanderson</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le Puits de l'ascension</td>
 			<td>Brandon Sanderson</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Frankenstein</td>
 			<td>Mary W. Shelley</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le Chien Jaune</td>
 			<td>Georges Simenon</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Dracula</td>
 			<td>Bram Stoker</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Nous sommes legions</td>
 			<td>Dennis E. Taylor</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Nous sommes nombreux</td>
 			<td>Dennis E. Taylor</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Tous ces mondes</td>
 			<td>Dennis E. Taylor</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>Inconnu à cette adresse</td>
+			<td>Inconnu Ã  cette adresse</td>
 			<td>Kressmann Taylor</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Vendredi ou la vie sauvage</td>
 			<td>Michel Tournier</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>L'ami retrouvé</td>
+			<td>L'ami retrouvÃ©</td>
 			<td>Fred Uhlman</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le Silence de la Mer</td>
 			<td>Vercors</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Les tribulations d'un chinois en Chine</td>
 			<td>Jules Verne</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>No et moi</td>
 			<td>Delphine de Vigan</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Zadig</td>
 			<td>Voltaire</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
 			<td>Le chevalier au bouclier vert</td>
 			<td>Odile Weulersse</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 		<tr>
-			<td>Le messager d'Athène</td>
+			<td>Le messager d'AthÃ¨ne</td>
 			<td>Odile Weulersse</td>
 			<td>Lu</td>
-			<td>Non Possédé</td>
+			<td>Non PossÃ©dÃ©</td>
 		</tr>
 	</tbody>
 </table>

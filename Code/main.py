@@ -477,7 +477,7 @@ def main():
             continue
         log.debug(f"Writing {filename}")
         # TODO: proper PATH management
-        with open(f"../Lists/{filename}.md", "w") as f:
+        with open(f"../Lists/{filename}.md", mode="w", encoding="utf-8") as f:
             f.write("\n".join(table))
 
     readme = [
@@ -524,7 +524,7 @@ def main():
         #f"- x séries",
         #f"- langues originales des oeuvres:",
     ]
-    with open("../README.md", "w") as f:
+    with open("../README.md", mode="w", encoding="utf-8") as f:
         f.write("\n".join(readme))
 
 if __name__ == "__main__":

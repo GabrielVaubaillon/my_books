@@ -2,7 +2,7 @@
 	<thead>
 		<tr>
 			<th colspan=2>Titre</th>
-			<th>Auteur·rice</th>
+			<th>AuteurÂ·rice</th>
 			<th>Langue</th>
 			<th>Lu</th>
 			<th>Situation</th>
@@ -219,14 +219,14 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Beren and Lúthien</td>
+			<td colspan=2>Beren and LÃºthien</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Children of Húrin</td>
+			<td colspan=2>Children of HÃºrin</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>

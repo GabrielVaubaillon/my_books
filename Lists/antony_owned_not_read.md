@@ -2,7 +2,7 @@
 	<thead>
 		<tr>
 			<th colspan=2>Titre</th>
-			<th>Auteur·rice</th>
+			<th>AuteurÂ·rice</th>
 			<th>Langue</th>
 			<th>Lu</th>
 			<th>Situation</th>
@@ -10,7 +10,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td colspan=2>Jonathan Livingston le goéland</td>
+			<td colspan=2>Jonathan Livingston le goÃ©land</td>
 			<td>Richard Bach</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -25,7 +25,7 @@
 		</tr>
 		<tr>
 			<td colspan=2>La concierge est dans le cercueil</td>
-			<td>José Benjamin</td>
+			<td>JosÃ© Benjamin</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
@@ -38,8 +38,8 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td>Don Quichotte (abrégé)</td>
-			<td>L’Ingénieux Hidalgo Don Quichotte de la Manche</td>
+			<td>Don Quichotte (abrÃ©gÃ©)</td>
+			<td>Lâ€™IngÃ©nieux Hidalgo Don Quichotte de la Manche</td>
 			<td>Miguel de Cervantes Saavedra</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -53,7 +53,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le Château des Enfants Volés</td>
+			<td colspan=2>Le ChÃ¢teau des Enfants VolÃ©s</td>
 			<td>Maria Gripe</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -61,13 +61,13 @@
 		</tr>
 		<tr>
 			<td colspan=2>Jacquou le croquant</td>
-			<td>Eugène Le Roy</td>
+			<td>EugÃ¨ne Le Roy</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Angèle</td>
+			<td colspan=2>AngÃ¨le</td>
 			<td>Marcel Pagnol</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -81,7 +81,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>César</td>
+			<td colspan=2>CÃ©sar</td>
 			<td>Marcel Pagnol</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -123,14 +123,14 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>La gloire de mon père</td>
+			<td colspan=2>La gloire de mon pÃ¨re</td>
 			<td>Marcel Pagnol</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le château de ma mère</td>
+			<td colspan=2>Le chÃ¢teau de ma mÃ¨re</td>
 			<td>Marcel Pagnol</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -179,14 +179,14 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>De l'Esprit Géométrique</td>
+			<td colspan=2>De l'Esprit GÃ©omÃ©trique</td>
 			<td>Blaise Pascal</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Pensée sur la justice - Trois Discours sur la condition des grands</td>
+			<td colspan=2>PensÃ©e sur la justice - Trois Discours sur la condition des grands</td>
 			<td>Blaise Pascal</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -194,7 +194,7 @@
 		</tr>
 		<tr>
 			<td colspan=2>Manon Lescaut</td>
-			<td>Prévost</td>
+			<td>PrÃ©vost</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>

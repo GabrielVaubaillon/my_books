@@ -2,7 +2,7 @@
 	<thead>
 		<tr>
 			<th colspan=2>Titre</th>
-			<th>Auteur·rice</th>
+			<th>AuteurÂ·rice</th>
 			<th>Langue</th>
 			<th>Lu</th>
 			<th>Situation</th>
@@ -59,7 +59,7 @@
 			<td>Paris</td>
 		</tr>
 		<tr>
-			<td colspan=2>Vingt ans après</td>
+			<td colspan=2>Vingt ans aprÃ¨s</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>

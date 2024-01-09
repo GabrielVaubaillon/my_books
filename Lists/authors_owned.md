@@ -1,9 +1,9 @@
 <table>
 	<thead>
 		<tr>
-			<th>Auteur·rice</th>
+			<th>AuteurÂ·rice</th>
 			<th>Nombre oeuvres lues</th>
-			<th>Nombre oeuvres possédées</th>
+			<th>Nombre oeuvres possÃ©dÃ©es</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -163,7 +163,7 @@
 			<td>2</td>
 		</tr>
 		<tr>
-			<td>Chrétien de Troyes</td>
+			<td>ChrÃ©tien de Troyes</td>
 			<td>2</td>
 			<td>2</td>
 		</tr>
@@ -178,12 +178,12 @@
 			<td>2</td>
 		</tr>
 		<tr>
-			<td>J.H. Rosny Aîné</td>
+			<td>J.H. Rosny AÃ®nÃ©</td>
 			<td>2</td>
 			<td>2</td>
 		</tr>
 		<tr>
-			<td>Jacques Prévert</td>
+			<td>Jacques PrÃ©vert</td>
 			<td>2</td>
 			<td>2</td>
 		</tr>
@@ -223,7 +223,7 @@
 			<td>2</td>
 		</tr>
 		<tr>
-			<td>Stéphane Descornes</td>
+			<td>StÃ©phane Descornes</td>
 			<td>2</td>
 			<td>2</td>
 		</tr>
@@ -248,7 +248,7 @@
 			<td>2</td>
 		</tr>
 		<tr>
-			<td>Marcel Aymé</td>
+			<td>Marcel AymÃ©</td>
 			<td>3</td>
 			<td>2</td>
 		</tr>
@@ -278,7 +278,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Per Wahlöö</td>
+			<td>Per WahlÃ¶Ã¶</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
@@ -303,7 +303,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>José Mauro de Vascondos</td>
+			<td>JosÃ© Mauro de Vascondos</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -338,12 +338,12 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Nathalie Sémenuik</td>
+			<td>Nathalie SÃ©menuik</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Olivier Séchan</td>
+			<td>Olivier SÃ©chan</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -353,7 +353,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Michaël Steckerman</td>
+			<td>MichaÃ«l Steckerman</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -363,7 +363,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Maj Sjöwall</td>
+			<td>Maj SjÃ¶wall</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
@@ -383,12 +383,12 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>François Sautereau</td>
+			<td>FranÃ§ois Sautereau</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>François Salvaing</td>
+			<td>FranÃ§ois Salvaing</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -398,12 +398,12 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Antoine de Saint-Exupéry</td>
+			<td>Antoine de Saint-ExupÃ©ry</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Françoise Sagan</td>
+			<td>FranÃ§oise Sagan</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -423,7 +423,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Prévost</td>
+			<td>PrÃ©vost</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
@@ -433,7 +433,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Joël Pommerat</td>
+			<td>JoÃ«l Pommerat</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -443,7 +443,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Benoît Philippon</td>
+			<td>BenoÃ®t Philippon</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -533,7 +533,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Gabriel García Márquez</td>
+			<td>Gabriel GarcÃ­a MÃ¡rquez</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
@@ -553,12 +553,12 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Jérôme Leroy</td>
+			<td>JÃ©rÃ´me Leroy</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Eugène Le Roy</td>
+			<td>EugÃ¨ne Le Roy</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
@@ -578,7 +578,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Björn Larsson</td>
+			<td>BjÃ¶rn Larsson</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -593,12 +593,12 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Jean-François Laguionie</td>
+			<td>Jean-FranÃ§ois Laguionie</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Gérard Klein</td>
+			<td>GÃ©rard Klein</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -633,7 +633,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Vladimir Jankélévitch</td>
+			<td>Vladimir JankÃ©lÃ©vitch</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -658,7 +658,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Homère</td>
+			<td>HomÃ¨re</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -723,7 +723,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>José Giovanni</td>
+			<td>JosÃ© Giovanni</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -733,12 +733,12 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Géronimo</td>
+			<td>GÃ©ronimo</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Théophile Gautier</td>
+			<td>ThÃ©ophile Gautier</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -753,12 +753,12 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>José Féron</td>
+			<td>JosÃ© FÃ©ron</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Caryl Férey</td>
+			<td>Caryl FÃ©rey</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -818,7 +818,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Jean-Luc Déjean</td>
+			<td>Jean-Luc DÃ©jean</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -918,7 +918,7 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Mikhaïl Boulgakov</td>
+			<td>MikhaÃ¯l Boulgakov</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
@@ -938,12 +938,12 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>José Benjamin</td>
+			<td>JosÃ© Benjamin</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Hervé Bazin</td>
+			<td>HervÃ© Bazin</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>
