@@ -2,13 +2,27 @@
 	<thead>
 		<tr>
 			<th colspan=2>Titre</th>
-			<th>AuteurÂ·rice</th>
+			<th>Auteur·rice</th>
 			<th>Langue</th>
 			<th>Lu</th>
 			<th>Situation</th>
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td colspan=2>I, Robot</td>
+			<td>Isaac Asimov</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Rest of the Robots</td>
+			<td>Isaac Asimov</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
 		<tr>
 			<td colspan=2>The Handmaid's Tale</td>
 			<td>Margaret Atwood</td>
@@ -33,6 +47,20 @@
 		<tr>
 			<td colspan=2>A Psalm for the Wild Built</td>
 			<td>Becky Chambers</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Exhalation</td>
+			<td>Ted Chiang</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Stories of your Life and Others</td>
+			<td>Ted Chiang</td>
 			<td>en</td>
 			<td>Lu</td>
 			<td>Ebook</td>
@@ -122,7 +150,7 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Never Fall for Your FiancÃ©e</td>
+			<td colspan=2>Never Fall for Your Fiancée</td>
 			<td>Virgina Heath</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -234,6 +262,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Reaper Man</td>
+			<td>Terry Pratchett</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Sea of Tranquility</td>
 			<td>Emily Saint John-Mandel</td>
 			<td>en</td>
@@ -332,7 +367,7 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Children of HÃºrin</td>
+			<td colspan=2>Children of Húrin</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>

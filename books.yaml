@@ -125,7 +125,7 @@ works:
       fr: Aurélien
       en: Aurélien
     language: fr
-    read: no
+    read: yes
     books: B_006
     authors: A_007
   W_007:
@@ -1889,8 +1889,8 @@ works:
       fr: 1984
       en: 1984
     language: en
-    read: no
-    books: B_175;B_176
+    read: yes
+    books: B_175;B_176;B_335
     authors: A_151
   W_240:
     titles:
@@ -2756,7 +2756,7 @@ works:
       en: Children of Húrin
     language: en
     read: yes
-    books: B_252;B_253
+    books: B_252;B_253;B_327
     authors: A_202
     notes: edited Christopher Tolkien
   W_354:
@@ -2765,7 +2765,7 @@ works:
       en: The Hobbit
     language: en
     read: yes
-    books: B_254;B_255
+    books: B_254;B_255;B_330
     authors: A_202
   W_355:
     titles:
@@ -2966,7 +2966,7 @@ works:
       en: The War of the Worlds
     language: en
     read: no
-    books: B_278
+    books: B_278;B_334
     authors: A_216
   W_381:
     titles:
@@ -3388,6 +3388,95 @@ works:
     books: B_324
     authors:
     notes: same title, but not same content as W_433
+  W_435:
+    titles:
+      en: Reaper Man
+      fr: Le Faucheur
+    language: en
+    read: yes
+    books: B_325
+    authors: A_166
+  W_436:
+    titles:
+      en: Exhalation
+    language: en
+    read: yes
+    books: B_326
+    authors: A_236
+  W_437:
+    titles:
+      fr: Disparaître
+    language: fr
+    read: no
+    books: B_328
+    authors: A_237
+  W_438:
+    titles:
+      fr: Les Sentiers Obscurs de Karachi
+    language: fr
+    read: no
+    books: B_329
+    authors: A_238
+  W_439:
+    titles:
+      en: Beren and Lúthien
+      fr: Beren et Lúthien
+    language: en
+    read: no
+    books: B_331
+    authors: A_202
+  W_440:
+    titles:
+      en: Stories of your Life and Others
+    language: en
+    read: yes
+    books: B_332
+    authors: A_236
+  W_441:
+    titles:
+      en: Hyperion
+      fr: Hypérion
+    language: en
+    read: no
+    books: B_333
+    authors: A_239
+  W_442:
+    titles:
+      en: I, Robot
+      fr: Les Robots
+    language: en
+    read: yes
+    books: B_336
+    authors: A_009
+  W_443:
+    titles:
+      en: The Rest of the Robots
+      fr: Un défilé de robots
+    language: en
+    read: yes
+    books: B_337
+    authors: A_009
+  W_444:
+    titles:
+      en: Irish Folk and Fairy Tales
+    language: en
+    read: no
+    books: B_338
+    authors:
+  W_445:
+    titles:
+      en: Egyptian Myths and Legends
+    language: en
+    read: no
+    books: B_339
+    authors:
+  W_446:
+    titles:
+      en: Greek Myths and Legends
+    language: en
+    read: no
+    books: B_340
+    authors:
 
 books:
   B_001:
@@ -5043,6 +5132,86 @@ books:
     language: fr
     isbn: 978-2-218-93322-6
     situation: Antony
+  B_325:
+    title: Reaper Man
+    language: en
+    isbn: 978-1-407-03477-5
+    situation: Ebook
+  B_326:
+    title: Exhalation
+    language: en
+    isbn: 978-1-5290-1450-1
+    situation: Ebook
+  B_327:
+    title: Children of Húrin
+    language: en
+    isbn: 978-0-00-730936-8
+    situation: Cork
+  B_328:
+    title: Disparaître
+    language: fr
+    isbn: 978-2-290-38562-3
+    situation: Cork
+  B_329:
+    title: Les Sentiers Obscurs de Karachi
+    language: fr
+    isbn: 979-10-414-1005-7
+    situation: Cork
+  B_330:
+    title: The Hobbit
+    language: en
+    isbn: 978-0-261-10221-7
+    situation: Cork
+  B_331:
+    title: Beren and Lúthien
+    language: en
+    isbn: 978-0-00-850396-3
+    situation: Cork
+  B_332:
+    title: Stories of your Life and Others
+    language: en
+    isbn: 978-1-4472-8198-6
+    situation: Ebook
+  B_333:
+    title: Hyperion
+    language: en
+    isbn: 978-0-575-09943-2
+    situation: Cork
+  B_334:
+    title: The War of the Worlds
+    language: en
+    isbn: 978-1-473-21802-4
+    situation: Cork
+  B_335:
+    title: Nineteen Eighty-Four
+    language: en
+    isbn: 978-1-473-23480-2
+    situation: Cork
+  B_336:
+    title: I, Robot
+    language: en
+    isbn: 978-0-00-736935-5
+    situation: Ebook
+  B_337:
+    title: The Rest of the Robots
+    language: en
+    isbn: 978-0-00-851623-9
+    situation: Ebook
+  B_338:
+    title: Irish Folk and Fairy Tales
+    language: en
+    isbn: 978-1-80417-228-5
+    situation: Cork
+  B_339:
+    title: Egyptian Myths and Legends
+    language: en
+    isbn: 978-1-80417-326-8
+    situation: Cork
+  B_340:
+    title: Greek Myths and Legends
+    language: en
+    isbn: 978-1-83964-887-8
+    situation: Cork
 
 authors:
   A_001:
@@ -5542,6 +5711,14 @@ authors:
     name: Michael Ende
   A_235:
     name: Raynor Winn
+  A_236:
+    name: Ted Chiang
+  A_237:
+    name: Lionel Duroy
+  A_238:
+    name: Olivier Truc
+  A_239:
+    name: Dan Simmons
 
 series:
   S_001:

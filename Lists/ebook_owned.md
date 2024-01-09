@@ -2,7 +2,7 @@
 	<thead>
 		<tr>
 			<th colspan=2>Titre</th>
-			<th>AuteurÂ·rice</th>
+			<th>Auteur·rice</th>
 			<th>Langue</th>
 			<th>Lu</th>
 			<th>Situation</th>
@@ -18,10 +18,24 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>AurÃ©lien</td>
+			<td colspan=2>Aurélien</td>
 			<td>Louis Aragon</td>
 			<td>fr</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>I, Robot</td>
+			<td>Isaac Asimov</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Rest of the Robots</td>
+			<td>Isaac Asimov</td>
+			<td>en</td>
+			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>
@@ -32,19 +46,19 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td rowspan=2>Les contes du chat perchÃ©</td>
-			<td>Les contes bleus du chat perchÃ©</td>
-			<td rowspan=2>Marcel AymÃ©</td>
+			<td rowspan=2>Les contes du chat perché</td>
+			<td>Les contes bleus du chat perché</td>
+			<td rowspan=2>Marcel Aymé</td>
 			<td rowspan=2>fr</td>
 			<td rowspan=2>Lu</td>
 			<td rowspan=2>Ebook</td>
 		</tr>
 		<tr>
-			<td>Les contes rouges du chat perchÃ©</td>
+			<td>Les contes rouges du chat perché</td>
 		</tr>
 		<tr>
 			<td>La vie selon Ove</td>
-			<td>Vieux, rÃ¢leur et suicidaire: La vie selon Ove</td>
+			<td>Vieux, râleur et suicidaire: La vie selon Ove</td>
 			<td>Fredik Backman</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -58,8 +72,8 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le MaÃ®tre et Marguerite</td>
-			<td>MikhaÃ¯l Boulgakov</td>
+			<td colspan=2>Le Maître et Marguerite</td>
+			<td>Mikhaïl Boulgakov</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Ebook</td>
@@ -74,6 +88,20 @@
 		<tr>
 			<td colspan=2>A Psalm for the Wild Built</td>
 			<td>Becky Chambers</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Exhalation</td>
+			<td>Ted Chiang</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Stories of your Life and Others</td>
+			<td>Ted Chiang</td>
 			<td>en</td>
 			<td>Lu</td>
 			<td>Ebook</td>
@@ -177,7 +205,7 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Never Fall for Your FiancÃ©e</td>
+			<td colspan=2>Never Fall for Your Fiancée</td>
 			<td>Virgina Heath</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -235,15 +263,15 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td rowspan=23>Integrale ArsÃ¨ne Lupin</td>
-			<td>ArsÃ¨ne Lupin, Gentleman-Cambrioleur</td>
+			<td rowspan=23>Integrale Arsène Lupin</td>
+			<td>Arsène Lupin, Gentleman-Cambrioleur</td>
 			<td rowspan=23>Maurice Leblanc</td>
 			<td rowspan=23>fr</td>
 			<td>Lu</td>
 			<td rowspan=23>Ebook</td>
 		</tr>
 		<tr>
-			<td>ArsÃ¨ne Lupin contre Herlock SholmÃ¨s</td>
+			<td>Arsène Lupin contre Herlock Sholmès</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -259,11 +287,11 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>Les Confidences d'ArsÃ¨ne Lupin</td>
+			<td>Les Confidences d'Arsène Lupin</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>L'Ã‰clat d'Obus</td>
+			<td>L'Éclat d'Obus</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -271,7 +299,7 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>L'ÃŽle au Trente Cerceuils</td>
+			<td>L'Île au Trente Cerceuils</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -295,7 +323,7 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>L'Homme Ã  la Peau de Bique</td>
+			<td>L'Homme à la Peau de Bique</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -303,7 +331,7 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>La Demeure MystÃ©rieuse</td>
+			<td>La Demeure Mystérieuse</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -327,7 +355,7 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>Les Milliards d'ArsÃ¨ne Lupin</td>
+			<td>Les Milliards d'Arsène Lupin</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -393,13 +421,20 @@
 		</tr>
 		<tr>
 			<td colspan=2>Mamie Luger</td>
-			<td>BenoÃ®t Philippon</td>
+			<td>Benoît Philippon</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>
 			<td colspan=2>Mort</td>
+			<td>Terry Pratchett</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Reaper Man</td>
 			<td>Terry Pratchett</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -504,7 +539,7 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Children of HÃºrin</td>
+			<td colspan=2>Children of Húrin</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>

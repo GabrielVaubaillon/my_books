@@ -291,7 +291,7 @@ def main():
 
 
     log.debug(f"Reading {input_filename}")
-    with open(input_filename, "r") as input_file:
+    with open(input_filename, mode="r", encoding="utf-8") as input_file:
         lines = input_file.readlines()
     yaml_str = "".join(lines)
 

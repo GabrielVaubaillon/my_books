@@ -2,13 +2,27 @@
 	<thead>
 		<tr>
 			<th colspan=2>Titre</th>
-			<th>AuteurÂ·rice</th>
+			<th>Auteur·rice</th>
 			<th>Langue</th>
 			<th>Lu</th>
 			<th>Situation</th>
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td colspan=2>I, Robot</td>
+			<td>Isaac Asimov</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Rest of the Robots</td>
+			<td>Isaac Asimov</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
 		<tr>
 			<td colspan=2>The complete Robot</td>
 			<td>Isaac Asimov</td>
@@ -61,6 +75,20 @@
 		<tr>
 			<td colspan=2>A Psalm for the Wild Built</td>
 			<td>Becky Chambers</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Exhalation</td>
+			<td>Ted Chiang</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Stories of your Life and Others</td>
+			<td>Ted Chiang</td>
 			<td>en</td>
 			<td>Lu</td>
 			<td>Ebook</td>
@@ -245,7 +273,7 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Never Fall for Your FiancÃ©e</td>
+			<td colspan=2>Never Fall for Your Fiancée</td>
 			<td>Virgina Heath</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -399,6 +427,14 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td>Nineteen Eighty-Four</td>
+			<td>1984</td>
+			<td>George Orwell</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Loveless</td>
 			<td>Alice Oseman</td>
 			<td>en</td>
@@ -407,6 +443,13 @@
 		</tr>
 		<tr>
 			<td colspan=2>Mort</td>
+			<td>Terry Pratchett</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Reaper Man</td>
 			<td>Terry Pratchett</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -511,6 +554,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Hyperion</td>
+			<td>Dan Simmons</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td>The complete MAUS</td>
 			<td>Maus</td>
 			<td>Art Spiegelman</td>
@@ -526,7 +576,21 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Children of HÃºrin</td>
+			<td colspan=2>Beren and Lúthien</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Children of Húrin</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Children of Húrin</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -541,6 +605,13 @@
 		</tr>
 		<tr>
 			<td colspan=2>The Fellowship Of The Ring</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Hobbit</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -621,7 +692,14 @@
 			<td>Andy Weir</td>
 			<td>en</td>
 			<td>Lu</td>
-			<td>PrÃªtÃ© P_001</td>
+			<td>Prêté P_001</td>
+		</tr>
+		<tr>
+			<td colspan=2>The War of the Worlds</td>
+			<td>H.G. Wells</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>All Systems Red</td>
@@ -701,7 +779,28 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Egyptian Myths and Legends</td>
+			<td></td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Greek Myths and Legends</td>
+			<td></td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Indian Myths & Legends</td>
+			<td></td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Irish Folk and Fairy Tales</td>
 			<td></td>
 			<td>en</td>
 			<td>Pas Lu</td>

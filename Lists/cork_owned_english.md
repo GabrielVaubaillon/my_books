@@ -2,7 +2,7 @@
 	<thead>
 		<tr>
 			<th colspan=2>Titre</th>
-			<th>AuteurÂ·rice</th>
+			<th>Auteur·rice</th>
 			<th>Langue</th>
 			<th>Lu</th>
 			<th>Situation</th>
@@ -189,6 +189,21 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td>Nineteen Eighty-Four</td>
+			<td>1984</td>
+			<td>George Orwell</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Hyperion</td>
+			<td>Dan Simmons</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td>The complete MAUS</td>
 			<td>Maus</td>
 			<td>Art Spiegelman</td>
@@ -204,6 +219,20 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Beren and Lúthien</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Children of Húrin</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>The Fall of Gondolin</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
@@ -212,6 +241,13 @@
 		</tr>
 		<tr>
 			<td colspan=2>The Fellowship Of The Ring</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Hobbit</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -260,6 +296,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>The War of the Worlds</td>
+			<td>H.G. Wells</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>The Salt Path</td>
 			<td>Raynor Winn</td>
 			<td>en</td>
@@ -281,7 +324,28 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Egyptian Myths and Legends</td>
+			<td></td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Greek Myths and Legends</td>
+			<td></td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Indian Myths & Legends</td>
+			<td></td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Irish Folk and Fairy Tales</td>
 			<td></td>
 			<td>en</td>
 			<td>Pas Lu</td>

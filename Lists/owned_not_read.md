@@ -2,7 +2,7 @@
 	<thead>
 		<tr>
 			<th colspan=2>Titre</th>
-			<th>AuteurÂ·rice</th>
+			<th>Auteur·rice</th>
 			<th>Langue</th>
 			<th>Lu</th>
 			<th>Situation</th>
@@ -17,7 +17,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>La FÃ©e et le GÃ©omÃ¨tre</td>
+			<td colspan=2>La Fée et le Géomètre</td>
 			<td>Jean-Pierre Andrevon</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -25,20 +25,13 @@
 		</tr>
 		<tr>
 			<td colspan=2>Terminus Leipzig</td>
-			<td>Max Annas / JÃ©rÃ´me Leroy</td>
+			<td>Max Annas / Jérôme Leroy</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>AurÃ©lien</td>
-			<td>Louis Aragon</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Ebook</td>
-		</tr>
-		<tr>
-			<td colspan=2>NoÃ«l sur GanymÃ¨de</td>
+			<td colspan=2>Noël sur Ganymède</td>
 			<td>Isaac Asimov</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -52,7 +45,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Jonathan Livingston le goÃ©land</td>
+			<td colspan=2>Jonathan Livingston le goéland</td>
 			<td>Richard Bach</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -66,7 +59,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Gros ProblÃ¨me</td>
+			<td colspan=2>Gros Problème</td>
 			<td>Dave Barry</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -88,7 +81,7 @@
 		</tr>
 		<tr>
 			<td colspan=2>La concierge est dans le cercueil</td>
-			<td>JosÃ© Benjamin</td>
+			<td>José Benjamin</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
@@ -115,15 +108,15 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td>Don Quichotte (abrÃ©gÃ©)</td>
-			<td>Lâ€™IngÃ©nieux Hidalgo Don Quichotte de la Manche</td>
+			<td>Don Quichotte (abrégé)</td>
+			<td>L’Ingénieux Hidalgo Don Quichotte de la Manche</td>
 			<td>Miguel de Cervantes Saavedra</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>La ForÃªt Sombre</td>
+			<td colspan=2>La Forêt Sombre</td>
 			<td>Liu Cixin</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -174,7 +167,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>La ceinture empoisonnÃ©e</td>
+			<td colspan=2>La ceinture empoisonnée</td>
 			<td>Arthur Conan Doyle</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -274,11 +267,18 @@
 			<td>Paris</td>
 		</tr>
 		<tr>
-			<td colspan=2>Vingt ans aprÃ¨s</td>
+			<td colspan=2>Vingt ans après</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Paris</td>
+		</tr>
+		<tr>
+			<td colspan=2>Disparaître</td>
+			<td>Lionel Duroy</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>The Neverending Story</td>
@@ -288,7 +288,7 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le CrÃ©puscule et l'Aube</td>
+			<td colspan=2>Le Crépuscule et l'Aube</td>
 			<td>Ken Follett</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -310,8 +310,8 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>L'histoire de GÃ©ronimo</td>
-			<td>GÃ©ronimo / S.M. Barett</td>
+			<td colspan=2>L'histoire de Géronimo</td>
+			<td>Géronimo / S.M. Barett</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
@@ -332,7 +332,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le ChÃ¢teau des Enfants VolÃ©s</td>
+			<td colspan=2>Le Château des Enfants Volés</td>
 			<td>Maria Gripe</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -353,7 +353,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>La CommunautÃ© des soeurs</td>
+			<td colspan=2>La Communauté des soeurs</td>
 			<td>Brian Herbert / Kevin J. Anderson</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -397,21 +397,21 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le Vieux qui ne Voulait pas FÃªter son Anniversaire</td>
+			<td colspan=2>Le Vieux qui ne Voulait pas Fêter son Anniversaire</td>
 			<td>Jonas Jonasson</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Du PassÃ© Faisons Table Rase</td>
+			<td colspan=2>Du Passé Faisons Table Rase</td>
 			<td>Thierry Jonquet</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td>ArsÃ¨ne Lupin - La Comtesse de Cagliostro</td>
+			<td>Arsène Lupin - La Comtesse de Cagliostro</td>
 			<td>La Comtesse de Cagliostro</td>
 			<td>Maurice Leblanc</td>
 			<td>fr</td>
@@ -419,15 +419,15 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td rowspan=23>Integrale ArsÃ¨ne Lupin</td>
-			<td>ArsÃ¨ne Lupin, Gentleman-Cambrioleur</td>
+			<td rowspan=23>Integrale Arsène Lupin</td>
+			<td>Arsène Lupin, Gentleman-Cambrioleur</td>
 			<td rowspan=23>Maurice Leblanc</td>
 			<td rowspan=23>fr</td>
 			<td>Lu</td>
 			<td rowspan=23>Ebook</td>
 		</tr>
 		<tr>
-			<td>ArsÃ¨ne Lupin contre Herlock SholmÃ¨s</td>
+			<td>Arsène Lupin contre Herlock Sholmès</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -443,11 +443,11 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>Les Confidences d'ArsÃ¨ne Lupin</td>
+			<td>Les Confidences d'Arsène Lupin</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>L'Ã‰clat d'Obus</td>
+			<td>L'Éclat d'Obus</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -455,7 +455,7 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>L'ÃŽle au Trente Cerceuils</td>
+			<td>L'Île au Trente Cerceuils</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -479,7 +479,7 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>L'Homme Ã  la Peau de Bique</td>
+			<td>L'Homme à la Peau de Bique</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -487,7 +487,7 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>La Demeure MystÃ©rieuse</td>
+			<td>La Demeure Mystérieuse</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -511,11 +511,11 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>Les Milliards d'ArsÃ¨ne Lupin</td>
+			<td>Les Milliards d'Arsène Lupin</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td rowspan=9>Les aventures extraordinaires d'ArsÃ¨ne Lupin - Tome 3 (omnibus)</td>
+			<td rowspan=9>Les aventures extraordinaires d'Arsène Lupin - Tome 3 (omnibus)</td>
 			<td>La Demoiselle aux Yeux Verts</td>
 			<td rowspan=9>Maurice Leblanc</td>
 			<td rowspan=9>fr</td>
@@ -523,13 +523,13 @@
 			<td rowspan=9>Cork</td>
 		</tr>
 		<tr>
-			<td>L'Homme Ã  la Peau de Bique</td>
+			<td>L'Homme à la Peau de Bique</td>
 		</tr>
 		<tr>
 			<td>L'Agence Barnett et Cie</td>
 		</tr>
 		<tr>
-			<td>La Demeure MystÃ©rieuse</td>
+			<td>La Demeure Mystérieuse</td>
 		</tr>
 		<tr>
 			<td>La Barre-y-va</td>
@@ -555,7 +555,7 @@
 		</tr>
 		<tr>
 			<td colspan=2>Jacquou le croquant</td>
-			<td>EugÃ¨ne Le Roy</td>
+			<td>Eugène Le Roy</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
@@ -600,7 +600,7 @@
 		</tr>
 		<tr>
 			<td colspan=2>Cent ans de solitude</td>
-			<td>Gabriel GarcÃ­a MÃ¡rquez</td>
+			<td>Gabriel García Márquez</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
@@ -614,8 +614,8 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td>Le TrÃ´ne de Fer - L'integrale 5</td>
-			<td>Le BÃ»cher d'un roi / Les Dragons de Meereen / Une danse avec les dragons</td>
+			<td>Le Trône de Fer - L'integrale 5</td>
+			<td>Le Bûcher d'un roi / Les Dragons de Meereen / Une danse avec les dragons</td>
 			<td>George R.R. Martin</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -629,21 +629,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>1984</td>
-			<td>George Orwell</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>1984</td>
-			<td>George Orwell</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>AngÃ¨le</td>
+			<td colspan=2>Angèle</td>
 			<td>Marcel Pagnol</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -657,7 +643,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>CÃ©sar</td>
+			<td colspan=2>César</td>
 			<td>Marcel Pagnol</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -699,14 +685,14 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>La gloire de mon pÃ¨re</td>
+			<td colspan=2>La gloire de mon père</td>
 			<td>Marcel Pagnol</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le chÃ¢teau de ma mÃ¨re</td>
+			<td colspan=2>Le château de ma mère</td>
 			<td>Marcel Pagnol</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -755,21 +741,21 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>De l'Esprit GÃ©omÃ©trique</td>
+			<td colspan=2>De l'Esprit Géométrique</td>
 			<td>Blaise Pascal</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>PensÃ©e sur la justice - Trois Discours sur la condition des grands</td>
+			<td colspan=2>Pensée sur la justice - Trois Discours sur la condition des grands</td>
 			<td>Blaise Pascal</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Principes Ã©lÃ©mentaires de philosophie</td>
+			<td colspan=2>Principes élémentaires de philosophie</td>
 			<td>Georges Politzer</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -777,7 +763,7 @@
 		</tr>
 		<tr>
 			<td colspan=2>Manon Lescaut</td>
-			<td>PrÃ©vost</td>
+			<td>Prévost</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
@@ -790,16 +776,30 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>Hyperion</td>
+			<td>Dan Simmons</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Les Terroristes</td>
-			<td>Maj SjÃ¶wall / Per WahlÃ¶Ã¶</td>
+			<td>Maj Sjöwall / Per Wahlöö</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Mythes AztÃ¨ques et Mayas</td>
+			<td colspan=2>Mythes Aztèques et Mayas</td>
 			<td>Karl Taube</td>
 			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Beren and Lúthien</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>
@@ -818,8 +818,15 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>L'armÃ©e des pauvres</td>
+			<td colspan=2>L'armée des pauvres</td>
 			<td>Bruno Traven</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les Sentiers Obscurs de Karachi</td>
+			<td>Olivier Truc</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
@@ -846,6 +853,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>The War of the Worlds</td>
+			<td>H.G. Wells</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>The Salt Path</td>
 			<td>Raynor Winn</td>
 			<td>en</td>
@@ -867,7 +881,28 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Egyptian Myths and Legends</td>
+			<td></td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Greek Myths and Legends</td>
+			<td></td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Indian Myths & Legends</td>
+			<td></td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Irish Folk and Fairy Tales</td>
 			<td></td>
 			<td>en</td>
 			<td>Pas Lu</td>

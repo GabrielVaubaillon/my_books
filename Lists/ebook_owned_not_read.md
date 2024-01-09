@@ -2,20 +2,13 @@
 	<thead>
 		<tr>
 			<th colspan=2>Titre</th>
-			<th>AuteurÂ·rice</th>
+			<th>Auteur·rice</th>
 			<th>Langue</th>
 			<th>Lu</th>
 			<th>Situation</th>
 		</tr>
 	</thead>
 	<tbody>
-		<tr>
-			<td colspan=2>AurÃ©lien</td>
-			<td>Louis Aragon</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Ebook</td>
-		</tr>
 		<tr>
 			<td colspan=2>The Neverending Story</td>
 			<td>Michael Ende</td>
@@ -40,15 +33,15 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td rowspan=23>Integrale ArsÃ¨ne Lupin</td>
-			<td>ArsÃ¨ne Lupin, Gentleman-Cambrioleur</td>
+			<td rowspan=23>Integrale Arsène Lupin</td>
+			<td>Arsène Lupin, Gentleman-Cambrioleur</td>
 			<td rowspan=23>Maurice Leblanc</td>
 			<td rowspan=23>fr</td>
 			<td>Lu</td>
 			<td rowspan=23>Ebook</td>
 		</tr>
 		<tr>
-			<td>ArsÃ¨ne Lupin contre Herlock SholmÃ¨s</td>
+			<td>Arsène Lupin contre Herlock Sholmès</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -64,11 +57,11 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>Les Confidences d'ArsÃ¨ne Lupin</td>
+			<td>Les Confidences d'Arsène Lupin</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>L'Ã‰clat d'Obus</td>
+			<td>L'Éclat d'Obus</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -76,7 +69,7 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>L'ÃŽle au Trente Cerceuils</td>
+			<td>L'Île au Trente Cerceuils</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -100,7 +93,7 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>L'Homme Ã  la Peau de Bique</td>
+			<td>L'Homme à la Peau de Bique</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -108,7 +101,7 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>La Demeure MystÃ©rieuse</td>
+			<td>La Demeure Mystérieuse</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
@@ -132,7 +125,7 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td>Les Milliards d'ArsÃ¨ne Lupin</td>
+			<td>Les Milliards d'Arsène Lupin</td>
 			<td>Pas Lu</td>
 		</tr>
 		<tr>

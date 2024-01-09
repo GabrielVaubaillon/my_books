@@ -2,7 +2,7 @@
 	<thead>
 		<tr>
 			<th colspan=2>Titre</th>
-			<th>AuteurÂ·rice</th>
+			<th>Auteur·rice</th>
 			<th>Langue</th>
 			<th>Lu</th>
 			<th>Situation</th>
@@ -17,7 +17,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le Perroquet qui BÃ©gayait</td>
+			<td colspan=2>Le Perroquet qui Bégayait</td>
 			<td>Robert Arthur, Jr</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -39,7 +39,7 @@
 		</tr>
 		<tr>
 			<td rowspan=2>Fondation 2</td>
-			<td>Fondation FoudroyÃ©e</td>
+			<td>Fondation Foudroyée</td>
 			<td rowspan=2>Isaac Asimov</td>
 			<td rowspan=2>fr</td>
 			<td rowspan=2>Lu</td>
@@ -49,7 +49,7 @@
 			<td>Terre et Fondation</td>
 		</tr>
 		<tr>
-			<td colspan=2>La planÃ¨te des singes</td>
+			<td colspan=2>La planète des singes</td>
 			<td>Pierre Boule</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -84,14 +84,14 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le ProblÃ¨me Ã  Trois Corps</td>
+			<td colspan=2>Le Problème à Trois Corps</td>
 			<td>Liu Cixin</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>2001: l'OdyssÃ©e de l'Espace</td>
+			<td colspan=2>2001: l'Odyssée de l'Espace</td>
 			<td>Arthur C. Clarke</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -115,7 +115,7 @@
 			<td>L'Arbre de fer</td>
 		</tr>
 		<tr>
-			<td>La ColÃ¨re de Mulgarath</td>
+			<td>La Colère de Mulgarath</td>
 		</tr>
 		<tr>
 			<td rowspan=5>Sherlock Holmes - The Complete Novels and Stories - Volume One</td>
@@ -169,7 +169,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>GuÃ©rilla Social Club</td>
+			<td colspan=2>Guérilla Social Club</td>
 			<td>Marc Fernandez</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -205,14 +205,14 @@
 		</tr>
 		<tr>
 			<td colspan=2>Condor</td>
-			<td>Caryl FÃ©rey</td>
+			<td>Caryl Férey</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>Meutre au Sommet</td>
-			<td>JosÃ© Giovanni</td>
+			<td>José Giovanni</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
@@ -233,7 +233,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Les Cheveux de BÃ©rÃ©nice</td>
+			<td colspan=2>Les Cheveux de Bérénice</td>
 			<td>Denis Guedj</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -282,14 +282,14 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le Gambit des Ã‰toiles</td>
-			<td>GÃ©rard Klein</td>
+			<td colspan=2>Le Gambit des Étoiles</td>
+			<td>Gérard Klein</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le GarÃ§on qui ne Parlait Pas</td>
+			<td colspan=2>Le Garçon qui ne Parlait Pas</td>
 			<td>Donna Leon</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -303,33 +303,47 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td>Le TrÃ´ne de Fer - L'integrale 1</td>
-			<td>Le TrÃ´ne de fer / Le Donjon rouge</td>
+			<td>Le Trône de Fer - L'integrale 1</td>
+			<td>Le Trône de fer / Le Donjon rouge</td>
 			<td>George R.R. Martin</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td>Le TrÃ´ne de Fer - L'integrale 2</td>
-			<td>La Bataille des Rois / L'Ombre MalÃ©fique / L'Invisible Forteresse</td>
+			<td>Le Trône de Fer - L'integrale 2</td>
+			<td>La Bataille des Rois / L'Ombre Maléfique / L'Invisible Forteresse</td>
 			<td>George R.R. Martin</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td>Le TrÃ´ne de Fer - L'integrale 3</td>
-			<td>(Les Brigands / Intrigues Ã  Port-RÃ©al) / Lâ€™Ã‰pÃ©e de feu / Les Noces pourpres / La Loi du rÃ©gicide</td>
+			<td>Le Trône de Fer - L'integrale 3</td>
+			<td>(Les Brigands / Intrigues à Port-Réal) / L’Épée de feu / Les Noces pourpres / La Loi du régicide</td>
 			<td>George R.R. Martin</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td>Le TrÃ´ne de Fer - L'integrale 4</td>
+			<td>Le Trône de Fer - L'integrale 4</td>
 			<td>Le Chaos / Les Sables de Dorne / Un festin pour les corbeaux</td>
 			<td>George R.R. Martin</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>1984</td>
+			<td>George Orwell</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>1984</td>
+			<td>George Orwell</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
@@ -345,6 +359,14 @@
 			<td colspan=2>La Ferme des Animaux</td>
 			<td>George Orwell</td>
 			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td>Nineteen Eighty-Four</td>
+			<td>1984</td>
+			<td>George Orwell</td>
+			<td>en</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
@@ -370,14 +392,14 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>L'AÃ®nÃ©</td>
+			<td colspan=2>L'Aîné</td>
 			<td>Christopher Paolini</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>L'HÃ©ritage</td>
+			<td colspan=2>L'Héritage</td>
 			<td>Christopher Paolini</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -426,7 +448,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Premier de CordÃ©e</td>
+			<td colspan=2>Premier de Cordée</td>
 			<td>Frison Roche</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -434,14 +456,14 @@
 		</tr>
 		<tr>
 			<td colspan=2>Le Petit Prince</td>
-			<td>Antoine de Saint-ExupÃ©ry</td>
+			<td>Antoine de Saint-Exupéry</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le tour du Tour par 36 dÃ©tours</td>
-			<td>FranÃ§ois Salvaing</td>
+			<td colspan=2>Le tour du Tour par 36 détours</td>
+			<td>François Salvaing</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
@@ -469,14 +491,21 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>L'Ã®le au trÃ©sor</td>
+			<td colspan=2>L'île au trésor</td>
 			<td>Robert Louis Stevenson</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Les enfants de HÃºrin</td>
+			<td colspan=2>Children of Húrin</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Les enfants de Húrin</td>
 			<td>J.R.R. Tolkien</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -484,6 +513,13 @@
 		</tr>
 		<tr>
 			<td colspan=2>The Fellowship Of The Ring</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Hobbit</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -525,7 +561,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>L'homme Ã  l'envers</td>
+			<td colspan=2>L'homme à l'envers</td>
 			<td>Fred Vargas</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -546,7 +582,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le joueur d'Ã©checs</td>
+			<td colspan=2>Le joueur d'échecs</td>
 			<td>Stefan Zweig</td>
 			<td>fr</td>
 			<td>Lu</td>
