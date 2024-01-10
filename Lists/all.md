@@ -417,7 +417,7 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
-			<td>Piranesi</td>
+			<td>Piranèse</td>
 			<td>Susana Clarke</td>
 			<td>Lu</td>
 			<td>Possédé</td>
@@ -1558,6 +1558,12 @@
 		</tr>
 		<tr>
 			<td>La Vénus d'Ille</td>
+			<td>Prosper Mérimée</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>Tamango</td>
 			<td>Prosper Mérimée</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>

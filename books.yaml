@@ -549,6 +549,7 @@ works:
   W_061:
     titles:
       en: Piranesi
+      fr: Piranèse
     language: en
     read: yes
     books: B_053
@@ -3477,6 +3478,14 @@ works:
     read: no
     books: B_340
     authors:
+  W_447:
+    titles:
+      fr: Tamango
+      en: Tamango
+    language: fr
+    read: yes
+    books:
+    authors: A_146
 
 books:
   B_001:

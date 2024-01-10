@@ -208,6 +208,11 @@
 			<td>2</td>
 		</tr>
 		<tr>
+			<td>Prosper Mérimée</td>
+			<td>2</td>
+			<td>0</td>
+		</tr>
+		<tr>
 			<td>Victor Hugo</td>
 			<td>2</td>
 			<td>0</td>
@@ -506,11 +511,6 @@
 			<td>Hugues Micol</td>
 			<td>1</td>
 			<td>1</td>
-		</tr>
-		<tr>
-			<td>Prosper Mérimée</td>
-			<td>1</td>
-			<td>0</td>
 		</tr>
 		<tr>
 			<td>Herman Melville</td>

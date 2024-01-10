@@ -165,6 +165,12 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>Tamango</td>
+			<td>Prosper Mérimée</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>Pagaille à Paris</td>
 			<td>Anthony Morowitz</td>
 			<td>Lu</td>
