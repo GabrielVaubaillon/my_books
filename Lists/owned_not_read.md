@@ -769,6 +769,13 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>Le tour du Tour par 36 détours</td>
+			<td>François Salvaing</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Quentin Durward</td>
 			<td>Walter Scott</td>
 			<td>fr</td>

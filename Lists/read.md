@@ -1443,12 +1443,6 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
-			<td>Le tour du Tour par 36 détours</td>
-			<td>François Salvaing</td>
-			<td>Lu</td>
-			<td>Possédé</td>
-		</tr>
-		<tr>
 			<td>Alcatraz contre les infâmes bibliothécaires</td>
 			<td>Brandon Sanderson</td>
 			<td>Lu</td>

@@ -1423,13 +1423,6 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le tour du Tour par 36 détours</td>
-			<td>François Salvaing</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Arcanum Unbounded</td>
 			<td>Brandon Sanderson</td>
 			<td>en</td>

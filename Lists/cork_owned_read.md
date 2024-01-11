@@ -462,13 +462,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le tour du Tour par 36 détours</td>
-			<td>François Salvaing</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Le vieux qui lisait des romans d'amour</td>
 			<td>Luis Sepuvelda</td>
 			<td>fr</td>

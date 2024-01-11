@@ -805,7 +805,7 @@
 			<td colspan=2>Le tour du Tour par 36 détours</td>
 			<td>François Salvaing</td>
 			<td>fr</td>
-			<td>Lu</td>
+			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>

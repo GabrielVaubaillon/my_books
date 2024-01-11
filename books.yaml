@@ -2448,7 +2448,7 @@ works:
     titles:
       fr: Le tour du Tour par 36 détours
     language: fr
-    read: yes
+    read: no
     books: B_229
     authors: A_183
   W_315:

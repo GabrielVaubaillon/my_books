@@ -2099,7 +2099,7 @@
 		<tr>
 			<td>Le tour du Tour par 36 détours</td>
 			<td>François Salvaing</td>
-			<td>Lu</td>
+			<td>Pas Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
