@@ -2519,7 +2519,7 @@
 		<tr>
 			<td>La guerre des mondes</td>
 			<td>H.G. Wells</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

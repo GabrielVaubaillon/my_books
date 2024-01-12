@@ -1754,6 +1754,20 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>La guerre des mondes</td>
+			<td>H.G. Wells</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>The War of the Worlds</td>
+			<td>H.G. Wells</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>All Systems Red</td>
 			<td>Martha Wells</td>
 			<td>en</td>

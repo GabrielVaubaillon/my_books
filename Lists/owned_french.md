@@ -1759,7 +1759,7 @@
 			<td colspan=2>La guerre des mondes</td>
 			<td>H.G. Wells</td>
 			<td>fr</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>

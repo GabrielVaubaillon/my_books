@@ -8,6 +8,7 @@
 #   - impact: ready to sell/give them or bring the book to the end of the world
 #   - translator
 #   - dates and nationality of authors
+#   - first publication date
 #   - theatre
 #   - movies
 #   - tv series
@@ -2966,7 +2967,7 @@ works:
       fr: La guerre des mondes
       en: The War of the Worlds
     language: en
-    read: no
+    read: yes
     books: B_278;B_334
     authors: A_216
   W_381:

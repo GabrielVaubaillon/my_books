@@ -1791,6 +1791,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>La guerre des mondes</td>
+			<td>H.G. Wells</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Cheval de Troie</td>
 			<td>Martha Wells</td>
 			<td>Lu</td>
