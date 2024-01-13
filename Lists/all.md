@@ -846,7 +846,7 @@
 			<td>Meurtre au Sommet</td>
 			<td>José Giovanni</td>
 			<td>Lu</td>
-			<td>Possédé</td>
+			<td>Non Possédé</td>
 		</tr>
 		<tr>
 			<td>Princess Bride</td>

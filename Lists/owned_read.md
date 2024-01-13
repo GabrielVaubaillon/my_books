@@ -603,13 +603,6 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Meurtre au Sommet</td>
-			<td>José Giovanni</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>The Princess Bride</td>
 			<td>William Goldman</td>
 			<td>en</td>

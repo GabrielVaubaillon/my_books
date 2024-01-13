@@ -991,8 +991,9 @@ works:
       fr: Meurtre au Sommet
     language: fr
     read: yes
-    books: B_101
+    books:
     authors: A_084
+    notes: read 2-84230-035-1; rendu au proprietaire
   W_130:
     titles:
       en: The Princess Bride
@@ -3995,12 +3996,6 @@ books:
     language: fr
     isbn: 2-07-036240-0
     situation: Antony
-  B_101:
-    title: Meurtre au Sommet
-    language: fr
-    isbn: 2-84230-035-1
-    situation: Cork
-    notes: emprunte from pepe
   B_102:
     title: The Princess Bride
     language: en

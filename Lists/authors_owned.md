@@ -723,11 +723,6 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>José Giovanni</td>
-			<td>1</td>
-			<td>1</td>
-		</tr>
-		<tr>
 			<td>Jean Giono</td>
 			<td>1</td>
 			<td>1</td>

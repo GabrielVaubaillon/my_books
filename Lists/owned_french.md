@@ -668,13 +668,6 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Meurtre au Sommet</td>
-			<td>José Giovanni</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Contes et Légendes - Les Douze Travaux d'Hercule</td>
 			<td>Christian Grenier / Philippe Caron</td>
 			<td>fr</td>

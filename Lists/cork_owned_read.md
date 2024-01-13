@@ -211,13 +211,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Meurtre au Sommet</td>
-			<td>José Giovanni</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td>Irish Myths and Legends - Gods and Fighting Mens</td>
 			<td>Gods and Fighting Mens</td>
 			<td>Lady Augusta Gregory</td>

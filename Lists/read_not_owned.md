@@ -99,6 +99,12 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>Meurtre au Sommet</td>
+			<td>José Giovanni</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>L'Ordinatueur</td>
 			<td>Christian Grenier</td>
 			<td>Lu</td>
