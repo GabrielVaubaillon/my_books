@@ -866,7 +866,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Meutre au Sommet</td>
+			<td colspan=2>Meurtre au Sommet</td>
 			<td>José Giovanni</td>
 			<td>fr</td>
 			<td>Lu</td>

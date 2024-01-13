@@ -843,7 +843,7 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
-			<td>Meutre au Sommet</td>
+			<td>Meurtre au Sommet</td>
 			<td>José Giovanni</td>
 			<td>Lu</td>
 			<td>Possédé</td>

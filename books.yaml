@@ -988,7 +988,7 @@ works:
     authors: A_083
   W_129:
     titles:
-      fr: Meutre au Sommet
+      fr: Meurtre au Sommet
     language: fr
     read: yes
     books: B_101
@@ -3996,7 +3996,7 @@ books:
     isbn: 2-07-036240-0
     situation: Antony
   B_101:
-    title: Meutre au Sommet
+    title: Meurtre au Sommet
     language: fr
     isbn: 2-84230-035-1
     situation: Cork
