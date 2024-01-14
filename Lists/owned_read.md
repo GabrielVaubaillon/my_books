@@ -307,6 +307,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>La Forêt Sombre</td>
+			<td>Liu Cixin</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Le Problème à Trois Corps</td>
 			<td>Liu Cixin</td>
 			<td>fr</td>

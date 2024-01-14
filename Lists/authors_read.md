@@ -238,6 +238,11 @@
 			<td>2</td>
 		</tr>
 		<tr>
+			<td>Liu Cixin</td>
+			<td>2</td>
+			<td>3</td>
+		</tr>
+		<tr>
 			<td>Ted Chiang</td>
 			<td>2</td>
 			<td>2</td>
@@ -816,11 +821,6 @@
 			<td>Arthur C. Clarke</td>
 			<td>1</td>
 			<td>1</td>
-		</tr>
-		<tr>
-			<td>Liu Cixin</td>
-			<td>1</td>
-			<td>3</td>
 		</tr>
 		<tr>
 			<td>Jacques Cassabois</td>

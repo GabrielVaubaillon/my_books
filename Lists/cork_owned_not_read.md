@@ -80,13 +80,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>La Forêt Sombre</td>
-			<td>Liu Cixin</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>La Mort Immortelle</td>
 			<td>Liu Cixin</td>
 			<td>fr</td>

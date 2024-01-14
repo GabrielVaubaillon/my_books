@@ -527,7 +527,7 @@ works:
       fr: La Forêt Sombre
       zh: 黑暗森林
     language: zh
-    read: no
+    read: yes
     books: B_050
     authors: A_039
   W_059:

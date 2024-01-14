@@ -395,7 +395,7 @@
 		<tr>
 			<td>La Forêt Sombre</td>
 			<td>Liu Cixin</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
