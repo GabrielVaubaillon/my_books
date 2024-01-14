@@ -413,10 +413,10 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le poid du papillon</td>
+			<td colspan=2>Le poids du papillon</td>
 			<td>Erri de Luca</td>
 			<td>fr</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>

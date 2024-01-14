@@ -549,7 +549,7 @@
 		</tr>
 		<tr>
 			<td>Erri de Luca</td>
-			<td>0</td>
+			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>

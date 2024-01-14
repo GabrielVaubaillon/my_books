@@ -939,6 +939,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Le poids du papillon</td>
+			<td>Erri de Luca</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Les clients du Bon Chien Jaune</td>
 			<td>Pierre Mac Orlan</td>
 			<td>Lu</td>

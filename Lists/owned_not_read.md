@@ -578,13 +578,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le poid du papillon</td>
-			<td>Erri de Luca</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Face au Vent</td>
 			<td>Jim Lynch</td>
 			<td>fr</td>

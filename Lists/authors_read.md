@@ -523,6 +523,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Erri de Luca</td>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Jack London</td>
 			<td>1</td>
 			<td>2</td>

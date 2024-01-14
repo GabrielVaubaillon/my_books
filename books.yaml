@@ -3214,10 +3214,10 @@ works:
     authors: A_230
   W_412:
     titles:
-      fr: Le poid du papillon
+      fr: Le poids du papillon
       it: Il peso della farfalla
     language: it
-    read: no
+    read: yes
     books: B_309
     authors: A_231
   W_413:
@@ -5058,7 +5058,7 @@ books:
     isbn: 978-2-7578-9327-2
     situation: Cork
   B_309:
-    title: Le poid du papillon
+    title: Le poids du papillon
     language: fr
     isbn: 978-2-07-044958-3
     situation: Cork

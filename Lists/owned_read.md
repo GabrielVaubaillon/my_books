@@ -1019,6 +1019,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Le poids du papillon</td>
+			<td>Erri de Luca</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Les clients du Bon Chien Jaune</td>
 			<td>Pierre Mac Orlan</td>
 			<td>fr</td>

@@ -1431,9 +1431,9 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
-			<td>Le poid du papillon</td>
+			<td>Le poids du papillon</td>
 			<td>Erri de Luca</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
