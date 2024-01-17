@@ -10,13 +10,6 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td colspan=2>Mythes Celtiques</td>
-			<td>Miranda Jane Aldhouse-Green</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>La Fée et le Géomètre</td>
 			<td>Jean-Pierre Andrevon</td>
 			<td>fr</td>

@@ -20,7 +20,7 @@
 			<td colspan=2>Mythes Celtiques</td>
 			<td>Miranda Jane Aldhouse-Green</td>
 			<td>fr</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>

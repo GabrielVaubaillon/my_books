@@ -17,6 +17,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Celtiques</td>
+			<td>Miranda Jane Aldhouse-Green</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td>Les contes d'Andersen</td>
 			<td>Contes d'Andersen</td>
 			<td>Hans Christian Andersen</td>

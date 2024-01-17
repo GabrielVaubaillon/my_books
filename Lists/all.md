@@ -17,7 +17,7 @@
 		<tr>
 			<td>Mythes Celtiques</td>
 			<td>Miranda Jane Aldhouse-Green</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

@@ -17,6 +17,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Celtiques</td>
+			<td>Miranda Jane Aldhouse-Green</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Le Perroquet qui Bégayait</td>
 			<td>Robert Arthur, Jr</td>
 			<td>fr</td>
