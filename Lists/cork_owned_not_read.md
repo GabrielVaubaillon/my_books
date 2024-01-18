@@ -394,13 +394,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Mythes Aztèques et Mayas</td>
-			<td>Karl Taube</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Beren and Lúthien</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>

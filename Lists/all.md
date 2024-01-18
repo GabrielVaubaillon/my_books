@@ -2303,7 +2303,7 @@
 		<tr>
 			<td>Mythes Aztèques et Mayas</td>
 			<td>Karl Taube</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

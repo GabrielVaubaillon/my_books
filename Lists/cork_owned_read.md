@@ -505,6 +505,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Aztèques et Mayas</td>
+			<td>Karl Taube</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Children of Húrin</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>

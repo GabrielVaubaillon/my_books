@@ -3192,7 +3192,7 @@ works:
       fr: Mythes Aztèques et Mayas
       en: Aztec and Maya Myths
     language: en
-    read: no
+    read: yes
     books: B_306
     authors: A_228
   W_410:

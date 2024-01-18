@@ -1641,6 +1641,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Mythes Aztèques et Mayas</td>
+			<td>Karl Taube</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Nous sommes legions</td>
 			<td>Dennis E. Taylor</td>
 			<td>Lu</td>

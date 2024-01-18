@@ -639,7 +639,7 @@
 			<td colspan=2>Mythes Aztèques et Mayas</td>
 			<td>Karl Taube</td>
 			<td>fr</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
