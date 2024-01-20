@@ -233,7 +233,7 @@
 		<tr>
 			<td>Mythes Chinois</td>
 			<td>Anne Birrell</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

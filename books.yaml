@@ -3184,7 +3184,7 @@ works:
       en: Chinese Myths
       fr: Mythes Chinois
     language: en
-    read: no
+    read: yes
     books: B_305
     authors: A_227
   W_409:

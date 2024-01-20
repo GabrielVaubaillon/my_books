@@ -59,13 +59,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Mythes Chinois</td>
-			<td>Anne Birrell</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Kindred</td>
 			<td>Octavia E. Butler</td>
 			<td>en</td>

@@ -205,7 +205,7 @@
 			<td colspan=2>Mythes Chinois</td>
 			<td>Anne Birrell</td>
 			<td>fr</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>

@@ -167,6 +167,13 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Chinois</td>
+			<td>Anne Birrell</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Les six compagnons dans la ville rose</td>
 			<td>Paul-Jacques Bonzon</td>
 			<td>fr</td>

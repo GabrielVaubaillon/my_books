@@ -56,6 +56,13 @@
 			<td>Terre et Fondation</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Chinois</td>
+			<td>Anne Birrell</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>La planète des singes</td>
 			<td>Pierre Boule</td>
 			<td>fr</td>

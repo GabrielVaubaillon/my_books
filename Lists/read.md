@@ -171,6 +171,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Mythes Chinois</td>
+			<td>Anne Birrell</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Les six compagnons dans la ville rose</td>
 			<td>Paul-Jacques Bonzon</td>
 			<td>Lu</td>

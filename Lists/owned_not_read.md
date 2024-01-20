@@ -80,13 +80,6 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Mythes Chinois</td>
-			<td>Anne Birrell</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Bennett et sa cabane</td>
 			<td>Anthony Buckeridge</td>
 			<td>fr</td>

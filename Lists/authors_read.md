@@ -868,6 +868,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Anne Birrell</td>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Hervé Bazin</td>
 			<td>1</td>
 			<td>1</td>
