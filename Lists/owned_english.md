@@ -820,5 +820,12 @@
 			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
+		<tr>
+			<td colspan=2>The Anthology of Scottish Folk Tales</td>
+			<td></td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
 	</tbody>
 </table>

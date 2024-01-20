@@ -1946,5 +1946,11 @@
 			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
+		<tr>
+			<td>The Anthology of Scottish Folk Tales</td>
+			<td></td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
 	</tbody>
 </table>

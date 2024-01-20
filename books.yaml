@@ -3488,6 +3488,13 @@ works:
     read: yes
     books:
     authors: A_146
+  W_448:
+    titles:
+      en: The Anthology of Scottish Folk Tales
+    language: en
+    read: yes
+    books: B_341
+    authors:
 
 books:
   B_001:
@@ -5216,6 +5223,11 @@ books:
     title: Greek Myths and Legends
     language: en
     isbn: 978-1-83964-887-8
+    situation: Cork
+  B_341:
+    title: The Anthology of Scottish Folk Tales
+    language: en
+    isbn: 978-0-7509-9203-9
     situation: Cork
 
 authors:
