@@ -13,6 +13,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Dolly Alderton</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Miranda Jane Aldhouse-Green</td>
 			<td>1</td>
 			<td>1</td>
@@ -709,6 +714,11 @@
 		</tr>
 		<tr>
 			<td>Jim Lynch</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Sarah J. Maas</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>

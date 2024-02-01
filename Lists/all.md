@@ -15,6 +15,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Tout ce que je sais sur l'amour</td>
+			<td>Dolly Alderton</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Mythes Celtiques</td>
 			<td>Miranda Jane Aldhouse-Green</td>
 			<td>Lu</td>
@@ -1439,6 +1445,12 @@
 		<tr>
 			<td>Face au Vent</td>
 			<td>Jim Lynch</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>Un palais d'épines et de roses</td>
+			<td>Sarah J. Maas</td>
 			<td>Pas Lu</td>
 			<td>Possédé</td>
 		</tr>

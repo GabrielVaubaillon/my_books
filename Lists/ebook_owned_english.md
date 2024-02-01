@@ -10,6 +10,14 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>Everything I know about love</td>
+			<td>Everything I know bout love</td>
+			<td>Dolly Alderton</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>I, Robot</td>
 			<td>Isaac Asimov</td>
 			<td>en</td>
@@ -246,6 +254,13 @@
 		</tr>
 		<tr>
 			<td>Speaking Bones</td>
+		</tr>
+		<tr>
+			<td colspan=2>A Court Of Thorns And Roses</td>
+			<td>Sarah J. Maas</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
 		</tr>
 		<tr>
 			<td colspan=2>Loveless</td>

@@ -10,6 +10,14 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>Everything I know about love</td>
+			<td>Everything I know bout love</td>
+			<td>Dolly Alderton</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>La Fée et le Géomètre</td>
 			<td>Jean-Pierre Andrevon</td>
 			<td>fr</td>
@@ -569,6 +577,13 @@
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>A Court Of Thorns And Roses</td>
+			<td>Sarah J. Maas</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
 		</tr>
 		<tr>
 			<td colspan=2>Cent ans de solitude</td>

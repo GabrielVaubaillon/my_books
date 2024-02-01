@@ -3495,6 +3495,22 @@ works:
     read: yes
     books: B_341
     authors:
+  W_449:
+    titles:
+      en: Everything I know bout love
+      fr: Tout ce que je sais sur l'amour
+    language: en
+    read: no
+    books: B_342
+    authors: A_240
+  W_450:
+    titles:
+      en: A Court Of Thorns And Roses
+      fr: Un palais d'épines et de roses
+    language: en
+    read: no
+    books: B_343
+    authors: A_241
 
 books:
   B_001:
@@ -5229,6 +5245,16 @@ books:
     language: en
     isbn: 978-0-7509-9203-9
     situation: Cork
+  B_342:
+    title: Everything I know about love
+    language: en
+    isbn: 978-0-241-98209-9
+    situation: Ebook
+  B_343:
+    title: A Court Of Thorns And Roses
+    language: en
+    isbn: 978-1-4088-5787-8
+    situation: Ebook
 
 authors:
   A_001:
@@ -5736,6 +5762,10 @@ authors:
     name: Olivier Truc
   A_239:
     name: Dan Simmons
+  A_240:
+    name: Dolly Alderton
+  A_241:
+    name: Sarah J. Maas
 
 series:
   S_001:
