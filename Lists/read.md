@@ -519,6 +519,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Disparaître</td>
+			<td>Lionel Duroy</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Les Oiseaux du temps</td>
 			<td>Amal El-Mothar / Max Gladstone</td>
 			<td>Lu</td>

@@ -183,6 +183,13 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
+			<td colspan=2>Disparaître</td>
+			<td>Lionel Duroy</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>This Is How You Lose the Time War</td>
 			<td>Amal El-Mothar / Max Gladstone</td>
 			<td>en</td>

@@ -17,8 +17,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td>Everything I know about love</td>
-			<td>Everything I know bout love</td>
+			<td colspan=2>Everything I know about love</td>
 			<td>Dolly Alderton</td>
 			<td>en</td>
 			<td>Pas Lu</td>
@@ -736,7 +735,7 @@
 			<td colspan=2>Disparaître</td>
 			<td>Lionel Duroy</td>
 			<td>fr</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>

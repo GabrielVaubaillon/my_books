@@ -168,13 +168,6 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td colspan=2>Disparaître</td>
-			<td>Lionel Duroy</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Le Crépuscule et l'Aube</td>
 			<td>Ken Follett</td>
 			<td>fr</td>

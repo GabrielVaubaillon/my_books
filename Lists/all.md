@@ -719,7 +719,7 @@
 		<tr>
 			<td>Disparaître</td>
 			<td>Lionel Duroy</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

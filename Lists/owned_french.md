@@ -551,7 +551,7 @@
 			<td colspan=2>Disparaître</td>
 			<td>Lionel Duroy</td>
 			<td>fr</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>

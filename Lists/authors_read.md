@@ -743,6 +743,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Lionel Duroy</td>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Alexandre Dumas</td>
 			<td>1</td>
 			<td>8</td>

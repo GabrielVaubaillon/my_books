@@ -3410,7 +3410,7 @@ works:
     titles:
       fr: Disparaître
     language: fr
-    read: no
+    read: yes
     books: B_328
     authors: A_237
   W_438:
@@ -3497,7 +3497,7 @@ works:
     authors:
   W_449:
     titles:
-      en: Everything I know bout love
+      en: Everything I know about love
       fr: Tout ce que je sais sur l'amour
     language: en
     read: no
