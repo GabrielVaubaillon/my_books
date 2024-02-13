@@ -3417,7 +3417,7 @@ works:
     titles:
       fr: Les Sentiers Obscurs de Karachi
     language: fr
-    read: no
+    read: yes
     books: B_329
     authors: A_238
   W_439:

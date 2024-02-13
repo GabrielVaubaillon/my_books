@@ -2429,7 +2429,7 @@
 		<tr>
 			<td>Les Sentiers Obscurs de Karachi</td>
 			<td>Olivier Truc</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

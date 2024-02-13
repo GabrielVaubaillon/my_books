@@ -298,6 +298,11 @@
 			<td>0</td>
 		</tr>
 		<tr>
+			<td>Olivier Truc</td>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Walter Trevis</td>
 			<td>1</td>
 			<td>1</td>

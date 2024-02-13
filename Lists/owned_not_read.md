@@ -804,13 +804,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Les Sentiers Obscurs de Karachi</td>
-			<td>Olivier Truc</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>J'irai cracher sur vos tombes</td>
 			<td>Boris Vian</td>
 			<td>fr</td>

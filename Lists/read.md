@@ -1743,6 +1743,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Les Sentiers Obscurs de Karachi</td>
+			<td>Olivier Truc</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>L'ami retrouvé</td>
 			<td>Fred Uhlman</td>
 			<td>Lu</td>

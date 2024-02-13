@@ -667,7 +667,7 @@
 			<td colspan=2>Les Sentiers Obscurs de Karachi</td>
 			<td>Olivier Truc</td>
 			<td>fr</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>

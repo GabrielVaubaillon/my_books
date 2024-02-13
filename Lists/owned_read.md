@@ -1726,6 +1726,13 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>Les Sentiers Obscurs de Karachi</td>
+			<td>Olivier Truc</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>L'homme à l'envers</td>
 			<td>Fred Vargas</td>
 			<td>fr</td>
