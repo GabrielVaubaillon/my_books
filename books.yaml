@@ -3500,7 +3500,7 @@ works:
       en: Everything I know about love
       fr: Tout ce que je sais sur l'amour
     language: en
-    read: no
+    read: yes
     books: B_342
     authors: A_240
   W_450:

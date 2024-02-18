@@ -10,6 +10,13 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td colspan=2>Everything I know about love</td>
+			<td>Dolly Alderton</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td>Les contes d'Andersen</td>
 			<td>Contes d'Andersen</td>
 			<td>Hans Christian Andersen</td>
