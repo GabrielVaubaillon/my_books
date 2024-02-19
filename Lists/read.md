@@ -969,6 +969,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Un palais d'épines et de roses</td>
+			<td>Sarah J. Maas</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Les clients du Bon Chien Jaune</td>
 			<td>Pierre Mac Orlan</td>
 			<td>Lu</td>

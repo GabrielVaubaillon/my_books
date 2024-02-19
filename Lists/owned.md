@@ -1455,7 +1455,7 @@
 			<td colspan=2>A Court Of Thorns And Roses</td>
 			<td>Sarah J. Maas</td>
 			<td>en</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>

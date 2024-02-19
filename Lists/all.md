@@ -1451,7 +1451,7 @@
 		<tr>
 			<td>Un palais d'épines et de roses</td>
 			<td>Sarah J. Maas</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

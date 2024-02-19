@@ -389,6 +389,13 @@
 			<td>The Other Wind</td>
 		</tr>
 		<tr>
+			<td colspan=2>A Court Of Thorns And Roses</td>
+			<td>Sarah J. Maas</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Loveless</td>
 			<td>Alice Oseman</td>
 			<td>en</td>

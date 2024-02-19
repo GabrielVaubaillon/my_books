@@ -1054,6 +1054,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>A Court Of Thorns And Roses</td>
+			<td>Sarah J. Maas</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Les clients du Bon Chien Jaune</td>
 			<td>Pierre Mac Orlan</td>
 			<td>fr</td>
