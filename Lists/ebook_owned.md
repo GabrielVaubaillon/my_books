@@ -279,7 +279,7 @@
 		</tr>
 		<tr>
 			<td>Arsène Lupin contre Herlock Sholmès</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 		</tr>
 		<tr>
 			<td>L'Aiguille Creuse</td>

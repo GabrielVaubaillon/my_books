@@ -897,6 +897,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Arsène Lupin contre Herlock Sholmès</td>
+			<td>Maurice Leblanc</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Arsène Lupin, Gentleman-Cambrioleur</td>
 			<td>Maurice Leblanc</td>
 			<td>Lu</td>

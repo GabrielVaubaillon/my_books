@@ -1476,7 +1476,7 @@ works:
     titles:
       fr: Arsène Lupin contre Herlock Sholmès
     language: fr
-    read: no
+    read: yes
     books: B_149
     authors: A_127
   W_184:

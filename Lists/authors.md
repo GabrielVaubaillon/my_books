@@ -659,7 +659,7 @@
 		</tr>
 		<tr>
 			<td>Maurice Leblanc</td>
-			<td>1</td>
+			<td>2</td>
 			<td>23</td>
 		</tr>
 		<tr>

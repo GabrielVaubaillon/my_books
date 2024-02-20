@@ -1205,7 +1205,7 @@
 		<tr>
 			<td>Arsène Lupin contre Herlock Sholmès</td>
 			<td>Maurice Leblanc</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
