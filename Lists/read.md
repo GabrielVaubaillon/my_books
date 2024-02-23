@@ -909,6 +909,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>L'Aiguille Creuse</td>
+			<td>Maurice Leblanc</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Pachinko</td>
 			<td>Min Jin Lee</td>
 			<td>Lu</td>

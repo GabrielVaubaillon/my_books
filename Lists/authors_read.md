@@ -133,6 +133,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Maurice Leblanc</td>
+			<td>3</td>
+			<td>23</td>
+		</tr>
+		<tr>
 			<td>Virgina Heath</td>
 			<td>3</td>
 			<td>3</td>
@@ -216,11 +221,6 @@
 			<td>Prosper Mérimée</td>
 			<td>2</td>
 			<td>0</td>
-		</tr>
-		<tr>
-			<td>Maurice Leblanc</td>
-			<td>2</td>
-			<td>23</td>
 		</tr>
 		<tr>
 			<td>Victor Hugo</td>

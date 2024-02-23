@@ -9,7 +9,7 @@
 	<tbody>
 		<tr>
 			<td>Maurice Leblanc</td>
-			<td>2</td>
+			<td>3</td>
 			<td>23</td>
 		</tr>
 		<tr>

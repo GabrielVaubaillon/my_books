@@ -920,7 +920,7 @@
 		</tr>
 		<tr>
 			<td>L'Aiguille Creuse</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 		</tr>
 		<tr>
 			<td>813</td>

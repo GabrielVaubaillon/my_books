@@ -1223,7 +1223,7 @@
 		<tr>
 			<td>L'Aiguille Creuse</td>
 			<td>Maurice Leblanc</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
