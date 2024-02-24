@@ -98,6 +98,11 @@
 			<td>6</td>
 		</tr>
 		<tr>
+			<td>Maurice Leblanc</td>
+			<td>4</td>
+			<td>23</td>
+		</tr>
+		<tr>
 			<td>Arthur Conan Doyle</td>
 			<td>4</td>
 			<td>11</td>
@@ -131,11 +136,6 @@
 			<td>Guy de Maupassant</td>
 			<td>3</td>
 			<td>1</td>
-		</tr>
-		<tr>
-			<td>Maurice Leblanc</td>
-			<td>3</td>
-			<td>23</td>
 		</tr>
 		<tr>
 			<td>Virgina Heath</td>

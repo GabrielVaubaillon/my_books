@@ -1199,7 +1199,7 @@
 		<tr>
 			<td>813</td>
 			<td>Maurice Leblanc</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

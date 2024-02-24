@@ -1490,7 +1490,7 @@ works:
     titles:
       fr: 813
     language: fr
-    read: no
+    read: yes
     books: B_149
     authors: A_127
   W_186:

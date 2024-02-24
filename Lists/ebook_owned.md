@@ -287,7 +287,7 @@
 		</tr>
 		<tr>
 			<td>813</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 		</tr>
 		<tr>
 			<td>Le Bouchon de Cristal</td>
