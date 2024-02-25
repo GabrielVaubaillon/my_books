@@ -1253,7 +1253,7 @@
 		</tr>
 		<tr>
 			<td>Les Confidences d'Arsène Lupin</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 		</tr>
 		<tr>
 			<td>L'Éclat d'Obus</td>

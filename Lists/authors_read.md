@@ -48,6 +48,11 @@
 			<td>6</td>
 		</tr>
 		<tr>
+			<td>Maurice Leblanc</td>
+			<td>6</td>
+			<td>23</td>
+		</tr>
+		<tr>
 			<td>Frank Herbert</td>
 			<td>6</td>
 			<td>6</td>
@@ -56,11 +61,6 @@
 			<td>Paul-Jacques Bonzon</td>
 			<td>6</td>
 			<td>6</td>
-		</tr>
-		<tr>
-			<td>Maurice Leblanc</td>
-			<td>5</td>
-			<td>23</td>
 		</tr>
 		<tr>
 			<td>Ali Hazelwood</td>

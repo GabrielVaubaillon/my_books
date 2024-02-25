@@ -927,6 +927,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Les Confidences d'Arsène Lupin</td>
+			<td>Maurice Leblanc</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Pachinko</td>
 			<td>Min Jin Lee</td>
 			<td>Lu</td>

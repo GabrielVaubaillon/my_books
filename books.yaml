@@ -1504,7 +1504,7 @@ works:
     titles:
       fr: Les Confidences d'Arsène Lupin
     language: fr
-    read: no
+    read: yes
     books: B_149
     authors: A_127
   W_188:
