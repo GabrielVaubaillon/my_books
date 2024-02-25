@@ -921,6 +921,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Le Bouchon de Cristal</td>
+			<td>Maurice Leblanc</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Pachinko</td>
 			<td>Min Jin Lee</td>
 			<td>Lu</td>

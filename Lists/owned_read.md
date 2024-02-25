@@ -928,7 +928,7 @@
 		</tr>
 		<tr>
 			<td>Le Bouchon de Cristal</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 		</tr>
 		<tr>
 			<td>Les Confidences d'Arsène Lupin</td>

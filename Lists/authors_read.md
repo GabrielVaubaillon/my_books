@@ -58,6 +58,11 @@
 			<td>6</td>
 		</tr>
 		<tr>
+			<td>Maurice Leblanc</td>
+			<td>5</td>
+			<td>23</td>
+		</tr>
+		<tr>
 			<td>Ali Hazelwood</td>
 			<td>5</td>
 			<td>5</td>
@@ -96,11 +101,6 @@
 			<td>George R.R. Martin</td>
 			<td>4</td>
 			<td>6</td>
-		</tr>
-		<tr>
-			<td>Maurice Leblanc</td>
-			<td>4</td>
-			<td>23</td>
 		</tr>
 		<tr>
 			<td>Arthur Conan Doyle</td>
