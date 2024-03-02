@@ -201,6 +201,12 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>L'Extraordinaire Voyage du fakir qui était resté coincé dans une armoire Ikea</td>
+			<td>Romain Puértolas</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>Poil de Carotte</td>
 			<td>Jules Renard</td>
 			<td>Lu</td>

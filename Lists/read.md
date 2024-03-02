@@ -1299,6 +1299,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>L'Extraordinaire Voyage du fakir qui était resté coincé dans une armoire Ikea</td>
+			<td>Romain Puértolas</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>La Tour des Anges</td>
 			<td>Philip Pullman</td>
 			<td>Lu</td>

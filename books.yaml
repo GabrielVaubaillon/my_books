@@ -3511,6 +3511,14 @@ works:
     read: yes
     books: B_343
     authors: A_241
+  W_451:
+    titles:
+      fr: L'Extraordinaire Voyage du fakir qui était resté coincé dans une armoire Ikea
+      en: The Extraordinary Journey of the Fakir Who Got Trapped in an IKEA Wardrobe
+    language: fr
+    read: yes
+    books:
+    authors: A_242
 
 books:
   B_001:
@@ -5766,6 +5774,9 @@ authors:
     name: Dolly Alderton
   A_241:
     name: Sarah J. Maas
+  A_242:
+    name: Romain Puértolas
+    sorting_name: Puertolas
 
 series:
   S_001:

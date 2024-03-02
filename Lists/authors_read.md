@@ -418,6 +418,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Romain Puértolas</td>
+			<td>1</td>
+			<td>0</td>
+		</tr>
+		<tr>
 			<td>Jean Portail</td>
 			<td>1</td>
 			<td>1</td>
