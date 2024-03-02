@@ -621,6 +621,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Le Roman de la momie</td>
+			<td>Théophile Gautier</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>Le Hussard sur le Toit</td>
 			<td>Jean Giono</td>
 			<td>Lu</td>
@@ -1999,6 +2005,12 @@
 			<td></td>
 			<td>Lu</td>
 			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>Roman de Renart</td>
+			<td></td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
 		</tr>
 		<tr>
 			<td>The Anthology of Irish Folk Tales</td>

@@ -837,6 +837,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Le Roman de la momie</td>
+			<td>Théophile Gautier</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>L'histoire de Géronimo</td>
 			<td>Géronimo / S.M. Barett</td>
 			<td>Pas Lu</td>
@@ -2701,6 +2707,12 @@
 			<td></td>
 			<td>Pas Lu</td>
 			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>Roman de Renart</td>
+			<td></td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
 		</tr>
 		<tr>
 			<td>The Anthology of Irish Folk Tales</td>

@@ -99,6 +99,12 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>Le Roman de la momie</td>
+			<td>Théophile Gautier</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>Meurtre au Sommet</td>
 			<td>José Giovanni</td>
 			<td>Lu</td>
@@ -449,6 +455,12 @@
 		<tr>
 			<td>Le messager d'Athène</td>
 			<td>Odile Weulersse</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>Roman de Renart</td>
+			<td></td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
 		</tr>

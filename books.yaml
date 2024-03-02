@@ -3519,6 +3519,21 @@ works:
     read: yes
     books:
     authors: A_242
+  W_452:
+    titles:
+      fr: Roman de Renart
+      en: Reynard the Fox
+    language: fr
+    read: yes
+    books:
+    authors:
+  W_453:
+    titles:
+      fr: Le Roman de la momie
+    language: fr
+    read: yes
+    books:
+    authors: A_082
 
 books:
   B_001:

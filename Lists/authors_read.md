@@ -228,6 +228,11 @@
 			<td>0</td>
 		</tr>
 		<tr>
+			<td>Théophile Gautier</td>
+			<td>2</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Timothée de Fombelle</td>
 			<td>2</td>
 			<td>0</td>
@@ -714,11 +719,6 @@
 		</tr>
 		<tr>
 			<td>Jean Giono</td>
-			<td>1</td>
-			<td>1</td>
-		</tr>
-		<tr>
-			<td>Théophile Gautier</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>

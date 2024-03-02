@@ -444,7 +444,7 @@
 		</tr>
 		<tr>
 			<td>Théophile Gautier</td>
-			<td>1</td>
+			<td>2</td>
 			<td>1</td>
 		</tr>
 		<tr>
