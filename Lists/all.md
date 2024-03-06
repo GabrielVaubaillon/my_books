@@ -33,6 +33,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>La Révélation des Médicus</td>
+			<td>Eli Anderson</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>La Fée et le Géomètre</td>
 			<td>Jean-Pierre Andrevon</td>
 			<td>Pas Lu</td>

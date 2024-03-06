@@ -953,6 +953,11 @@
 			<td>0</td>
 		</tr>
 		<tr>
+			<td>Eli Anderson</td>
+			<td>1</td>
+			<td>0</td>
+		</tr>
+		<tr>
 			<td>Hans Christian Andersen</td>
 			<td>1</td>
 			<td>1</td>

@@ -3534,6 +3534,13 @@ works:
     read: yes
     books:
     authors: A_082
+  W_454:
+    titles:
+      fr: La Révélation des Médicus
+    language: fr
+    read: yes
+    books:
+    authors: A_243
 
 books:
   B_001:
@@ -5792,6 +5799,8 @@ authors:
   A_242:
     name: Romain Puértolas
     sorting_name: Puertolas
+  A_243:
+    name: Eli Anderson
 
 series:
   S_001:

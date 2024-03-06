@@ -33,6 +33,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>La Révélation des Médicus</td>
+			<td>Eli Anderson</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>Antigone</td>
 			<td>Jean Anouilh</td>
 			<td>Lu</td>
