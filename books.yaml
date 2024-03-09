@@ -6054,11 +6054,11 @@ series:
       fr: Le Trône de fer
     abbreviation: ASOIAF
     works:
-      1: W_217
-      2: W_218
-      3: W_219
-      4: W_220
-      5: W_221
+      1: W_218
+      2: W_219
+      3: W_220
+      4: W_221
+      5: W_222
     notes: Game of Thrones
   S_021:
     name:
@@ -6225,4 +6225,13 @@ series:
       fr: Un palais d'épines et de roses
     works:
       1: W_450
+  S_038:
+    name:
+      en: The Lord Of The Rings
+      fr: Le Seigneur des Anneaux
+    works:
+      0: W_354
+      1: W_355
+      2: W_356
+      3: W_357
 

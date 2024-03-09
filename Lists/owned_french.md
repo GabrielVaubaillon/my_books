@@ -67,6 +67,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Noël sur Ganymède</td>
+			<td>Isaac Asimov</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td rowspan=3>Fondation 1</td>
 			<td>Fondation</td>
 			<td rowspan=3>Isaac Asimov</td>
@@ -90,13 +97,6 @@
 		</tr>
 		<tr>
 			<td>Terre et Fondation</td>
-		</tr>
-		<tr>
-			<td colspan=2>Noël sur Ganymède</td>
-			<td>Isaac Asimov</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>Les contes bleus du chat perché</td>
@@ -294,6 +294,13 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>Le Problème à Trois Corps</td>
+			<td>Liu Cixin</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>La Forêt Sombre</td>
 			<td>Liu Cixin</td>
 			<td>fr</td>
@@ -305,13 +312,6 @@
 			<td>Liu Cixin</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>Le Problème à Trois Corps</td>
-			<td>Liu Cixin</td>
-			<td>fr</td>
-			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
@@ -492,7 +492,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Ange Pitou</td>
+			<td colspan=2>Le Comte de Monte-Cristo</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -506,13 +506,6 @@
 			<td>Paris</td>
 		</tr>
 		<tr>
-			<td colspan=2>La Comtesse de Charny</td>
-			<td>Alexandre Dumas</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Paris</td>
-		</tr>
-		<tr>
 			<td colspan=2>Le Collier de la Reine</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
@@ -520,14 +513,14 @@
 			<td>Paris</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le Comte de Monte-Cristo</td>
+			<td colspan=2>Ange Pitou</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Paris</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le Vicomte de Bragelonne</td>
+			<td colspan=2>La Comtesse de Charny</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -542,6 +535,13 @@
 		</tr>
 		<tr>
 			<td colspan=2>Vingt ans après</td>
+			<td>Alexandre Dumas</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Paris</td>
+		</tr>
+		<tr>
+			<td colspan=2>Le Vicomte de Bragelonne</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -569,7 +569,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Guérilla Social Club</td>
+			<td colspan=2>Tapas Nocturnes</td>
 			<td>Marc Fernandez</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -583,7 +583,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Tapas Nocturnes</td>
+			<td colspan=2>Guérilla Social Club</td>
 			<td>Marc Fernandez</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -857,14 +857,6 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td>Arsène Lupin - La Comtesse de Cagliostro</td>
-			<td>La Comtesse de Cagliostro</td>
-			<td>Maurice Leblanc</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td rowspan=23>Integrale Arsène Lupin</td>
 			<td>Arsène Lupin, Gentleman-Cambrioleur</td>
 			<td rowspan=23>Maurice Leblanc</td>
@@ -959,6 +951,14 @@
 		<tr>
 			<td>Les Milliards d'Arsène Lupin</td>
 			<td>Pas Lu</td>
+		</tr>
+		<tr>
+			<td>Arsène Lupin - La Comtesse de Cagliostro</td>
+			<td>La Comtesse de Cagliostro</td>
+			<td>Maurice Leblanc</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td rowspan=9>Les aventures extraordinaires d'Arsène Lupin - Tome 3 (omnibus)</td>
@@ -1104,28 +1104,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Histoire de Nerilka</td>
-			<td>Anne McCaffrey</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Antony</td>
-		</tr>
-		<tr>
-			<td colspan=2>L'aube des dragons</td>
-			<td>Anne McCaffrey</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Antony</td>
-		</tr>
-		<tr>
-			<td colspan=2>La dame aux dragons</td>
-			<td>Anne McCaffrey</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Antony</td>
-		</tr>
-		<tr>
-			<td colspan=2>La quête du dragon</td>
+			<td colspan=2>Les renégats de Pern</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -1139,6 +1118,13 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>La quête du dragon</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
 			<td colspan=2>Le dragon blanc</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
@@ -1146,7 +1132,21 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Les renégats de Pern</td>
+			<td colspan=2>La dame aux dragons</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Histoire de Nerilka</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>L'aube des dragons</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -1370,13 +1370,6 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Brisingr</td>
-			<td>Christopher Paolini</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Eragon</td>
 			<td>Christopher Paolini</td>
 			<td>fr</td>
@@ -1385,6 +1378,13 @@
 		</tr>
 		<tr>
 			<td colspan=2>L'Aîné</td>
+			<td>Christopher Paolini</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Brisingr</td>
 			<td>Christopher Paolini</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -1475,6 +1475,13 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>Les Royaumes du Nord</td>
+			<td>Philip Pullman</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>La Tour des Anges</td>
 			<td>Philip Pullman</td>
 			<td>fr</td>
@@ -1483,13 +1490,6 @@
 		</tr>
 		<tr>
 			<td colspan=2>Le Miroir d'Ambre</td>
-			<td>Philip Pullman</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>Les Royaumes du Nord</td>
 			<td>Philip Pullman</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -1510,7 +1510,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Aurore</td>
+			<td colspan=2>Souffle d'Ombre</td>
 			<td>Mark Robson</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -1524,7 +1524,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Souffle d'Ombre</td>
+			<td colspan=2>Aurore</td>
 			<td>Mark Robson</td>
 			<td>fr</td>
 			<td>Lu</td>

@@ -418,28 +418,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Histoire de Nerilka</td>
-			<td>Anne McCaffrey</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Antony</td>
-		</tr>
-		<tr>
-			<td colspan=2>L'aube des dragons</td>
-			<td>Anne McCaffrey</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Antony</td>
-		</tr>
-		<tr>
-			<td colspan=2>La dame aux dragons</td>
-			<td>Anne McCaffrey</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Antony</td>
-		</tr>
-		<tr>
-			<td colspan=2>La quête du dragon</td>
+			<td colspan=2>Les renégats de Pern</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -453,6 +432,13 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>La quête du dragon</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
 			<td colspan=2>Le dragon blanc</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
@@ -460,7 +446,21 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Les renégats de Pern</td>
+			<td colspan=2>La dame aux dragons</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Histoire de Nerilka</td>
+			<td>Anne McCaffrey</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>L'aube des dragons</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
 			<td>Lu</td>

@@ -55,7 +55,9 @@ def sorted_book_list(book_ids, lib):
             fullname = lib["authors"][authors[0]]["name"].lower()
         title = lib["books"][b_id]["title"]
         situation = lib["books"][b_id]["situation"]
-        return (author, fullname, title, situation)
+        serie = lib["books"][b_id].get("serie", "")
+        serie_place = lib["books"][b_id].get("serie_position", "")
+        return (author, fullname, serie, serie_place, title, situation)
 
     ids.sort(key=lambda x: sorting_key(x, lib))
     return ids
@@ -75,7 +77,9 @@ def sorted_works_list(work_ids, lib):
             title = lib["works"][w_id]["titles"]["fr"]
         else:
             title = lib["works"][w_id]["titles"]["en"]
-        return (author, fullname, title)
+        serie = lib["works"][w_id].get("serie", "")
+        serie_place = lib["works"][w_id].get("serie_position", "")
+        return (author, fullname, serie, serie_place, title)
 
     ids.sort(key=lambda x: sorting_key(x, lib))
     return ids
@@ -335,8 +339,6 @@ def main():
 
     lib = yaml_library.data
 
-    # TODO: series
-
     # Make two way link authors<->works<->books (from authors<-works->books)
     log.info("- Loading library")
     log.debug("Casting semicolon-separated strings to lists")
@@ -346,7 +348,6 @@ def main():
                 w[key] = w[key].split(";")
             else:
                 w[key] = []
-
 
     log.debug("Linking works to authors and works to books")
     for w_id, w in lib["works"].items():
@@ -362,6 +363,18 @@ def main():
         if "sorting_name" not in a:
             a["sorting_name"] = a["name"].split(" ")[-1]
         a["sorting_name"] = a["sorting_name"].lower()
+
+    log.debug("Adding Serie info in works and books")
+    for s_id, s in lib["series"].items():
+        if "works" in s:
+            for place, w_id in s["works"].items():
+                lib["works"][w_id]["serie"] = s_id
+                lib["works"][w_id]["serie_position"] = place
+                for b_id in lib["works"][w_id]["books"]:
+                    if "serie" not in lib["books"][b_id] or lib["books"][b_id]["serie"] > s_id:
+                        lib["books"][b_id]["serie"] = s_id
+                    if "serie_position" not in lib["books"][b_id] or lib["books"][b_id]["serie_position"] > place:
+                        lib["books"][b_id]["serie_position"] = place
 
     log.info("- Library loaded and ready to use")
 

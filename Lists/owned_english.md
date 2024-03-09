@@ -73,14 +73,14 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>A Prayer for the Crown Shy</td>
+			<td colspan=2>A Psalm for the Wild Built</td>
 			<td>Becky Chambers</td>
 			<td>en</td>
 			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>A Psalm for the Wild Built</td>
+			<td colspan=2>A Prayer for the Crown Shy</td>
 			<td>Becky Chambers</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -301,20 +301,6 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Chapterhouse Dune</td>
-			<td>Frank Herbert</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>Children of Dune</td>
-			<td>Frank Herbert</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Dune</td>
 			<td>Frank Herbert</td>
 			<td>en</td>
@@ -329,6 +315,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Children of Dune</td>
+			<td>Frank Herbert</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>God Emperor of Dune</td>
 			<td>Frank Herbert</td>
 			<td>en</td>
@@ -337,6 +330,13 @@
 		</tr>
 		<tr>
 			<td colspan=2>Heretics of Dune</td>
+			<td>Frank Herbert</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Chapterhouse Dune</td>
 			<td>Frank Herbert</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -491,21 +491,42 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Arcanum Unbounded</td>
-			<td>Brandon Sanderson</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Ebook</td>
-		</tr>
-		<tr>
-			<td colspan=2>Dawnshard</td>
-			<td>Brandon Sanderson</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Ebook</td>
-		</tr>
-		<tr>
 			<td colspan=2>Elantris</td>
+			<td>Brandon Sanderson</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Warbreaker</td>
+			<td>Brandon Sanderson</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Tress of the emerald sea</td>
+			<td>Brandon Sanderson</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Yumi and the Nightmare Painter</td>
+			<td>Brandon Sanderson</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Sunlit Man</td>
+			<td>Brandon Sanderson</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Arcanum Unbounded</td>
 			<td>Brandon Sanderson</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -524,13 +545,6 @@
 		</tr>
 		<tr>
 			<td>The Bands of Mourning</td>
-		</tr>
-		<tr>
-			<td colspan=2>Rythm of War</td>
-			<td>Brandon Sanderson</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Ebook</td>
 		</tr>
 		<tr>
 			<td colspan=2>The Lost Metal</td>
@@ -554,28 +568,14 @@
 			<td>Oathbringer</td>
 		</tr>
 		<tr>
-			<td colspan=2>The Sunlit Man</td>
+			<td colspan=2>Dawnshard</td>
 			<td>Brandon Sanderson</td>
 			<td>en</td>
 			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Tress of the emerald sea</td>
-			<td>Brandon Sanderson</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Ebook</td>
-		</tr>
-		<tr>
-			<td colspan=2>Warbreaker</td>
-			<td>Brandon Sanderson</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Ebook</td>
-		</tr>
-		<tr>
-			<td colspan=2>Yumi and the Nightmare Painter</td>
+			<td colspan=2>Rythm of War</td>
 			<td>Brandon Sanderson</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -632,10 +632,24 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>The Fellowship Of The Ring</td>
+			<td colspan=2>The Silmarillion</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Silmarillion</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>Unfinished Tales</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
@@ -658,6 +672,13 @@
 			<td>en</td>
 			<td>Lu</td>
 			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Fellowship Of The Ring</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td rowspan=3>The Lord Of The Rings</td>
@@ -674,27 +695,6 @@
 			<td>The Return Of The King</td>
 		</tr>
 		<tr>
-			<td colspan=2>The Return Of The King</td>
-			<td>J.R.R. Tolkien</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>The Silmarillion</td>
-			<td>J.R.R. Tolkien</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>The Silmarillion</td>
-			<td>J.R.R. Tolkien</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Ebook</td>
-		</tr>
-		<tr>
 			<td colspan=2>The Two Towers</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
@@ -702,10 +702,10 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Unfinished Tales</td>
+			<td colspan=2>The Return Of The King</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
@@ -744,14 +744,14 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Exit Strategy</td>
+			<td colspan=2>Rogue Protocol</td>
 			<td>Martha Wells</td>
 			<td>en</td>
 			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Fugitive Telemetry</td>
+			<td colspan=2>Exit Strategy</td>
 			<td>Martha Wells</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -772,7 +772,7 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Rogue Protocol</td>
+			<td colspan=2>Fugitive Telemetry</td>
 			<td>Martha Wells</td>
 			<td>en</td>
 			<td>Lu</td>

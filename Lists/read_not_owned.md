@@ -9,19 +9,13 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td>Cérébra, l'ultime voyage</td>
-			<td>Eli Anderson</td>
-			<td>Lu</td>
-			<td>Non Possédé</td>
-		</tr>
-		<tr>
-			<td>L'Allié des ténèbres</td>
-			<td>Eli Anderson</td>
-			<td>Lu</td>
-			<td>Non Possédé</td>
-		</tr>
-		<tr>
 			<td>La Révélation des Médicus</td>
+			<td>Eli Anderson</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>Les Deux Royaumes</td>
 			<td>Eli Anderson</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
@@ -33,7 +27,13 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
-			<td>Les Deux Royaumes</td>
+			<td>L'Allié des ténèbres</td>
+			<td>Eli Anderson</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>Cérébra, l'ultime voyage</td>
 			<td>Eli Anderson</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
@@ -249,19 +249,7 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
-			<td>La Bataille du Labyrinthe</td>
-			<td>Rick Riordan</td>
-			<td>Lu</td>
-			<td>Non Possédé</td>
-		</tr>
-		<tr>
-			<td>La Maison d'Hadès</td>
-			<td>Rick Riordan</td>
-			<td>Lu</td>
-			<td>Non Possédé</td>
-		</tr>
-		<tr>
-			<td>La Marque d'Athéna</td>
+			<td>Le Voleur de Foudre</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
@@ -273,31 +261,19 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
-			<td>Le Dernier Olympien</td>
-			<td>Rick Riordan</td>
-			<td>Lu</td>
-			<td>Non Possédé</td>
-		</tr>
-		<tr>
-			<td>Le Fils de Neptune</td>
-			<td>Rick Riordan</td>
-			<td>Lu</td>
-			<td>Non Possédé</td>
-		</tr>
-		<tr>
-			<td>Le Sang de l'Olympe</td>
-			<td>Rick Riordan</td>
-			<td>Lu</td>
-			<td>Non Possédé</td>
-		</tr>
-		<tr>
 			<td>Le Sort du Titan</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
-			<td>Le Voleur de Foudre</td>
+			<td>La Bataille du Labyrinthe</td>
+			<td>Rick Riordan</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>Le Dernier Olympien</td>
 			<td>Rick Riordan</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
@@ -309,19 +285,37 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>Le Fils de Neptune</td>
+			<td>Rick Riordan</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>La Marque d'Athéna</td>
+			<td>Rick Riordan</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>La Maison d'Hadès</td>
+			<td>Rick Riordan</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>Le Sang de l'Olympe</td>
+			<td>Rick Riordan</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>Vulcain</td>
 			<td>Mark Robson</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
-			<td>L'Ordre du Phénix</td>
-			<td>J. K. Rowling</td>
-			<td>Lu</td>
-			<td>Non Possédé</td>
-		</tr>
-		<tr>
-			<td>La Coupe de feu</td>
+			<td>À l'école des sorciers</td>
 			<td>J. K. Rowling</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
@@ -333,13 +327,25 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
-			<td>Le Prince de sang-mêlé</td>
+			<td>Le prisonnier d'Azkaban</td>
 			<td>J. K. Rowling</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
-			<td>Le prisonnier d'Azkaban</td>
+			<td>La Coupe de feu</td>
+			<td>J. K. Rowling</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>L'Ordre du Phénix</td>
+			<td>J. K. Rowling</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>Le Prince de sang-mêlé</td>
 			<td>J. K. Rowling</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
@@ -351,18 +357,6 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
-			<td>À l'école des sorciers</td>
-			<td>J. K. Rowling</td>
-			<td>Lu</td>
-			<td>Non Possédé</td>
-		</tr>
-		<tr>
-			<td>La 37eme Prophétie</td>
-			<td>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
-			<td>Lu</td>
-			<td>Non Possédé</td>
-		</tr>
-		<tr>
 			<td>Le Collectionneur</td>
 			<td>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
 			<td>Lu</td>
@@ -370,6 +364,12 @@
 		</tr>
 		<tr>
 			<td>Les Portails d'Outre Temps</td>
+			<td>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>La 37eme Prophétie</td>
 			<td>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
@@ -387,13 +387,13 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
-			<td>Le Héros des siècles</td>
+			<td>Le Puits de l'ascension</td>
 			<td>Brandon Sanderson</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
-			<td>Le Puits de l'ascension</td>
+			<td>Le Héros des siècles</td>
 			<td>Brandon Sanderson</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>

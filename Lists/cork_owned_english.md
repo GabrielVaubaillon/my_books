@@ -133,20 +133,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Chapterhouse Dune</td>
-			<td>Frank Herbert</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>Children of Dune</td>
-			<td>Frank Herbert</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Dune</td>
 			<td>Frank Herbert</td>
 			<td>en</td>
@@ -161,6 +147,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Children of Dune</td>
+			<td>Frank Herbert</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>God Emperor of Dune</td>
 			<td>Frank Herbert</td>
 			<td>en</td>
@@ -169,6 +162,13 @@
 		</tr>
 		<tr>
 			<td colspan=2>Heretics of Dune</td>
+			<td>Frank Herbert</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Chapterhouse Dune</td>
 			<td>Frank Herbert</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -240,35 +240,35 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>The Fellowship Of The Ring</td>
-			<td>J.R.R. Tolkien</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>The Hobbit</td>
-			<td>J.R.R. Tolkien</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>The Hobbit</td>
-			<td>J.R.R. Tolkien</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>The Return Of The King</td>
-			<td>J.R.R. Tolkien</td>
-			<td>en</td>
-			<td>Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>The Silmarillion</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Unfinished Tales</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Hobbit</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Hobbit</td>
+			<td>J.R.R. Tolkien</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Fellowship Of The Ring</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>
@@ -282,10 +282,10 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Unfinished Tales</td>
+			<td colspan=2>The Return Of The King</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
