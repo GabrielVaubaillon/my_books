@@ -33,7 +33,31 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Cérébra, l'ultime voyage</td>
+			<td>Eli Anderson</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>L'Allié des ténèbres</td>
+			<td>Eli Anderson</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>La Révélation des Médicus</td>
+			<td>Eli Anderson</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>Le Secret des Éternels</td>
+			<td>Eli Anderson</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>Les Deux Royaumes</td>
 			<td>Eli Anderson</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
@@ -928,6 +952,12 @@
 		</tr>
 		<tr>
 			<td>L'Aiguille Creuse</td>
+			<td>Maurice Leblanc</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>L'Éclat d'Obus</td>
 			<td>Maurice Leblanc</td>
 			<td>Lu</td>
 			<td>Possédé</td>

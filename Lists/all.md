@@ -33,7 +33,31 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Cérébra, l'ultime voyage</td>
+			<td>Eli Anderson</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>L'Allié des ténèbres</td>
+			<td>Eli Anderson</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>La Révélation des Médicus</td>
+			<td>Eli Anderson</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>Le Secret des Éternels</td>
+			<td>Eli Anderson</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>Les Deux Royaumes</td>
 			<td>Eli Anderson</td>
 			<td>Lu</td>
 			<td>Non Possédé</td>
@@ -1185,6 +1209,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Babel</td>
+			<td>R.F. Kuang</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>L'Île de Black Mor</td>
 			<td>Jean-François Laguionie</td>
 			<td>Lu</td>
@@ -1206,6 +1236,12 @@
 			<td>Long John Silver</td>
 			<td>Björn Larsson</td>
 			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>The Book That Wouldn't Burn</td>
+			<td>Mark Lawrence</td>
+			<td>Pas Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
@@ -1247,7 +1283,7 @@
 		<tr>
 			<td>L'Éclat d'Obus</td>
 			<td>Maurice Leblanc</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

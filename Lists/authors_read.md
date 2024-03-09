@@ -33,6 +33,11 @@
 			<td>7</td>
 		</tr>
 		<tr>
+			<td>Maurice Leblanc</td>
+			<td>7</td>
+			<td>23</td>
+		</tr>
+		<tr>
 			<td>Isaac Asimov</td>
 			<td>7</td>
 			<td>9</td>
@@ -46,11 +51,6 @@
 			<td>Ursula K. Le Guin</td>
 			<td>6</td>
 			<td>6</td>
-		</tr>
-		<tr>
-			<td>Maurice Leblanc</td>
-			<td>6</td>
-			<td>23</td>
 		</tr>
 		<tr>
 			<td>Frank Herbert</td>
@@ -81,6 +81,11 @@
 			<td>Holly Black</td>
 			<td>5</td>
 			<td>5</td>
+		</tr>
+		<tr>
+			<td>Eli Anderson</td>
+			<td>5</td>
+			<td>0</td>
 		</tr>
 		<tr>
 			<td>Odile Weulersse</td>
@@ -949,11 +954,6 @@
 		</tr>
 		<tr>
 			<td>Jean Anouilh</td>
-			<td>1</td>
-			<td>0</td>
-		</tr>
-		<tr>
-			<td>Eli Anderson</td>
 			<td>1</td>
 			<td>0</td>
 		</tr>

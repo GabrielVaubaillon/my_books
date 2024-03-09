@@ -1511,7 +1511,7 @@ works:
     titles:
       fr: L'Éclat d'Obus
     language: fr
-    read: no
+    read: yes
     books: B_149
     authors: A_127
   W_189:
@@ -3511,6 +3511,7 @@ works:
     read: yes
     books: B_343
     authors: A_241
+    notes: acotar
   W_451:
     titles:
       fr: L'Extraordinaire Voyage du fakir qui était resté coincé dans une armoire Ikea
@@ -3541,6 +3542,49 @@ works:
     read: yes
     books:
     authors: A_243
+  W_455:
+    titles:
+      fr: Les Deux Royaumes
+    language: fr
+    read: yes
+    books:
+    authors: A_243
+  W_456:
+    titles:
+      fr: Le Secret des Éternels
+    language: fr
+    read: yes
+    books:
+    authors: A_243
+  W_457:
+    titles:
+      fr: L'Allié des ténèbres
+    language: fr
+    read: yes
+    books:
+    authors: A_243
+  W_458:
+    titles:
+      fr: Cérébra, l'ultime voyage
+    language: fr
+    read: yes
+    books:
+    authors: A_243
+  W_459:
+    titles:
+      en: The Book That Wouldn't Burn
+    language: en
+    read: no
+    books: B_344
+    authors: A_244
+  W_460:
+    titles:
+      en: "Babel: Or the Necessity of Violence"
+      fr: Babel
+    language: en
+    read: no
+    books: B_345
+    authors: A_245
 
 books:
   B_001:
@@ -5285,6 +5329,16 @@ books:
     language: en
     isbn: 978-1-4088-5787-8
     situation: Ebook
+  B_344:
+    title: The Book That Wouldn't Burn
+    language: en
+    isbn: 9780593437933
+    situation: Ebook
+  B_345:
+    title: "Babel: Or the Necessity of Violence"
+    language: en
+    isbn: 978-0-06-302144-0
+    situation: Ebook
 
 authors:
   A_001:
@@ -5801,6 +5855,10 @@ authors:
     sorting_name: Puertolas
   A_243:
     name: Eli Anderson
+  A_244:
+    name: Mark Lawrence
+  A_245:
+    name: R.F. Kuang
 
 series:
   S_001:
@@ -6152,4 +6210,19 @@ series:
       8: W_402
       9: W_403
     notes: order of publication (main novels) (might not be fully correct)
+  S_036:
+    name:
+      fr: Oscar Pill
+    works:
+      1: W_454
+      2: W_455
+      3: W_456
+      4: W_457
+      5: W_458
+  S_037:
+    name:
+      en: A Court Of Thorns And Roses
+      fr: Un palais d'épines et de roses
+    works:
+      1: W_450
 

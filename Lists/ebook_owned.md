@@ -270,6 +270,20 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Babel: Or the Necessity of Violence</td>
+			<td>R.F. Kuang</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Book That Wouldn't Burn</td>
+			<td>Mark Lawrence</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td rowspan=23>Integrale Arsène Lupin</td>
 			<td>Arsène Lupin, Gentleman-Cambrioleur</td>
 			<td rowspan=23>Maurice Leblanc</td>
@@ -299,7 +313,7 @@
 		</tr>
 		<tr>
 			<td>L'Éclat d'Obus</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 		</tr>
 		<tr>
 			<td>Le Triangle d'Or</td>

@@ -936,7 +936,7 @@
 		</tr>
 		<tr>
 			<td>L'Éclat d'Obus</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 		</tr>
 		<tr>
 			<td>Le Triangle d'Or</td>

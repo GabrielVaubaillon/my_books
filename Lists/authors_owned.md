@@ -9,7 +9,7 @@
 	<tbody>
 		<tr>
 			<td>Maurice Leblanc</td>
-			<td>6</td>
+			<td>7</td>
 			<td>23</td>
 		</tr>
 		<tr>
@@ -583,6 +583,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Mark Lawrence</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Björn Larsson</td>
 			<td>1</td>
 			<td>1</td>
@@ -600,6 +605,11 @@
 		<tr>
 			<td>Jean-François Laguionie</td>
 			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>R.F. Kuang</td>
+			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>

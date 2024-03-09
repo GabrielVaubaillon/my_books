@@ -208,6 +208,20 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Babel: Or the Necessity of Violence</td>
+			<td>R.F. Kuang</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Book That Wouldn't Burn</td>
+			<td>Mark Lawrence</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Pachinko</td>
 			<td>Min Jin Lee</td>
 			<td>en</td>

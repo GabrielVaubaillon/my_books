@@ -29,7 +29,7 @@
 		</tr>
 		<tr>
 			<td>Eli Anderson</td>
-			<td>1</td>
+			<td>5</td>
 			<td>0</td>
 		</tr>
 		<tr>
@@ -643,6 +643,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>R.F. Kuang</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Jean-François Laguionie</td>
 			<td>1</td>
 			<td>1</td>
@@ -663,8 +668,13 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Mark Lawrence</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Maurice Leblanc</td>
-			<td>6</td>
+			<td>7</td>
 			<td>23</td>
 		</tr>
 		<tr>
