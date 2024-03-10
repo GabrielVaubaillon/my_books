@@ -11,14 +11,14 @@
 	<tbody>
 		<tr>
 			<td>Les contes d'Andersen</td>
-			<td>Contes d'Andersen</td>
+			<td>Contes d'Andersen (en: Andersen's Fairy Tales)</td>
 			<td>Hans Christian Andersen</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Aurélien</td>
+			<td colspan=2>Aurélien (en: Aurélien)</td>
 			<td>Louis Aragon</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -37,14 +37,14 @@
 		</tr>
 		<tr>
 			<td>La vie selon Ove</td>
-			<td>Vieux, râleur et suicidaire: La vie selon Ove</td>
+			<td>Vieux, râleur et suicidaire: La vie selon Ove (en: A man called Ove)</td>
 			<td>Fredik Backman</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le Maître et Marguerite</td>
+			<td colspan=2>Le Maître et Marguerite (en: The Master and Margarita)</td>
 			<td>Mikhaïl Boulgakov</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -58,7 +58,7 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Les Contes de Grimm</td>
+			<td colspan=2>Les Contes de Grimm (en: Grimms' Fairy Tales)</td>
 			<td>Jacob & Wilhelm Grimm</td>
 			<td>fr</td>
 			<td>Lu</td>

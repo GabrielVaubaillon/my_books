@@ -126,12 +126,22 @@ def html_table_books(b_ids, lib):
         table.append("\t\t<tr>")
         if nb_works == 1:
             work = lib["works"][book["works"][0]]
-            # TODO: add english/French name when possible
+            title = work["titles"][book["language"]]
+            vo = ""
+            if book["language"] == "fr" and "en" in work["titles"]:
+                if work["language"] == "en":
+                    vo = "-vo"
+                title = f"{title} (en{vo}: {work['titles']['en']})"
+            if book["language"] == "en" and "fr" in work["titles"]:
+                if work["language"] == "fr":
+                    title = f"{title} (fr-vo: {work['titles']['fr']})"
+                else:
+                    title = f"{title} (fr: {work['titles']['fr']})"
             if book["title"] == work["titles"][book["language"]]:
-                table.append(f"\t\t\t<td colspan=2>{book['title']}</td>")
+                table.append(f"\t\t\t<td colspan=2>{title}</td>")
             else:
                 table.append(f"\t\t\t<td>{book['title']}</td>")
-                table.append(f"\t\t\t<td>{work['titles'][book['language']]}</td>")
+                table.append(f"\t\t\t<td>{title}</td>")
             authors = " / ".join([lib["authors"][a]['name'] for a in work["authors"]])
             if work["read"]:
                 read = "Lu"
@@ -164,9 +174,20 @@ def html_table_books(b_ids, lib):
                     one_read_status = False
                     break
             first_work = lib["works"][book["works"][0]]
+            title = first_work["titles"][book["language"]]
+            vo = ""
+            if book["language"] == "fr" and "en" in first_work["titles"]:
+                if first_work["language"] == "en":
+                    vo = "-vo"
+                title = f"{title} (en{vo}: {first_work['titles']['en']})"
+            if book["language"] == "en" and "fr" in first_work["titles"]:
+                if first_work["language"] == "fr":
+                    title = f"{title} (fr-vo: {first_work['titles']['fr']})"
+                else:
+                    title = f"{title} (fr: {first_work['titles']['fr']})"
             table += [
                 f"\t\t\t<td rowspan={nb_works}>{book['title']}</td>",
-                f"\t\t\t<td>{first_work['titles'][book['language']]}</td>",
+                f"\t\t\t<td>{title}</td>",
             ]
             authors = " / ".join([lib["authors"][a]['name'] for a in first_work["authors"]])
             if one_author:
@@ -187,9 +208,19 @@ def html_table_books(b_ids, lib):
 
             for w_id in book["works"][1:]:
                 work = lib["works"][w_id]
+                title = work["titles"][book["language"]]
+                vo = ""
+                if book["language"] == "fr" and "en" in work["titles"]:
+                    if work["language"] == "en":
+                        vo = "-vo"
+                    title = f"{title} (en{vo}: {work['titles']['en']})"
+                elif book["language"] == "en" and "fr" in work["titles"]:
+                    if work["language"] == "fr":
+                        vo = "-vo"
+                    title = f"{title} (fr{vo}: {work['titles']['fr']})"
                 table += [
                     "\t\t<tr>",
-                    f"\t\t\t<td>{work['titles'][book['language']]}</td>",
+                    f"\t\t\t<td>{title}</td>",
                 ]
                 if not one_author:
                     authors = " / ".join([lib["authors"][a]['name'] for a in work["authors"]])

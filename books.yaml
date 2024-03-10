@@ -240,6 +240,7 @@ works:
   W_021:
     titles:
       en: Legends & Lattes
+      fr: Légendes & Lattes
     language: en
     read: yes
     books: B_018
@@ -2143,6 +2144,7 @@ works:
   W_274:
     titles:
       en: Mort
+      fr: Mortimer
     language: en
     read: yes
     books: B_212
@@ -2442,6 +2444,7 @@ works:
   W_313:
     titles:
       en: Sea of Tranquility
+      fr: La Mer de la tranquillité
     language: en
     read: yes
     books: B_228
@@ -2559,6 +2562,7 @@ works:
   W_328:
     titles:
       en: The Lost Metal
+      fr: Le Métal Perdu
     language: en
     read: yes
     books: B_237

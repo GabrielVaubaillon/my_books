@@ -10,7 +10,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td colspan=2>Jonathan Livingston le goéland</td>
+			<td colspan=2>Jonathan Livingston le goéland (en-vo: Livingston Seagull – A Story)</td>
 			<td>Richard Bach</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -39,7 +39,7 @@
 		</tr>
 		<tr>
 			<td>Don Quichotte (abrégé)</td>
-			<td>L’Ingénieux Hidalgo Don Quichotte de la Manche</td>
+			<td>L’Ingénieux Hidalgo Don Quichotte de la Manche (en: Don Quixote)</td>
 			<td>Miguel de Cervantes Saavedra</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -200,7 +200,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Quentin Durward</td>
+			<td colspan=2>Quentin Durward (en-vo: Quentin Durward)</td>
 			<td>Walter Scott</td>
 			<td>fr</td>
 			<td>Pas Lu</td>

@@ -10,7 +10,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td colspan=2>The Neverending Story</td>
+			<td colspan=2>The Neverending Story (fr: L'Histoire sans fin)</td>
 			<td>Michael Ende</td>
 			<td>en</td>
 			<td>Pas Lu</td>
@@ -33,7 +33,7 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td colspan=2>Babel: Or the Necessity of Violence</td>
+			<td colspan=2>Babel: Or the Necessity of Violence (fr: Babel)</td>
 			<td>R.F. Kuang</td>
 			<td>en</td>
 			<td>Pas Lu</td>
@@ -144,14 +144,14 @@
 		</tr>
 		<tr>
 			<td rowspan=4>The Dandelion Dynasty</td>
-			<td>The Grace of Kings</td>
+			<td>The Grace of Kings (fr: La Grâce des Rois)</td>
 			<td rowspan=4>Ken Liu</td>
 			<td rowspan=4>en</td>
 			<td rowspan=4>Pas Lu</td>
 			<td rowspan=4>Ebook</td>
 		</tr>
 		<tr>
-			<td>The Wall of Storms</td>
+			<td>The Wall of Storms (fr: Le Goût de la victoire / Le Mur de tempêtes)</td>
 		</tr>
 		<tr>
 			<td>The Veiled Throne</td>

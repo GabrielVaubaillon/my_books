@@ -159,7 +159,7 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
-			<td>Legends & Lattes</td>
+			<td>Légendes & Lattes</td>
 			<td>Travis Baldree</td>
 			<td>Lu</td>
 			<td>Possédé</td>
@@ -1323,7 +1323,7 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
-			<td>Mort</td>
+			<td>Mortimer</td>
 			<td>Terry Pratchett</td>
 			<td>Lu</td>
 			<td>Possédé</td>
@@ -1557,7 +1557,7 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
-			<td>Sea of Tranquility</td>
+			<td>La Mer de la tranquillité</td>
 			<td>Emily Saint John-Mandel</td>
 			<td>Lu</td>
 			<td>Possédé</td>
@@ -1641,7 +1641,7 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
-			<td>The Lost Metal</td>
+			<td>Le Métal Perdu</td>
 			<td>Brandon Sanderson</td>
 			<td>Lu</td>
 			<td>Possédé</td>

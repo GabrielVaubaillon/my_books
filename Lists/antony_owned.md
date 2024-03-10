@@ -31,7 +31,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Jonathan Livingston le goéland</td>
+			<td colspan=2>Jonathan Livingston le goéland (en-vo: Livingston Seagull – A Story)</td>
 			<td>Richard Bach</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -52,7 +52,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Vipère au poing</td>
+			<td colspan=2>Vipère au poing (en: Viper in the Fist)</td>
 			<td>Hervé Bazin</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -144,7 +144,7 @@
 		</tr>
 		<tr>
 			<td>Don Quichotte (abrégé)</td>
-			<td>L’Ingénieux Hidalgo Don Quichotte de la Manche</td>
+			<td>L’Ingénieux Hidalgo Don Quichotte de la Manche (en: Don Quixote)</td>
 			<td>Miguel de Cervantes Saavedra</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
@@ -159,7 +159,7 @@
 		</tr>
 		<tr>
 			<td>Pinocchio</td>
-			<td>Les aventures de Pinocchio</td>
+			<td>Les aventures de Pinocchio (en: The Adventures of Pinocchio)</td>
 			<td>Carlo Collodi</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -180,28 +180,28 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Au coeur des ténèbre</td>
+			<td colspan=2>Au coeur des ténèbre (en-vo: Heart of Darkness)</td>
 			<td>Joseph Conrad</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Comment dresser votre dragon</td>
+			<td colspan=2>Comment dresser votre dragon (en-vo: How to Train Your Dragon)</td>
 			<td>Cressida Cowell</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Labyrinthe - L'Épreuve</td>
+			<td colspan=2>Labyrinthe - L'Épreuve (en-vo: The Maze Runner)</td>
 			<td>James Dashner</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony/Vente</td>
 		</tr>
 		<tr>
-			<td colspan=2>La révolte de 10x</td>
+			<td colspan=2>La révolte de 10x (en-vo: The revolt of 10x)</td>
 			<td>Joan Davenport Carris</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -250,14 +250,14 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Flamme et l'Etalon Noir</td>
+			<td colspan=2>Flamme et l'Etalon Noir (en-vo: The Black Stallion and Flame)</td>
 			<td>Walter Farley</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le Fils de l'Etalon Noir</td>
+			<td colspan=2>Le Fils de l'Etalon Noir (en-vo: Son of the Black Stallion)</td>
 			<td>Walter Farley</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -271,7 +271,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Smith</td>
+			<td colspan=2>Smith (en-vo: Smith: The Story of a Pickpocket)</td>
 			<td>Leon Garfield</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -334,7 +334,7 @@
 			<td>Antony/Vente</td>
 		</tr>
 		<tr>
-			<td colspan=2>L'Odyssée</td>
+			<td colspan=2>L'Odyssée (en: Odyssey)</td>
 			<td>Homère</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -348,7 +348,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le Meilleur des Mondes</td>
+			<td colspan=2>Le Meilleur des Mondes (en-vo: Brave New World)</td>
 			<td>Aldous Huxley</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -362,7 +362,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le Phoque Blanc</td>
+			<td colspan=2>Le Phoque Blanc (en-vo: The White Seal)</td>
 			<td>Rudyard Kipling</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -418,49 +418,49 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Les renégats de Pern</td>
+			<td colspan=2>Les renégats de Pern (en-vo: The Renegades of Pern)</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le Vol du dragon</td>
+			<td colspan=2>Le Vol du dragon (en-vo: Dragonflight)</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>La quête du dragon</td>
+			<td colspan=2>La quête du dragon (en-vo: Dragonquest)</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le dragon blanc</td>
+			<td colspan=2>Le dragon blanc (en-vo: The White Dragon)</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>La dame aux dragons</td>
+			<td colspan=2>La dame aux dragons (en-vo: Moreta: Dragonlady of Pern)</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Histoire de Nerilka</td>
+			<td colspan=2>Histoire de Nerilka (en-vo: Nerilka's Story)</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>L'aube des dragons</td>
+			<td colspan=2>L'aube des dragons (en-vo: Dragonsdawn)</td>
 			<td>Anne McCaffrey</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -495,14 +495,14 @@
 			<td>Antony/Vente</td>
 		</tr>
 		<tr>
-			<td colspan=2>L'Utopie</td>
+			<td colspan=2>L'Utopie (en: Utopia)</td>
 			<td>Thomas More</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Z comme Zacharie</td>
+			<td colspan=2>Z comme Zacharie (en-vo: Z for Zachariah)</td>
 			<td>Robert C. O'Brien</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -747,14 +747,14 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Quentin Durward</td>
+			<td colspan=2>Quentin Durward (en-vo: Quentin Durward)</td>
 			<td>Walter Scott</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>La Coupe d'Or</td>
+			<td colspan=2>La Coupe d'Or (en-vo: Cup of Gold)</td>
 			<td>John Steinbeck</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -804,7 +804,7 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Les animaux dénaturés</td>
+			<td colspan=2>Les animaux dénaturés (en: You Shall Know Them / The Murder of the Missing Link / Borderline)</td>
 			<td>Vercors</td>
 			<td>fr</td>
 			<td>Lu</td>
@@ -818,21 +818,21 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Candide ou l'optimiste</td>
+			<td colspan=2>Candide ou l'optimiste (en: Candide)</td>
 			<td>Voltaire</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Papa-Longues-Jambes</td>
+			<td colspan=2>Papa-Longues-Jambes (en-vo: Daddy-Long-Legs)</td>
 			<td>Jean Webster</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>L'homme invisible</td>
+			<td colspan=2>L'homme invisible (en-vo: The Invisible Man)</td>
 			<td>H.G. Wells</td>
 			<td>fr</td>
 			<td>Lu</td>
