@@ -909,6 +909,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Babel</td>
+			<td>R.F. Kuang</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>L'Île de Black Mor</td>
 			<td>Jean-François Laguionie</td>
 			<td>Lu</td>

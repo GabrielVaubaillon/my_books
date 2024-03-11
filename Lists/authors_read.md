@@ -603,6 +603,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>R.F. Kuang</td>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Gérard Klein</td>
 			<td>1</td>
 			<td>1</td>

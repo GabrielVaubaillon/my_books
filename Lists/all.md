@@ -1211,7 +1211,7 @@
 		<tr>
 			<td>Babel</td>
 			<td>R.F. Kuang</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

@@ -609,7 +609,7 @@
 		</tr>
 		<tr>
 			<td>R.F. Kuang</td>
-			<td>0</td>
+			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>

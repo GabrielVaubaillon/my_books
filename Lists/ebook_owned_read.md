@@ -263,6 +263,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Babel: Or the Necessity of Violence (fr: Babel)</td>
+			<td>R.F. Kuang</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td rowspan=23>Integrale Arsène Lupin</td>
 			<td>Arsène Lupin, Gentleman-Cambrioleur</td>
 			<td rowspan=23>Maurice Leblanc</td>

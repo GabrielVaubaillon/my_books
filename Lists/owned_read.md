@@ -879,6 +879,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Babel: Or the Necessity of Violence (fr: Babel)</td>
+			<td>R.F. Kuang</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>L'Île de Black Mor</td>
 			<td>Jean-François Laguionie</td>
 			<td>fr</td>

@@ -1195,7 +1195,7 @@
 			<td colspan=2>Babel: Or the Necessity of Violence (fr: Babel)</td>
 			<td>R.F. Kuang</td>
 			<td>en</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>
