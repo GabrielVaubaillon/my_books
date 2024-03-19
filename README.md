@@ -34,9 +34,9 @@
    - [7 (87.5%) oeuvres à lire](Lists/paris_owned_not_read.md)
    - [8 (100.0%) livres en français](Lists/paris_owned_french.md)
    - [0 (0.0%) livres en anglais](Lists/paris_owned_english.md)
-### Lus [(343 oeuvres)](Lists/read.md)
-- [262 (76.38%) oeuvres lues parmis ma collection actuelle](Lists/owned_read.md)
-- [81 (23.62%) oeuvres lues hors ma collection actuelle](Lists/read_not_owned.md)
+### Lus [(344 oeuvres)](Lists/read.md)
+- [262 (76.16%) oeuvres lues parmis ma collection actuelle](Lists/owned_read.md)
+- [82 (23.84%) oeuvres lues hors ma collection actuelle](Lists/read_not_owned.md)
 - [195 auteurs differents](Lists/authors_read.md)
 ### Autres
 - [Toutes les oeuvres](Lists/all.md)

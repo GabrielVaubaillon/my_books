@@ -549,6 +549,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>La Tulipe Noire</td>
+			<td>Alexandre Dumas</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>Les Trois Mousquetaires</td>
 			<td>Alexandre Dumas</td>
 			<td>Lu</td>

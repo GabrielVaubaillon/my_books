@@ -3589,6 +3589,14 @@ works:
     read: yes
     books: B_345
     authors: A_245
+  W_461:
+    titles:
+      fr: La Tulipe Noire
+      en: The Black Tulip
+    language: fr
+    read: yes
+    books:
+    authors: A_065
 
 books:
   B_001:

@@ -111,6 +111,12 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>La Tulipe Noire</td>
+			<td>Alexandre Dumas</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>La Vie suspendue</td>
 			<td>Timothée de Fombelle</td>
 			<td>Lu</td>

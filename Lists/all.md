@@ -699,6 +699,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>La Tulipe Noire</td>
+			<td>Alexandre Dumas</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>Le Comte de Monte-Cristo</td>
 			<td>Alexandre Dumas</td>
 			<td>Pas Lu</td>
