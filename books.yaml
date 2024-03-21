@@ -3597,6 +3597,28 @@ works:
     read: yes
     books:
     authors: A_065
+  W_462:
+    titles:
+      en: Arthurian Myths & Legends
+      fr: Mythes et Légendes Arthuriennes
+    language: en
+    read: no
+    books: B_346
+    authors:
+  W_463:
+    titles:
+      en: Viking Folk & Fairy Tales
+    language: en
+    read: no
+    books: B_347
+    authors:
+  W_464:
+    titles:
+      en: Scottish Folk & Fairy Tales
+    language: en
+    read: no
+    books: B_348
+    authors:
 
 books:
   B_001:
@@ -5351,6 +5373,21 @@ books:
     language: en
     isbn: 978-0-06-302144-0
     situation: Ebook
+  B_346:
+    title: Arthurian Myths & Legends
+    language: en
+    isbn: 978-1-80417-328-2
+    situation: Cork
+  B_347:
+    title: Viking Folk & Fairy Tales
+    language: en
+    isbn: 978-1-80417-230-8
+    situation: Cork
+  B_348:
+    title: Scottish Folk & Fairy Tales
+    language: en
+    isbn: 978-1-80417-229-2
+    situation: Cork
 
 authors:
   A_001:

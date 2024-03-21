@@ -807,6 +807,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Arthurian Myths & Legends (fr: Mythes et Légendes Arthuriennes)</td>
+			<td></td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Egyptian Myths and Legends</td>
 			<td></td>
 			<td>en</td>
@@ -842,6 +849,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Scottish Folk & Fairy Tales</td>
+			<td></td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>The Anthology of Irish Folk Tales</td>
 			<td></td>
 			<td>en</td>
@@ -853,6 +867,13 @@
 			<td></td>
 			<td>en</td>
 			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Viking Folk & Fairy Tales</td>
+			<td></td>
+			<td>en</td>
+			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>
 	</tbody>

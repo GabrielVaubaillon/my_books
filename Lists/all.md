@@ -2739,6 +2739,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Mythes et Légendes Arthuriennes</td>
+			<td></td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Mythes et Légendes Indiens</td>
 			<td></td>
 			<td>Pas Lu</td>
@@ -2757,6 +2763,12 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>Scottish Folk & Fairy Tales</td>
+			<td></td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>The Anthology of Irish Folk Tales</td>
 			<td></td>
 			<td>Lu</td>
@@ -2766,6 +2778,12 @@
 			<td>The Anthology of Scottish Folk Tales</td>
 			<td></td>
 			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>Viking Folk & Fairy Tales</td>
+			<td></td>
+			<td>Pas Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
