@@ -9,7 +9,7 @@ def check_valid(lib):
     # TODO: check no duplicate authors
     # TODO: check valid isbn
     # TODO: check no book without work, no author without work
-    # TODO: check no work not read AND without books 
+    # TODO: check no work not read AND without books
     # TODO: check at least fr or english as title
     # TODO: check all languages have french and english names
     error_list = []
@@ -97,7 +97,7 @@ def books_from_works(w_ids, lib):
         for b in lib["works"][w_id]["books"]:
             b_ids.add(b)
     return b_ids
-    
+
 def html_table_books(b_ids, lib):
     if not b_ids:
         return [""]
@@ -155,7 +155,7 @@ def html_table_books(b_ids, lib):
             ]
             table.append("\t\t</tr>")
         else:
-            # one_author 
+            # one_author
             one_author = True
             authors = []
             for w_id in book["works"]:
@@ -303,7 +303,7 @@ def html_table_authors(a_ids, lib, w_owned, w_read, key="name"):
     ]
 
     sorted_a_ids = sorted_authors_list(a_ids, lib, w_owned, w_read, key=key)
-    
+
     for a_id in sorted_a_ids:
         table += [
             "\t\t<tr>",
@@ -420,7 +420,7 @@ def main():
 
     w_read = {w_id for w_id in w_total if lib["works"][w_id]["read"]}
     b_read = books_from_works(w_read, lib)
-    
+
     w_read_not_owned = w_read - w_owned
 
     w_owned_not_read = w_owned - w_read # Must do in this order for partially read books
@@ -470,7 +470,7 @@ def main():
             "owned_french": b_s & b_owned_french,
             "owned_english": b_s & b_owned_english,
         }
-        
+
     log.debug("Creating html tables")
 
     table_all = html_table_works(w_total, lib)
