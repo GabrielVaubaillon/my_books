@@ -3578,7 +3578,7 @@ works:
     titles:
       en: The Book That Wouldn't Burn
     language: en
-    read: no
+    read: yes
     books: B_344
     authors: A_244
   W_460:

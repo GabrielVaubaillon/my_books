@@ -1247,7 +1247,7 @@
 		<tr>
 			<td>The Book That Wouldn't Burn</td>
 			<td>Mark Lawrence</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

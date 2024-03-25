@@ -383,13 +383,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>The Book That Wouldn't Burn</td>
-			<td>Mark Lawrence</td>
-			<td>en</td>
-			<td>Pas Lu</td>
-			<td>Ebook</td>
-		</tr>
-		<tr>
 			<td rowspan=23>Integrale Arsène Lupin</td>
 			<td>Arsène Lupin, Gentleman-Cambrioleur</td>
 			<td rowspan=23>Maurice Leblanc</td>
