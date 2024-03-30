@@ -3,6 +3,10 @@ import os
 import logging as log
 import strictyaml as yaml
 
+# Workaround because linter didn't understand the lib structure.
+# TODO: add type hint and a better structure for lib
+from typing import Any
+
 def check_valid(lib):
     # TODO: check all references are to existing keys (languages)
     # TODO: check no duplicate titles (in works)
@@ -368,7 +372,7 @@ def main():
     if error_list:
         return
 
-    lib = yaml_library.data
+    lib: Any = yaml_library.data
 
     # Make two way link authors<->works<->books (from authors<-works->books)
     log.info("- Loading library")
