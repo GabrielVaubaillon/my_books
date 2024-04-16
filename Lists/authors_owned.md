@@ -964,7 +964,7 @@
 		</tr>
 		<tr>
 			<td>Hans Baumann</td>
-			<td>0</td>
+			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>
@@ -999,6 +999,11 @@
 		</tr>
 		<tr>
 			<td>Richard Bach</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Jane Austen</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>

@@ -183,6 +183,12 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>J'ai bien connu Icare</td>
+			<td>Hans Baumann</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Michel et les routiers</td>
 			<td>Georges Bayard</td>
 			<td>Lu</td>

@@ -38,6 +38,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Emma (fr: Emma)</td>
+			<td>Jane Austen</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Jonathan Livingston le goéland (en-vo: Livingston Seagull – A Story)</td>
 			<td>Richard Bach</td>
 			<td>fr</td>
@@ -61,13 +68,6 @@
 		<tr>
 			<td colspan=2>Alamut (en: Alamut)</td>
 			<td>Vladimir Bartol</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>J'ai bien connu Icare</td>
-			<td>Hans Baumann</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>

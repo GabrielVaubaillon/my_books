@@ -159,6 +159,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Emma</td>
+			<td>Jane Austen</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Le passe muraille</td>
 			<td>Marcel Aymé</td>
 			<td>Lu</td>
@@ -233,7 +239,7 @@
 		<tr>
 			<td>J'ai bien connu Icare</td>
 			<td>Hans Baumann</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

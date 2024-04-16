@@ -134,6 +134,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Emma (fr: Emma)</td>
+			<td>Jane Austen</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Les contes bleus du chat perché</td>
 			<td>Marcel Aymé</td>
 			<td>fr</td>
@@ -205,7 +212,7 @@
 			<td colspan=2>J'ai bien connu Icare</td>
 			<td>Hans Baumann</td>
 			<td>fr</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>

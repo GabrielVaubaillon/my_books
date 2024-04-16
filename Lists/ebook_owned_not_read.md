@@ -10,6 +10,13 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td colspan=2>Emma (fr: Emma)</td>
+			<td>Jane Austen</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>The Neverending Story (fr: L'Histoire sans fin)</td>
 			<td>Michael Ende</td>
 			<td>en</td>

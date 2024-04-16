@@ -94,7 +94,7 @@
 			<td colspan=2>J'ai bien connu Icare</td>
 			<td>Hans Baumann</td>
 			<td>fr</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>

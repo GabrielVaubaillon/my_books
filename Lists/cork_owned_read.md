@@ -56,6 +56,13 @@
 			<td>Terre et Fondation (en-vo: Foundation and Earth)</td>
 		</tr>
 		<tr>
+			<td colspan=2>J'ai bien connu Icare</td>
+			<td>Hans Baumann</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Mythes Chinois (en-vo: Chinese Myths)</td>
 			<td>Anne Birrell</td>
 			<td>fr</td>

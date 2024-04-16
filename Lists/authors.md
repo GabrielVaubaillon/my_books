@@ -78,6 +78,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Jane Austen</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Marcel Aymé</td>
 			<td>3</td>
 			<td>2</td>
@@ -134,7 +139,7 @@
 		</tr>
 		<tr>
 			<td>Hans Baumann</td>
-			<td>0</td>
+			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>

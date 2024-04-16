@@ -53,6 +53,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Emma (fr: Emma)</td>
+			<td>Jane Austen</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td rowspan=2>Les contes du chat perché</td>
 			<td>Les contes bleus du chat perché</td>
 			<td rowspan=2>Marcel Aymé</td>

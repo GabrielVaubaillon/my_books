@@ -290,7 +290,7 @@ works:
     titles:
       fr: J'ai bien connu Icare
     language: fr
-    read: no
+    read: yes
     books: B_021
     authors: A_020
   W_028:
@@ -3619,6 +3619,14 @@ works:
     read: no
     books: B_348
     authors:
+  W_465:
+    titles:
+      en: Emma
+      fr: Emma
+    language: en
+    read: no
+    books: B_349
+    authors: A_246
 
 books:
   B_001:
@@ -5388,6 +5396,11 @@ books:
     language: en
     isbn: 978-1-80417-229-2
     situation: Cork
+  B_349:
+    title: Emma
+    language: en
+    isbn:
+    situation: Ebook
 
 authors:
   A_001:
@@ -5908,6 +5921,8 @@ authors:
     name: Mark Lawrence
   A_245:
     name: R.F. Kuang
+  A_246:
+    name: Jane Austen
 
 series:
   S_001:

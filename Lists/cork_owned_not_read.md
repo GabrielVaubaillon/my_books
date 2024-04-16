@@ -52,13 +52,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>J'ai bien connu Icare</td>
-			<td>Hans Baumann</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Kindred (fr: Liens de sang)</td>
 			<td>Octavia E. Butler</td>
 			<td>en</td>

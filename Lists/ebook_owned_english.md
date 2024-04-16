@@ -38,6 +38,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Emma (fr: Emma)</td>
+			<td>Jane Austen</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Legends & Lattes (fr: Légendes & Lattes)</td>
 			<td>Travis Baldree</td>
 			<td>en</td>
