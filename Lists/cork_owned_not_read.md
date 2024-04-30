@@ -52,9 +52,23 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Grecs (en-vo: Greek Myths)</td>
+			<td>Lucilla Burn</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Kindred (fr: Liens de sang)</td>
 			<td>Octavia E. Butler</td>
 			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mon Traître</td>
+			<td>Sorj Chalandon</td>
+			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>
@@ -171,6 +185,13 @@
 			<td>Journal</td>
 			<td>Le Journal d'Anne Frank (en: The Diary of a Young Girl)</td>
 			<td>Anne Frank</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mythes Romains (en-vo: Roman Myths)</td>
+			<td>Jane F. Gardner</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
@@ -338,6 +359,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes de la Mésopotamie (en-vo: Mesopotamian Myths)</td>
+			<td>Henrietta McCall</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Mes amis les loups (en-vo: Never Cry Wolf)</td>
 			<td>Farley Mowat</td>
 			<td>fr</td>
@@ -401,9 +429,23 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Incas (en-vo: Inca Myths)</td>
+			<td>Gary Urton</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>On Earth We're Briefly Gorgeous</td>
 			<td>Ocean Vuong</td>
 			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mythes Russes (en-vo: Russian Myths)</td>
+			<td>Elizabeth Warner</td>
+			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>

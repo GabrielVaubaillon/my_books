@@ -108,6 +108,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Leviathan Wakes (fr: L'Éveil du Léviathan)</td>
+			<td>James S. A. Corey</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>This Is How You Lose the Time War (fr: Les Oiseaux du temps)</td>
 			<td>Amal El-Mothar / Max Gladstone</td>
 			<td>en</td>
@@ -232,7 +239,7 @@
 			<td colspan=2>The Book That Broke The World</td>
 			<td>Mark Lawrence</td>
 			<td>en</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>

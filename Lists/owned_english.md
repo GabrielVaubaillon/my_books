@@ -157,6 +157,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Leviathan Wakes (fr: L'Éveil du Léviathan)</td>
+			<td>James S. A. Corey</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td rowspan=5>Sherlock Holmes - The Complete Novels and Stories - Volume One</td>
 			<td>A Study in Scarlet (fr: Une Étude en Rouge)</td>
 			<td rowspan=5>Arthur Conan Doyle</td>
@@ -397,7 +404,7 @@
 			<td colspan=2>The Book That Broke The World</td>
 			<td>Mark Lawrence</td>
 			<td>en</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>

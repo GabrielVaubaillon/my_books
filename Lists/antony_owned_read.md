@@ -137,13 +137,6 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Contes des indiens du Chiapas</td>
-			<td>Baptiste Condominas</td>
-			<td>fr</td>
-			<td>Lu</td>
-			<td>Antony</td>
-		</tr>
-		<tr>
 			<td colspan=2>Au coeur des ténèbre (en-vo: Heart of Darkness)</td>
 			<td>Joseph Conrad</td>
 			<td>fr</td>

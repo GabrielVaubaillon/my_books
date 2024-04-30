@@ -203,6 +203,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Lucilla Burn</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Octavia E. Butler</td>
 			<td>0</td>
 			<td>1</td>
@@ -229,6 +234,11 @@
 		</tr>
 		<tr>
 			<td>Miguel de Cervantes Saavedra</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Sorj Chalandon</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
@@ -305,6 +315,11 @@
 		<tr>
 			<td>Joseph Conrad</td>
 			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>James S. A. Corey</td>
+			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>
@@ -443,6 +458,11 @@
 			<td>0</td>
 		</tr>
 		<tr>
+			<td>Jane F. Gardner</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Leon Garfield</td>
 			<td>1</td>
 			<td>1</td>
@@ -541,6 +561,11 @@
 			<td>Virgina Heath</td>
 			<td>3</td>
 			<td>3</td>
+		</tr>
+		<tr>
+			<td>Claude Helft</td>
+			<td>1</td>
+			<td>1</td>
 		</tr>
 		<tr>
 			<td>Johan Heliot</td>
@@ -674,7 +699,7 @@
 		</tr>
 		<tr>
 			<td>Mark Lawrence</td>
-			<td>1</td>
+			<td>2</td>
 			<td>2</td>
 		</tr>
 		<tr>
@@ -766,6 +791,11 @@
 			<td>Anne McCaffrey</td>
 			<td>7</td>
 			<td>7</td>
+		</tr>
+		<tr>
+			<td>Henrietta McCall</td>
+			<td>0</td>
+			<td>1</td>
 		</tr>
 		<tr>
 			<td>Herman Melville</td>
@@ -1148,6 +1178,11 @@
 			<td>0</td>
 		</tr>
 		<tr>
+			<td>Gary Urton</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Fred Vargas</td>
 			<td>1</td>
 			<td>1</td>
@@ -1189,6 +1224,11 @@
 		</tr>
 		<tr>
 			<td>Per Wahlöö</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Elizabeth Warner</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>

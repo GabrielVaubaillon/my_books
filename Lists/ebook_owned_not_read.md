@@ -17,6 +17,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Leviathan Wakes (fr: L'Éveil du Léviathan)</td>
+			<td>James S. A. Corey</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>The Neverending Story (fr: L'Histoire sans fin)</td>
 			<td>Michael Ende</td>
 			<td>en</td>
@@ -38,13 +45,6 @@
 		<tr>
 			<td>Act Your Age, Eve Brown</td>
 			<td>Pas Lu</td>
-		</tr>
-		<tr>
-			<td colspan=2>The Book That Broke The World</td>
-			<td>Mark Lawrence</td>
-			<td>en</td>
-			<td>Pas Lu</td>
-			<td>Ebook</td>
 		</tr>
 		<tr>
 			<td rowspan=23>Integrale Arsène Lupin</td>

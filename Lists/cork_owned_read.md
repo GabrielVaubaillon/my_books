@@ -126,6 +126,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Contes des indiens du Chiapas</td>
+			<td>Baptiste Condominas</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td rowspan=5>Les Chroniques de Spiderwick - L'integrale</td>
 			<td>Le Livre magique (en-vo: The Field Guide)</td>
 			<td rowspan=5>Tony Diterlizzi / Holly Black</td>
@@ -263,6 +270,13 @@
 		<tr>
 			<td colspan=2>Les Cheveux de Bérénice</td>
 			<td>Denis Guedj</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>La Mythologie Chinoise</td>
+			<td>Claude Helft</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>

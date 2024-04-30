@@ -112,6 +112,20 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Grecs (en-vo: Greek Myths)</td>
+			<td>Lucilla Burn</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mon Traître</td>
+			<td>Sorj Chalandon</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Le Problème à Trois Corps (en: Three Body Problem)</td>
 			<td>Liu Cixin</td>
 			<td>fr</td>
@@ -135,6 +149,13 @@
 		<tr>
 			<td colspan=2>2001: l'Odyssée de l'Espace (en-vo: 2001: A Space Odyssey)</td>
 			<td>Arthur C. Clarke</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Contes des indiens du Chiapas</td>
+			<td>Baptiste Condominas</td>
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Cork</td>
@@ -268,6 +289,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Romains (en-vo: Roman Myths)</td>
+			<td>Jane F. Gardner</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>L'histoire de Géronimo (en-vo: Geronimo)</td>
 			<td>Géronimo / S.M. Barett</td>
 			<td>fr</td>
@@ -293,6 +321,13 @@
 			<td>George Hart</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>La Mythologie Chinoise</td>
+			<td>Claude Helft</td>
+			<td>fr</td>
+			<td>Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>
@@ -477,6 +512,13 @@
 			<td>Le Trône de Fer - L'integrale 5</td>
 			<td>Le Bûcher d'un roi / Les Dragons de Meereen / Une danse avec les dragons (en-vo: us: A Dance with Dragons; uk: (Dreams and Dust / After the Feast))</td>
 			<td>George R.R. Martin</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mythes de la Mésopotamie (en-vo: Mesopotamian Myths)</td>
+			<td>Henrietta McCall</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
@@ -671,6 +713,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Incas (en-vo: Inca Myths)</td>
+			<td>Gary Urton</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>L'homme à l'envers</td>
 			<td>Fred Vargas</td>
 			<td>fr</td>
@@ -689,6 +738,13 @@
 			<td>Jules Verne</td>
 			<td>fr</td>
 			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mythes Russes (en-vo: Russian Myths)</td>
+			<td>Elizabeth Warner</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>
 		<tr>

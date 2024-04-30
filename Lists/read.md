@@ -789,6 +789,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>La Mythologie Chinoise</td>
+			<td>Claude Helft</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Ciel - L'Hiver des Machines</td>
 			<td>Johan Heliot</td>
 			<td>Lu</td>
@@ -952,6 +958,12 @@
 		</tr>
 		<tr>
 			<td>The Book That Wouldn't Burn</td>
+			<td>Mark Lawrence</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>The Book That Broke The World</td>
 			<td>Mark Lawrence</td>
 			<td>Lu</td>
 			<td>Possédé</td>

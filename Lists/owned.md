@@ -342,6 +342,13 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Grecs (en-vo: Greek Myths)</td>
+			<td>Lucilla Burn</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Kindred (fr: Liens de sang)</td>
 			<td>Octavia E. Butler</td>
 			<td>en</td>
@@ -362,6 +369,13 @@
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mon Traître</td>
+			<td>Sorj Chalandon</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>A Psalm for the Wild Built (fr: Un psaume pour les recyclés sauvages)</td>
@@ -502,7 +516,7 @@
 			<td>Baptiste Condominas</td>
 			<td>fr</td>
 			<td>Lu</td>
-			<td>Antony</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>Histoire populaire des sciences</td>
@@ -517,6 +531,13 @@
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Leviathan Wakes (fr: L'Éveil du Léviathan)</td>
+			<td>James S. A. Corey</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
 		</tr>
 		<tr>
 			<td colspan=2>Comment dresser votre dragon (en-vo: How to Train Your Dragon)</td>
@@ -687,56 +708,56 @@
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Joseph Balsamo</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Le Collier de la Reine</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Ange Pitou</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>La Comtesse de Charny</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Les Trois Mousquetaires (en: The Three Musketeers)</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Vingt ans après (en: Twenty Years After)</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Le Vicomte de Bragelonne (en: The Vicomte de Bragelonne)</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Disparaître</td>
@@ -843,6 +864,13 @@
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mythes Romains (en-vo: Roman Myths)</td>
+			<td>Jane F. Gardner</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>Smith (en-vo: Smith: The Story of a Pickpocket)</td>
@@ -1020,6 +1048,13 @@
 			<td>en</td>
 			<td>Lu</td>
 			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>La Mythologie Chinoise</td>
+			<td>Claude Helft</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>Ciel - L'Hiver des Machines</td>
@@ -1244,7 +1279,7 @@
 			<td colspan=2>The Book That Broke The World</td>
 			<td>Mark Lawrence</td>
 			<td>en</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>
@@ -1603,6 +1638,13 @@
 			<td>fr</td>
 			<td>Lu</td>
 			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mythes de la Mésopotamie (en-vo: Mesopotamian Myths)</td>
+			<td>Henrietta McCall</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>Le Piège Gaulois</td>
@@ -2399,6 +2441,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Incas (en-vo: Inca Myths)</td>
+			<td>Gary Urton</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>L'homme à l'envers</td>
 			<td>Fred Vargas</td>
 			<td>fr</td>
@@ -2451,6 +2500,13 @@
 			<td colspan=2>On Earth We're Briefly Gorgeous</td>
 			<td>Ocean Vuong</td>
 			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mythes Russes (en-vo: Russian Myths)</td>
+			<td>Elizabeth Warner</td>
+			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>

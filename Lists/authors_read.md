@@ -228,6 +228,11 @@
 			<td>0</td>
 		</tr>
 		<tr>
+			<td>Mark Lawrence</td>
+			<td>2</td>
+			<td>2</td>
+		</tr>
+		<tr>
 			<td>Victor Hugo</td>
 			<td>2</td>
 			<td>0</td>
@@ -588,11 +593,6 @@
 			<td>1</td>
 		</tr>
 		<tr>
-			<td>Mark Lawrence</td>
-			<td>1</td>
-			<td>2</td>
-		</tr>
-		<tr>
 			<td>Björn Larsson</td>
 			<td>1</td>
 			<td>1</td>
@@ -689,6 +689,11 @@
 		</tr>
 		<tr>
 			<td>Johan Heliot</td>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Claude Helft</td>
 			<td>1</td>
 			<td>1</td>
 		</tr>

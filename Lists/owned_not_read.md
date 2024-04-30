@@ -87,6 +87,13 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Grecs (en-vo: Greek Myths)</td>
+			<td>Lucilla Burn</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Kindred (fr: Liens de sang)</td>
 			<td>Octavia E. Butler</td>
 			<td>en</td>
@@ -100,6 +107,13 @@
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Antony</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mon Traître</td>
+			<td>Sorj Chalandon</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>La Mort Immortelle (en: Death's End)</td>
@@ -121,6 +135,13 @@
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Leviathan Wakes (fr: L'Éveil du Léviathan)</td>
+			<td>James S. A. Corey</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
 		</tr>
 		<tr>
 			<td colspan=2>La Horde du Contrevent</td>
@@ -208,49 +229,49 @@
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Joseph Balsamo</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Le Collier de la Reine</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Ange Pitou</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>La Comtesse de Charny</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Vingt ans après (en: Twenty Years After)</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Le Vicomte de Bragelonne (en: The Vicomte de Bragelonne)</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>The Neverending Story (fr: L'Histoire sans fin)</td>
@@ -270,6 +291,13 @@
 			<td>Journal</td>
 			<td>Le Journal d'Anne Frank (en: The Diary of a Young Girl)</td>
 			<td>Anne Frank</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mythes Romains (en-vo: Roman Myths)</td>
+			<td>Jane F. Gardner</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
@@ -381,13 +409,6 @@
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
-		</tr>
-		<tr>
-			<td colspan=2>The Book That Broke The World</td>
-			<td>Mark Lawrence</td>
-			<td>en</td>
-			<td>Pas Lu</td>
-			<td>Ebook</td>
 		</tr>
 		<tr>
 			<td rowspan=23>Integrale Arsène Lupin</td>
@@ -589,6 +610,13 @@
 			<td>Le Trône de Fer - L'integrale 5</td>
 			<td>Le Bûcher d'un roi / Les Dragons de Meereen / Une danse avec les dragons (en-vo: us: A Dance with Dragons; uk: (Dreams and Dust / After the Feast))</td>
 			<td>George R.R. Martin</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mythes de la Mésopotamie (en-vo: Mesopotamian Myths)</td>
+			<td>Henrietta McCall</td>
 			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
@@ -797,6 +825,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Incas (en-vo: Inca Myths)</td>
+			<td>Gary Urton</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>J'irai cracher sur vos tombes</td>
 			<td>Boris Vian</td>
 			<td>fr</td>
@@ -807,6 +842,13 @@
 			<td colspan=2>On Earth We're Briefly Gorgeous</td>
 			<td>Ocean Vuong</td>
 			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
+			<td colspan=2>Mythes Russes (en-vo: Russian Myths)</td>
+			<td>Elizabeth Warner</td>
+			<td>fr</td>
 			<td>Pas Lu</td>
 			<td>Cork</td>
 		</tr>

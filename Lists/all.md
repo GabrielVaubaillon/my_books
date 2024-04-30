@@ -351,6 +351,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Mythes Grecs</td>
+			<td>Lucilla Burn</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Liens de sang</td>
 			<td>Octavia E. Butler</td>
 			<td>Pas Lu</td>
@@ -377,6 +383,12 @@
 		<tr>
 			<td>L’Ingénieux Hidalgo Don Quichotte de la Manche</td>
 			<td>Miguel de Cervantes Saavedra</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>Mon Traître</td>
+			<td>Sorj Chalandon</td>
 			<td>Pas Lu</td>
 			<td>Possédé</td>
 		</tr>
@@ -528,6 +540,12 @@
 			<td>Au coeur des ténèbre</td>
 			<td>Joseph Conrad</td>
 			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>L'Éveil du Léviathan</td>
+			<td>James S. A. Corey</td>
+			<td>Pas Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
@@ -861,6 +879,12 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>Mythes Romains</td>
+			<td>Jane F. Gardner</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Smith</td>
 			<td>Leon Garfield</td>
 			<td>Lu</td>
@@ -1031,6 +1055,12 @@
 		<tr>
 			<td>Never Wager with a Wallflower</td>
 			<td>Virgina Heath</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>La Mythologie Chinoise</td>
+			<td>Claude Helft</td>
 			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
@@ -1259,7 +1289,7 @@
 		<tr>
 			<td>The Book That Broke The World</td>
 			<td>Mark Lawrence</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
@@ -1626,6 +1656,12 @@
 			<td>L'aube des dragons</td>
 			<td>Anne McCaffrey</td>
 			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>Mythes de la Mésopotamie</td>
+			<td>Henrietta McCall</td>
+			<td>Pas Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
@@ -2511,6 +2547,12 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>Mythes Incas</td>
+			<td>Gary Urton</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>L'homme à l'envers</td>
 			<td>Fred Vargas</td>
 			<td>Lu</td>
@@ -2579,6 +2621,12 @@
 		<tr>
 			<td>On Earth We're Briefly Gorgeous</td>
 			<td>Ocean Vuong</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>Mythes Russes</td>
+			<td>Elizabeth Warner</td>
 			<td>Pas Lu</td>
 			<td>Possédé</td>
 		</tr>

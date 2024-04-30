@@ -3631,9 +3631,71 @@ works:
     titles:
       en: The Book That Broke The World
     language: en
-    read: no
+    read: yes
     books: B_350
     authors: A_244
+  W_467:
+    titles:
+      fr: Mythes Grecs
+      en: Greek Myths
+    language: en
+    read: no
+    books: B_351
+    authors: A_247
+  W_468:
+    titles:
+      fr: Mythes Romains
+      en: Roman Myths
+    language: en
+    read: no
+    books: B_352
+    authors: A_248
+  W_469:
+    titles:
+      fr: Mythes de la Mésopotamie
+      en: Mesopotamian Myths
+    language: en
+    read: no
+    books: B_353
+    authors: A_249
+  W_470:
+    titles:
+      fr: Mythes Russes
+      en: Russian Myths
+    language: en
+    read: no
+    books: B_354
+    authors: A_250
+  W_471:
+    titles:
+      fr: Mythes Incas
+      en: Inca Myths
+    language: en
+    read: no
+    books: B_355
+    authors: A_251
+  W_472:
+    titles:
+      en: Leviathan Wakes
+      fr: L'Éveil du Léviathan
+    language: en
+    read: no
+    books: B_356
+    authors: A_252
+  W_473:
+    titles:
+      fr: La Mythologie Chinoise
+    language: fr
+    read: yes
+    books: B_357
+    authors: A_253
+  W_474:
+    titles:
+      fr: Mon Traître
+    language: fr
+    read: no
+    books: B_358
+    authors: A_254
 
 books:
   B_001:
@@ -3928,7 +3990,7 @@ books:
     title: Contes des indiens du Chiapas
     language: fr
     isbn: 978-2-7427-8250-5
-    situation: Antony
+    situation: Cork
   B_060:
     title: Histoire populaire des sciences
     language: fr
@@ -4008,49 +4070,49 @@ books:
     title: Ange Pitou
     language: fr
     isbn:
-    situation: Paris
+    situation: Carton
     notes: 2 Tomes, Collection Dumas (cuir rouge)
   B_076:
     title: Joseph Balsamo
     language: fr
     isbn:
-    situation: Paris
+    situation: Carton
     notes: 4 Tomes, Collection Dumas (cuir rouge)
   B_077:
     title: La Comtesse de Charny
     language: fr
     isbn:
-    situation: Paris
+    situation: Carton
     notes: 4 Tomes, Collection Dumas (cuir rouge)
   B_078:
     title: Le Collier de la Reine
     language: fr
     isbn:
-    situation: Paris
+    situation: Carton
     notes: 2 Tomes, Collection Dumas (cuir rouge)
   B_079:
     title: Le Comte de Monte-Cristo
     language: fr
     isbn:
-    situation: Paris
+    situation: Carton
     notes: 4 Tomes, Collection Dumas (cuir rouge)
   B_080:
     title: Le Vicomte de Bragelonne
     language: fr
     isbn:
-    situation: Paris
+    situation: Carton
     notes: 6 Tomes, Collection Dumas (cuir rouge)
   B_081:
     title: Les Trois Mousquetaires
     language: fr
     isbn:
-    situation: Paris
+    situation: Carton
     notes: 2 Tomes, Collection Dumas (cuir rouge)
   B_082:
     title: Vingt ans après
     language: fr
     isbn:
-    situation: Paris
+    situation: Carton
     notes: 2 Tomes, Collection Dumas (cuir rouge)
   B_083:
     title: Les Lions de César
@@ -5413,6 +5475,46 @@ books:
     language: en
     isbn: 9780008456788
     situation: Ebook
+  B_351:
+    title: Mythes Grecs
+    language: fr
+    isbn: 979-10-414-1103-0
+    situation: Cork
+  B_352:
+    title: Mythes Romains
+    language: fr
+    isbn: 979-10-414-1102-3
+    situation: Cork
+  B_353:
+    title: Mythes de la Mésopotamie
+    language: fr
+    isbn: 979-10-414-1111-5
+    situation: Cork
+  B_354:
+    title: Mythes Russes
+    language: fr
+    isbn: 979-10-414-1107-8
+    situation: Cork
+  B_355:
+    title: Mythes Incas
+    language: fr
+    isbn: 979-10-414-1106-1
+    situation: Cork
+  B_356:
+    title: Leviathan Wakes
+    language: en
+    isbn: 9780748122967
+    situation: Ebook
+  B_357:
+    title: La Mythologie Chinoise
+    language: fr
+    isbn: 978-2-7427-3651-5
+    situation: Cork
+  B_358:
+    title: Mon Traître
+    language: fr
+    isbn: 978-2-253-12639-3
+    situation: Cork
 
 authors:
   A_001:
@@ -5935,6 +6037,23 @@ authors:
     name: R.F. Kuang
   A_246:
     name: Jane Austen
+  A_247:
+    name: Lucilla Burn
+  A_248:
+    name: Jane F. Gardner
+  A_249:
+    name: Henrietta McCall
+  A_250:
+    name: Elizabeth Warner
+  A_251:
+    name: Gary Urton
+  A_252:
+    name: James S. A. Corey
+    sorting_name: corey
+  A_253:
+    name: Claude Helft
+  A_254:
+    name: Sorj Chalandon
 
 series:
   S_001:

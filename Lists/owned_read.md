@@ -396,7 +396,7 @@
 			<td>Baptiste Condominas</td>
 			<td>fr</td>
 			<td>Lu</td>
-			<td>Antony</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>Au coeur des ténèbre (en-vo: Heart of Darkness)</td>
@@ -537,7 +537,7 @@
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Lu</td>
-			<td>Paris</td>
+			<td>Carton</td>
 		</tr>
 		<tr>
 			<td colspan=2>Disparaître</td>
@@ -758,6 +758,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>La Mythologie Chinoise</td>
+			<td>Claude Helft</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Ciel - L'Hiver des Machines</td>
 			<td>Johan Heliot</td>
 			<td>fr</td>
@@ -922,6 +929,13 @@
 		</tr>
 		<tr>
 			<td colspan=2>The Book That Wouldn't Burn</td>
+			<td>Mark Lawrence</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
+			<td colspan=2>The Book That Broke The World</td>
 			<td>Mark Lawrence</td>
 			<td>en</td>
 			<td>Lu</td>
