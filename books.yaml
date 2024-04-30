@@ -3627,6 +3627,13 @@ works:
     read: no
     books: B_349
     authors: A_246
+  W_466:
+    titles:
+      en: The Book That Broke The World
+    language: en
+    read: no
+    books: B_350
+    authors: A_244
 
 books:
   B_001:
@@ -5401,6 +5408,11 @@ books:
     language: en
     isbn:
     situation: Ebook
+  B_350:
+    title: The Book That Broke The World
+    language: en
+    isbn: 9780008456788
+    situation: Ebook
 
 authors:
   A_001:
@@ -6298,4 +6310,10 @@ series:
       1: W_355
       2: W_356
       3: W_357
+  S_039:
+    name:
+      en: The Library Trilogy
+    works:
+      0: W_459
+      1: W_466
 

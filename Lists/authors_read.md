@@ -590,7 +590,7 @@
 		<tr>
 			<td>Mark Lawrence</td>
 			<td>1</td>
-			<td>1</td>
+			<td>2</td>
 		</tr>
 		<tr>
 			<td>Björn Larsson</td>

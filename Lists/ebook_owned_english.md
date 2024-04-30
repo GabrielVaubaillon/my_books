@@ -229,6 +229,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>The Book That Broke The World</td>
+			<td>Mark Lawrence</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Pachinko (fr: Pachinko)</td>
 			<td>Min Jin Lee</td>
 			<td>en</td>
