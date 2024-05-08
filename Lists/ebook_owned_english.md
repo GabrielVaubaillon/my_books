@@ -125,7 +125,7 @@
 			<td colspan=2>The Neverending Story (fr: L'Histoire sans fin)</td>
 			<td>Michael Ende</td>
 			<td>en</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>

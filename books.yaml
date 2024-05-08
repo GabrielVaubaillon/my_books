@@ -3251,7 +3251,7 @@ works:
       de: Die unendliche Geschichte
       fr: L'Histoire sans fin
     language: de
-    read: no
+    read: yes
     books: B_311
     authors: A_234
   W_417:

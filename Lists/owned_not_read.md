@@ -274,13 +274,6 @@
 			<td>Carton</td>
 		</tr>
 		<tr>
-			<td colspan=2>The Neverending Story (fr: L'Histoire sans fin)</td>
-			<td>Michael Ende</td>
-			<td>en</td>
-			<td>Pas Lu</td>
-			<td>Ebook</td>
-		</tr>
-		<tr>
 			<td colspan=2>Le Crépuscule et l'Aube (en-vo: The Evening and the Morning)</td>
 			<td>Ken Follett</td>
 			<td>fr</td>

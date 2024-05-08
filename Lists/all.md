@@ -791,7 +791,7 @@
 		<tr>
 			<td>L'Histoire sans fin</td>
 			<td>Michael Ende</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

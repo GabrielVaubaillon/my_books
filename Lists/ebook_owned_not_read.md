@@ -24,13 +24,6 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>The Neverending Story (fr: L'Histoire sans fin)</td>
-			<td>Michael Ende</td>
-			<td>en</td>
-			<td>Pas Lu</td>
-			<td>Ebook</td>
-		</tr>
-		<tr>
 			<td rowspan=3>The Brown Sisters Serie</td>
 			<td>Get a Life, Chloe Brown</td>
 			<td rowspan=3>Talia Hibbert</td>

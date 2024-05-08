@@ -561,6 +561,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>The Neverending Story (fr: L'Histoire sans fin)</td>
+			<td>Michael Ende</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Flamme et l'Etalon Noir (en-vo: The Black Stallion and Flame)</td>
 			<td>Walter Farley</td>
 			<td>fr</td>

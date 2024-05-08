@@ -579,6 +579,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>L'Histoire sans fin</td>
+			<td>Michael Ende</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Flamme et l'Etalon Noir</td>
 			<td>Walter Farley</td>
 			<td>Lu</td>
