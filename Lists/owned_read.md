@@ -537,7 +537,7 @@
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
 			<td>Lu</td>
-			<td>Carton</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>Disparaître</td>
