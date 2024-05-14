@@ -34,4 +34,5 @@
 - [82 (23.5%) oeuvres lues hors ma collection actuelle](Lists/read_not_owned.md)
 - [199 auteurs differents](Lists/authors_read.md)
 ### Autres
+- [Les 254 auteurs](Lists/authors.md)
 - [Toutes les oeuvres](Lists/all.md)

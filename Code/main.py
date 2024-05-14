@@ -568,6 +568,7 @@ def main():
         f"- [{percent(w_read_not_owned, w_read)} oeuvres lues hors ma collection actuelle](Lists/read_not_owned.md)",
         f"- [{len(a_read)} auteurs differents](Lists/authors_read.md)",
         f"### Autres",
+        f"- [Les {len(a_total)} auteurs](Lists/authors.md)",
         f"- [Toutes les oeuvres](Lists/all.md)",
         #f"- x séries",
         #f"- langues originales des oeuvres:",
