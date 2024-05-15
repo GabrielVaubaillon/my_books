@@ -741,6 +741,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Mythes Egyptiens</td>
+			<td>George Hart</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Tales of Lunis Aquaria</td>
 			<td>Tessa Hastjarjanto</td>
 			<td>Lu</td>

@@ -3204,7 +3204,7 @@ works:
       fr: Mythes Egyptiens
       en: Egyptian Myths
     language: en
-    read: no
+    read: yes
     books: B_307
     authors: A_229
   W_411:

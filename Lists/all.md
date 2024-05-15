@@ -1001,7 +1001,7 @@
 		<tr>
 			<td>Mythes Egyptiens</td>
 			<td>George Hart</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

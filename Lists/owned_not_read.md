@@ -332,13 +332,6 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
-			<td colspan=2>Mythes Egyptiens (en-vo: Egyptian Myths)</td>
-			<td>George Hart</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Pour qui Sonne le Glas (en-vo: For Whom the Bell Tolls)</td>
 			<td>Ernest Hemingway</td>
 			<td>fr</td>

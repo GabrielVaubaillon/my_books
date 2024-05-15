@@ -709,6 +709,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Egyptiens (en-vo: Egyptian Myths)</td>
+			<td>George Hart</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Tales of Lunis Aquaria</td>
 			<td>Tessa Hastjarjanto</td>
 			<td>en</td>
