@@ -555,6 +555,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Mythes Perses</td>
+			<td>Vesta Sarkhosh Curtis</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Cannibale</td>
 			<td>Didier Daeninckx</td>
 			<td>Lu</td>

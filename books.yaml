@@ -3696,6 +3696,14 @@ works:
     read: no
     books: B_358
     authors: A_254
+  W_475:
+    titles:
+      fr: Mythes Perses
+      en: Persian Myths
+    language: en
+    read: no
+    books: B_359
+    authors: A_255
 
 books:
   B_001:
@@ -5515,6 +5523,11 @@ books:
     language: fr
     isbn: 978-2-253-12639-3
     situation: Cork
+  B_359:
+    title: Mythes Perses
+    language: fr
+    isbn: 979-10-414-1110-8
+    situation: Cork
 
 authors:
   A_001:
@@ -6054,6 +6067,8 @@ authors:
     name: Claude Helft
   A_254:
     name: Sorj Chalandon
+  A_255:
+    name: Vesta Sarkhosh Curtis
 
 series:
   S_001:

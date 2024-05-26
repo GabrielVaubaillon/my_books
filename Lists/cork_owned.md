@@ -217,6 +217,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Mythes Perses (en-vo: Persian Myths)</td>
+			<td>Vesta Sarkhosh Curtis</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>La Horde du Contrevent</td>
 			<td>Alain Damasio</td>
 			<td>fr</td>

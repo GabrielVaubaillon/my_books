@@ -328,6 +328,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Vesta Sarkhosh Curtis</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Didier Daeninckx</td>
 			<td>1</td>
 			<td>0</td>
