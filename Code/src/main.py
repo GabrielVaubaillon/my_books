@@ -9,6 +9,14 @@ import strictyaml as yaml
 from typing import Any
 
 
+def _parse_cli_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("input_filename", type=str)
+    parser.add_argument("output_dir", type=str)
+    parser.add_argument("readme_path", type=str)
+    return parser.parse_args()
+
+
 def check_valid(lib):
     # TODO: check all references are to existing keys (languages)
     # TODO: check no duplicate titles (in works)
@@ -338,10 +346,7 @@ def html_table_authors(a_ids, lib, w_owned, w_read, key="name"):
     return table
 
 
-def main(input_filename: str, output_dir: str, readme_path: str):
-    log.debug("Entering main()")
-
-    log.debug(f"Reading {input_filename}")
+def load_library_file(input_filename):
     with open(input_filename, mode="r", encoding="utf-8") as input_file:
         lines = input_file.readlines()
     yaml_str = "".join(lines)
@@ -406,10 +411,10 @@ def main(input_filename: str, output_dir: str, readme_path: str):
     if error_list:
         return
 
-    lib: Any = yaml_library.data
+    return yaml_library.data
 
-    # Make two way link authors<->works<->books (from authors<-works->books)
-    log.info("- Loading library")
+
+def init_library(lib):
     log.debug("Casting semicolon-separated strings to lists")
     for w in lib["works"].values():
         for key in ("books", "authors"):
@@ -447,6 +452,17 @@ def main(input_filename: str, output_dir: str, readme_path: str):
                         or lib["books"][b_id]["serie_position"] > place
                     ):
                         lib["books"][b_id]["serie_position"] = place
+
+
+def main(input_filename: str, output_dir: str, readme_path: str):
+    log.debug("Entering main()")
+
+    log.debug(f"Reading {input_filename}")
+    lib: Any = load_library_file(input_filename)
+
+    # Make two way link authors<->works<->books (from authors<-works->books)
+    log.info("- Loading library")
+    init_library(lib)
 
     log.info("- Library loaded and ready to use")
 
@@ -619,11 +635,7 @@ def main(input_filename: str, output_dir: str, readme_path: str):
 
 if __name__ == "__main__":
     log.basicConfig(format=" %(levelname)-8s (%(asctime)s) %(message)s", level=log.DEBUG)
-    parser = argparse.ArgumentParser()
-    parser.add_argument("input_filename", type=str)
-    parser.add_argument("output_dir", type=str)
-    parser.add_argument("readme_path", type=str)
-    cli_args = parser.parse_args()
+    cli_args = _parse_cli_args()
     main(
         input_filename=cli_args.input_filename,
         output_dir=cli_args.output_dir,
