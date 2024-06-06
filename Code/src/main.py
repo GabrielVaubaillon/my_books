@@ -8,6 +8,7 @@ import strictyaml as yaml
 # TODO: add type hint and a better structure for lib
 from typing import Any
 
+
 def check_valid(lib):
     # TODO: check all references are to existing keys (languages)
     # TODO: check no duplicate titles (in works)
@@ -20,23 +21,29 @@ def check_valid(lib):
     error_list = []
     return error_list
 
+
 def percent(subset, original_set):
     return f"{len(subset)} ({round(len(subset)/len(original_set)*100, 2)}%)"
 
+
 def sorted_authors_list(authors_id, lib, w_owned, w_read, key="name"):
     ids = list(authors_id)
+
     def sort_name(a_id, lib):
         name = lib["authors"][a_id]["sorting_name"].lower()
         fullname = lib["authors"][a_id]["name"].lower()
         return (name, fullname)
+
     def sort_owned(a_id, lib, w_owned):
         name = lib["authors"][a_id]["sorting_name"].lower()
         fullname = lib["authors"][a_id]["name"].lower()
-        return (len(set(lib['authors'][a_id]['works']) & w_owned), name, fullname)
+        return (len(set(lib["authors"][a_id]["works"]) & w_owned), name, fullname)
+
     def sort_read(a_id, lib, w_read):
         name = lib["authors"][a_id]["sorting_name"].lower()
         fullname = lib["authors"][a_id]["name"].lower()
-        return (len(set(lib['authors'][a_id]['works']) & w_read), name, fullname)
+        return (len(set(lib["authors"][a_id]["works"]) & w_read), name, fullname)
+
     if key == "name":
         ids.sort(key=lambda x: sort_name(x, lib))
     elif key == "owned":
@@ -46,6 +53,7 @@ def sorted_authors_list(authors_id, lib, w_owned, w_read, key="name"):
         ids.sort(key=lambda x: sort_read(x, lib, w_read))
         ids.reverse()
     return ids
+
 
 def sorted_book_list(book_ids, lib):
     ids = list(book_ids)
@@ -66,6 +74,7 @@ def sorted_book_list(book_ids, lib):
 
     ids.sort(key=lambda x: sorting_key(x, lib))
     return ids
+
 
 def sorted_works_list(work_ids, lib):
     ids = list(work_ids)
@@ -89,6 +98,7 @@ def sorted_works_list(work_ids, lib):
     ids.sort(key=lambda x: sorting_key(x, lib))
     return ids
 
+
 def works_from_books(b_ids, lib):
     w_ids = set()
     for b_id in b_ids:
@@ -96,12 +106,14 @@ def works_from_books(b_ids, lib):
             w_ids.add(w)
     return w_ids
 
+
 def books_from_works(w_ids, lib):
     b_ids = set()
     for w_id in w_ids:
         for b in lib["works"][w_id]["books"]:
             b_ids.add(b)
     return b_ids
+
 
 def html_table_books(b_ids, lib):
     if not b_ids:
@@ -116,7 +128,7 @@ def html_table_books(b_ids, lib):
         "\t\t\t<th>Langue</th>",
         "\t\t\t<th>Lu</th>",
         "\t\t\t<th>Situation</th>",
-        #"\t\t\t<th>Notes</th>", # TODO: add notes
+        # "\t\t\t<th>Notes</th>", # TODO: add notes
         "\t\t</tr>",
         "\t</thead>",
         "\t<tbody>",
@@ -147,7 +159,7 @@ def html_table_books(b_ids, lib):
             else:
                 table.append(f"\t\t\t<td>{book['title']}</td>")
                 table.append(f"\t\t\t<td>{title}</td>")
-            authors = " / ".join([lib["authors"][a]['name'] for a in work["authors"]])
+            authors = " / ".join([lib["authors"][a]["name"] for a in work["authors"]])
             if work["read"]:
                 read = "Lu"
             else:
@@ -194,13 +206,13 @@ def html_table_books(b_ids, lib):
                 f"\t\t\t<td rowspan={nb_works}>{book['title']}</td>",
                 f"\t\t\t<td>{title}</td>",
             ]
-            authors = " / ".join([lib["authors"][a]['name'] for a in first_work["authors"]])
+            authors = " / ".join([lib["authors"][a]["name"] for a in first_work["authors"]])
             if one_author:
                 table.append(f"\t\t\t<td rowspan={nb_works}>{authors}</td>")
             else:
                 table.append(f"\t\t\t<td>{authors}</td>")
             table.append(f"\t\t\t<td rowspan={nb_works}>{book['language']}</td>")
-            if first_work['read']:
+            if first_work["read"]:
                 read = "Lu"
             else:
                 read = "Pas Lu"
@@ -228,7 +240,7 @@ def html_table_books(b_ids, lib):
                     f"\t\t\t<td>{title}</td>",
                 ]
                 if not one_author:
-                    authors = " / ".join([lib["authors"][a]['name'] for a in work["authors"]])
+                    authors = " / ".join([lib["authors"][a]["name"] for a in work["authors"]])
                     table.append(f"\t\t\t<td>{authors}</td>")
                 if not one_read_status:
                     if work["read"]:
@@ -243,6 +255,7 @@ def html_table_books(b_ids, lib):
     ]
     return table
 
+
 def html_table_works(w_ids, lib):
     if not w_ids:
         return [""]
@@ -253,10 +266,10 @@ def html_table_works(w_ids, lib):
         "\t\t<tr>",
         "\t\t\t<th>Titre</th>",
         "\t\t\t<th>Auteur·rice</th>",
-        #"\t\t\t<th>Langue</th>",
+        # "\t\t\t<th>Langue</th>",
         "\t\t\t<th>Lu</th>",
         "\t\t\t<th>Possédé</th>",
-        #"\t\t\t<th>Notes</th>", # TODO: add notes
+        # "\t\t\t<th>Notes</th>", # TODO: add notes
         "\t\t</tr>",
         "\t</thead>",
         "\t<tbody>",
@@ -270,7 +283,7 @@ def html_table_works(w_ids, lib):
             title = work["titles"]["fr"]
         else:
             title = work["titles"]["en"]
-        authors = " / ".join([lib["authors"][a]['name'] for a in work["authors"]])
+        authors = " / ".join([lib["authors"][a]["name"] for a in work["authors"]])
         if work["books"]:
             owned = "Possédé"
         else:
@@ -292,6 +305,7 @@ def html_table_works(w_ids, lib):
         "</table>",
     ]
     return table
+
 
 def html_table_authors(a_ids, lib, w_owned, w_read, key="name"):
     # key in ["name", "owned", "read"]
@@ -323,7 +337,8 @@ def html_table_authors(a_ids, lib, w_owned, w_read, key="name"):
     ]
     return table
 
-def main(input_filename: str, output_dir:str, readme_path:str):
+
+def main(input_filename: str, output_dir: str, readme_path: str):
     log.debug("Entering main()")
 
     log.debug(f"Reading {input_filename}")
@@ -331,36 +346,58 @@ def main(input_filename: str, output_dir:str, readme_path:str):
         lines = input_file.readlines()
     yaml_str = "".join(lines)
 
-    schema = yaml.Map({
-        "languages": yaml.MapPattern(yaml.Str(), yaml.MapPattern(yaml.Str(), yaml.Str())),
-        "works": yaml.MapPattern(yaml.Str(), yaml.Map({
-            "titles": yaml.MapPattern(yaml.Str(), yaml.Str()),
-            "language": yaml.Str(),
-            "read": yaml.Bool(),
-            "books": yaml.Str(),
-            "authors": yaml.Str(),
-            yaml.Optional("notes"): yaml.Str()
-            })),
-        "books": yaml.MapPattern(yaml.Str(), yaml.Map({
-            "title": yaml.Str(),
-            "language": yaml.Str(),
-            "isbn": yaml.Str(),
-            "situation": yaml.Str(),
-            yaml.Optional("notes"): yaml.Str()
-            })),
-        "authors": yaml.MapPattern(yaml.Str(), yaml.Map({
-            "name": yaml.Str(),
-            yaml.Optional("sorting_name"): yaml.Str(),
-            yaml.Optional("notes"): yaml.Str()
-            })),
-        "series": yaml.MapPattern(yaml.Str(), yaml.Map({
-            "name": yaml.MapPattern(yaml.Str(), yaml.Str()),
-            yaml.Optional("works"): yaml.MapPattern(yaml.Str(), yaml.Str()),
-            yaml.Optional("abbreviation"): yaml.Str(),
-            yaml.Optional("subseries"): yaml.MapPattern(yaml.Str(), yaml.Str()),
-            yaml.Optional("notes"): yaml.Str()
-            }))
-     })
+    schema = yaml.Map(
+        {
+            "languages": yaml.MapPattern(yaml.Str(), yaml.MapPattern(yaml.Str(), yaml.Str())),
+            "works": yaml.MapPattern(
+                yaml.Str(),
+                yaml.Map(
+                    {
+                        "titles": yaml.MapPattern(yaml.Str(), yaml.Str()),
+                        "language": yaml.Str(),
+                        "read": yaml.Bool(),
+                        "books": yaml.Str(),
+                        "authors": yaml.Str(),
+                        yaml.Optional("notes"): yaml.Str(),
+                    }
+                ),
+            ),
+            "books": yaml.MapPattern(
+                yaml.Str(),
+                yaml.Map(
+                    {
+                        "title": yaml.Str(),
+                        "language": yaml.Str(),
+                        "isbn": yaml.Str(),
+                        "situation": yaml.Str(),
+                        yaml.Optional("notes"): yaml.Str(),
+                    }
+                ),
+            ),
+            "authors": yaml.MapPattern(
+                yaml.Str(),
+                yaml.Map(
+                    {
+                        "name": yaml.Str(),
+                        yaml.Optional("sorting_name"): yaml.Str(),
+                        yaml.Optional("notes"): yaml.Str(),
+                    }
+                ),
+            ),
+            "series": yaml.MapPattern(
+                yaml.Str(),
+                yaml.Map(
+                    {
+                        "name": yaml.MapPattern(yaml.Str(), yaml.Str()),
+                        yaml.Optional("works"): yaml.MapPattern(yaml.Str(), yaml.Str()),
+                        yaml.Optional("abbreviation"): yaml.Str(),
+                        yaml.Optional("subseries"): yaml.MapPattern(yaml.Str(), yaml.Str()),
+                        yaml.Optional("notes"): yaml.Str(),
+                    }
+                ),
+            ),
+        }
+    )
 
     log.info("- Loading yaml")
     yaml_library = yaml.load(yaml_str, schema)
@@ -405,7 +442,10 @@ def main(input_filename: str, output_dir:str, readme_path:str):
                 for b_id in lib["works"][w_id]["books"]:
                     if "serie" not in lib["books"][b_id] or lib["books"][b_id]["serie"] > s_id:
                         lib["books"][b_id]["serie"] = s_id
-                    if "serie_position" not in lib["books"][b_id] or lib["books"][b_id]["serie_position"] > place:
+                    if (
+                        "serie_position" not in lib["books"][b_id]
+                        or lib["books"][b_id]["serie_position"] > place
+                    ):
                         lib["books"][b_id]["serie_position"] = place
 
     log.info("- Library loaded and ready to use")
@@ -424,7 +464,7 @@ def main(input_filename: str, output_dir:str, readme_path:str):
 
     w_read_not_owned = w_read - w_owned
 
-    w_owned_not_read = w_owned - w_read # Must do in this order for partially read books
+    w_owned_not_read = w_owned - w_read  # Must do in this order for partially read books
     b_owned_not_read = books_from_works(w_owned_not_read, lib)
 
     w_owned_read = w_owned & w_read
@@ -456,7 +496,9 @@ def main(input_filename: str, output_dir:str, readme_path:str):
         else:
             b_by_situation[situation] = {b_id}
         situations.add(situation)
-    w_by_situation = {situation: works_from_books(b_by_situation[situation],lib) for situation in situations}
+    w_by_situation = {
+        situation: works_from_books(b_by_situation[situation], lib) for situation in situations
+    }
     log.debug(f"Found {len(situations)} places: {situations}")
     # log.debug(f"w_by_situation: {w_by_situation}")
 
@@ -489,7 +531,7 @@ def main(input_filename: str, output_dir:str, readme_path:str):
     tables_by_situation = {}
     for situation in situations:
         tables_by_situation[situation] = {}
-        tables_by_situation[situation]["owned"] = html_table_books(b_by_situation[situation],lib)
+        tables_by_situation[situation]["owned"] = html_table_books(b_by_situation[situation], lib)
         for name, subset in situations_subsets[situation].items():
             if name.startswith("w_"):
                 continue
@@ -544,7 +586,7 @@ def main(input_filename: str, output_dir:str, readme_path:str):
         f"- [{percent(w_owned_not_read, w_owned)} oeuvres à lire](Lists/owned_not_read.md)",
         f"- [{percent(b_owned_french, b_owned)} livres en français](Lists/owned_french.md)",
         f"- [{percent(b_owned_english, b_owned)} livres en anglais](Lists/owned_english.md)",
-        f"- [{len(a_owned)} auteurs differents](Lists/authors_owned.md)"
+        f"- [{len(a_owned)} auteurs differents](Lists/authors_owned.md)",
         # TODO: lended/borrowed books
     ]
     list_situations = list(situations)
@@ -568,14 +610,15 @@ def main(input_filename: str, output_dir:str, readme_path:str):
         f"### Autres",
         f"- [Les {len(a_total)} auteurs](Lists/authors.md)",
         f"- [Toutes les oeuvres](Lists/all.md)",
-        #f"- x séries",
-        #f"- langues originales des oeuvres:",
+        # f"- x séries",
+        # f"- langues originales des oeuvres:",
     ]
     with open(readme_path, mode="w", encoding="utf-8") as f:
         f.write("\n".join(readme))
 
+
 if __name__ == "__main__":
-    log.basicConfig(format=' %(levelname)-8s (%(asctime)s) %(message)s', level=log.DEBUG)
+    log.basicConfig(format=" %(levelname)-8s (%(asctime)s) %(message)s", level=log.DEBUG)
     parser = argparse.ArgumentParser()
     parser.add_argument("input_filename", type=str)
     parser.add_argument("output_dir", type=str)
@@ -586,4 +629,3 @@ if __name__ == "__main__":
         output_dir=cli_args.output_dir,
         readme_path=cli_args.readme_path,
     )
-
