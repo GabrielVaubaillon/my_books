@@ -1,5 +1,6 @@
 #!/bin/python
 import os
+import argparse
 import logging as log
 import strictyaml as yaml
 
@@ -322,12 +323,8 @@ def html_table_authors(a_ids, lib, w_owned, w_read, key="name"):
     ]
     return table
 
-def main():
+def main(input_filename: str, output_dir:str, readme_path:str):
     log.debug("Entering main()")
-    # TODO: out of the code, should be passed as argument
-    work_dir = "."
-    input_filename = "../books.yaml"
-
 
     log.debug(f"Reading {input_filename}")
     with open(input_filename, mode="r", encoding="utf-8") as input_file:
@@ -525,9 +522,10 @@ def main():
             continue
         log.debug(f"Writing {filename}")
         # TODO: proper PATH management
-        with open(f"../Lists/{filename}.md", mode="w", encoding="utf-8") as f:
+        with open(f"{output_dir}{filename}.md", mode="w", encoding="utf-8") as f:
             f.write("\n".join(table))
 
+    # TODO: links use output_dir
     readme = [
         "# Mes livres - lus et possédés",
         # "[Click here for English](README_EN.md), # TODO
@@ -573,10 +571,19 @@ def main():
         #f"- x séries",
         #f"- langues originales des oeuvres:",
     ]
-    with open("../README.md", mode="w", encoding="utf-8") as f:
+    with open(readme_path, mode="w", encoding="utf-8") as f:
         f.write("\n".join(readme))
 
 if __name__ == "__main__":
     log.basicConfig(format=' %(levelname)-8s (%(asctime)s) %(message)s', level=log.DEBUG)
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("input_filename", type=str)
+    parser.add_argument("output_dir", type=str)
+    parser.add_argument("readme_path", type=str)
+    cli_args = parser.parse_args()
+    main(
+        input_filename=cli_args.input_filename,
+        output_dir=cli_args.output_dir,
+        readme_path=cli_args.readme_path,
+    )
 
