@@ -561,6 +561,12 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>Le Comte de Monte-Cristo</td>
+			<td>Alexandre Dumas</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Les Trois Mousquetaires</td>
 			<td>Alexandre Dumas</td>
 			<td>Lu</td>

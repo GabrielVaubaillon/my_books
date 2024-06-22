@@ -811,7 +811,7 @@ works:
       fr: Le Comte de Monte-Cristo
       en: The Count of Monte Cristo
     language: fr
-    read: no
+    read: yes
     books: B_079
     authors: A_065
   W_096:

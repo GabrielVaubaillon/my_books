@@ -182,13 +182,6 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
-			<td colspan=2>Le Comte de Monte-Cristo (en: The Count of Monte Cristo)</td>
-			<td>Alexandre Dumas</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>Joseph Balsamo</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>

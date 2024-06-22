@@ -158,6 +158,11 @@
 			<td>3</td>
 		</tr>
 		<tr>
+			<td>Alexandre Dumas</td>
+			<td>3</td>
+			<td>8</td>
+		</tr>
+		<tr>
 			<td>Suzanne Collins</td>
 			<td>3</td>
 			<td>0</td>
@@ -251,11 +256,6 @@
 			<td>Walter Farley</td>
 			<td>2</td>
 			<td>2</td>
-		</tr>
-		<tr>
-			<td>Alexandre Dumas</td>
-			<td>2</td>
-			<td>8</td>
 		</tr>
 		<tr>
 			<td>Stéphane Descornes</td>

@@ -737,7 +737,7 @@
 		<tr>
 			<td>Le Comte de Monte-Cristo</td>
 			<td>Alexandre Dumas</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
