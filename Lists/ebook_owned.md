@@ -490,6 +490,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>The Whalebone Theatre (fr: La Famille Seagrave)</td>
+			<td>Joanna Quinn</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Sea of Tranquility (fr: La Mer de la tranquillité)</td>
 			<td>Emily Saint John-Mandel</td>
 			<td>en</td>

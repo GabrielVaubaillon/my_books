@@ -3704,6 +3704,14 @@ works:
     read: no
     books: B_359
     authors: A_255
+  W_476:
+    titles:
+      en: The Whalebone Theatre
+      fr: La Famille Seagrave
+    language: en
+    read: no
+    books: B_360
+    authors: A_256
 
 books:
   B_001:
@@ -5528,6 +5536,11 @@ books:
     language: fr
     isbn: 979-10-414-1110-8
     situation: Cork
+  B_360:
+    title: The Whalebone Theatre
+    language: en
+    isbn: 978-0-241-99415-3
+    situation: Ebook
 
 authors:
   A_001:
@@ -6069,6 +6082,8 @@ authors:
     name: Sorj Chalandon
   A_255:
     name: Vesta Sarkhosh Curtis
+  A_256:
+    name: Joanna Quinn
 
 series:
   S_001:

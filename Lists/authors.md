@@ -983,6 +983,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Joanna Quinn</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Racine</td>
 			<td>1</td>
 			<td>1</td>
