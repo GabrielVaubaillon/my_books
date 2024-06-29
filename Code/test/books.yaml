@@ -1,0 +1,58 @@
+
+languages:
+  en:
+    en: English
+    fr: Anglais
+  fr:
+    en: French
+    fr: Français
+  da:
+    en: Danish
+    fr: Danois
+    da: Dansk
+
+works:
+  W_001:
+    titles:
+      fr: Oeuvre simple
+      en: Simple book
+    language: fr
+    read: no
+    books: B_001
+    authors: A_001
+  W_002:
+    titles:
+      fr: Oeuvre avec deux livres
+      en: Work with two books
+    language: fr
+    read: no
+    books: B_002;B_003
+    authors: A_001
+  W_003:
+    titles:
+      fr: Oeuvre sans livres ni auteur
+    language: fr
+    read: no
+    books:
+    authors:
+
+books:
+  B_001:
+    title: Oeuvre simple
+    language: fr
+    isbn: 978-2-xx-xxxxxx
+    situation: bookshelve
+
+authors:
+  A_001:
+    name: Auteur simple
+
+series:
+  S_001:
+    name:
+      en:
+      fr:
+    abbreviation:
+    works:
+      1:
+    notes:

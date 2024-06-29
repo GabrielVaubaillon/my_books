@@ -3,6 +3,12 @@ files := src
 bin=.venv/bin
 python=$(bin)/python
 
+.PHONY: lint
+lint: .venv
+	$(bin)/pylint $(files); \
+	$(bin)/mypy $(files); \
+	$(bin)/black --check --line-length=100 $(files);
+
 .PHONY: init
 init: .venv
 	python -m venv .venv
@@ -11,12 +17,6 @@ init: .venv
 .PHONY: clean
 clean: .venv
 	# TODO: remove .venv, __pycache__
-
-.PHONY: lint
-lint: .venv
-	$(bin)/pylint $(files); \
-	$(bin)/mypy $(files); \
-	$(bin)/black --check --line-length=100 $(files);
 
 .PHONY: format
 format: .venv
