@@ -92,7 +92,7 @@ class Book:
         serie_id: str,
         position: str,
     ) -> None:
-        """Setting serie info for the book.
+        """Setting series info for the book.
 
         Not straightforward because of books having multiple works.
         """
@@ -243,7 +243,7 @@ class Library:
 
         # Link works to series
         for serie_id, serie in self.series.items():
-            # TODO: check only one serie per work
+            # TODO: check only one series per work
             for position, work_id in serie.works.items():
                 self.works[work_id].serie_id = serie_id
                 self.works[work_id].serie_position = position
@@ -289,7 +289,7 @@ class Library:
         return "\n".join(str_list)
 
 
-def load_library_file(library_yaml: str) -> Library:
+def load(library_yaml: str) -> Library:
     schema = yaml.Map(
         {
             "languages": yaml.MapPattern(yaml.Str(), yaml.MapPattern(yaml.Str(), yaml.Str())),
@@ -363,7 +363,7 @@ def test() -> None:
     test_filepath = Path("test/books.yaml")
     with open(test_filepath, "r", encoding="utf-8") as file:
         library_yaml = file.read()
-    library = load_library_file(library_yaml)
+    library = load(library_yaml)
     print(library)
     sys.exit(0)
 
