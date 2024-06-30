@@ -34,6 +34,10 @@ class Work:
         self.authors: set[str] = authors if authors is not None else set()
         self.notes: str = notes if notes is not None else ""
 
+        # Others attributes, created from Library
+        self.serie_id: str = ""
+        self.serie_position: str = ""
+
 
 class Book:
     def __init__(
@@ -51,6 +55,31 @@ class Book:
         self.isbn: str = isbn
         self.situation: str = situation
         self.notes: str = notes if notes is not None else ""
+
+        # Others attributes, created from Library
+        self.works: set[str] = set()
+        self.authors: set[str] = set()
+
+        self.serie_id: str = ""
+        self.serie_position: str = ""
+
+    def add_serie(
+        self,
+        serie_id: str,
+        position: str,
+    ) -> None:
+        """Setting serie info for the book.
+
+        Not straightforward because of books having multiple works.
+        """
+        if not self.serie_id:
+            self.serie_id = serie_id
+            self.serie_position = position
+        elif self.serie_id > serie_id:
+            self.serie_id = serie_id
+            self.serie_position = position
+        elif self.serie_id == serie_id and self.serie_position > position:
+            self.serie_position = position
 
 
 class Author:
@@ -70,6 +99,10 @@ class Author:
             sorting_name = last_name.group(0).lower()
         self.sorting_name: str = sorting_name
         self.notes: str = notes if notes is not None else ""
+
+        # Others attributes, created from Library
+        self.works: set[str] = set()
+        self.books: set[str] = set()
 
 
 class Serie:
@@ -97,12 +130,6 @@ class Library:
         authors: dict[str, Any],
         series: dict[str, Any],
     ):
-        print(f"languages: {languages}")
-        print(f"works: {works}")
-        print(f"books: {books}")
-        print(f"authors: {authors}")
-        print(f"series: {series}")
-
         self.languages: dict[str, Language] = {}
         for lang_key, language_dict in languages.items():
             self.languages[lang_key] = Language(lang_key, language_dict)
@@ -110,7 +137,7 @@ class Library:
         self.works: dict[str, Work] = {}
         for work_key, work in works.items():
             books_list = set(work["books"].split(";")) if work["books"] else None
-            authors_list = set(work["authors"]) if work["authors"] else None
+            authors_list = set(work["authors"].split(";")) if work["authors"] else None
             self.works[work_key] = Work(
                 key=work_key,
                 titles=work["titles"],
@@ -150,6 +177,21 @@ class Library:
                 works=serie.get("works", dict()),
                 notes=serie.get("notes", None),
             )
+
+        # Link works to series
+        for serie_id, serie in self.series.items():
+            # TODO: check only one serie per work
+            for position, work_id in serie.works.items():
+                self.works[work_id].serie_id = serie_id
+                self.works[work_id].serie_position = position
+
+        # Link books to works - Link authors to works
+        for work_id, work in self.works.items():
+            for book_id in work.books:
+                self.books[book_id].works.add(work_id)
+                self.books[book_id].add_serie(serie_id=work.serie_id, position=work.serie_position)
+            for author_id in work.authors:
+                self.authors[author_id].works.add(work_id)
 
 
 def load_library_file(library_yaml: str) -> Library:

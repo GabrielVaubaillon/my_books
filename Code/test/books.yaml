@@ -42,6 +42,16 @@ books:
     language: fr
     isbn: 978-2-xx-xxxxxx
     situation: bookshelve
+  B_002:
+    title: Oeuvre avec deux livres
+    language: fr
+    isbn: 978-2-xx-xxxxxx
+    situation: bookshelve
+  B_003:
+    title: Oeuvre avec deux livres 2
+    language: fr
+    isbn: 978-2-xx-xxxxxx
+    situation: bookshelve
 
 authors:
   A_001:
@@ -50,9 +60,7 @@ authors:
 series:
   S_001:
     name:
-      en:
-      fr:
-    abbreviation:
+      en: sad
+      fr: triste
     works:
-      1:
-    notes:
+      1: W_001
