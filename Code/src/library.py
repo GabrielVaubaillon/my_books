@@ -2,6 +2,7 @@ from pathlib import Path
 import re
 import strictyaml as yaml
 import sys
+import textwrap
 from typing import Any
 
 
@@ -13,6 +14,13 @@ class Language:
     ):
         self.id: str = id
         self.names: dict[str, str] = names
+
+    def __str__(self) -> str:
+        str_ = f"{self.id}:\n"
+        for lang_id, language_name in self.names.items():
+            str_ += f"  - {lang_id}: {language_name}\n"
+        str_ = str_.removesuffix("\n")
+        return str_
 
 
 class Work:
@@ -37,6 +45,22 @@ class Work:
         # Others attributes, created from Library
         self.serie_id: str = ""
         self.serie_position: str = ""
+
+    def __str__(self) -> str:
+        titles = "\n".join([f"    {lang_id}: {title}" for lang_id, title in self.titles.items()])
+        str_ = (
+            f"{self.key}:\n"
+            f"  titles:\n{titles}\n"
+            f"  language: {self.language}\n"
+            f"  read: {self.read}\n"
+            f"  books: {self.books}\n"
+            f"  authors: {self.authors}\n"
+            f"  notes: {self.notes}\n"
+            f"  serie_id: {self.serie_id}\n"
+            f"  serie_position: {self.serie_position}\n"
+        )
+        str_ = str_.removesuffix("\n")
+        return str_
 
 
 class Book:
@@ -81,6 +105,21 @@ class Book:
         elif self.serie_id == serie_id and self.serie_position > position:
             self.serie_position = position
 
+    def __str__(self) -> str:
+        str_ = (
+            f"{self.key}:\n"
+            f"  title: {self.title}\n"
+            f"  language: {self.language}\n"
+            f"  isbn: {self.isbn}\n"
+            f"  works: {self.works}\n"
+            f"  authors: {self.authors}\n"
+            f"  notes: {self.notes}\n"
+            f"  serie_id: {self.serie_id}\n"
+            f"  serie_position: {self.serie_position}\n"
+        )
+        str_ = str_.removesuffix("\n")
+        return str_
+
 
 class Author:
     def __init__(
@@ -104,6 +143,18 @@ class Author:
         self.works: set[str] = set()
         self.books: set[str] = set()
 
+    def __str__(self) -> str:
+        str_ = (
+            f"{self.key}:\n"
+            f"  name: {self.name}\n"
+            f"  sorting_name: {self.sorting_name}\n"
+            f"  works: {self.works}\n"
+            f"  books: {self.books}\n"
+            f"  notes: {self.notes}\n"
+        )
+        str_ = str_.removesuffix("\n")
+        return str_
+
 
 class Serie:
     def __init__(
@@ -119,6 +170,18 @@ class Serie:
         self.abbreviation: str = abbreviation if abbreviation is not None else ""
         self.works: dict[str, str] = works
         self.notes: str = notes if notes is not None else ""
+
+    def __str__(self) -> str:
+        names = "\n".join([f"    {lang_id}: {name}" for lang_id, name in self.names.items()])
+        str_ = (
+            f"{self.key}:\n"
+            f"  names:\n{names}\n"
+            f"  abbreviation: {self.abbreviation}\n"
+            f"  works: {self.works}\n"
+            f"  notes: {self.notes}\n"
+        )
+        str_ = str_.removesuffix("\n")
+        return str_
 
 
 class Library:
@@ -185,13 +248,45 @@ class Library:
                 self.works[work_id].serie_id = serie_id
                 self.works[work_id].serie_position = position
 
-        # Link books to works - Link authors to works
+        # Link: books to works, books to authors, books to series,
+        #       authors to works, authors to books
+        # TODO: authors to series, series to authors
         for work_id, work in self.works.items():
             for book_id in work.books:
                 self.books[book_id].works.add(work_id)
+                self.books[book_id].authors |= work.authors
                 self.books[book_id].add_serie(serie_id=work.serie_id, position=work.serie_position)
             for author_id in work.authors:
                 self.authors[author_id].works.add(work_id)
+                self.authors[author_id].books |= work.books
+
+    def __str__(self) -> str:
+        str_list = []
+
+        str_list.append("languages:")
+        str_list.append(
+            textwrap.indent(
+                "\n".join([str(language) for language in self.languages.values()]), "  "
+            )
+        )
+        str_list.append("works:")
+        str_list.append(
+            textwrap.indent("\n".join([str(work) for work in self.works.values()]), "  ")
+        )
+        str_list.append("books:")
+        str_list.append(
+            textwrap.indent("\n".join([str(book) for book in self.books.values()]), "  ")
+        )
+        str_list.append("authors:")
+        str_list.append(
+            textwrap.indent("\n".join([str(author) for author in self.authors.values()]), "  ")
+        )
+        str_list.append("series:")
+        str_list.append(
+            textwrap.indent("\n".join([str(serie) for serie in self.series.values()]), "  ")
+        )
+
+        return "\n".join(str_list)
 
 
 def load_library_file(library_yaml: str) -> Library:
@@ -268,7 +363,8 @@ def test() -> None:
     test_filepath = Path("test/books.yaml")
     with open(test_filepath, "r", encoding="utf-8") as file:
         library_yaml = file.read()
-    load_library_file(library_yaml)
+    library = load_library_file(library_yaml)
+    print(library)
     sys.exit(0)
 
 
