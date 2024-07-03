@@ -790,7 +790,7 @@ works:
       fr: Joseph Balsamo
     language: fr
     read: no
-    books: B_076
+    books: B_076;B_361
     authors: A_065
   W_093:
     titles:
@@ -5540,6 +5540,11 @@ books:
     title: The Whalebone Theatre
     language: en
     isbn: 978-0-241-99415-3
+    situation: Ebook
+  B_361:
+    title: Joseph Balsamo
+    language: fr
+    isbn:
     situation: Ebook
 
 authors:

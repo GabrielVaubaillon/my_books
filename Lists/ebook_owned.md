@@ -163,6 +163,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Joseph Balsamo</td>
+			<td>Alexandre Dumas</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>This Is How You Lose the Time War (fr: Les Oiseaux du temps)</td>
 			<td>Amal El-Mothar / Max Gladstone</td>
 			<td>en</td>

@@ -24,6 +24,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Joseph Balsamo</td>
+			<td>Alexandre Dumas</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td rowspan=3>The Brown Sisters Serie</td>
 			<td>Get a Life, Chloe Brown</td>
 			<td rowspan=3>Talia Hibbert</td>
