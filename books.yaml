@@ -3709,7 +3709,7 @@ works:
       en: The Whalebone Theatre
       fr: La Famille Seagrave
     language: en
-    read: no
+    read: yes
     books: B_360
     authors: A_256
 

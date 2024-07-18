@@ -1451,6 +1451,13 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>The Whalebone Theatre (fr: La Famille Seagrave)</td>
+			<td>Joanna Quinn</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Andromaque</td>
 			<td>Racine</td>
 			<td>fr</td>

@@ -2033,7 +2033,7 @@
 		<tr>
 			<td>La Famille Seagrave</td>
 			<td>Joanna Quinn</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

@@ -500,7 +500,7 @@
 			<td colspan=2>The Whalebone Theatre (fr: La Famille Seagrave)</td>
 			<td>Joanna Quinn</td>
 			<td>en</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>

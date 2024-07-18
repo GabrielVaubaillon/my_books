@@ -1425,6 +1425,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>La Famille Seagrave</td>
+			<td>Joanna Quinn</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Andromaque</td>
 			<td>Racine</td>
 			<td>Lu</td>
