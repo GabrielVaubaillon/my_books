@@ -445,7 +445,7 @@
 		</tr>
 		<tr>
 			<td rowspan=3>The Lord Of The Rings</td>
-			<td>The Fellowship Of The Ring (fr: La Communautée de l'anneaux)</td>
+			<td>The Fellowship Of The Ring (fr: La Communautée de l'anneaux / La Fraternité de l'Anneau)</td>
 			<td rowspan=3>J.R.R. Tolkien</td>
 			<td rowspan=3>en</td>
 			<td rowspan=3>Lu</td>

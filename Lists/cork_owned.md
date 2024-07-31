@@ -1013,7 +1013,7 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>The Fellowship Of The Ring (fr: La Communautée de l'anneaux)</td>
+			<td colspan=2>The Fellowship Of The Ring (fr: La Communautée de l'anneaux / La Fraternité de l'Anneau)</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>
 			<td>Lu</td>

@@ -1851,7 +1851,7 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
-			<td>La Communautée de l'anneaux</td>
+			<td>La Communautée de l'anneaux / La Fraternité de l'Anneau</td>
 			<td>J.R.R. Tolkien</td>
 			<td>Lu</td>
 			<td>Possédé</td>
