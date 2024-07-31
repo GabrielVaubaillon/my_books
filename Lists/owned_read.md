@@ -1718,6 +1718,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Le Hobbit (en-vo: The Hobbit)</td>
+			<td>J.R.R. Tolkien</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Voyage</td>
+		</tr>
+		<tr>
 			<td colspan=2>The Hobbit (fr: Le Hobbit)</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>

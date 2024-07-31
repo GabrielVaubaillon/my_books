@@ -2772,7 +2772,7 @@ works:
       en: The Hobbit
     language: en
     read: yes
-    books: B_254;B_255;B_330
+    books: B_254;B_255;B_330;B_362
     authors: A_202
   W_355:
     titles:
@@ -5546,6 +5546,12 @@ books:
     language: fr
     isbn:
     situation: Ebook
+  B_362:
+    title: Le Hobbit
+    language: fr
+    isbn: 978-2-266-34123-3
+    situation: Voyage
+    notes: traduction de Daniel Lauzon
 
 authors:
   A_001:
