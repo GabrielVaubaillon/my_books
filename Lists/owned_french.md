@@ -1689,7 +1689,7 @@
 			<td>J.R.R. Tolkien</td>
 			<td>fr</td>
 			<td>Lu</td>
-			<td>Voyage</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td colspan=2>Les enfants de Húrin (en-vo: Children of Húrin)</td>
@@ -1703,7 +1703,7 @@
 			<td>J.R.R. Tolkien</td>
 			<td>fr</td>
 			<td>Lu</td>
-			<td>Voyage</td>
+			<td>Cork</td>
 		</tr>
 		<tr>
 			<td rowspan=3>Le Seigneur des Anneaux</td>
@@ -1711,7 +1711,7 @@
 			<td rowspan=3>J.R.R. Tolkien</td>
 			<td rowspan=3>fr</td>
 			<td rowspan=3>Lu</td>
-			<td rowspan=3>Voyage</td>
+			<td rowspan=3>Cork</td>
 		</tr>
 		<tr>
 			<td>Les Deux Tours (en-vo: The Two Towers)</td>

@@ -5550,19 +5550,19 @@ books:
     title: Le Hobbit
     language: fr
     isbn: 978-2-266-34123-3
-    situation: Voyage
+    situation: Cork
     notes: traduction de Daniel Lauzon
   B_363:
     title: Le Seigneur des Anneaux
     language: fr
     isbn: 978-2-266-28626-8
-    situation: Voyage
+    situation: Cork
     notes: traduction de Daniel Lauzon
   B_364:
     title: Le Silmarillion
     language: fr
     isbn: 978-2-266-34124-0
-    situation: Voyage
+    situation: Cork
     notes: traduction de Daniel Lauzon
 
 authors:
