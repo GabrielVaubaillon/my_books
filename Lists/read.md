@@ -315,6 +315,18 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>L'Invasion de l'overworld</td>
+			<td>Mark Cheverton</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
+			<td>La Bataille du Nether</td>
+			<td>Mark Cheverton</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>Exhalation</td>
 			<td>Ted Chiang</td>
 			<td>Lu</td>

@@ -248,6 +248,11 @@
 			<td>2</td>
 		</tr>
 		<tr>
+			<td>Mark Cheverton</td>
+			<td>2</td>
+			<td>0</td>
+		</tr>
+		<tr>
 			<td>Ted Chiang</td>
 			<td>2</td>
 			<td>2</td>

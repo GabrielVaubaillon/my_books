@@ -3720,6 +3720,22 @@ works:
     read: yes
     books:
     authors: A_257
+  W_478:
+    titles:
+      fr: L'Invasion de l'overworld
+      en: Invasion of the Overworld
+    language: en
+    read: yes
+    books:
+    authors: A_258
+  W_479:
+    titles:
+      fr: La Bataille du Nether
+      en: Battle for the Nether
+    language: en
+    read: yes
+    books:
+    authors: A_258
 
 books:
   B_001:
@@ -6118,6 +6134,8 @@ authors:
   A_257:
     name: Marc Lévy
     sorting_name: levy
+  A_258:
+    name: Mark Cheverton
 
 series:
   S_001:
