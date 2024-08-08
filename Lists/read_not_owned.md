@@ -189,6 +189,12 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>Les Enfants de la liberté</td>
+			<td>Marc Lévy</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>Bel-Ami</td>
 			<td>Guy de Maupassant</td>
 			<td>Lu</td>

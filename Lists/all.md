@@ -1503,6 +1503,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Les Enfants de la liberté</td>
+			<td>Marc Lévy</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>La Grâce des Rois</td>
 			<td>Ken Liu</td>
 			<td>Pas Lu</td>

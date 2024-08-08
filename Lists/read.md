@@ -1083,6 +1083,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Les Enfants de la liberté</td>
+			<td>Marc Lévy</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
+		</tr>
+		<tr>
 			<td>Croc-Blanc</td>
 			<td>Jack London</td>
 			<td>Lu</td>

@@ -3712,6 +3712,14 @@ works:
     read: yes
     books: B_360
     authors: A_256
+  W_477:
+    titles:
+      fr: Les Enfants de la liberté
+      en: Children of Freedom
+    language: fr
+    read: yes
+    books:
+    authors: A_257
 
 books:
   B_001:
@@ -6107,6 +6115,9 @@ authors:
     name: Vesta Sarkhosh Curtis
   A_256:
     name: Joanna Quinn
+  A_257:
+    name: Marc Lévy
+    sorting_name: levy
 
 series:
   S_001:
