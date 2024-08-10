@@ -175,6 +175,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>The Spear Cuts Through Water</td>
+			<td>Simon Jimenez</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>To Kill A Mocking-Bird (fr: Ne tirez pas sur l'oiseau moqueur)</td>
 			<td>Harper Lee</td>
 			<td>en</td>

@@ -668,6 +668,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Simon Jimenez</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Vladimir Jankélévitch</td>
 			<td>1</td>
 			<td>1</td>

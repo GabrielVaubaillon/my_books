@@ -373,6 +373,13 @@
 			<td>Pas Lu</td>
 		</tr>
 		<tr>
+			<td colspan=2>The Spear Cuts Through Water</td>
+			<td>Simon Jimenez</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Howl's Moving Castle (fr: Le Château de Hurle)</td>
 			<td>Diana Wynne Jones</td>
 			<td>en</td>

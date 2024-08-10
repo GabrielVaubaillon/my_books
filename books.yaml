@@ -3736,6 +3736,13 @@ works:
     read: yes
     books:
     authors: A_258
+  W_480:
+    titles:
+      en: The Spear Cuts Through Water
+    language: en
+    read: no
+    books: B_365
+    authors: A_259
 
 books:
   B_001:
@@ -5588,6 +5595,11 @@ books:
     isbn: 978-2-266-34124-0
     situation: Cork
     notes: traduction de Daniel Lauzon
+  B_365:
+    title: The Spear Cuts Through Water
+    language: en
+    isbn: 978-1-83786-187-3
+    situation: Cork
 
 authors:
   A_001:
@@ -6136,6 +6148,8 @@ authors:
     sorting_name: levy
   A_258:
     name: Mark Cheverton
+  A_259:
+    name: Simon Jimenez
 
 series:
   S_001:
