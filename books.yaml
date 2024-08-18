@@ -23,9 +23,15 @@ languages:
   en:
     en: English
     fr: Anglais
+    ga: Bearla
   fr:
     en: French
     fr: Français
+    ga: Fraincis
+  ga:
+    en: Irish
+    fr: Irlandais
+    ga: Gaeilge
   da:
     en: Danish
     fr: Danois
@@ -2770,9 +2776,10 @@ works:
     titles:
       fr: Le Hobbit
       en: The Hobbit
+      ga: An Hobad
     language: en
     read: yes
-    books: B_254;B_255;B_330;B_362
+    books: B_254;B_255;B_330;B_362;B_366
     authors: A_202
   W_355:
     titles:
@@ -5599,6 +5606,11 @@ books:
     title: The Spear Cuts Through Water
     language: en
     isbn: 978-1-83786-187-3
+    situation: Cork
+  B_366:
+    title: An Hobad
+    language: ga
+    isbn: 978-1-78201-033-3
     situation: Cork
 
 authors:

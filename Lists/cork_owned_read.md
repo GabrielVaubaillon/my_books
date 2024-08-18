@@ -596,6 +596,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>An Hobad</td>
+			<td>J.R.R. Tolkien</td>
+			<td>ga</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Le Hobbit (en-vo: The Hobbit)</td>
 			<td>J.R.R. Tolkien</td>
 			<td>fr</td>
