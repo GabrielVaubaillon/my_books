@@ -204,6 +204,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Joseph Balsamo</td>
+			<td>Alexandre Dumas</td>
+			<td>fr</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Les Trois Mousquetaires (en: The Three Musketeers)</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>

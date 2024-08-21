@@ -755,7 +755,7 @@
 		<tr>
 			<td>Joseph Balsamo</td>
 			<td>Alexandre Dumas</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

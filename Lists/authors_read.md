@@ -108,6 +108,11 @@
 			<td>6</td>
 		</tr>
 		<tr>
+			<td>Alexandre Dumas</td>
+			<td>4</td>
+			<td>8</td>
+		</tr>
+		<tr>
 			<td>Arthur Conan Doyle</td>
 			<td>4</td>
 			<td>11</td>
@@ -156,11 +161,6 @@
 			<td>Marc Fernandez</td>
 			<td>3</td>
 			<td>3</td>
-		</tr>
-		<tr>
-			<td>Alexandre Dumas</td>
-			<td>3</td>
-			<td>8</td>
 		</tr>
 		<tr>
 			<td>Suzanne Collins</td>

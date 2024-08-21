@@ -795,7 +795,7 @@ works:
     titles:
       fr: Joseph Balsamo
     language: fr
-    read: no
+    read: yes
     books: B_076;B_361
     authors: A_065
   W_093:

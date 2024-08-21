@@ -399,7 +399,7 @@
 		</tr>
 		<tr>
 			<td>Alexandre Dumas</td>
-			<td>3</td>
+			<td>4</td>
 			<td>8</td>
 		</tr>
 		<tr>

@@ -61,7 +61,7 @@
 			<td colspan=2>Joseph Balsamo</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>
