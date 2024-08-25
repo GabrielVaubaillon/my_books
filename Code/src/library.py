@@ -1,9 +1,10 @@
 from pathlib import Path
 import re
-import strictyaml as yaml
 import sys
 import textwrap
 from typing import Any
+
+import strictyaml as yaml
 
 
 class Language:
@@ -18,7 +19,7 @@ class Language:
     def __str__(self) -> str:
         str_ = f"{self.id}:\n"
         for lang_id, language_name in self.names.items():
-            str_ += f"  - {lang_id}: {language_name}\n"
+            str_ += f"  {lang_id}: {language_name}\n"
         str_ = str_.removesuffix("\n")
         return str_
 
@@ -259,6 +260,9 @@ class Library:
             for author_id in work.authors:
                 self.authors[author_id].works.add(work_id)
                 self.authors[author_id].books |= work.books
+
+        # set of all situations
+        self.situations: set[str] = {book.situation for book in self.books.values()}
 
     def __str__(self) -> str:
         str_list = []
