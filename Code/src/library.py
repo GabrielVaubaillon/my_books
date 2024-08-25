@@ -273,7 +273,9 @@ class Library:
         self.situations: set[str] = {
             book.situation
             for book in self.books.values()
-            if book.situation and (not book.situation.startswith("Prêté")) and ("/" not in book.situation)
+            if book.situation
+            and (not book.situation.startswith("Prêté"))
+            and ("/" not in book.situation)
         }
 
     def __str__(self) -> str:

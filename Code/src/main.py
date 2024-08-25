@@ -17,16 +17,8 @@ def percent(subset, original_set):
     return f"{len(subset)} ({round(len(subset)/len(original_set)*100, 2)}%)"
 
 
-def main(input_file: Path) -> None:
-
-    with open(input_file, "r", encoding="utf-8") as file:
-        library_yaml = file.read()
-
-    library = lib.load(library_yaml)
-
-    print(library)
-
-    # Create workscollections
+def create_collections(library: lib.Library):
+    # TODO: Add authors, and original languages
     # TODO: change that. I'm not happy with this part
     collections = {
         "all_w": set(library.works.keys()),
@@ -66,7 +58,9 @@ def main(input_file: Path) -> None:
             id for id, book in library.books.items() if book.situation.startswith(situation)
         }
         collections[f"read_owned_{situation}_b"] = {
-            id for id, book in library.books.items() if book.situation.startswith(situation) and book.read
+            id
+            for id, book in library.books.items()
+            if book.situation.startswith(situation) and book.read
         }
         collections[f"unread_owned_{situation}_b"] = {
             id
@@ -85,7 +79,22 @@ def main(input_file: Path) -> None:
             if book.situation.startswith(situation) and book.language not in languages
         }
 
+    return collections
+
+
+def main(input_file: Path) -> None:
+
+    with open(input_file, "r", encoding="utf-8") as file:
+        library_yaml = file.read()
+
+    library = lib.load(library_yaml)
+
+    print(library)
+
+    collections = create_collections(library)
+
     print(collections.keys())
+
     # Write files
 
     # Write Readme
