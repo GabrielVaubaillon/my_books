@@ -7,8 +7,8 @@ import library as lib
 
 def _parse_cli_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("input_filename", type=str)
-    # parser.add_argument("output_dir", type=str)
+    parser.add_argument("input_filename", type=Path)
+    parser.add_argument("output_dir", type=Path)
     # parser.add_argument("stats_file", type=str)
     return parser.parse_args()
 
@@ -54,26 +54,27 @@ def create_collections(library: lib.Library):
 
     # situations
     for situation in library.situations:
-        collections[f"owned_{situation}_b"] = {
+        situation_l = situation.lower()
+        collections[f"owned_{situation_l}_b"] = {
             id for id, book in library.books.items() if book.situation.startswith(situation)
         }
-        collections[f"read_owned_{situation}_b"] = {
+        collections[f"read_owned_{situation_l}_b"] = {
             id
             for id, book in library.books.items()
             if book.situation.startswith(situation) and book.read
         }
-        collections[f"unread_owned_{situation}_b"] = {
+        collections[f"unread_owned_{situation_l}_b"] = {
             id
             for id, book in library.books.items()
             if book.situation.startswith(situation) and (not book.read)
         }
         for language in languages:
-            collections[f"owned_{language}_{situation}_b"] = {
+            collections[f"owned_{language}_{situation_l}_b"] = {
                 id
                 for id, book in library.books.items()
                 if book.situation.startswith(situation) and book.language == language
             }
-        collections[f"owned_other_language_{situation}_b"] = {
+        collections[f"owned_other_language_{situation_l}_b"] = {
             id
             for id, book in library.books.items()
             if book.situation.startswith(situation) and book.language not in languages
@@ -82,7 +83,12 @@ def create_collections(library: lib.Library):
     return collections
 
 
-def main(input_file: Path) -> None:
+def dump_collections(library: lib.Library, collections: dict[str, set[str]], output_dir: Path):
+    # TODO
+    pass
+
+
+def main(input_file: Path, output_dir: Path) -> None:
 
     with open(input_file, "r", encoding="utf-8") as file:
         library_yaml = file.read()
@@ -93,9 +99,11 @@ def main(input_file: Path) -> None:
 
     collections = create_collections(library)
 
-    print(collections.keys())
+    for name, collection in collections.items():
+        print(f"{name}: {len(collection)}")
 
     # Write files
+    dump_collections(library, collections, output_dir)
 
     # Write Readme
 
@@ -104,4 +112,5 @@ if __name__ == "__main__":
     cli_args = _parse_cli_args()
     main(
         input_file=cli_args.input_filename,
+        output_dir=cli_args.output_dir
     )
