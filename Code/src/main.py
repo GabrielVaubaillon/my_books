@@ -26,6 +26,70 @@ def main(input_file: Path) -> None:
 
     print(library)
 
+    # Create workscollections
+    # TODO: change that. I'm not happy with this part
+    collections = {
+        "all_w": set(library.works.keys()),
+        "all_b": set(library.books.keys()),
+        "all_a": set(library.authors.keys()),
+        "owned_w": {id for id, work in library.works.items() if work.owned},
+        "owned_b": {id for id, book in library.books.items() if book.situation},
+        "read_w": {id for id, work in library.works.items() if work.read},
+        "read_b": {id for id, book in library.books.items() if book.read},
+        "read_owned_w": {id for id, work in library.works.items() if work.read and work.owned},
+        "read_owned_b": {id for id, book in library.books.items() if book.read and book.situation},
+        "unread_owned_w": {
+            id for id, work in library.works.items() if (not work.read) and work.owned
+        },
+        "unread_owned_b": {
+            id for id, book in library.books.items() if (not book.read) and book.situation
+        },
+        "read_not_owned_w": {
+            id for id, work in library.works.items() if work.read and (not work.owned)
+        },
+    }
+    # languages
+    languages = {"fr", "en"}
+    for language in languages:
+        collections[f"owned_{language}_b"] = {
+            id for id, book in library.books.items() if book.language == language and book.situation
+        }
+    collections[f"owned_other_language_b"] = {
+        id
+        for id, book in library.books.items()
+        if (book.language not in languages) and book.situation
+    }
+
+    # situations
+    for situation in library.situations:
+        collections[f"owned_{situation}_b"] = {
+            id for id, book in library.books.items() if book.situation.startswith(situation)
+        }
+        collections[f"read_owned_{situation}_b"] = {
+            id for id, book in library.books.items() if book.situation.startswith(situation) and book.read
+        }
+        collections[f"unread_owned_{situation}_b"] = {
+            id
+            for id, book in library.books.items()
+            if book.situation.startswith(situation) and (not book.read)
+        }
+        for language in languages:
+            collections[f"owned_{language}_{situation}_b"] = {
+                id
+                for id, book in library.books.items()
+                if book.situation.startswith(situation) and book.language == language
+            }
+        collections[f"owned_other_language_{situation}_b"] = {
+            id
+            for id, book in library.books.items()
+            if book.situation.startswith(situation) and book.language not in languages
+        }
+
+    print(collections.keys())
+    # Write files
+
+    # Write Readme
+
 
 if __name__ == "__main__":
     cli_args = _parse_cli_args()

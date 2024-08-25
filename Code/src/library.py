@@ -44,6 +44,7 @@ class Work:
         self.notes: str = notes if notes is not None else ""
 
         # Others attributes, created from Library
+        self.owned: bool = False
         self.serie_id: str = ""
         self.serie_position: str = ""
 
@@ -84,6 +85,7 @@ class Book:
         # Others attributes, created from Library
         self.works: set[str] = set()
         self.authors: set[str] = set()
+        self.read: None | bool = None
 
         self.serie_id: str = ""
         self.serie_position: str = ""
@@ -251,18 +253,28 @@ class Library:
 
         # Link: books to works, books to authors, books to series,
         #       authors to works, authors to books
+        # TODO:
         # TODO: authors to series, series to authors
         for work_id, work in self.works.items():
+            owned = False
             for book_id in work.books:
                 self.books[book_id].works.add(work_id)
                 self.books[book_id].authors |= work.authors
+                self.books[book_id].read = work.read
                 self.books[book_id].add_serie(serie_id=work.serie_id, position=work.serie_position)
+                if self.books[book_id].situation:
+                    owned = True
             for author_id in work.authors:
                 self.authors[author_id].works.add(work_id)
                 self.authors[author_id].books |= work.books
+            work.owned = owned
 
         # set of all situations
-        self.situations: set[str] = {book.situation for book in self.books.values()}
+        self.situations: set[str] = {
+            book.situation
+            for book in self.books.values()
+            if book.situation and (not book.situation.startswith("Prêté")) and ("/" not in book.situation)
+        }
 
     def __str__(self) -> str:
         str_list = []
