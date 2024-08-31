@@ -21,3 +21,8 @@ clean: .venv
 .PHONY: format
 format: .venv
 	$(bin)/black --line-length=100 $(files)
+
+.venv:
+	python -m venv .venv; \
+	$(bin)/pip install -r requirement.txt
+
