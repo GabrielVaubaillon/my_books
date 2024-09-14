@@ -471,13 +471,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Mythes Incas (en-vo: Inca Myths)</td>
-			<td>Gary Urton</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>On Earth We're Briefly Gorgeous</td>
 			<td>Ocean Vuong</td>
 			<td>en</td>

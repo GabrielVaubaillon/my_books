@@ -2585,7 +2585,7 @@
 		<tr>
 			<td>Mythes Incas</td>
 			<td>Gary Urton</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

@@ -3678,7 +3678,7 @@ works:
       fr: Mythes Incas
       en: Inca Myths
     language: en
-    read: no
+    read: yes
     books: B_355
     authors: A_251
   W_472:

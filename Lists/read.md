@@ -1929,6 +1929,12 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
+			<td>Mythes Incas</td>
+			<td>Gary Urton</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>L'homme à l'envers</td>
 			<td>Fred Vargas</td>
 			<td>Lu</td>

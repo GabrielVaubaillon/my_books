@@ -811,13 +811,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Mythes Incas (en-vo: Inca Myths)</td>
-			<td>Gary Urton</td>
-			<td>fr</td>
-			<td>Pas Lu</td>
-			<td>Cork</td>
-		</tr>
-		<tr>
 			<td colspan=2>J'irai cracher sur vos tombes</td>
 			<td>Boris Vian</td>
 			<td>fr</td>
