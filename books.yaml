@@ -3750,6 +3750,13 @@ works:
     read: no
     books: B_365
     authors: A_259
+  W_481:
+    titles:
+      en: Written in the Stars
+    language: en
+    read: no
+    books: B_367
+    authors: A_260
 
 books:
   B_001:
@@ -5612,6 +5619,11 @@ books:
     language: ga
     isbn: 978-1-78201-033-3
     situation: Cork
+  B_367:
+    title: Written in the Stars
+    language: en
+    isbn: 978-0-06-300081-0
+    situation: Ebook
 
 authors:
   A_001:
@@ -6162,6 +6174,8 @@ authors:
     name: Mark Cheverton
   A_259:
     name: Simon Jimenez
+  A_260:
+    name: Alexandria Bellefleur
 
 series:
   S_001:

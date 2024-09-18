@@ -52,6 +52,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Written in the Stars</td>
+			<td>Alexandria Bellefleur</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>A Psalm for the Wild Built (fr: Un psaume pour les recyclés sauvages)</td>
 			<td>Becky Chambers</td>
 			<td>en</td>

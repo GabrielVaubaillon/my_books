@@ -59,6 +59,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Written in the Stars</td>
+			<td>Alexandria Bellefleur</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Fahrenheit 451 (fr: Fahrenheit 451)</td>
 			<td>Ray Bradbury</td>
 			<td>en</td>

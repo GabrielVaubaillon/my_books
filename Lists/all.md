@@ -267,6 +267,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Written in the Stars</td>
+			<td>Alexandria Bellefleur</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>La concierge est dans le cercueil</td>
 			<td>José Benjamin</td>
 			<td>Pas Lu</td>

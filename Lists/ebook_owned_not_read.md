@@ -17,6 +17,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Written in the Stars</td>
+			<td>Alexandria Bellefleur</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Leviathan Wakes (fr: L'Éveil du Léviathan)</td>
 			<td>James S. A. Corey</td>
 			<td>en</td>
