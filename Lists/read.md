@@ -213,6 +213,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Written in the Stars</td>
+			<td>Alexandria Bellefleur</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Mythes Chinois</td>
 			<td>Anne Birrell</td>
 			<td>Lu</td>

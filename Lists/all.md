@@ -267,9 +267,15 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
-			<td>Written in the Stars</td>
+			<td>Hang the Moon</td>
 			<td>Alexandria Bellefleur</td>
 			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>Written in the Stars</td>
+			<td>Alexandria Bellefleur</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

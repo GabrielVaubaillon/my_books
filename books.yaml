@@ -3754,8 +3754,15 @@ works:
     titles:
       en: Written in the Stars
     language: en
-    read: no
+    read: yes
     books: B_367
+    authors: A_260
+  W_482:
+    titles:
+      en: Hang the Moon
+    language: en
+    read: no
+    books: B_368
     authors: A_260
 
 books:
@@ -5623,6 +5630,11 @@ books:
     title: Written in the Stars
     language: en
     isbn: 978-0-06-300081-0
+    situation: Ebook
+  B_368:
+    title: Hang the Moon
+    language: en
+    isbn: 978-0-06-300085-8
     situation: Ebook
 
 authors:

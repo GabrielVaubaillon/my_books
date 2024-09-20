@@ -79,6 +79,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Written in the Stars</td>
+			<td>Alexandria Bellefleur</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Le Maître et Marguerite (en: The Master and Margarita)</td>
 			<td>Mikhaïl Boulgakov</td>
 			<td>fr</td>

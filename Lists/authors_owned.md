@@ -248,6 +248,11 @@
 			<td>2</td>
 		</tr>
 		<tr>
+			<td>Alexandria Bellefleur</td>
+			<td>1</td>
+			<td>2</td>
+		</tr>
+		<tr>
 			<td>Laure Bazire</td>
 			<td>2</td>
 			<td>2</td>
@@ -1004,11 +1009,6 @@
 		</tr>
 		<tr>
 			<td>José Benjamin</td>
-			<td>0</td>
-			<td>1</td>
-		</tr>
-		<tr>
-			<td>Alexandria Bellefleur</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
