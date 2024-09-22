@@ -59,10 +59,17 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Count your Lucky Stars</td>
+			<td>Alexandria Bellefleur</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Hang the Moon</td>
 			<td>Alexandria Bellefleur</td>
 			<td>en</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>

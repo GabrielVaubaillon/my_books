@@ -3761,8 +3761,15 @@ works:
     titles:
       en: Hang the Moon
     language: en
-    read: no
+    read: yes
     books: B_368
+    authors: A_260
+  W_483:
+    titles:
+      en: Count your Lucky Stars
+    language: en
+    read: yes
+    books: B_369
     authors: A_260
 
 books:
@@ -5635,6 +5642,11 @@ books:
     title: Hang the Moon
     language: en
     isbn: 978-0-06-300085-8
+    situation: Ebook
+  B_369:
+    title: Count your Lucky Stars
+    language: en
+    isbn: 978-0-06-300089-6
     situation: Ebook
 
 authors:

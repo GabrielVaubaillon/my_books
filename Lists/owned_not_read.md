@@ -73,13 +73,6 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
-			<td colspan=2>Hang the Moon</td>
-			<td>Alexandria Bellefleur</td>
-			<td>en</td>
-			<td>Pas Lu</td>
-			<td>Ebook</td>
-		</tr>
-		<tr>
 			<td colspan=2>La concierge est dans le cercueil</td>
 			<td>José Benjamin</td>
 			<td>fr</td>

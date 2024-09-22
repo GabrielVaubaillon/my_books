@@ -159,8 +159,8 @@
 		</tr>
 		<tr>
 			<td>Alexandria Bellefleur</td>
-			<td>1</td>
-			<td>2</td>
+			<td>3</td>
+			<td>3</td>
 		</tr>
 		<tr>
 			<td>José Benjamin</td>

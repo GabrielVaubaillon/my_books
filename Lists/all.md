@@ -267,9 +267,15 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Count your Lucky Stars</td>
+			<td>Alexandria Bellefleur</td>
+			<td>Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Hang the Moon</td>
 			<td>Alexandria Bellefleur</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>
