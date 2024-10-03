@@ -387,7 +387,7 @@
 		</tr>
 		<tr>
 			<td>Take a Hint, Dani Brown</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 		</tr>
 		<tr>
 			<td>Act Your Age, Eve Brown</td>

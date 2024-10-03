@@ -1251,7 +1251,7 @@ works:
     titles:
       en: Take a Hint, Dani Brown
     language: en
-    read: no
+    read: yes
     books: B_130
     authors: A_104
   W_154:

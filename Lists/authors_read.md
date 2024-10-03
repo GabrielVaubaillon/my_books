@@ -248,6 +248,11 @@
 			<td>0</td>
 		</tr>
 		<tr>
+			<td>Talia Hibbert</td>
+			<td>2</td>
+			<td>3</td>
+		</tr>
+		<tr>
 			<td>Théophile Gautier</td>
 			<td>2</td>
 			<td>1</td>
@@ -701,11 +706,6 @@
 			<td>Homère</td>
 			<td>1</td>
 			<td>1</td>
-		</tr>
-		<tr>
-			<td>Talia Hibbert</td>
-			<td>1</td>
-			<td>3</td>
 		</tr>
 		<tr>
 			<td>Ernest Hemingway</td>
