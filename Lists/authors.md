@@ -908,6 +908,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Ruth Ozeki</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>R. I. Page</td>
 			<td>1</td>
 			<td>1</td>

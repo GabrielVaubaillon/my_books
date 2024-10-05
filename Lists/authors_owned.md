@@ -493,6 +493,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Ruth Ozeki</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Ovide</td>
 			<td>1</td>
 			<td>1</td>

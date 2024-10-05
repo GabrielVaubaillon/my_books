@@ -3771,6 +3771,14 @@ works:
     read: yes
     books: B_369
     authors: A_260
+  W_484:
+    titles:
+      en: The Book of Form and Emptiness
+      fr: Le Fardeau tranquille des choses
+    language: en
+    read: no
+    books: B_370
+    authors: A_261
 
 books:
   B_001:
@@ -5648,6 +5656,11 @@ books:
     language: en
     isbn: 978-0-06-300089-6
     situation: Ebook
+  B_370:
+    title: The Book of Form and Emptiness
+    language: en
+    isbn: 978-1-83885-527-7
+    situation: Ebook
 
 authors:
   A_001:
@@ -6200,6 +6213,8 @@ authors:
     name: Simon Jimenez
   A_260:
     name: Alexandria Bellefleur
+  A_261:
+    name: Ruth Ozeki
 
 series:
   S_001:

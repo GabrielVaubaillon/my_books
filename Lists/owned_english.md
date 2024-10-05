@@ -519,6 +519,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>The Book of Form and Emptiness (fr: Le Fardeau tranquille des choses)</td>
+			<td>Ruth Ozeki</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Mort (fr: Mortimer)</td>
 			<td>Terry Pratchett</td>
 			<td>en</td>

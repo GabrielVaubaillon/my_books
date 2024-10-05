@@ -490,6 +490,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>The Book of Form and Emptiness (fr: Le Fardeau tranquille des choses)</td>
+			<td>Ruth Ozeki</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Les contes de Perrault</td>
 			<td>Charles Perrault</td>
 			<td>fr</td>

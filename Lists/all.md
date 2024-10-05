@@ -1821,6 +1821,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Le Fardeau tranquille des choses</td>
+			<td>Ruth Ozeki</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Mythes Nordiques</td>
 			<td>R. I. Page</td>
 			<td>Lu</td>

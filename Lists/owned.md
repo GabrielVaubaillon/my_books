@@ -1802,6 +1802,13 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>The Book of Form and Emptiness (fr: Le Fardeau tranquille des choses)</td>
+			<td>Ruth Ozeki</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Mythes Nordiques (en-vo: Norse Myths)</td>
 			<td>R. I. Page</td>
 			<td>fr</td>

@@ -152,5 +152,12 @@
 		<tr>
 			<td>Speaking Bones</td>
 		</tr>
+		<tr>
+			<td colspan=2>The Book of Form and Emptiness (fr: Le Fardeau tranquille des choses)</td>
+			<td>Ruth Ozeki</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
 	</tbody>
 </table>
