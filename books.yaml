@@ -3779,6 +3779,14 @@ works:
     read: no
     books: B_370
     authors: A_261
+  W_485:
+    titles:
+      en: "Furies: Stories of the Wicked, Wild and Untamed"
+    language: en
+    read: no
+    books: B_371
+    authors: A_010;A_262;A_263;A_264;A_265;A_266;A_267;A_268;A_269;A_270;A_271;A_272;A_273;A_274;A_275;A_276
+    notes: Collection of short feminist stories
 
 books:
   B_001:
@@ -5661,6 +5669,11 @@ books:
     language: en
     isbn: 978-1-83885-527-7
     situation: Ebook
+  B_371:
+    title: "Furies: Stories of the Wicked, Wild and Untamed"
+    language: en
+    isbn: 978-0-349-01716-7
+    situation: Cork
 
 authors:
   A_001:
@@ -6215,6 +6228,37 @@ authors:
     name: Alexandria Bellefleur
   A_261:
     name: Ruth Ozeki
+  A_262:
+    name: Susie Boyt
+  A_263:
+    name: Eleanor Crewes
+  A_264:
+    name: Emma Donoghue
+  A_265:
+    name: Stella Duffy
+  A_266:
+    name: Linda Grant
+  A_267:
+    name: Annie Hodson
+  A_268:
+    name: Claire Kohda
+  A_269:
+    name: CN Lester
+  A_270:
+    name: Kirsty Logan
+  A_271:
+    name: Caroline O'Donoghue
+    sorting_name: odonoghue
+  A_272:
+    name: Chibundu Onuzo
+  A_273:
+    name: Helen Oyeyemi
+  A_274:
+    name: Rachel Seiffert
+  A_275:
+    name: Kamila Shamsie
+  A_276:
+    name: Ali Smith
 
 series:
   S_001:

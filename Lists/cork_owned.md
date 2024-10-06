@@ -84,6 +84,13 @@
 			<td>Terre et Fondation (en-vo: Foundation and Earth)</td>
 		</tr>
 		<tr>
+			<td colspan=2>Furies: Stories of the Wicked, Wild and Untamed</td>
+			<td>Margaret Atwood / Susie Boyt / Eleanor Crewes / Emma Donoghue / Stella Duffy / Linda Grant / Annie Hodson / Claire Kohda / CN Lester / Kirsty Logan / Caroline O'Donoghue / Chibundu Onuzo / Helen Oyeyemi / Rachel Seiffert / Kamila Shamsie / Ali Smith</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Gros Problème (en-vo: Big Trouble)</td>
 			<td>Dave Barry</td>
 			<td>fr</td>

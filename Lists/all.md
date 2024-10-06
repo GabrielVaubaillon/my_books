@@ -153,6 +153,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Furies: Stories of the Wicked, Wild and Untamed</td>
+			<td>Margaret Atwood / Susie Boyt / Eleanor Crewes / Emma Donoghue / Stella Duffy / Linda Grant / Annie Hodson / Claire Kohda / CN Lester / Kirsty Logan / Caroline O'Donoghue / Chibundu Onuzo / Helen Oyeyemi / Rachel Seiffert / Kamila Shamsie / Ali Smith</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>La Servante Écarlate</td>
 			<td>Margaret Atwood</td>
 			<td>Lu</td>

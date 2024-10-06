@@ -263,6 +263,11 @@
 			<td>2</td>
 		</tr>
 		<tr>
+			<td>Margaret Atwood</td>
+			<td>1</td>
+			<td>2</td>
+		</tr>
+		<tr>
 			<td>Stefan Zweig</td>
 			<td>1</td>
 			<td>1</td>
@@ -383,6 +388,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Ali Smith</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Maj Sjöwall</td>
 			<td>0</td>
 			<td>1</td>
@@ -393,8 +403,18 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Kamila Shamsie</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Luis Sepuvelda</td>
 			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Rachel Seiffert</td>
+			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>
@@ -498,6 +518,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Helen Oyeyemi</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Ovide</td>
 			<td>1</td>
 			<td>1</td>
@@ -515,6 +540,16 @@
 		<tr>
 			<td>Laura Orvieto</td>
 			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Chibundu Onuzo</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Caroline O'Donoghue</td>
+			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>
@@ -593,6 +628,16 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Kirsty Logan</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>CN Lester</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Jérôme Leroy</td>
 			<td>0</td>
 			<td>1</td>
@@ -640,6 +685,11 @@
 		<tr>
 			<td>R.F. Kuang</td>
 			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Claire Kohda</td>
+			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>
@@ -713,6 +763,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Annie Hodson</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Ernest Hemingway</td>
 			<td>1</td>
 			<td>1</td>
@@ -760,6 +815,11 @@
 		<tr>
 			<td>Jacob & Wilhelm Grimm</td>
 			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Linda Grant</td>
+			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>
@@ -853,6 +913,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Stella Duffy</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Maurice Druon</td>
 			<td>1</td>
 			<td>1</td>
@@ -860,6 +925,11 @@
 		<tr>
 			<td>Brian Doyle</td>
 			<td>1</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Emma Donoghue</td>
+			<td>0</td>
 			<td>1</td>
 		</tr>
 		<tr>
@@ -894,6 +964,11 @@
 		</tr>
 		<tr>
 			<td>Vesta Sarkhosh Curtis</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Eleanor Crewes</td>
 			<td>0</td>
 			<td>1</td>
 		</tr>
@@ -993,6 +1068,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Susie Boyt</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Mikhaïl Boulgakov</td>
 			<td>1</td>
 			<td>1</td>
@@ -1070,11 +1150,6 @@
 		<tr>
 			<td>Jane Austen</td>
 			<td>0</td>
-			<td>1</td>
-		</tr>
-		<tr>
-			<td>Margaret Atwood</td>
-			<td>1</td>
 			<td>1</td>
 		</tr>
 		<tr>

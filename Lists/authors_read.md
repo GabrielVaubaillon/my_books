@@ -990,7 +990,7 @@
 		<tr>
 			<td>Margaret Atwood</td>
 			<td>1</td>
-			<td>1</td>
+			<td>2</td>
 		</tr>
 		<tr>
 			<td>Robert Arthur, Jr</td>
