@@ -2152,6 +2152,13 @@
 			<td>Antony</td>
 		</tr>
 		<tr>
+			<td colspan=2>An Prionsa Beag</td>
+			<td>Antoine de Saint-Exupéry</td>
+			<td>ga</td>
+			<td>Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Le Petit Prince (en: The Little Prince)</td>
 			<td>Antoine de Saint-Exupéry</td>
 			<td>fr</td>

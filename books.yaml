@@ -2443,9 +2443,10 @@ works:
     titles:
       fr: Le Petit Prince
       en: The Little Prince
+      ga: An Prionsa Beag
     language: en;fr
     read: yes
-    books: B_320
+    books: B_320;B_372
     authors: A_181
   W_313:
     titles:
@@ -5673,6 +5674,11 @@ books:
     title: "Furies: Stories of the Wicked, Wild and Untamed"
     language: en
     isbn: 978-0-349-01716-7
+    situation: Cork
+  B_372:
+    title: An Prionsa Beag
+    language: ga
+    isbn: 978-1-9160470-0-6
     situation: Cork
 
 authors:
