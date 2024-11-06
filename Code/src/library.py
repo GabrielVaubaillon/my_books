@@ -253,7 +253,6 @@ class Library:
 
         # Link: books to works, books to authors, books to series,
         #       authors to works, authors to books
-        # TODO:
         # TODO: authors to series, series to authors
         for work_id, work in self.works.items():
             owned = False
@@ -277,6 +276,7 @@ class Library:
             and (not book.situation.startswith("Prêté"))
             and ("/" not in book.situation)
         }
+        self.owned_languages = {book.language for book in self.books.values()}
 
     def __str__(self) -> str:
         str_list = []
@@ -287,18 +287,22 @@ class Library:
                 "\n".join([str(language) for language in self.languages.values()]), "  "
             )
         )
+        str_list.append("")
         str_list.append("works:")
         str_list.append(
             textwrap.indent("\n".join([str(work) for work in self.works.values()]), "  ")
         )
+        str_list.append("")
         str_list.append("books:")
         str_list.append(
             textwrap.indent("\n".join([str(book) for book in self.books.values()]), "  ")
         )
+        str_list.append("")
         str_list.append("authors:")
         str_list.append(
             textwrap.indent("\n".join([str(author) for author in self.authors.values()]), "  ")
         )
+        str_list.append("")
         str_list.append("series:")
         str_list.append(
             textwrap.indent("\n".join([str(serie) for serie in self.series.values()]), "  ")

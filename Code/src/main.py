@@ -41,16 +41,10 @@ def create_collections(library: lib.Library):
         },
     }
     # languages
-    languages = {"fr", "en"}
-    for language in languages:
+    for language in library.owned_languages:
         collections[f"owned_{language}_b"] = {
             id for id, book in library.books.items() if book.language == language and book.situation
         }
-    collections[f"owned_other_language_b"] = {
-        id
-        for id, book in library.books.items()
-        if (book.language not in languages) and book.situation
-    }
 
     # situations
     for situation in library.situations:
@@ -68,24 +62,42 @@ def create_collections(library: lib.Library):
             for id, book in library.books.items()
             if book.situation.startswith(situation) and (not book.read)
         }
-        for language in languages:
+        for language in library.owned_languages:
             collections[f"owned_{language}_{situation_l}_b"] = {
                 id
                 for id, book in library.books.items()
                 if book.situation.startswith(situation) and book.language == language
             }
-        collections[f"owned_other_language_{situation_l}_b"] = {
-            id
-            for id, book in library.books.items()
-            if book.situation.startswith(situation) and book.language not in languages
-        }
 
     return collections
 
 
+def setup_output_dir(output_dir:Path):
+    if output_dir.is_dir():
+        for file in output_dir.glob("*.md"):
+            file.unlink()
+    else:
+        output_dir.mkdir(parents=True, exist_ok=True)
+
+
 def dump_collections(library: lib.Library, collections: dict[str, set[str]], output_dir: Path):
-    # TODO
-    pass
+    setup_output_dir(output_dir)
+    # IDEA: put header with format for README line !, then the README just read that?
+
+    for name, ids in collections.items():
+        file_content = []
+        # TODO
+        if name.endswith("_w"):
+            pass
+        elif name.endswith("_b"):
+            pass
+        else:
+            pass
+
+        if file_content:
+            output_file = output_dir / (name + ".md")
+            with open(output_file, mode="w", encoding="utf-8") as file:
+                file.write("\n".join(file_content))
 
 
 def main(input_file: Path, output_dir: Path) -> None:
@@ -96,6 +108,7 @@ def main(input_file: Path, output_dir: Path) -> None:
     library = lib.load(library_yaml)
 
     print(library)
+    print()
 
     collections = create_collections(library)
 
@@ -112,5 +125,5 @@ if __name__ == "__main__":
     cli_args = _parse_cli_args()
     main(
         input_file=cli_args.input_filename,
-        output_dir=cli_args.output_dir
+        output_dir=cli_args.output_dir,
     )
