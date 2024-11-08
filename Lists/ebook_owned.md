@@ -163,6 +163,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Penance</td>
+			<td>Eliza Clarke</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Piranesi (fr: Piranèse)</td>
 			<td>Susana Clarke</td>
 			<td>en</td>

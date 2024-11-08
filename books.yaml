@@ -3796,6 +3796,13 @@ works:
     read: no
     books: B_373
     authors: A_126
+  W_487:
+    titles:
+      en: Penance
+    language: en
+    read: no
+    books: B_374
+    authors: A_277
 
 books:
   B_001:
@@ -5693,6 +5700,11 @@ books:
     language: en
     isbn: 978-1-3996-0779-7
     situation: Cork
+  B_374:
+    title: Penance
+    language: en
+    isbn: 978-0-571-37179-2
+    situation: Ebook
 
 authors:
   A_001:
@@ -6278,6 +6290,8 @@ authors:
     name: Kamila Shamsie
   A_276:
     name: Ali Smith
+  A_277:
+    name: Eliza Clarke
 
 series:
   S_001:

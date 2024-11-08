@@ -1028,6 +1028,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Eliza Clarke</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Arthur C. Clarke</td>
 			<td>1</td>
 			<td>1</td>
