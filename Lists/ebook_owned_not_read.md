@@ -24,22 +24,6 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td rowspan=3>The Brown Sisters Serie</td>
-			<td>Get a Life, Chloe Brown</td>
-			<td rowspan=3>Talia Hibbert</td>
-			<td rowspan=3>en</td>
-			<td>Lu</td>
-			<td rowspan=3>Ebook</td>
-		</tr>
-		<tr>
-			<td>Take a Hint, Dani Brown</td>
-			<td>Lu</td>
-		</tr>
-		<tr>
-			<td>Act Your Age, Eve Brown</td>
-			<td>Pas Lu</td>
-		</tr>
-		<tr>
 			<td rowspan=23>Integrale Arsène Lupin</td>
 			<td>Arsène Lupin, Gentleman-Cambrioleur</td>
 			<td rowspan=23>Maurice Leblanc</td>

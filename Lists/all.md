@@ -1193,7 +1193,7 @@
 		<tr>
 			<td>Act Your Age, Eve Brown</td>
 			<td>Talia Hibbert</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

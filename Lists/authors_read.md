@@ -148,6 +148,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Talia Hibbert</td>
+			<td>3</td>
+			<td>3</td>
+		</tr>
+		<tr>
 			<td>Virgina Heath</td>
 			<td>3</td>
 			<td>3</td>
@@ -246,11 +251,6 @@
 			<td>Victor Hugo</td>
 			<td>2</td>
 			<td>0</td>
-		</tr>
-		<tr>
-			<td>Talia Hibbert</td>
-			<td>2</td>
-			<td>3</td>
 		</tr>
 		<tr>
 			<td>Théophile Gautier</td>
