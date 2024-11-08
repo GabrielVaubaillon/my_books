@@ -676,6 +676,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>The Word for World is Forest (fr: Le Nom du Monde est Forêt)</td>
+			<td>Ursula K. Le Guin</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Le Garçon qui ne Parlait Pas (en-vo: The Golden Egg)</td>
 			<td>Donna Leon</td>
 			<td>fr</td>

@@ -50,7 +50,7 @@
 		<tr>
 			<td>Ursula K. Le Guin</td>
 			<td>6</td>
-			<td>6</td>
+			<td>7</td>
 		</tr>
 		<tr>
 			<td>Frank Herbert</td>

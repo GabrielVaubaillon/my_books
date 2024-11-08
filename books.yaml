@@ -3788,6 +3788,14 @@ works:
     books: B_371
     authors: A_010;A_262;A_263;A_264;A_265;A_266;A_267;A_268;A_269;A_270;A_271;A_272;A_273;A_274;A_275;A_276
     notes: Collection of short feminist stories
+  W_486:
+    titles:
+      en: The Word for World is Forest
+      fr: Le Nom du Monde est Forêt
+    language: en
+    read: no
+    books: B_373
+    authors: A_126
 
 books:
   B_001:
@@ -5679,6 +5687,11 @@ books:
     title: An Prionsa Beag
     language: ga
     isbn: 978-1-9160470-0-6
+    situation: Cork
+  B_373:
+    title: The Word for World is Forest
+    language: en
+    isbn: 978-1-3996-0779-7
     situation: Cork
 
 authors:

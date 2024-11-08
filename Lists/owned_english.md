@@ -457,6 +457,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>The Word for World is Forest (fr: Le Nom du Monde est Forêt)</td>
+			<td>Ursula K. Le Guin</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td rowspan=6>The Books of Eathsea</td>
 			<td>A Wizard of Earthsea (fr: Le Sorcier de Terremer)</td>
 			<td rowspan=6>Ursula K. Le Guin</td>

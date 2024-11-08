@@ -53,13 +53,13 @@
 			<td>7</td>
 		</tr>
 		<tr>
-			<td>George R.R. Martin</td>
-			<td>4</td>
-			<td>6</td>
-		</tr>
-		<tr>
 			<td>Ursula K. Le Guin</td>
 			<td>6</td>
+			<td>7</td>
+		</tr>
+		<tr>
+			<td>George R.R. Martin</td>
+			<td>4</td>
 			<td>6</td>
 		</tr>
 		<tr>

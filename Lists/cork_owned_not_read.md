@@ -371,6 +371,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>The Word for World is Forest (fr: Le Nom du Monde est Forêt)</td>
+			<td>Ursula K. Le Guin</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Cork</td>
+		</tr>
+		<tr>
 			<td colspan=2>Martin Eden (en-vo: Martin Eden)</td>
 			<td>Jack London</td>
 			<td>fr</td>
