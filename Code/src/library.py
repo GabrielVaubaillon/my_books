@@ -350,32 +350,63 @@ class Library:
     def books_html_row(self, book_id: str) -> str:
         book: Book = self.books[book_id]
         row: list[str] = []
-        if len(book.works) == 1:
-            work: Work = self.works[book.works[0]]
-            if book.title == work.titles[book.language]:
-                title = "<td colspan=2>{book.title}"
-            row += [
-                # title
-                # author
-            ]
-            row += [
-                book.language,
-                # read
-                book.situation,
-            ]
-        else:
-            row += [
-                # title
-                # author
-            ]
-            row += [
-                book.language,
-                # read
-                book.situation,
-            ]
+        works: list[Work] = [self.works[work_id] for work_id in book.works]
 
-        row = [f"{str_}</td>" for str_ in row]
-        return "<tr>\n" + textwrap.indent("\n".join(row), "  ") + "\n</tr>"
+        # Title
+        colspan_title: int
+        if len(works) == 1 and book.title == works[0].titles[book.language]:
+            colspan_title = 2
+        else:
+            colspan_title = 1
+
+        row.append(f"  <td colspan={colspan_title} rowspan={len(works)}>{book.title}</td>")
+        if colspan_title == 1:
+            row.append(f"  <td>{works[0].titles[book.language]}</td>")
+
+        # Authors
+        authors: list[set[str]] = []
+        for work in works:
+            authors.append(set(work.authors))
+        rowspan_authors: int
+        if all(authors_set == authors[0] for authors_set in authors):
+            rowspan_authors = len(works)
+        else:
+            rowspan_authors = 1
+        authors_str: str = " / ".join(
+            [self.authors[author_id].name for author_id in works[0].authors]
+        )
+        row.append(f"  <td rowspan={rowspan_authors}>{authors_str}</td>")
+
+        # Language
+        row.append(f"  <td rowspan={len(works)}>{book.language}</td>")
+
+        # Read status
+        rowspan_read_status: int
+        if book.fully_read or (not book.partial_read):
+            rowspan_read_status = len(works)
+        else:
+            rowspan_read_status = 1
+        read_status: str = "Lu" if works[0].read else "Pas Lu"
+        row.append(f"  <td rowspan={rowspan_read_status}>{read_status}</td>")
+
+        # Situation
+        row.append(f"  <td rowspan={len(works)}>{book.situation}</td>")
+
+        # Others rows if multiple works
+        for i in range(1, len(works)):
+            row.append("</tr>")
+            row.append("<tr>")
+            row.append(f"  <td>{works[i].titles[book.language]}</td>")
+            if rowspan_authors == 1:
+                authors_str = " / ".join(
+                    [self.authors[author_id].name for author_id in works[i].authors]
+                )
+                row.append(f"  <td>{authors_str}</td>")
+            if rowspan_read_status == 1:
+                read_status = "Lu" if works[i].read else "Pas Lu"
+                row.append(f"  <td>{read_status}</td>")
+
+        return "<tr>\n" + "\n".join(row) + "\n</tr>"
 
 
 def load(library_yaml: str) -> Library:
