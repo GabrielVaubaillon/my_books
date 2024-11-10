@@ -322,6 +322,29 @@ class Library:
 
         return "\n".join(str_list)
 
+    def sort_books_id(self, ids: set[str]) -> list[str]:
+        books_ids: list[str] = list(ids)
+
+        def sorting_key(book_id: str) -> tuple[str, ...]:
+            book: Book = self.books[book_id]
+            if book.authors:
+                author = self.authors[book.authors[0]].sorting_name.lower()
+                fullname = self.authors[book.authors[0]].name.lower()
+            else:
+                author = "zz"
+                fullname = "zzz"
+            return (
+                author,
+                fullname,
+                book.serie_id,
+                book.serie_position,
+                book.title,
+                book.situation,
+            )
+
+        books_ids.sort(key=lambda x: sorting_key(x))
+        return books_ids
+
     def books_html_table(self, books_ids: set[str]) -> str:
         header: list[str] = [
             "<table>",
@@ -337,8 +360,8 @@ class Library:
             "  <tbody>",
             "",
         ]
-        # TODO: sort ids
-        body: list[str] = [self.books_html_row(book_id) for book_id in books_ids]
+        sorted_books_ids: list[str] = self.sort_books_id(books_ids)
+        body: list[str] = [self.books_html_row(book_id) for book_id in sorted_books_ids]
         footer: list[str] = [
             "",
             "  </tbody>",

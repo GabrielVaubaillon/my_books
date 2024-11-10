@@ -112,8 +112,8 @@ def main(input_file: Path, output_dir: Path) -> None:
 
     library = lib.load(library_yaml)
 
-    print(library)
-    print()
+    # print(library)
+    # print()
 
     collections = create_collections(library)
 
