@@ -31,16 +31,16 @@ class Work:
         titles: dict[str, str],
         language: str,
         read: bool,
-        books: set[str] | None,
-        authors: set[str] | None,
+        books: list[str] | None,
+        authors: list[str] | None,
         notes: str | None,
     ):
         self.key: str = key
         self.titles: dict[str, str] = titles
         self.language: str = language
         self.read: bool = read
-        self.books: set[str] = books if books is not None else set()
-        self.authors: set[str] = authors if authors is not None else set()
+        self.books: list[str] = books if books is not None else []
+        self.authors: list[str] = authors if authors is not None else []
         self.notes: str = notes if notes is not None else ""
 
         # Others attributes, created from Library
@@ -83,9 +83,11 @@ class Book:
         self.notes: str = notes if notes is not None else ""
 
         # Others attributes, created from Library
-        self.works: set[str] = set()
-        self.authors: set[str] = set()
-        self.read: None | bool = None
+        self.works: list[str] = []
+        self.authors: list[str] = []
+        self.read: dict[str, bool] = dict()
+        self.partial_read: bool = False
+        self.fully_read: bool = False
 
         self.serie_id: str = ""
         self.serie_position: str = ""
@@ -107,6 +109,10 @@ class Book:
             self.serie_position = position
         elif self.serie_id == serie_id and self.serie_position > position:
             self.serie_position = position
+
+    def update_read_status(self) -> None:
+        self.fully_read = all(self.read.values())
+        self.partial_read = any(self.read.values())
 
     def __str__(self) -> str:
         str_ = (
@@ -143,8 +149,8 @@ class Author:
         self.notes: str = notes if notes is not None else ""
 
         # Others attributes, created from Library
-        self.works: set[str] = set()
-        self.books: set[str] = set()
+        self.works: list[str] = []
+        self.books: list[str] = []
 
     def __str__(self) -> str:
         str_ = (
@@ -202,8 +208,8 @@ class Library:
 
         self.works: dict[str, Work] = {}
         for work_key, work in works.items():
-            books_list = set(work["books"].split(";")) if work["books"] else None
-            authors_list = set(work["authors"].split(";")) if work["authors"] else None
+            books_list = work["books"].split(";") if work["books"] else None
+            authors_list = work["authors"].split(";") if work["authors"] else None
             self.works[work_key] = Work(
                 key=work_key,
                 titles=work["titles"],
@@ -257,26 +263,32 @@ class Library:
         for work_id, work in self.works.items():
             owned = False
             for book_id in work.books:
-                self.books[book_id].works.add(work_id)
-                self.books[book_id].authors |= work.authors
-                self.books[book_id].read = work.read
+                self.books[book_id].works.append(work_id)
+                for author in work.authors:
+                    if author not in self.books[book_id].authors:
+                        self.books[book_id].authors.append(author)
+                self.books[book_id].read[work_id] = work.read
                 self.books[book_id].add_serie(serie_id=work.serie_id, position=work.serie_position)
                 if self.books[book_id].situation:
                     owned = True
             for author_id in work.authors:
-                self.authors[author_id].works.add(work_id)
-                self.authors[author_id].books |= work.books
+                self.authors[author_id].works.append(work_id)
+                for book in work.books:
+                    if book not in self.authors[author_id].books:
+                        self.authors[author_id].books.append(book)
             work.owned = owned
 
-        # set of all situations
-        self.situations: set[str] = {
-            book.situation
-            for book in self.books.values()
-            if book.situation
-            and (not book.situation.startswith("Prêté"))
-            and ("/" not in book.situation)
-        }
-        self.owned_languages = {book.language for book in self.books.values()}
+        self.situations: set[str] = set()
+        self.owned_languages = set()
+        for book in self.books.values():
+            book.update_read_status()
+            if (
+                book.situation
+                and (not book.situation.startswith("Prêté"))
+                and ("/" not in book.situation)
+            ):
+                self.situations.add(book.situation)
+            self.owned_languages.add(book.language)
 
     def __str__(self) -> str:
         str_list = []
@@ -309,6 +321,61 @@ class Library:
         )
 
         return "\n".join(str_list)
+
+    def books_html_table(self, books_ids: set[str]) -> str:
+        header: list[str] = [
+            "<table>",
+            "  <thead>",
+            "    <tr>",
+            "      <th colspan=2>Titre</th>",
+            "      <th>Auteur·rice</th>",
+            "      <th>Langue</th>",
+            "      <th>Lu</th>",
+            "      <th>Situation</th>",
+            "    </tr>",
+            "  </thead>",
+            "  <tbody>",
+            "",
+        ]
+        # TODO: sort ids
+        body: list[str] = [self.books_html_row(book_id) for book_id in books_ids]
+        footer: list[str] = [
+            "",
+            "  </tbody>",
+            "</table>",
+        ]
+        str_ = "\n".join(header) + textwrap.indent("\n".join(body), "    ") + "\n".join(footer)
+        return str_
+
+    def books_html_row(self, book_id: str) -> str:
+        book: Book = self.books[book_id]
+        row: list[str] = []
+        if len(book.works) == 1:
+            work: Work = self.works[book.works[0]]
+            if book.title == work.titles[book.language]:
+                title = "<td colspan=2>{book.title}"
+            row += [
+                # title
+                # author
+            ]
+            row += [
+                book.language,
+                # read
+                book.situation,
+            ]
+        else:
+            row += [
+                # title
+                # author
+            ]
+            row += [
+                book.language,
+                # read
+                book.situation,
+            ]
+
+        row = [f"{str_}</td>" for str_ in row]
+        return "<tr>\n" + textwrap.indent("\n".join(row), "  ") + "\n</tr>"
 
 
 def load(library_yaml: str) -> Library:
