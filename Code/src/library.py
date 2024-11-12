@@ -152,6 +152,10 @@ class Author:
         self.works: list[str] = []
         self.books: list[str] = []
 
+        self.works_read: int = 0
+        self.works_owned: int = 0
+        self.books_owned: int = 0
+
     def __str__(self) -> str:
         str_list = [
             f"{self.key}:",
@@ -278,6 +282,16 @@ class Library:
                         self.authors[author_id].books.append(book)
             work.owned = owned
 
+        for author in self.authors.values():
+            for work_id in author.works:
+                if self.works[work_id].read:
+                    author.works_read += 1
+                if self.works[work_id].owned:
+                    author.works_owned += 1
+            for book_id in author.books:
+                if self.books[book_id].situation:
+                    author.books_owned += 1
+
         self.situations: set[str] = set()
         self.owned_languages = set()
         for book in self.books.values():
@@ -322,6 +336,7 @@ class Library:
 
         return "\n".join(str_list)
 
+    # TODO: rename with ids
     def sort_books_id(self, ids: set[str]) -> list[str]:
         books_ids: list[str] = list(ids)
 
@@ -494,6 +509,58 @@ class Library:
         # Possédé
         owned: str = "Possédé" if work.owned else "Non possédé"
         row.append(f"<td>{owned}</td>")
+        return "<tr>\n" + textwrap.indent("\n".join(row), "  ") + "\n</tr>"
+
+    def sort_authors_ids(self, ids: set[str], sorting: str) -> list[str]:
+        assert sorting in ("name", "read", "owned_w", "owned_b")
+        authors_ids: list[str] = list(ids)
+
+        def sorting_key(author_id: str) -> tuple:
+            author: Author = self.authors[author_id]
+            if sorting == "name":
+                return (author.sorting_name, author.name)
+            elif sorting == "owned_w":
+                return (-author.works_owned, author.sorting_name, author.name)
+            elif sorting == "owned_b":
+                return (-author.books_owned, author.sorting_name, author.name)
+            elif sorting == "read":
+                return (-author.works_read, author.sorting_name, author.name)
+
+        authors_ids.sort(key=lambda x: sorting_key(x))
+        return authors_ids
+
+    def authors_html_table(self, authors_ids: set[str], sorting: str = "name") -> str:
+        header: list[str] = [
+            "<table>",
+            "  <thead>",
+            "    <tr>",
+            "      <th>Auteur·rice</th>",
+            "      <th>Nombre oeuvres lues</th>",
+            "      <th>Nombre oeuvres possédées</th>",
+            "      <th>Nombre livres possédés</th>",
+            "    </tr>",
+            "  </thead>",
+            "  <tbody>",
+            "",
+        ]
+        sorted_authors_ids: list[str] = self.sort_authors_ids(authors_ids, sorting)
+        body: list[str] = [self.author_html_row(author_id) for author_id in sorted_authors_ids]
+        footer: list[str] = [
+            "",
+            "  </tbody>",
+            "</table>",
+        ]
+        str_ = "\n".join(header) + textwrap.indent("\n".join(body), "    ") + "\n".join(footer)
+        return str_
+
+    def author_html_row(self, author_id: str) -> str:
+        author: Author = self.authors[author_id]
+        row: list[str] = [
+            f"<td>{author.name}</td>",
+            f"<td>{author.works_read}</td>",
+            f"<td>{author.works_owned}</td>",
+            f"<td>{author.books_owned}</td>",
+        ]
         return "<tr>\n" + textwrap.indent("\n".join(row), "  ") + "\n</tr>"
 
 

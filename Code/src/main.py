@@ -18,7 +18,7 @@ def percent(subset, original_set):
 
 
 def create_collections(library: lib.Library) -> dict[str, set[str]]:
-    # TODO: Add authors, and original languages
+    # TODO: add original languages
     # TODO: change that. I'm not happy with this part
     collections = {
         "all_w": set(library.works.keys()),
@@ -26,7 +26,11 @@ def create_collections(library: lib.Library) -> dict[str, set[str]]:
         "all_a": set(library.authors.keys()),
         "owned_w": {id for id, work in library.works.items() if work.owned},
         "owned_b": {id for id, book in library.books.items() if book.situation},
+        # the owned_a can be sorted two ways
+        "owned_w_a": {id for id, author in library.authors.items() if author.books_owned},
+        "owned_b_a": {id for id, author in library.authors.items() if author.books_owned},
         "read_w": {id for id, work in library.works.items() if work.read},
+        "read_a": {id for id, author in library.authors.items() if author.works_read},
         "read_b": {id for id, book in library.books.items() if book.partial_read},
         "read_owned_w": {id for id, work in library.works.items() if work.read and work.owned},
         "read_owned_b": {
@@ -94,8 +98,14 @@ def dump_collections(library: lib.Library, collections: dict[str, set[str]], out
             file_content = library.works_html_table(works_ids=ids)
         elif name.endswith("_b"):
             file_content = library.books_html_table(books_ids=ids)
-        elif name.endswith("_a"):
-            file_content = ""
+        elif name == "all_a":
+            file_content = library.authors_html_table(authors_ids=ids)
+        elif name == "read_a":
+            file_content = library.authors_html_table(authors_ids=ids, sorting="read")
+        elif name == "owned_b_a":
+            file_content = library.authors_html_table(authors_ids=ids, sorting="owned_b")
+        elif name == "owned_w_a":
+            file_content = library.authors_html_table(authors_ids=ids, sorting="owned_w")
         else:
             file_content = ""
 
