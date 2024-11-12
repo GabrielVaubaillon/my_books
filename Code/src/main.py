@@ -91,7 +91,7 @@ def dump_collections(library: lib.Library, collections: dict[str, set[str]], out
         file_content: str
         # TODO
         if name.endswith("_w"):
-            file_content = ""
+            file_content = library.works_html_table(works_ids=ids)
         elif name.endswith("_b"):
             file_content = library.books_html_table(books_ids=ids)
         elif name.endswith("_a"):

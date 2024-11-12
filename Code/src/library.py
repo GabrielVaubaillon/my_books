@@ -361,7 +361,7 @@ class Library:
             "",
         ]
         sorted_books_ids: list[str] = self.sort_books_id(books_ids)
-        body: list[str] = [self.books_html_row(book_id) for book_id in sorted_books_ids]
+        body: list[str] = [self.book_html_row(book_id) for book_id in sorted_books_ids]
         footer: list[str] = [
             "",
             "  </tbody>",
@@ -370,7 +370,7 @@ class Library:
         str_ = "\n".join(header) + textwrap.indent("\n".join(body), "    ") + "\n".join(footer)
         return str_
 
-    def books_html_row(self, book_id: str) -> str:
+    def book_html_row(self, book_id: str) -> str:
         book: Book = self.books[book_id]
         row: list[str] = []
         works: list[Work] = [self.works[work_id] for work_id in book.works]
@@ -430,6 +430,71 @@ class Library:
                 row.append(f"  <td>{read_status}</td>")
 
         return "<tr>\n" + "\n".join(row) + "\n</tr>"
+
+    def sort_works_id(self, ids: set[str]) -> list[str]:
+        works_ids: list[str] = list(ids)
+
+        def sorting_key(work_id: str) -> tuple[str, ...]:
+            work: Work = self.works[work_id]
+            if work.authors:
+                author = self.authors[work.authors[0]].sorting_name.lower()
+                fullname = self.authors[work.authors[0]].name.lower()
+            else:
+                author = "zz"
+                fullname = "zzz"
+            title = work.titles["fr"] if "fr" in work.titles else work.titles["en"]
+            return (
+                author,
+                fullname,
+                work.serie_id,
+                work.serie_position,
+                title,
+            )
+
+        works_ids.sort(key=lambda x: sorting_key(x))
+        return works_ids
+
+    def works_html_table(self, works_ids: set[str]) -> str:
+        header: list[str] = [
+            "<table>",
+            "  <thead>",
+            "    <tr>",
+            "      <th>Titre</th>",
+            "      <th>Auteur·rice</th>",
+            # "      <th>Titres alternatifs</th>",
+            "      <th>Lu</th>",
+            "      <th>Possédé</th>",
+            "    </tr>",
+            "  </thead>",
+            "  <tbody>",
+            "",
+        ]
+        sorted_works_ids: list[str] = self.sort_works_id(works_ids)
+        body: list[str] = [self.work_html_row(work_id) for work_id in sorted_works_ids]
+        footer: list[str] = [
+            "",
+            "  </tbody>",
+            "</table>",
+        ]
+        str_ = "\n".join(header) + textwrap.indent("\n".join(body), "    ") + "\n".join(footer)
+        return str_
+
+    def work_html_row(self, work_id: str) -> str:
+        work: Work = self.works[work_id]
+        row: list[str] = []
+        # Title
+        title: str = work.titles["fr"] if "fr" in work.titles else work.titles["en"]
+        row.append(f"<td>{title}</td>")
+        # Authors
+        authors: str = " / ".join([self.authors[author_id].name for author_id in work.authors])
+        row.append(f"<td>{authors}</td>")
+        # Read status
+        read_status: str = "Lu" if work.read else "Pas Lu"
+        row.append(f"<td>{read_status}</td>")
+        # Possédé
+        owned: str = "Possédé" if work.owned else "Non possédé"
+        row.append(f"<td>{owned}</td>")
+        return "<tr>\n" + textwrap.indent("\n".join(row), "  ") + "\n</tr>"
 
 
 def load(library_yaml: str) -> Library:
