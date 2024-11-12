@@ -50,18 +50,18 @@ class Work:
 
     def __str__(self) -> str:
         titles = "\n".join([f"    {lang_id}: {title}" for lang_id, title in self.titles.items()])
-        str_ = (
-            f"{self.key}:\n"
-            f"  titles:\n{titles}\n"
-            f"  language: {self.language}\n"
-            f"  read: {self.read}\n"
-            f"  books: {self.books}\n"
-            f"  authors: {self.authors}\n"
-            f"  notes: {self.notes}\n"
-            f"  serie_id: {self.serie_id}\n"
-            f"  serie_position: {self.serie_position}\n"
-        )
-        str_ = str_.removesuffix("\n")
+        str_list = [
+            f"{self.key}:",
+            f"  titles:{titles}",
+            f"  language: {self.language}",
+            f"  read: {self.read}",
+            f"  books: {self.books}",
+            f"  authors: {self.authors}",
+            f"  notes: {self.notes}",
+            f"  serie_id: {self.serie_id}",
+            f"  serie_position: {self.serie_position}",
+        ]
+        str_ = "\n".join(str_list)
         return str_
 
 
@@ -115,18 +115,18 @@ class Book:
         self.partial_read = any(self.read.values())
 
     def __str__(self) -> str:
-        str_ = (
-            f"{self.key}:\n"
-            f"  title: {self.title}\n"
-            f"  language: {self.language}\n"
-            f"  isbn: {self.isbn}\n"
-            f"  works: {self.works}\n"
-            f"  authors: {self.authors}\n"
-            f"  notes: {self.notes}\n"
-            f"  serie_id: {self.serie_id}\n"
-            f"  serie_position: {self.serie_position}\n"
-        )
-        str_ = str_.removesuffix("\n")
+        str_list = [
+            f"{self.key}:",
+            f"  title: {self.title}",
+            f"  language: {self.language}",
+            f"  isbn: {self.isbn}",
+            f"  works: {self.works}",
+            f"  authors: {self.authors}",
+            f"  notes: {self.notes}",
+            f"  serie_id: {self.serie_id}",
+            f"  serie_position: {self.serie_position}",
+        ]
+        str_ = "\n".join(str_list)
         return str_
 
 
@@ -153,15 +153,15 @@ class Author:
         self.books: list[str] = []
 
     def __str__(self) -> str:
-        str_ = (
-            f"{self.key}:\n"
-            f"  name: {self.name}\n"
-            f"  sorting_name: {self.sorting_name}\n"
-            f"  works: {self.works}\n"
-            f"  books: {self.books}\n"
-            f"  notes: {self.notes}\n"
-        )
-        str_ = str_.removesuffix("\n")
+        str_list = [
+            f"{self.key}:",
+            f"  name: {self.name}",
+            f"  sorting_name: {self.sorting_name}",
+            f"  works: {self.works}",
+            f"  books: {self.books}",
+            f"  notes: {self.notes}",
+        ]
+        str_ = "\n".join(str_list)
         return str_
 
 
@@ -182,14 +182,14 @@ class Serie:
 
     def __str__(self) -> str:
         names = "\n".join([f"    {lang_id}: {name}" for lang_id, name in self.names.items()])
-        str_ = (
-            f"{self.key}:\n"
-            f"  names:\n{names}\n"
-            f"  abbreviation: {self.abbreviation}\n"
-            f"  works: {self.works}\n"
-            f"  notes: {self.notes}\n"
-        )
-        str_ = str_.removesuffix("\n")
+        str_list = [
+            f"{self.key}:",
+            f"  names:\n{names}",
+            f"  abbreviation: {self.abbreviation}",
+            f"  works: {self.works}",
+            f"  notes: {self.notes}",
+        ]
+        str_ = "\n".join(str_list)
         return str_
 
 
