@@ -196,6 +196,14 @@ def write_stat_file(
             f"[{percent(stats[f"owned_{language}_w"], owned_w)}]"
             f"({collections_relative_path}/owned_{language}_w.md) oeuvres)."
         )
+    lines.append(
+        "- Auteur·rice·s présent·e·s dans la collection: "
+        f"{percent(stats["owned_w_a"], stats["all_a"])}, triés par "
+        f"[nombre d'oeuvres]({collections_relative_path}/owned_w_a.md)"
+        " ou par "
+        f"[nombre de livres]({collections_relative_path}/owned_b_a.md)"
+        " possédés"
+    )
 
     for situation in situations:
         sit: str = situation.lower()
@@ -241,6 +249,38 @@ def write_stat_file(
                 f"({collections_relative_path}/owned_{language}_{sit}_w.md) oeuvres)."
             )
 
+
+    lines += [
+        "",
+        "## Mes lectures",
+        "",
+        f"- [{stats["read_w"]}]({collections_relative_path}/read_w.md) oeuvres lues.",
+        (
+            "- Oeuvres lues et possédées: "
+            f"[{percent(stats["read_owned_w"], stats["read_w"])}]"
+            f"({collections_relative_path}/read_owned_w.md)"
+            " (reparties en "
+            f"[{stats["read_owned_b"]}]({collections_relative_path}/read_owned_b.md) livres)."
+        ),
+        (
+            "- Oeuvres lues et non possédées: "
+            f"[{percent(stats["read_not_owned_w"], stats["read_w"])}]"
+            f"({collections_relative_path}/read_not_owned_w.md)"
+        ),
+        (
+            "- Auteur·rice·s lu·e·s: "
+            f"[{percent(stats["read_a"], stats["all_a"])}]({collections_relative_path}/read_a.md)"
+        ),
+    ]
+
+    lines += [
+        "",
+        "## Autres",
+        "",
+        f"Toutes les oeuvres: [{stats["all_w"]}]({collections_relative_path}/all_w.md",
+        f"Tous les auteur·rice·s: [{stats["all_a"]}]({collections_relative_path}/all_a.md",
+    ]
+
     file_content: str = "\n".join(lines)
     # Remove links to inexitent files (when 0 elements in it)
     file_content = re.sub(r"\[0]\(.*?\.md\)", "0", file_content)
@@ -265,14 +305,14 @@ def main(input_file: Path, output_dir: Path, output_stats_file: Path) -> None:
     # Write files
     dump_collections(library, collections, output_dir)
 
-    # Write Readme
+    # Write Readme with library stats and links
     write_stat_file(
         collections=collections,
         collections_files_dir=output_dir,
         output_file=output_stats_file,
         lang=library.languages,
         owned_languages=library.owned_languages,
-        situations=library.situations
+        situations=library.situations,
     )
 
 
