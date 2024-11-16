@@ -23,9 +23,15 @@ languages:
   en:
     en: English
     fr: Anglais
+    ga: Bearla
   fr:
     en: French
     fr: Français
+    ga: Fraincis
+  ga:
+    en: Irish
+    fr: Irlandais
+    ga: Gaeilge
   da:
     en: Danish
     fr: Danois
@@ -789,8 +795,8 @@ works:
     titles:
       fr: Joseph Balsamo
     language: fr
-    read: no
-    books: B_076
+    read: yes
+    books: B_076;B_361
     authors: A_065
   W_093:
     titles:
@@ -811,7 +817,7 @@ works:
       fr: Le Comte de Monte-Cristo
       en: The Count of Monte Cristo
     language: fr
-    read: no
+    read: yes
     books: B_079
     authors: A_065
   W_096:
@@ -1245,14 +1251,14 @@ works:
     titles:
       en: Take a Hint, Dani Brown
     language: en
-    read: no
+    read: yes
     books: B_130
     authors: A_104
   W_154:
     titles:
       en: Act Your Age, Eve Brown
     language: en
-    read: no
+    read: yes
     books: B_130
     authors: A_104
   W_155:
@@ -2437,9 +2443,10 @@ works:
     titles:
       fr: Le Petit Prince
       en: The Little Prince
+      ga: An Prionsa Beag
     language: en;fr
     read: yes
-    books: B_320
+    books: B_320;B_372
     authors: A_181
   W_313:
     titles:
@@ -2770,17 +2777,18 @@ works:
     titles:
       fr: Le Hobbit
       en: The Hobbit
+      ga: An Hobad
     language: en
     read: yes
-    books: B_254;B_255;B_330
+    books: B_254;B_255;B_330;B_362;B_366
     authors: A_202
   W_355:
     titles:
-      fr: La Communautée de l'anneaux
+      fr: La Communautée de l'anneaux / La Fraternité de l'Anneau
       en: The Fellowship Of The Ring
     language: en
     read: yes
-    books: B_256;B_259
+    books: B_256;B_259;B_363
     authors: A_202
   W_356:
     titles:
@@ -2788,7 +2796,7 @@ works:
       en: The Two Towers
     language: en
     read: yes
-    books: B_257;B_259
+    books: B_257;B_259;B_363
     authors: A_202
   W_357:
     titles:
@@ -2796,7 +2804,7 @@ works:
       en: The Return Of The King
     language: en
     read: yes
-    books: B_258;B_259
+    books: B_258;B_259;B_363
     authors: A_202
   W_358:
     titles:
@@ -2804,7 +2812,7 @@ works:
       en: The Silmarillion
     language: en
     read: yes
-    books: B_260;B_261
+    books: B_260;B_261;B_364
     authors: A_202
     notes: edited Christopher Tolkien
   W_359:
@@ -3406,6 +3414,7 @@ works:
   W_436:
     titles:
       en: Exhalation
+      fr: Expiration
     language: en
     read: yes
     books: B_326
@@ -3671,7 +3680,7 @@ works:
       fr: Mythes Incas
       en: Inca Myths
     language: en
-    read: no
+    read: yes
     books: B_355
     authors: A_251
   W_472:
@@ -3704,6 +3713,97 @@ works:
     read: no
     books: B_359
     authors: A_255
+  W_476:
+    titles:
+      en: The Whalebone Theatre
+      fr: La Famille Seagrave
+    language: en
+    read: yes
+    books: B_360
+    authors: A_256
+  W_477:
+    titles:
+      fr: Les Enfants de la liberté
+      en: Children of Freedom
+    language: fr
+    read: yes
+    books:
+    authors: A_257
+  W_478:
+    titles:
+      fr: L'Invasion de l'overworld
+      en: Invasion of the Overworld
+    language: en
+    read: yes
+    books:
+    authors: A_258
+  W_479:
+    titles:
+      fr: La Bataille du Nether
+      en: Battle for the Nether
+    language: en
+    read: yes
+    books:
+    authors: A_258
+  W_480:
+    titles:
+      en: The Spear Cuts Through Water
+    language: en
+    read: no
+    books: B_365
+    authors: A_259
+  W_481:
+    titles:
+      en: Written in the Stars
+    language: en
+    read: yes
+    books: B_367
+    authors: A_260
+  W_482:
+    titles:
+      en: Hang the Moon
+    language: en
+    read: yes
+    books: B_368
+    authors: A_260
+  W_483:
+    titles:
+      en: Count your Lucky Stars
+    language: en
+    read: yes
+    books: B_369
+    authors: A_260
+  W_484:
+    titles:
+      en: The Book of Form and Emptiness
+      fr: Le Fardeau tranquille des choses
+    language: en
+    read: no
+    books: B_370
+    authors: A_261
+  W_485:
+    titles:
+      en: "Furies: Stories of the Wicked, Wild and Untamed"
+    language: en
+    read: no
+    books: B_371
+    authors: A_010;A_262;A_263;A_264;A_265;A_266;A_267;A_268;A_269;A_270;A_271;A_272;A_273;A_274;A_275;A_276
+    notes: Collection of short feminist stories
+  W_486:
+    titles:
+      en: The Word for World is Forest
+      fr: Le Nom du Monde est Forêt
+    language: en
+    read: no
+    books: B_373
+    authors: A_126
+  W_487:
+    titles:
+      en: Penance
+    language: en
+    read: no
+    books: B_374
+    authors: A_277
 
 books:
   B_001:
@@ -5528,6 +5628,84 @@ books:
     language: fr
     isbn: 979-10-414-1110-8
     situation: Cork
+  B_360:
+    title: The Whalebone Theatre
+    language: en
+    isbn: 978-0-241-99415-3
+    situation: Ebook
+  B_361:
+    title: Joseph Balsamo
+    language: fr
+    isbn:
+    situation: Ebook
+  B_362:
+    title: Le Hobbit
+    language: fr
+    isbn: 978-2-266-34123-3
+    situation: Cork
+    notes: traduction de Daniel Lauzon
+  B_363:
+    title: Le Seigneur des Anneaux
+    language: fr
+    isbn: 978-2-266-28626-8
+    situation: Cork
+    notes: traduction de Daniel Lauzon
+  B_364:
+    title: Le Silmarillion
+    language: fr
+    isbn: 978-2-266-34124-0
+    situation: Cork
+    notes: traduction de Daniel Lauzon
+  B_365:
+    title: The Spear Cuts Through Water
+    language: en
+    isbn: 978-1-83786-187-3
+    situation: Cork
+  B_366:
+    title: An Hobad
+    language: ga
+    isbn: 978-1-78201-033-3
+    situation: Cork
+  B_367:
+    title: Written in the Stars
+    language: en
+    isbn: 978-0-06-300081-0
+    situation: Ebook
+  B_368:
+    title: Hang the Moon
+    language: en
+    isbn: 978-0-06-300085-8
+    situation: Ebook
+  B_369:
+    title: Count your Lucky Stars
+    language: en
+    isbn: 978-0-06-300089-6
+    situation: Ebook
+  B_370:
+    title: The Book of Form and Emptiness
+    language: en
+    isbn: 978-1-83885-527-7
+    situation: Ebook
+  B_371:
+    title: "Furies: Stories of the Wicked, Wild and Untamed"
+    language: en
+    isbn: 978-0-349-01716-7
+    situation: Cork
+  B_372:
+    title: An Prionsa Beag
+    language: ga
+    isbn: 978-1-9160470-0-6
+    situation: Cork
+  B_373:
+    title: The Word for World is Forest
+    language: en
+    isbn: 978-1-3996-0779-7
+    situation: Cork
+  B_374:
+    title: Penance
+    language: en
+    isbn: 978-0-571-37179-2
+    situation: Ebook
 
 authors:
   A_001:
@@ -6069,6 +6247,52 @@ authors:
     name: Sorj Chalandon
   A_255:
     name: Vesta Sarkhosh Curtis
+  A_256:
+    name: Joanna Quinn
+  A_257:
+    name: Marc Lévy
+    sorting_name: levy
+  A_258:
+    name: Mark Cheverton
+  A_259:
+    name: Simon Jimenez
+  A_260:
+    name: Alexandria Bellefleur
+  A_261:
+    name: Ruth Ozeki
+  A_262:
+    name: Susie Boyt
+  A_263:
+    name: Eleanor Crewes
+  A_264:
+    name: Emma Donoghue
+  A_265:
+    name: Stella Duffy
+  A_266:
+    name: Linda Grant
+  A_267:
+    name: Annie Hodson
+  A_268:
+    name: Claire Kohda
+  A_269:
+    name: CN Lester
+  A_270:
+    name: Kirsty Logan
+  A_271:
+    name: Caroline O'Donoghue
+    sorting_name: odonoghue
+  A_272:
+    name: Chibundu Onuzo
+  A_273:
+    name: Helen Oyeyemi
+  A_274:
+    name: Rachel Seiffert
+  A_275:
+    name: Kamila Shamsie
+  A_276:
+    name: Ali Smith
+  A_277:
+    name: Eliza Clarke
 
 series:
   S_001:
