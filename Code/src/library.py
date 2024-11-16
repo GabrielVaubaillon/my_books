@@ -292,8 +292,8 @@ class Library:
                 if self.books[book_id].situation:
                     author.books_owned += 1
 
-        self.situations: set[str] = set()
-        self.owned_languages = set()
+        situations: dict[str, int] = {}
+        owned_languages: dict[str, int] = {}
         for book in self.books.values():
             book.update_read_status()
             if (
@@ -301,8 +301,23 @@ class Library:
                 and (not book.situation.startswith("Prêté"))
                 and ("/" not in book.situation)
             ):
-                self.situations.add(book.situation)
-            self.owned_languages.add(book.language)
+                if book.situation not in situations:
+                    situations[book.situation] = 1
+                else:
+                    situations[book.situation] += 1
+            if book.language not in owned_languages:
+                owned_languages[book.language] = 1
+            else:
+                owned_languages[book.language] += 1
+
+        # We sort situations by the number of books in the situation
+        self.situations: list[str] = list(
+            dict(sorted(situations.items(), key=lambda item: item[1], reverse=True)).keys()
+        )
+        # We sort owned languages by number of books owned in the language
+        self.owned_languages: list[str] = list(
+            dict(sorted(owned_languages.items(), key=lambda item: item[1], reverse=True)).keys()
+        )
 
     def __str__(self) -> str:
         str_list = []

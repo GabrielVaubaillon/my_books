@@ -1,20 +1,26 @@
 #!/bin/python
 import argparse
 from pathlib import Path
+import re
 
 import library as lib
 
 
 def _parse_cli_args():
+    # TODO: add descriptions
     parser = argparse.ArgumentParser()
     parser.add_argument("input_filename", type=Path)
     parser.add_argument("output_dir", type=Path)
-    # parser.add_argument("stats_file", type=str)
+    parser.add_argument("output_stat_file", type=Path)
     return parser.parse_args()
 
 
-def percent(subset, original_set):
-    return f"{len(subset)} ({round(len(subset)/len(original_set)*100, 2)}%)"
+def percent(number: int, total: int):
+    if number == 0:
+        return "0"
+    if number == total:
+        return f"{number} (100%)"
+    return f"{number} ({round(number/total*100, 2)}%)"
 
 
 def create_collections(library: lib.Library) -> dict[str, set[str]]:
@@ -48,33 +54,43 @@ def create_collections(library: lib.Library) -> dict[str, set[str]]:
     }
     # languages
     for language in library.owned_languages:
-        collections[f"owned_{language}_b"] = {
-            id for id, book in library.books.items() if book.language == language and book.situation
-        }
+        collections[f"owned_{language}_b"] = set()
+        collections[f"owned_{language}_w"] = set()
+        for id, book in library.books.items():
+            if book.language == language and book.situation:
+                collections[f"owned_{language}_b"].add(id)
+                for w_id in book.works:
+                    collections[f"owned_{language}_w"].add(w_id)
 
     # situations
     for situation in library.situations:
-        situation_l = situation.lower()
-        collections[f"owned_{situation_l}_b"] = {
-            id for id, book in library.books.items() if book.situation.startswith(situation)
-        }
-        collections[f"read_owned_{situation_l}_b"] = {
-            id
-            for id, book in library.books.items()
-            if book.situation.startswith(situation) and book.partial_read
-        }
-        collections[f"unread_owned_{situation_l}_b"] = {
-            id
-            for id, book in library.books.items()
-            if book.situation.startswith(situation) and (not book.fully_read)
-        }
+        sit = situation.lower()
+        collections[f"owned_{sit}_b"] = set()
+        collections[f"owned_{sit}_w"] = set()
+        collections[f"read_owned_{sit}_b"] = set()
+        collections[f"read_owned_{sit}_w"] = set()
+        collections[f"unread_owned_{sit}_b"] = set()
+        collections[f"unread_owned_{sit}_w"] = set()
         for language in library.owned_languages:
-            collections[f"owned_{language}_{situation_l}_b"] = {
-                id
-                for id, book in library.books.items()
-                if book.situation.startswith(situation) and book.language == language
-            }
+            collections[f"owned_{language}_{sit}_b"] = set()
+            collections[f"owned_{language}_{sit}_w"] = set()
 
+        for id, book in library.books.items():
+            if book.situation.startswith(situation):
+                collections[f"owned_{sit}_b"].add(id)
+                if book.partial_read:
+                    collections[f"read_owned_{sit}_b"].add(id)
+                if not book.fully_read:
+                    collections[f"unread_owned_{sit}_b"].add(id)
+
+                collections[f"owned_{book.language}_{sit}_b"].add(id)
+                for w_id in book.works:
+                    collections[f"owned_{book.language}_{sit}_w"].add(w_id)
+                    collections[f"owned_{sit}_w"].add(w_id)
+                    if book.partial_read:
+                        collections[f"read_owned_{sit}_w"].add(w_id)
+                    if not book.fully_read:
+                        collections[f"unread_owned_{sit}_w"].add(w_id)
     return collections
 
 
@@ -88,12 +104,9 @@ def setup_output_dir(output_dir: Path):
 
 def dump_collections(library: lib.Library, collections: dict[str, set[str]], output_dir: Path):
     setup_output_dir(output_dir)
-    # IDEA: put header with format for README line !, then the README just read that?
 
-    # TODO: sort collections
     for name, ids in collections.items():
         file_content: str
-        # TODO
         if name.endswith("_w"):
             file_content = library.works_html_table(works_ids=ids)
         elif name.endswith("_b"):
@@ -107,6 +120,8 @@ def dump_collections(library: lib.Library, collections: dict[str, set[str]], out
         elif name == "owned_w_a":
             file_content = library.authors_html_table(authors_ids=ids, sorting="owned_w")
         else:
+            # TODO: better handling (but dev side so not high priority)
+            print("ERROR, collection not recognized:", name)
             file_content = ""
 
         if file_content:
@@ -115,15 +130,132 @@ def dump_collections(library: lib.Library, collections: dict[str, set[str]], out
                 file.write(file_content)
 
 
-def main(input_file: Path, output_dir: Path) -> None:
+def write_stat_file(
+    collections: dict[str, set[str]],
+    collections_files_dir: Path,
+    output_file: Path,
+    lang: dict[str, lib.Language],
+    owned_languages: list[str],
+    situations: list[str],
+):
+    assert collections_files_dir.is_dir()
+    stats: dict[str, int] = {name: len(collection) for name, collection in collections.items()}
+    # TODO: get relative path from stat file to collections
+    root_dir: Path = output_file.parent
+    collections_relative_path: Path = collections_files_dir.relative_to(root_dir)
 
-    with open(input_file, "r", encoding="utf-8") as file:
+    owned_w: int = stats["owned_w"]
+    owned_b: int = stats["owned_b"]
+
+    lines: list[str] = [
+        "# Mes livres - Lus et possédés",
+        "",
+        (
+            "- Toutes les oeuvres, lues et/ou possédées: "
+            f"[{stats["all_w"]}]({collections_relative_path}/all_w.md)"
+        ),
+        f"- Tous les livres: [{stats["all_b"]}]({collections_relative_path}/all_b.md)",
+        f"- Oeuvres lues: [{stats["read_w"]}]({collections_relative_path}/read_w.md)",
+        (
+            "- Livres à lire: "
+            f"[{stats["unread_owned_b"]}]({collections_relative_path}/unread_owned_b.md)"
+        ),
+        (
+            f"- Livres numériques: "
+            f"[{stats["owned_ebook_b"]}]({collections_relative_path}/owned_ebook_b.md)"
+        ),
+        "",
+        "## Ma bibliothèque:",
+        "",
+        f"- [{owned_b}]({collections_relative_path}/owned_b.md) livres,",
+        f"- [{percent(owned_w, stats["all_w"])}]({collections_relative_path}/owned_w.md) oeuvres.",
+        (
+            f"- Oeuvres lues: "
+            f"[{percent(stats["read_owned_w"], owned_w)}]"
+            f"({collections_relative_path}/read_owned_w.md)"
+            " (reparties en "
+            f"[{percent(stats["read_owned_b"], owned_b)}]"
+            f"({collections_relative_path}/read_owned_b.md) livres)."
+        ),
+        (
+            "- Oeuvres non lues : "
+            f"[{percent(stats["unread_owned_w"], owned_w)}]"
+            f"({collections_relative_path}/unread_owned_w.md)"
+            " (reparties en "
+            f"[{percent(stats["unread_owned_b"], owned_b)}]"
+            f"({collections_relative_path}/unread_owned_b.md) livres)."
+        ),
+    ]
+    for language in owned_languages:
+        lines.append(
+            f"- Livres en {lang[language].names["fr"]}"
+            " : "
+            f"[{percent(stats[f'owned_{language}_b'], owned_b)}]"
+            f"({collections_relative_path}/owned_{language}_b.md)"
+            " (contenant "
+            f"[{percent(stats[f"owned_{language}_w"], owned_w)}]"
+            f"({collections_relative_path}/owned_{language}_w.md) oeuvres)."
+        )
+
+    for situation in situations:
+        sit: str = situation.lower()
+        owned_s_b: int = stats[f"owned_{sit}_b"]
+        owned_s_w: int = stats[f"owned_{sit}_w"]
+        lines += [
+            f"- {situation}:",
+            (
+                "    - "
+                f"[{percent(stats[f"owned_{sit}_b"], owned_b)}]"
+                f"({collections_relative_path}/owned_{sit}_b.md) livres,"
+            ),
+            (
+                "    - "
+                f"[{percent(stats[f"owned_{sit}_w"], owned_w)}]"
+                f"({collections_relative_path}/owned_{sit}_w.md) oeuvres."
+            ),
+            (
+                f"    - Oeuvres lues: "
+                f"[{percent(stats[f"read_owned_{sit}_w"], owned_s_w)}]"
+                f"({collections_relative_path}/read_owned_{sit}_w.md)"
+                " (reparties en "
+                f"[{percent(stats[f"read_owned_{sit}_b"], owned_s_b)}]"
+                f"({collections_relative_path}/read_owned_{sit}_b.md) livres)."
+            ),
+            (
+                "    - Oeuvres non lues : "
+                f"[{percent(stats[f"unread_owned_{sit}_w"], owned_s_w)}]"
+                f"({collections_relative_path}/unread_owned_{sit}_w.md)"
+                " (reparties en "
+                f"[{percent(stats[f"unread_owned_{sit}_b"], owned_s_b)}]"
+                f"({collections_relative_path}/unread_owned_{sit}_b.md) livres)."
+            ),
+        ]
+        for language in owned_languages:
+            lines.append(
+                f"    - Livres en {lang[language].names["fr"]}"
+                " : "
+                f"[{percent(stats[f'owned_{language}_{sit}_b'], owned_s_b)}]"
+                f"({collections_relative_path}/owned_{language}_{sit}_b.md)"
+                " (contenant "
+                f"[{percent(stats[f"owned_{language}_{sit}_w"], owned_s_w)}]"
+                f"({collections_relative_path}/owned_{language}_{sit}_w.md) oeuvres)."
+            )
+
+    file_content: str = "\n".join(lines)
+    # Remove links to inexitent files (when 0 elements in it)
+    file_content = re.sub(r"\[0]\(.*?\.md\)", "0", file_content)
+
+    root_dir.mkdir(parents=True, exist_ok=True)
+    with open(output_file, mode="w", encoding="utf-8") as file:
+        file.write(file_content)
+
+
+def main(input_file: Path, output_dir: Path, output_stats_file: Path) -> None:
+
+    with open(input_file, mode="r", encoding="utf-8") as file:
         library_yaml = file.read()
 
     library = lib.load(library_yaml)
-
-    # print(library)
-    # print()
 
     collections = create_collections(library)
 
@@ -134,6 +266,14 @@ def main(input_file: Path, output_dir: Path) -> None:
     dump_collections(library, collections, output_dir)
 
     # Write Readme
+    write_stat_file(
+        collections=collections,
+        collections_files_dir=output_dir,
+        output_file=output_stats_file,
+        lang=library.languages,
+        owned_languages=library.owned_languages,
+        situations=library.situations
+    )
 
 
 if __name__ == "__main__":
@@ -141,4 +281,5 @@ if __name__ == "__main__":
     main(
         input_file=cli_args.input_filename,
         output_dir=cli_args.output_dir,
+        output_stats_file=cli_args.output_stat_file,
     )
