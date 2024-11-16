@@ -165,7 +165,7 @@ def write_stat_file(
             f"[{stats["owned_ebook_b"]}]({collections_relative_path}/owned_ebook_b.md)"
         ),
         "",
-        "## Ma bibliothèque:",
+        "## Ma bibliothèque",
         "",
         f"- [{owned_b}]({collections_relative_path}/owned_b.md) livres,",
         f"- [{percent(owned_w, stats["all_w"])}]({collections_relative_path}/owned_w.md) oeuvres.",
@@ -202,7 +202,7 @@ def write_stat_file(
         f"[nombre d'oeuvres]({collections_relative_path}/owned_w_a.md)"
         " ou par "
         f"[nombre de livres]({collections_relative_path}/owned_b_a.md)"
-        " possédés"
+        " possédés."
     )
 
     for situation in situations:
@@ -277,8 +277,8 @@ def write_stat_file(
         "",
         "## Autres",
         "",
-        f"Toutes les oeuvres: [{stats["all_w"]}]({collections_relative_path}/all_w.md",
-        f"Tous les auteur·rice·s: [{stats["all_a"]}]({collections_relative_path}/all_a.md",
+        f"- Toutes les oeuvres: [{stats["all_w"]}]({collections_relative_path}/all_w.md)",
+        f"- Tous les auteur·rice·s: [{stats["all_a"]}]({collections_relative_path}/all_a.md)",
     ]
 
     file_content: str = "\n".join(lines)
