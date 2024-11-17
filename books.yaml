@@ -1,18 +1,4 @@
 # TODO: use a real database, stupid
-# Can add:
-#   - dates and language for reading
-#   - subseries
-#   - partial reading for collections
-#   - lended books for situation
-#   - genre (jeunesse/non-fiction/contes/nouvelles, ...) maybe with tags
-#   - impact: ready to sell/give them or bring the book to the end of the world
-#   - translator
-#   - dates and nationality of authors
-#   - first publication date
-#   - theatre
-#   - movies
-#   - tv series
-#   - link wikipedia if exist
 # TEST VALID:
 #   - strict yaml valid: no duplicate keys, no important key missing (schema)
 #   - check no duplicate in authors
@@ -32,6 +18,10 @@ languages:
     en: Irish
     fr: Irlandais
     ga: Gaeilge
+  it:
+    en: Italian
+    fr: Italien
+    it: Italiano
   da:
     en: Danish
     fr: Danois
@@ -60,10 +50,6 @@ languages:
     en: Portuguese
     fr: Portugais
     pt: Português
-  it:
-    en: Italian
-    fr: Italien
-    it: Italiano
   nl:
     en: Dutch
     fr: Néerlandais
