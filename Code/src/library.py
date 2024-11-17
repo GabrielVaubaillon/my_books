@@ -144,8 +144,9 @@ class Author:
             last_name = re.search(r"\w+$", name)
             if not last_name:
                 raise RuntimeError(f"No last name found for {key}, name is {name}")
-            sorting_name = last_name.group(0).lower()
-        self.sorting_name: str = sorting_name
+            sorting_name = last_name.group(0)
+        self.sorting_name: str = sorting_name.lower()
+        print(self.name, self.sorting_name)
         self.notes: str = notes if notes is not None else ""
 
         # Others attributes, created from Library
@@ -351,8 +352,7 @@ class Library:
 
         return "\n".join(str_list)
 
-    # TODO: rename with ids
-    def sort_books_id(self, ids: set[str]) -> list[str]:
+    def sort_books_ids(self, ids: set[str]) -> list[str]:
         books_ids: list[str] = list(ids)
 
         def sorting_key(book_id: str) -> tuple[str, ...]:
@@ -390,7 +390,7 @@ class Library:
             "  <tbody>",
             "",
         ]
-        sorted_books_ids: list[str] = self.sort_books_id(books_ids)
+        sorted_books_ids: list[str] = self.sort_books_ids(books_ids)
         body: list[str] = [self.book_html_row(book_id) for book_id in sorted_books_ids]
         footer: list[str] = [
             "",
@@ -461,7 +461,7 @@ class Library:
 
         return "<tr>\n" + "\n".join(row) + "\n</tr>"
 
-    def sort_works_id(self, ids: set[str]) -> list[str]:
+    def sort_works_ids(self, ids: set[str]) -> list[str]:
         works_ids: list[str] = list(ids)
 
         def sorting_key(work_id: str) -> tuple[str, ...]:
@@ -499,7 +499,7 @@ class Library:
             "  <tbody>",
             "",
         ]
-        sorted_works_ids: list[str] = self.sort_works_id(works_ids)
+        sorted_works_ids: list[str] = self.sort_works_ids(works_ids)
         body: list[str] = [self.work_html_row(work_id) for work_id in sorted_works_ids]
         footer: list[str] = [
             "",

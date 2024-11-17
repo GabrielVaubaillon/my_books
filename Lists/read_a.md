@@ -51,12 +51,6 @@
       <td>0</td>
     </tr>
     <tr>
-      <td>Ursula K. Le Guin</td>
-      <td>6</td>
-      <td>7</td>
-      <td>2</td>
-    </tr>
-    <tr>
       <td>Paul-Jacques Bonzon</td>
       <td>6</td>
       <td>6</td>
@@ -67,6 +61,12 @@
       <td>6</td>
       <td>6</td>
       <td>6</td>
+    </tr>
+    <tr>
+      <td>Ursula K. Le Guin</td>
+      <td>6</td>
+      <td>7</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>J.R.R. Tolkien</td>
@@ -147,18 +147,6 @@
       <td>3</td>
     </tr>
     <tr>
-      <td>Benoît de Saint Chamas</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Emanuelle de Saint Chamas</td>
-      <td>3</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
       <td>Alexandria Bellefleur</td>
       <td>3</td>
       <td>3</td>
@@ -207,6 +195,18 @@
       <td>3</td>
     </tr>
     <tr>
+      <td>Benoît de Saint Chamas</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Emanuelle de Saint Chamas</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
       <td>Dennis E. Taylor</td>
       <td>3</td>
       <td>0</td>
@@ -215,24 +215,6 @@
     <tr>
       <td>Jules Verne</td>
       <td>3</td>
-      <td>2</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Prosper Mérimée</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Jacques Prévert</td>
-      <td>2</td>
-      <td>2</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>J.H. Rosny Aîné</td>
-      <td>2</td>
       <td>2</td>
       <td>2</td>
     </tr>
@@ -309,6 +291,12 @@
       <td>2</td>
     </tr>
     <tr>
+      <td>Prosper Mérimée</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
       <td>George Orwell</td>
       <td>2</td>
       <td>2</td>
@@ -316,6 +304,18 @@
     </tr>
     <tr>
       <td>Terry Pratchett</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Jacques Prévert</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>J.H. Rosny Aîné</td>
       <td>2</td>
       <td>2</td>
       <td>2</td>
@@ -363,96 +363,6 @@
       <td>2</td>
     </tr>
     <tr>
-      <td>Miranda Jane Aldhouse-Green</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Jean-Philippe Arrou-Vignod</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Robert Arthur, Jr</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Anne-Marie Cadot-Colin</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Joan Davenport Carris</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Jean-Luc Déjean</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Amal El-Mothar</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Catharina Ingelman-Sundberg</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Vladimir Jankélévitch</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Pierre Mac Orlan</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Robert C. O'Brien</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>G. Perron Louis</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Romain Puértolas</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Antoine de Saint-Exupéry</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Emily Saint John-Mandel</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
       <td>Douglas Adams</td>
       <td>1</td>
       <td>1</td>
@@ -460,6 +370,12 @@
     </tr>
     <tr>
       <td>Dolly Alderton</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Miranda Jane Aldhouse-Green</td>
       <td>1</td>
       <td>1</td>
       <td>1</td>
@@ -478,6 +394,18 @@
     </tr>
     <tr>
       <td>Louis Aragon</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Jean-Philippe Arrou-Vignod</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Robert Arthur, Jr</td>
       <td>1</td>
       <td>1</td>
       <td>1</td>
@@ -559,6 +487,12 @@
       <td>1</td>
       <td>1</td>
       <td>1</td>
+    </tr>
+    <tr>
+      <td>Anne-Marie Cadot-Colin</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Philippe Caron</td>
@@ -645,6 +579,18 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Joan Davenport Carris</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Jean-Luc Déjean</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Philip K. Dick</td>
       <td>1</td>
       <td>1</td>
@@ -673,6 +619,12 @@
       <td>1</td>
       <td>1</td>
       <td>1</td>
+    </tr>
+    <tr>
+      <td>Amal El-Mothar</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Michael Ende</td>
@@ -825,10 +777,22 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Catharina Ingelman-Sundberg</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Hajime Isayama</td>
       <td>1</td>
       <td>0</td>
       <td>0</td>
+    </tr>
+    <tr>
+      <td>Vladimir Jankélévitch</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Diana Wynne Jones</td>
@@ -933,6 +897,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Pierre Mac Orlan</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Herman Melville</td>
       <td>1</td>
       <td>0</td>
@@ -985,6 +955,12 @@
       <td>1</td>
       <td>0</td>
       <td>0</td>
+    </tr>
+    <tr>
+      <td>Robert C. O'Brien</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Laura Orvieto</td>
@@ -1041,6 +1017,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>G. Perron Louis</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Benoît Philippon</td>
       <td>1</td>
       <td>1</td>
@@ -1057,6 +1039,12 @@
       <td>1</td>
       <td>1</td>
       <td>1</td>
+    </tr>
+    <tr>
+      <td>Romain Puértolas</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Raymond Queneau</td>
@@ -1090,6 +1078,18 @@
     </tr>
     <tr>
       <td>Françoise Sagan</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Antoine de Saint-Exupéry</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Emily Saint John-Mandel</td>
       <td>1</td>
       <td>1</td>
       <td>1</td>

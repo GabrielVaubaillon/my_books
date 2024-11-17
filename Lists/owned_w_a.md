@@ -177,28 +177,16 @@
       <td>3</td>
     </tr>
     <tr>
-      <td>Marcel Aymé</td>
-      <td>3</td>
-      <td>2</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Jacques Prévert</td>
-      <td>2</td>
-      <td>2</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>J.H. Rosny Aîné</td>
-      <td>2</td>
-      <td>2</td>
-      <td>2</td>
-    </tr>
-    <tr>
       <td>Margaret Atwood</td>
       <td>1</td>
       <td>2</td>
       <td>2</td>
+    </tr>
+    <tr>
+      <td>Marcel Aymé</td>
+      <td>3</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Laure Bazire</td>
@@ -279,6 +267,18 @@
       <td>2</td>
     </tr>
     <tr>
+      <td>Jacques Prévert</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>J.H. Rosny Aîné</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
       <td>John Steinbeck</td>
       <td>2</td>
       <td>2</td>
@@ -321,108 +321,6 @@
       <td>2</td>
     </tr>
     <tr>
-      <td>Miranda Jane Aldhouse-Green</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Jean-Philippe Arrou-Vignod</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Robert Arthur, Jr</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Miguel de Cervantes Saavedra</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Joan Davenport Carris</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Jean-Luc Déjean</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Amal El-Mothar</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Catharina Ingelman-Sundberg</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Vladimir Jankélévitch</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Eugène Le Roy</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Pierre Mac Orlan</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Gabriel García Márquez</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Robert C. O'Brien</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>G. Perron Louis</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Prévost</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Antoine de Saint-Exupéry</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Emily Saint John-Mandel</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
       <td>Douglas Adams</td>
       <td>1</td>
       <td>1</td>
@@ -430,6 +328,12 @@
     </tr>
     <tr>
       <td>Dolly Alderton</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Miranda Jane Aldhouse-Green</td>
       <td>1</td>
       <td>1</td>
       <td>1</td>
@@ -454,6 +358,18 @@
     </tr>
     <tr>
       <td>Louis Aragon</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Jean-Philippe Arrou-Vignod</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Robert Arthur, Jr</td>
       <td>1</td>
       <td>1</td>
       <td>1</td>
@@ -591,6 +507,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Miguel de Cervantes Saavedra</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Sorj Chalandon</td>
       <td>0</td>
       <td>1</td>
@@ -699,6 +621,18 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Joan Davenport Carris</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Jean-Luc Déjean</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Philip K. Dick</td>
       <td>1</td>
       <td>1</td>
@@ -739,6 +673,12 @@
       <td>1</td>
       <td>1</td>
       <td>1</td>
+    </tr>
+    <tr>
+      <td>Amal El-Mothar</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Michael Ende</td>
@@ -933,6 +873,18 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Catharina Ingelman-Sundberg</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Vladimir Jankélévitch</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Simon Jimenez</td>
       <td>0</td>
       <td>1</td>
@@ -1035,6 +987,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Eugène Le Roy</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Jérôme Leroy</td>
       <td>0</td>
       <td>1</td>
@@ -1067,6 +1025,18 @@
     <tr>
       <td>Sarah J. Maas</td>
       <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Pierre Mac Orlan</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Gabriel García Márquez</td>
+      <td>0</td>
       <td>1</td>
       <td>1</td>
     </tr>
@@ -1121,6 +1091,12 @@
     <tr>
       <td>Farley Mowat</td>
       <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Robert C. O'Brien</td>
+      <td>1</td>
       <td>1</td>
       <td>1</td>
     </tr>
@@ -1191,6 +1167,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>G. Perron Louis</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Benoît Philippon</td>
       <td>1</td>
       <td>1</td>
@@ -1211,6 +1193,12 @@
     <tr>
       <td>Jean Portail</td>
       <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Prévost</td>
+      <td>0</td>
       <td>1</td>
       <td>1</td>
     </tr>
@@ -1240,6 +1228,18 @@
     </tr>
     <tr>
       <td>Françoise Sagan</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Antoine de Saint-Exupéry</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Emily Saint John-Mandel</td>
       <td>1</td>
       <td>1</td>
       <td>1</td>
