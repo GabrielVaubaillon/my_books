@@ -167,7 +167,7 @@ def html_table_books(b_ids, lib):
                 if not authors:
                     authors = lib["works"][w_id]["authors"]
                 if lib["works"][w_id]["authors"] != authors:
-                    on_author = False
+                    one_author = False
                     break
             # all read or all not_read
             one_read_status = True

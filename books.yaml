@@ -3414,6 +3414,7 @@ works:
   W_436:
     titles:
       en: Exhalation
+      fr: Expiration
     language: en
     read: yes
     books: B_326
@@ -3803,6 +3804,13 @@ works:
     read: no
     books: B_374
     authors: A_277
+  W_488:
+    titles:
+      fr: Long Story Short
+    language: fr
+    read: yes
+    books:
+    authors: A_278
 
 books:
   B_001:
@@ -6292,6 +6300,8 @@ authors:
     name: Ali Smith
   A_277:
     name: Eliza Clarke
+  A_278:
+    name: Lucile Jones
 
 series:
   S_001:

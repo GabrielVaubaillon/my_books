@@ -345,7 +345,7 @@
 			<td>Non Possédé</td>
 		</tr>
 		<tr>
-			<td>Exhalation</td>
+			<td>Expiration</td>
 			<td>Ted Chiang</td>
 			<td>Lu</td>
 			<td>Possédé</td>
@@ -967,6 +967,12 @@
 			<td>Diana Wynne Jones</td>
 			<td>Lu</td>
 			<td>Possédé</td>
+		</tr>
+		<tr>
+			<td>Long Story Short</td>
+			<td>Lucile Jones</td>
+			<td>Lu</td>
+			<td>Non Possédé</td>
 		</tr>
 		<tr>
 			<td>Des fleurs pour Algernon</td>

@@ -668,6 +668,11 @@
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>Lucile Jones</td>
+			<td>1</td>
+			<td>0</td>
+		</tr>
+		<tr>
 			<td>Diana Wynne Jones</td>
 			<td>1</td>
 			<td>1</td>

@@ -420,7 +420,7 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
-			<td colspan=2>Exhalation</td>
+			<td colspan=2>Exhalation (fr: Expiration)</td>
 			<td>Ted Chiang</td>
 			<td>en</td>
 			<td>Lu</td>
