@@ -189,6 +189,12 @@
       <td>Non possédé</td>
     </tr>
     <tr>
+      <td>Long Story Short</td>
+      <td>Lucile Jones</td>
+      <td>Lu</td>
+      <td>Non possédé</td>
+    </tr>
+    <tr>
       <td>Diabolic</td>
       <td>S.J. Kincaid</td>
       <td>Lu</td>

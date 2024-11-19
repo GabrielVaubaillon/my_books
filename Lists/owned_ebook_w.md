@@ -9,6 +9,12 @@
   </thead>
   <tbody>
     <tr>
+      <td>When in Rome</td>
+      <td>Sarah Adams</td>
+      <td>Lu</td>
+      <td>Possédé</td>
+    </tr>
+    <tr>
       <td>Tout ce que je sais sur l'amour</td>
       <td>Dolly Alderton</td>
       <td>Lu</td>

@@ -3,6 +3,8 @@
 ## TODOs
 
 ### Dev side
+- check VO title present
+- check book language title present
 - docstrings
 - tests
 - use

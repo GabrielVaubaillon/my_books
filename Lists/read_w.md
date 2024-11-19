@@ -15,6 +15,12 @@
       <td>Possédé</td>
     </tr>
     <tr>
+      <td>When in Rome</td>
+      <td>Sarah Adams</td>
+      <td>Lu</td>
+      <td>Possédé</td>
+    </tr>
+    <tr>
       <td>Tout ce que je sais sur l'amour</td>
       <td>Dolly Alderton</td>
       <td>Lu</td>
@@ -967,6 +973,12 @@
       <td>Diana Wynne Jones</td>
       <td>Lu</td>
       <td>Possédé</td>
+    </tr>
+    <tr>
+      <td>Long Story Short</td>
+      <td>Lucile Jones</td>
+      <td>Lu</td>
+      <td>Non possédé</td>
     </tr>
     <tr>
       <td>Des fleurs pour Algernon</td>
