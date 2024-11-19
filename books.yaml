@@ -3818,6 +3818,13 @@ works:
     read: yes
     books: B_375
     authors: A_279
+  W_490:
+    titles:
+      en: Practice Makes Perfect
+    language: en
+    read: no
+    books: B_376
+    authors: A_279
 
 books:
   B_001:
@@ -5724,6 +5731,11 @@ books:
     title: When in Rome
     language: en
     isbn: 978-1-4722-9706-8
+    situation: Ebook
+  B_376:
+    title: Practice Makes Perfect
+    language: en
+    isbn: 9780593500811
     situation: Ebook
 
 authors:
