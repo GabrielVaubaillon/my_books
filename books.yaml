@@ -3811,6 +3811,13 @@ works:
     read: yes
     books:
     authors: A_278
+  W_489:
+    titles:
+      en: When in Rome
+    language: en
+    read: yes
+    books: B_375
+    authors: A_279
 
 books:
   B_001:
@@ -5713,6 +5720,11 @@ books:
     language: en
     isbn: 978-0-571-37179-2
     situation: Ebook
+  B_375:
+    title: When in Rome
+    language: en
+    isbn: 978-1-4722-9706-8
+    situation: Ebook
 
 authors:
   A_001:
@@ -6302,6 +6314,8 @@ authors:
     name: Eliza Clarke
   A_278:
     name: Lucile Jones
+  A_279:
+    name: Sarah Adams
 
 series:
   S_001:

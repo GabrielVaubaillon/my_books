@@ -10,6 +10,13 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td colspan=2>When in Rome</td>
+			<td>Sarah Adams</td>
+			<td>en</td>
+			<td>Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Everything I know about love (fr: Tout ce que je sais sur l'amour)</td>
 			<td>Dolly Alderton</td>
 			<td>en</td>
