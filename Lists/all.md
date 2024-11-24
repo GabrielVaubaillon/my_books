@@ -17,7 +17,7 @@
 		<tr>
 			<td>Practice Makes Perfect</td>
 			<td>Sarah Adams</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Possédé</td>
 		</tr>
 		<tr>

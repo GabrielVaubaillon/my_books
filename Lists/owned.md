@@ -20,7 +20,7 @@
 			<td colspan=2>Practice Makes Perfect</td>
 			<td>Sarah Adams</td>
 			<td>en</td>
-			<td>Pas Lu</td>
+			<td>Lu</td>
 			<td>Ebook</td>
 		</tr>
 		<tr>

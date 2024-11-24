@@ -3822,7 +3822,7 @@ works:
     titles:
       en: Practice Makes Perfect
     language: en
-    read: no
+    read: yes
     books: B_376
     authors: A_279
 
