@@ -177,6 +177,12 @@
       <td>3</td>
     </tr>
     <tr>
+      <td>Sarah Adams</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
       <td>Margaret Atwood</td>
       <td>1</td>
       <td>2</td>
@@ -322,12 +328,6 @@
     </tr>
     <tr>
       <td>Douglas Adams</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Sarah Adams</td>
       <td>1</td>
       <td>1</td>
       <td>1</td>
