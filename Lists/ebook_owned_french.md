@@ -58,6 +58,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Les Derniers Retrouveurs</td>
+			<td>Victor Dixen</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Joseph Balsamo</td>
 			<td>Alexandre Dumas</td>
 			<td>fr</td>

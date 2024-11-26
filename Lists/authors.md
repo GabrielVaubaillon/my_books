@@ -408,6 +408,11 @@
 			<td>5</td>
 		</tr>
 		<tr>
+			<td>Victor Dixen</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>Emma Donoghue</td>
 			<td>0</td>
 			<td>1</td>

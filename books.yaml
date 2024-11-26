@@ -3825,6 +3825,13 @@ works:
     read: yes
     books: B_376
     authors: A_279
+  W_491:
+    titles:
+      fr: Les Derniers Retrouveurs
+    language: fr
+    read: no
+    books: B_377
+    authors: A_280
 
 books:
   B_001:
@@ -5737,6 +5744,11 @@ books:
     language: en
     isbn: 9780593500811
     situation: Ebook
+  B_377:
+    title: Les Derniers Retrouveurs
+    language: fr
+    isbn: 979-1-0363-7817-1
+    situation: Ebook
 
 authors:
   A_001:
@@ -6328,6 +6340,8 @@ authors:
     name: Lucile Jones
   A_279:
     name: Sarah Adams
+  A_280:
+    name: Victor Dixen
 
 series:
   S_001:

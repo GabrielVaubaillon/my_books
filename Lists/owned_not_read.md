@@ -188,6 +188,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Les Derniers Retrouveurs</td>
+			<td>Victor Dixen</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>La ceinture empoisonnée (en-vo: The Poison Belt)</td>
 			<td>Arthur Conan Doyle</td>
 			<td>fr</td>

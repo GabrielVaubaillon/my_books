@@ -31,6 +31,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Les Derniers Retrouveurs</td>
+			<td>Victor Dixen</td>
+			<td>fr</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td rowspan=23>Integrale Arsène Lupin</td>
 			<td>Arsène Lupin, Gentleman-Cambrioleur</td>
 			<td rowspan=23>Maurice Leblanc</td>

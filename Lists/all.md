@@ -705,6 +705,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Les Derniers Retrouveurs</td>
+			<td>Victor Dixen</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>La Vallée de la peur</td>
 			<td>Arthur Conan Doyle</td>
 			<td>Lu</td>
