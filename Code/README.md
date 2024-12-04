@@ -5,6 +5,8 @@
 ### Dev side
 - check VO title present
 - check book language title present
+- use language name instead of code for alternative titles
+- less specific language selection for titles
 - docstrings
 - tests
 - use

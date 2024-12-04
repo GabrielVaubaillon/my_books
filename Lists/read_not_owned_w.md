@@ -2,6 +2,7 @@
   <thead>
     <tr>
       <th>Titre</th>
+      <th>Titres alternatifs</th>
       <th>Auteur·rice</th>
       <th>Lu</th>
       <th>Possédé</th>
@@ -9,520 +10,612 @@
   </thead>
   <tbody>
     <tr>
-      <td>La Révélation des Médicus</td>
-      <td>Eli Anderson</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Les Deux Royaumes</td>
-      <td>Eli Anderson</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Secret des Éternels</td>
-      <td>Eli Anderson</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>L'Allié des ténèbres</td>
-      <td>Eli Anderson</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Cérébra, l'ultime voyage</td>
-      <td>Eli Anderson</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Antigone</td>
-      <td>Jean Anouilh</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le passe muraille</td>
-      <td>Marcel Aymé</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le père Goriot</td>
-      <td>Honoré de Balzac</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le grand secret</td>
-      <td>René Barjavel</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Les Fleurs du Mal</td>
-      <td>Charles Baudelaire</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Yvain, le chevalier au lion</td>
-      <td>Anne-Marie Cadot-Colin</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Les Aventures d'Alice au pays des merveilles</td>
-      <td>Lewis Carrol</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>L'Invasion de l'overworld</td>
-      <td>Mark Cheverton</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>La Bataille du Nether</td>
-      <td>Mark Cheverton</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Hunger Games</td>
-      <td>Suzanne Collins</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>L'Embrasement</td>
-      <td>Suzanne Collins</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>La Révolte</td>
-      <td>Suzanne Collins</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Cannibale</td>
-      <td>Didier Daeninckx</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Blade Runner / Les androïdes rêvent-ils de moutons électriques?</td>
-      <td>Philip K. Dick</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>La Tulipe Noire</td>
-      <td>Alexandre Dumas</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>La Vie suspendue</td>
-      <td>Timothée de Fombelle</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Les Yeux d’Elisha</td>
-      <td>Timothée de Fombelle</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>American Gods</td>
-      <td>Neil Gaiman</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Roman de la momie</td>
-      <td>Théophile Gautier</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Meurtre au Sommet</td>
-      <td>José Giovanni</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>L'Ordinatueur</td>
-      <td>Christian Grenier</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Vieil Homme et la Mer</td>
-      <td>Ernest Hemingway</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Les Contemplations</td>
-      <td>Victor Hugo</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Les Misérables</td>
-      <td>Victor Hugo</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>L'Attaque des Titans</td>
-      <td>Hajime Isayama</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Long Story Short</td>
-      <td>Lucile Jones</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Diabolic</td>
-      <td>S.J. Kincaid</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Solaris</td>
-      <td>Stanislaw Lem</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Les Enfants de la liberté</td>
-      <td>Marc Lévy</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Bel-Ami</td>
-      <td>Guy de Maupassant</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Horla</td>
-      <td>Guy de Maupassant</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Bartleby</td>
-      <td>Herman Melville</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>La Vénus d'Ille</td>
-      <td>Prosper Mérimée</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Tamango</td>
-      <td>Prosper Mérimée</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Pagaille à Paris</td>
-      <td>Anthony Morowitz</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Stupeur et Tremblement</td>
-      <td>Amélie Nothomb</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Les légendes de Terre</td>
-      <td>Pierre Pelot</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>L'oeil du Loup</td>
-      <td>Daniel Pennac</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>L'Extraordinaire Voyage du fakir qui était resté coincé dans une armoire Ikea</td>
-      <td>Romain Puértolas</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Poil de Carotte</td>
-      <td>Jules Renard</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Voleur de Foudre</td>
-      <td>Rick Riordan</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>La Mer des Monstres</td>
-      <td>Rick Riordan</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Sort du Titan</td>
-      <td>Rick Riordan</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>La Bataille du Labyrinthe</td>
-      <td>Rick Riordan</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Dernier Olympien</td>
-      <td>Rick Riordan</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le héro perdu</td>
-      <td>Rick Riordan</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Fils de Neptune</td>
-      <td>Rick Riordan</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>La Marque d'Athéna</td>
-      <td>Rick Riordan</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>La Maison d'Hadès</td>
-      <td>Rick Riordan</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Sang de l'Olympe</td>
-      <td>Rick Riordan</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Vulcain</td>
-      <td>Mark Robson</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>À l'école des sorciers</td>
-      <td>J. K. Rowling</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>La chambre des secrets</td>
-      <td>J. K. Rowling</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le prisonnier d'Azkaban</td>
-      <td>J. K. Rowling</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>La Coupe de feu</td>
-      <td>J. K. Rowling</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>L'Ordre du Phénix</td>
-      <td>J. K. Rowling</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Prince de sang-mêlé</td>
-      <td>J. K. Rowling</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Les Reliques de la Mort</td>
-      <td>J. K. Rowling</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Collectionneur</td>
-      <td>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Les Portails d'Outre Temps</td>
-      <td>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>La 37eme Prophétie</td>
-      <td>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Alcatraz contre les infâmes bibliothécaires</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>L'Empire ultime</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Puits de l'ascension</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Héros des siècles</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Frankenstein</td>
-      <td>Mary W. Shelley</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Chien Jaune</td>
-      <td>Georges Simenon</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Dracula</td>
-      <td>Bram Stoker</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Nous sommes legions</td>
-      <td>Dennis E. Taylor</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Nous sommes nombreux</td>
-      <td>Dennis E. Taylor</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Tous ces mondes</td>
-      <td>Dennis E. Taylor</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Inconnu à cette adresse</td>
-      <td>Kressmann Taylor</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Vendredi ou la vie sauvage</td>
-      <td>Michel Tournier</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>L'ami retrouvé</td>
-      <td>Fred Uhlman</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le Silence de la Mer</td>
-      <td>Vercors</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Les tribulations d'un chinois en Chine</td>
-      <td>Jules Verne</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>No et moi</td>
-      <td>Delphine de Vigan</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Zadig</td>
-      <td>Voltaire</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le chevalier au bouclier vert</td>
-      <td>Odile Weulersse</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Le messager d'Athène</td>
-      <td>Odile Weulersse</td>
-      <td>Lu</td>
-      <td>Non possédé</td>
-    </tr>
-    <tr>
-      <td>Roman de Renart</td>
+      <td rowspan=1>La Révélation des Médicus (fr VO)</td>
       <td></td>
-      <td>Lu</td>
-      <td>Non possédé</td>
+      <td rowspan=1>Eli Anderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Deux Royaumes (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Eli Anderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Secret des Éternels (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Eli Anderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'Allié des ténèbres (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Eli Anderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Cérébra, l'ultime voyage (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Eli Anderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Antigone (fr VO)</td>
+      <td>Antigone (en)</td>
+      <td rowspan=1>Jean Anouilh</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le passe muraille (fr VO)</td>
+      <td>The Man Who Walked through Walls (en)</td>
+      <td rowspan=1>Marcel Aymé</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le père Goriot (fr VO)</td>
+      <td>Father Goriot (en)</td>
+      <td rowspan=1>Honoré de Balzac</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le grand secret (fr VO)</td>
+      <td>The Immortals (en)</td>
+      <td rowspan=1>René Barjavel</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Fleurs du Mal (fr VO)</td>
+      <td>The Flowers of Evil (en)</td>
+      <td rowspan=1>Charles Baudelaire</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Yvain, le chevalier au lion (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Anne-Marie Cadot-Colin</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Aventures d'Alice au pays des merveilles (fr)</td>
+      <td>Alice's Adventures in Wonderland (en VO)</td>
+      <td rowspan=1>Lewis Carrol</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'Invasion de l'overworld (fr)</td>
+      <td>Invasion of the Overworld (en VO)</td>
+      <td rowspan=1>Mark Cheverton</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Bataille du Nether (fr)</td>
+      <td>Battle for the Nether (en VO)</td>
+      <td rowspan=1>Mark Cheverton</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Hunger Games (fr)</td>
+      <td>The Hunger Games (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'Embrasement (fr)</td>
+      <td>Catching Fire (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Révolte (fr)</td>
+      <td>Mockingjay (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Cannibale (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Didier Daeninckx</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Blade Runner / Les androïdes rêvent-ils de moutons électriques? (fr)</td>
+      <td>Blade Runner / Do Androids Dream of Electric Sheep? (en VO)</td>
+      <td rowspan=1>Philip K. Dick</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Tulipe Noire (fr VO)</td>
+      <td>The Black Tulip (en)</td>
+      <td rowspan=1>Alexandre Dumas</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Vie suspendue (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Timothée de Fombelle</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Yeux d’Elisha (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Timothée de Fombelle</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>American Gods (fr)</td>
+      <td>American Gods (en VO)</td>
+      <td rowspan=1>Neil Gaiman</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Roman de la momie (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Théophile Gautier</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Meurtre au Sommet (fr VO)</td>
+      <td></td>
+      <td rowspan=1>José Giovanni</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'Ordinatueur (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Christian Grenier</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Vieil Homme et la Mer (fr)</td>
+      <td>The Old Man and the Sea (en VO)</td>
+      <td rowspan=1>Ernest Hemingway</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Contemplations (fr VO)</td>
+      <td>Les Contemplations (en)</td>
+      <td rowspan=1>Victor Hugo</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Misérables (fr VO)</td>
+      <td>Les Misérables (en)</td>
+      <td rowspan=1>Victor Hugo</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=2>L'Attaque des Titans (fr)</td>
+      <td>Attack on Titan (en)</td>
+      <td rowspan=2>Hajime Isayama</td>
+      <td rowspan=2>Lu</td>
+      <td rowspan=2>Non possédé</td>
+      </tr>
+      <tr>
+      <td>進撃の巨人, Shingeki no Kyojin (ja VO)</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Long Story Short (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Lucile Jones</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Diabolic (fr)</td>
+      <td>The Diabolic (en VO)</td>
+      <td rowspan=1>S.J. Kincaid</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=2>Solaris (fr)</td>
+      <td>Solaris (en)</td>
+      <td rowspan=2>Stanislaw Lem</td>
+      <td rowspan=2>Lu</td>
+      <td rowspan=2>Non possédé</td>
+      </tr>
+      <tr>
+      <td>Solaris (pl VO)</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Enfants de la liberté (fr VO)</td>
+      <td>Children of Freedom (en)</td>
+      <td rowspan=1>Marc Lévy</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Bel-Ami (fr VO)</td>
+      <td>Bel-Ami (en)</td>
+      <td rowspan=1>Guy de Maupassant</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Horla (fr VO)</td>
+      <td>The Horla (en)</td>
+      <td rowspan=1>Guy de Maupassant</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Bartleby (fr)</td>
+      <td>Bartleby the Scrivener (en VO)</td>
+      <td rowspan=1>Herman Melville</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Vénus d'Ille (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Prosper Mérimée</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Tamango (fr VO)</td>
+      <td>Tamango (en)</td>
+      <td rowspan=1>Prosper Mérimée</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Pagaille à Paris (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Anthony Morowitz</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Stupeur et Tremblement (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Amélie Nothomb</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les légendes de Terre (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Pierre Pelot</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'oeil du Loup (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Daniel Pennac</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'Extraordinaire Voyage du fakir qui était resté coincé dans une armoire Ikea (fr VO)</td>
+      <td>The Extraordinary Journey of the Fakir Who Got Trapped in an IKEA Wardrobe (en)</td>
+      <td rowspan=1>Romain Puértolas</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Poil de Carotte (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Jules Renard</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Voleur de Foudre (fr)</td>
+      <td>The Lightning Thief (en VO)</td>
+      <td rowspan=1>Rick Riordan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Mer des Monstres (fr)</td>
+      <td>The Sea of Monsters (en VO)</td>
+      <td rowspan=1>Rick Riordan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Sort du Titan (fr)</td>
+      <td>The Titan's Curse (en VO)</td>
+      <td rowspan=1>Rick Riordan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Bataille du Labyrinthe (fr)</td>
+      <td>The Battle of the Labyrinth (en VO)</td>
+      <td rowspan=1>Rick Riordan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Dernier Olympien (fr)</td>
+      <td>The Last Olympian (en VO)</td>
+      <td rowspan=1>Rick Riordan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le héro perdu (fr)</td>
+      <td>The Lost Hero (en VO)</td>
+      <td rowspan=1>Rick Riordan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Fils de Neptune (fr)</td>
+      <td>The Son of Neptune (en VO)</td>
+      <td rowspan=1>Rick Riordan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Marque d'Athéna (fr)</td>
+      <td>The Mark of Athena (en VO)</td>
+      <td rowspan=1>Rick Riordan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Maison d'Hadès (fr)</td>
+      <td>The House of Hades (en VO)</td>
+      <td rowspan=1>Rick Riordan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Sang de l'Olympe (fr)</td>
+      <td>The Blood of Olympus (en VO)</td>
+      <td rowspan=1>Rick Riordan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Vulcain (fr)</td>
+      <td>Firestorm (en VO)</td>
+      <td rowspan=1>Mark Robson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>À l'école des sorciers (fr)</td>
+      <td>The Philosopher's Stone (en VO)</td>
+      <td rowspan=1>J. K. Rowling</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La chambre des secrets (fr)</td>
+      <td>The Chamber of Secrets (en VO)</td>
+      <td rowspan=1>J. K. Rowling</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le prisonnier d'Azkaban (fr)</td>
+      <td>The Prisoner of Azkaban (en VO)</td>
+      <td rowspan=1>J. K. Rowling</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Coupe de feu (fr)</td>
+      <td>The Goblet of Fire (en VO)</td>
+      <td rowspan=1>J. K. Rowling</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'Ordre du Phénix (fr)</td>
+      <td>The Order of the Phoenix (en VO)</td>
+      <td rowspan=1>J. K. Rowling</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Prince de sang-mêlé (fr)</td>
+      <td>The Half-Blood Prince (en VO)</td>
+      <td rowspan=1>J. K. Rowling</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Reliques de la Mort (fr)</td>
+      <td>The Deathly Hallows (en VO)</td>
+      <td rowspan=1>J. K. Rowling</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Collectionneur (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Portails d'Outre Temps (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La 37eme Prophétie (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Emanuelle de Saint Chamas / Benoît de Saint Chamas</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Alcatraz contre les infâmes bibliothécaires (fr)</td>
+      <td>Alcatraz Versus the Evil Librarians (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'Empire ultime (fr)</td>
+      <td>The Final Empire (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Puits de l'ascension (fr)</td>
+      <td>The Well of Ascension (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Héros des siècles (fr)</td>
+      <td>The Hero of Ages (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Frankenstein (fr)</td>
+      <td>Frankenstein (en VO)</td>
+      <td rowspan=1>Mary W. Shelley</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Chien Jaune (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Georges Simenon</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Dracula (fr)</td>
+      <td>Dracula (en VO)</td>
+      <td rowspan=1>Bram Stoker</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Nous sommes legions (fr)</td>
+      <td>We Are Legion (en VO)</td>
+      <td rowspan=1>Dennis E. Taylor</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Nous sommes nombreux (fr)</td>
+      <td>For We Are Many (en VO)</td>
+      <td rowspan=1>Dennis E. Taylor</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Tous ces mondes (fr)</td>
+      <td>All These Worlds (en VO)</td>
+      <td rowspan=1>Dennis E. Taylor</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Inconnu à cette adresse (fr)</td>
+      <td>Address Unknown (en VO)</td>
+      <td rowspan=1>Kressmann Taylor</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Vendredi ou la vie sauvage (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Michel Tournier</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'ami retrouvé (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Fred Uhlman</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Silence de la Mer (fr VO)</td>
+      <td>Silence of the Sea (en)</td>
+      <td rowspan=1>Vercors</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les tribulations d'un chinois en Chine (fr VO)</td>
+      <td>Tribulations of a Chinaman in China (en)</td>
+      <td rowspan=1>Jules Verne</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>No et moi (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Delphine de Vigan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Zadig (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Voltaire</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le chevalier au bouclier vert (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Odile Weulersse</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le messager d'Athène (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Odile Weulersse</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Roman de Renart (fr VO)</td>
+      <td>Reynard the Fox (en)</td>
+      <td rowspan=1></td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
     </tr>
   </tbody>
 </table>

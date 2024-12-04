@@ -490,8 +490,8 @@ class Library:
             "  <thead>",
             "    <tr>",
             "      <th>Titre</th>",
+            "      <th>Titres alternatifs</th>",
             "      <th>Auteur·rice</th>",
-            # "      <th>Titres alternatifs</th>",
             "      <th>Lu</th>",
             "      <th>Possédé</th>",
             "    </tr>",
@@ -512,18 +512,44 @@ class Library:
     def work_html_row(self, work_id: str) -> str:
         work: Work = self.works[work_id]
         row: list[str] = []
+
+        primary_language: str =  "fr" if "fr" in work.titles else "en"
+        vo_marker: str = " VO" if primary_language == work.language else ""
+        #title: str = f"({primary_language}{vo_marker}) {work.titles[primary_language]}"
+        title: str = f"{work.titles[primary_language]} ({primary_language}{vo_marker})"
+
+        alt_titles: list = []
+        for language, alt_title in work.titles.items():
+            if language != primary_language:
+                vo_marker = " VO" if language == work.language else ""
+                #alt_titles.append(f"({language}{vo_marker}) {alt_title}")
+                alt_titles.append(f"{alt_title} ({language}{vo_marker})")
+        if not alt_titles:
+            alt_titles.append("")
+
+        rowspan: int = len(alt_titles)
+
         # Title
-        title: str = work.titles["fr"] if "fr" in work.titles else work.titles["en"]
-        row.append(f"<td>{title}</td>")
+        row.append(f"<td rowspan={rowspan}>{title}</td>")
+        # Others titles
+        row.append(f"<td>{alt_titles[0]}</td>")
         # Authors
         authors: str = " / ".join([self.authors[author_id].name for author_id in work.authors])
-        row.append(f"<td>{authors}</td>")
+        row.append(f"<td rowspan={rowspan}>{authors}</td>")
         # Read status
         read_status: str = "Lu" if work.read else "Pas Lu"
-        row.append(f"<td>{read_status}</td>")
+        row.append(f"<td rowspan={rowspan}>{read_status}</td>")
         # Possédé
         owned: str = "Possédé" if work.owned else "Non possédé"
-        row.append(f"<td>{owned}</td>")
+        row.append(f"<td rowspan={rowspan}>{owned}</td>")
+
+        for i in range(1, len(alt_titles)):
+            row += [
+                "</tr>",
+                "<tr>",
+                f"<td>{alt_titles[i]}</td>",
+            ]
+
         return "<tr>\n" + textwrap.indent("\n".join(row), "  ") + "\n</tr>"
 
     def sort_authors_ids(self, ids: set[str], sorting: str) -> list[str]:

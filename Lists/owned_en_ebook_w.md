@@ -2,6 +2,7 @@
   <thead>
     <tr>
       <th>Titre</th>
+      <th>Titres alternatifs</th>
       <th>Auteur·rice</th>
       <th>Lu</th>
       <th>Possédé</th>
@@ -9,532 +10,626 @@
   </thead>
   <tbody>
     <tr>
-      <td>Practice Makes Perfect</td>
-      <td>Sarah Adams</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Practice Makes Perfect (en VO)</td>
+      <td></td>
+      <td rowspan=1>Sarah Adams</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>When in Rome</td>
-      <td>Sarah Adams</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>When in Rome (en VO)</td>
+      <td></td>
+      <td rowspan=1>Sarah Adams</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Tout ce que je sais sur l'amour</td>
-      <td>Dolly Alderton</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Tout ce que je sais sur l'amour (fr)</td>
+      <td>Everything I know about love (en VO)</td>
+      <td rowspan=1>Dolly Alderton</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Les Robots</td>
-      <td>Isaac Asimov</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Les Robots (fr)</td>
+      <td>I, Robot (en VO)</td>
+      <td rowspan=1>Isaac Asimov</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Un défilé de robots</td>
-      <td>Isaac Asimov</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Un défilé de robots (fr)</td>
+      <td>The Rest of the Robots (en VO)</td>
+      <td rowspan=1>Isaac Asimov</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>La Servante Écarlate</td>
-      <td>Margaret Atwood</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>La Servante Écarlate (fr)</td>
+      <td>The Handmaid's Tale (en VO)</td>
+      <td rowspan=1>Margaret Atwood</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Emma</td>
-      <td>Jane Austen</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Emma (fr)</td>
+      <td>Emma (en VO)</td>
+      <td rowspan=1>Jane Austen</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Légendes & Lattes</td>
-      <td>Travis Baldree</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Légendes & Lattes (fr)</td>
+      <td>Legends & Lattes (en VO)</td>
+      <td rowspan=1>Travis Baldree</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Count your Lucky Stars</td>
-      <td>Alexandria Bellefleur</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Count your Lucky Stars (en VO)</td>
+      <td></td>
+      <td rowspan=1>Alexandria Bellefleur</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Hang the Moon</td>
-      <td>Alexandria Bellefleur</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Hang the Moon (en VO)</td>
+      <td></td>
+      <td rowspan=1>Alexandria Bellefleur</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Written in the Stars</td>
-      <td>Alexandria Bellefleur</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Written in the Stars (en VO)</td>
+      <td></td>
+      <td rowspan=1>Alexandria Bellefleur</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Un psaume pour les recyclés sauvages</td>
-      <td>Becky Chambers</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Un psaume pour les recyclés sauvages (fr)</td>
+      <td>A Psalm for the Wild Built (en VO)</td>
+      <td rowspan=1>Becky Chambers</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Une prière pour les Cimes Timides</td>
-      <td>Becky Chambers</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Une prière pour les Cimes Timides (fr)</td>
+      <td>A Prayer for the Crown Shy (en VO)</td>
+      <td rowspan=1>Becky Chambers</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Expiration</td>
-      <td>Ted Chiang</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Expiration (fr)</td>
+      <td>Exhalation (en VO)</td>
+      <td rowspan=1>Ted Chiang</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Stories of your Life and Others</td>
-      <td>Ted Chiang</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Stories of your Life and Others (en VO)</td>
+      <td></td>
+      <td rowspan=1>Ted Chiang</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Cartes sur table</td>
-      <td>Agatha Christie</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Cartes sur table (fr)</td>
+      <td>Cards on the Table (en VO)</td>
+      <td rowspan=1>Agatha Christie</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Meurtre de Roger Ackroyd</td>
-      <td>Agatha Christie</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Meurtre de Roger Ackroyd (fr)</td>
+      <td>The Murder of Roger Ackroyd (en VO)</td>
+      <td rowspan=1>Agatha Christie</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Mort sur le Nil</td>
-      <td>Agatha Christie</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Mort sur le Nil (fr)</td>
+      <td>Death on the Nile (en VO)</td>
+      <td rowspan=1>Agatha Christie</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Penance</td>
-      <td>Eliza Clarke</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Penance (en VO)</td>
+      <td></td>
+      <td rowspan=1>Eliza Clarke</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Piranèse</td>
-      <td>Susana Clarke</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Piranèse (fr)</td>
+      <td>Piranesi (en VO)</td>
+      <td rowspan=1>Susana Clarke</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>L'Éveil du Léviathan</td>
-      <td>James S. A. Corey</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>L'Éveil du Léviathan (fr)</td>
+      <td>Leviathan Wakes (en VO)</td>
+      <td rowspan=1>James S. A. Corey</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Les Oiseaux du temps</td>
-      <td>Amal El-Mothar / Max Gladstone</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Les Oiseaux du temps (fr)</td>
+      <td>This Is How You Lose the Time War (en VO)</td>
+      <td rowspan=1>Amal El-Mothar / Max Gladstone</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>L'Histoire sans fin</td>
-      <td>Michael Ende</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=2>L'Histoire sans fin (fr)</td>
+      <td>The Neverending Story (en)</td>
+      <td rowspan=2>Michael Ende</td>
+      <td rowspan=2>Lu</td>
+      <td rowspan=2>Possédé</td>
+      </tr>
+      <tr>
+      <td>Die unendliche Geschichte (de VO)</td>
     </tr>
     <tr>
-      <td>Princess Bride</td>
-      <td>William Goldman</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Princess Bride (fr)</td>
+      <td>The Princess Bride (en VO)</td>
+      <td rowspan=1>William Goldman</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Tales of Lunis Aquaria</td>
-      <td>Tessa Hastjarjanto</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Tales of Lunis Aquaria (en VO)</td>
+      <td></td>
+      <td rowspan=1>Tessa Hastjarjanto</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Below Zero</td>
-      <td>Ali Hazelwood</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Below Zero (en VO)</td>
+      <td></td>
+      <td rowspan=1>Ali Hazelwood</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Love, Theoretically</td>
-      <td>Ali Hazelwood</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Love, Theoretically (en VO)</td>
+      <td></td>
+      <td rowspan=1>Ali Hazelwood</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Stuck with You</td>
-      <td>Ali Hazelwood</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Stuck with You (en VO)</td>
+      <td></td>
+      <td rowspan=1>Ali Hazelwood</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>The Love Hypothesis</td>
-      <td>Ali Hazelwood</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>The Love Hypothesis (en VO)</td>
+      <td></td>
+      <td rowspan=1>Ali Hazelwood</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Under One Roof</td>
-      <td>Ali Hazelwood</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Under One Roof (en VO)</td>
+      <td></td>
+      <td rowspan=1>Ali Hazelwood</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Fiancés d'un jour, fiancés toujours</td>
-      <td>Virgina Heath</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Fiancés d'un jour, fiancés toujours (fr)</td>
+      <td>Never Fall for Your Fiancée (en VO)</td>
+      <td rowspan=1>Virgina Heath</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Never Rescue a Rogue</td>
-      <td>Virgina Heath</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Never Rescue a Rogue (en VO)</td>
+      <td></td>
+      <td rowspan=1>Virgina Heath</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Never Wager with a Wallflower</td>
-      <td>Virgina Heath</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Never Wager with a Wallflower (en VO)</td>
+      <td></td>
+      <td rowspan=1>Virgina Heath</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Get a Life, Chloe Brown</td>
-      <td>Talia Hibbert</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Get a Life, Chloe Brown (en VO)</td>
+      <td></td>
+      <td rowspan=1>Talia Hibbert</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Take a Hint, Dani Brown</td>
-      <td>Talia Hibbert</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Take a Hint, Dani Brown (en VO)</td>
+      <td></td>
+      <td rowspan=1>Talia Hibbert</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Act Your Age, Eve Brown</td>
-      <td>Talia Hibbert</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Act Your Age, Eve Brown (en VO)</td>
+      <td></td>
+      <td rowspan=1>Talia Hibbert</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Château de Hurle</td>
-      <td>Diana Wynne Jones</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Château de Hurle (fr)</td>
+      <td>Howl's Moving Castle (en VO)</td>
+      <td rowspan=1>Diana Wynne Jones</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Des fleurs pour Algernon</td>
-      <td>Daniel Keyes</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Des fleurs pour Algernon (fr)</td>
+      <td>Flowers For Algernon (en VO)</td>
+      <td rowspan=1>Daniel Keyes</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Babel</td>
-      <td>R.F. Kuang</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Babel (fr)</td>
+      <td>Babel: Or the Necessity of Violence (en VO)</td>
+      <td rowspan=1>R.F. Kuang</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>The Book That Wouldn't Burn</td>
-      <td>Mark Lawrence</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>The Book That Wouldn't Burn (en VO)</td>
+      <td></td>
+      <td rowspan=1>Mark Lawrence</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>The Book That Broke The World</td>
-      <td>Mark Lawrence</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>The Book That Broke The World (en VO)</td>
+      <td></td>
+      <td rowspan=1>Mark Lawrence</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Pachinko</td>
-      <td>Min Jin Lee</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Pachinko (fr)</td>
+      <td>Pachinko (en VO)</td>
+      <td rowspan=1>Min Jin Lee</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Sorcier de Terremer</td>
-      <td>Ursula K. Le Guin</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Sorcier de Terremer (fr)</td>
+      <td>A Wizard of Earthsea (en VO)</td>
+      <td rowspan=1>Ursula K. Le Guin</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Les Tombeaux d'Atuan</td>
-      <td>Ursula K. Le Guin</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Les Tombeaux d'Atuan (fr)</td>
+      <td>The Tombs of Atuan (en VO)</td>
+      <td rowspan=1>Ursula K. Le Guin</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>L'Ultime Rivage</td>
-      <td>Ursula K. Le Guin</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>L'Ultime Rivage (fr)</td>
+      <td>The Farthest Shore (en VO)</td>
+      <td rowspan=1>Ursula K. Le Guin</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Tehanu</td>
-      <td>Ursula K. Le Guin</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Tehanu (fr)</td>
+      <td>Tehanu (en VO)</td>
+      <td rowspan=1>Ursula K. Le Guin</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Contes de Terremer</td>
-      <td>Ursula K. Le Guin</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Contes de Terremer (fr)</td>
+      <td>Tales of Earthsea (en VO)</td>
+      <td rowspan=1>Ursula K. Le Guin</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Vent d'ailleurs</td>
-      <td>Ursula K. Le Guin</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Vent d'ailleurs (fr)</td>
+      <td>The Other Wind (en VO)</td>
+      <td rowspan=1>Ursula K. Le Guin</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>La Grâce des Rois</td>
-      <td>Ken Liu</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>La Grâce des Rois (fr)</td>
+      <td>The Grace of Kings (en VO)</td>
+      <td rowspan=1>Ken Liu</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Goût de la victoire / Le Mur de tempêtes</td>
-      <td>Ken Liu</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Goût de la victoire / Le Mur de tempêtes (fr)</td>
+      <td>The Wall of Storms (en VO)</td>
+      <td rowspan=1>Ken Liu</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>The Veiled Throne</td>
-      <td>Ken Liu</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>The Veiled Throne (en VO)</td>
+      <td></td>
+      <td rowspan=1>Ken Liu</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Speaking Bones</td>
-      <td>Ken Liu</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Speaking Bones (en VO)</td>
+      <td></td>
+      <td rowspan=1>Ken Liu</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Un palais d'épines et de roses</td>
-      <td>Sarah J. Maas</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Un palais d'épines et de roses (fr)</td>
+      <td>A Court Of Thorns And Roses (en VO)</td>
+      <td rowspan=1>Sarah J. Maas</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Loveless</td>
-      <td>Alice Oseman</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Loveless (en VO)</td>
+      <td></td>
+      <td rowspan=1>Alice Oseman</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Fardeau tranquille des choses</td>
-      <td>Ruth Ozeki</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Fardeau tranquille des choses (fr)</td>
+      <td>The Book of Form and Emptiness (en VO)</td>
+      <td rowspan=1>Ruth Ozeki</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Faucheur</td>
-      <td>Terry Pratchett</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Faucheur (fr)</td>
+      <td>Reaper Man (en VO)</td>
+      <td rowspan=1>Terry Pratchett</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Mortimer</td>
-      <td>Terry Pratchett</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Mortimer (fr)</td>
+      <td>Mort (en VO)</td>
+      <td rowspan=1>Terry Pratchett</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>La Famille Seagrave</td>
-      <td>Joanna Quinn</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>La Famille Seagrave (fr)</td>
+      <td>The Whalebone Theatre (en VO)</td>
+      <td rowspan=1>Joanna Quinn</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>La Mer de la tranquillité</td>
-      <td>Emily Saint John-Mandel</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>La Mer de la tranquillité (fr)</td>
+      <td>Sea of Tranquility (en VO)</td>
+      <td rowspan=1>Emily Saint John-Mandel</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Elantris</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Elantris (fr)</td>
+      <td>Elantris (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Warbreaker</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Warbreaker (fr)</td>
+      <td>Warbreaker (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Tress de la mer Émeraude</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Tress de la mer Émeraude (fr)</td>
+      <td>Tress of the emerald sea (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Yumi et le Peintre de cauchemars</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Yumi et le Peintre de cauchemars (fr)</td>
+      <td>Yumi and the Nightmare Painter (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>L'Ensoleillé</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>L'Ensoleillé (fr)</td>
+      <td>The Sunlit Man (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Arcanum Unbounded</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Arcanum Unbounded (en VO)</td>
+      <td></td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>L'Alliage de la justice</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>L'Alliage de la justice (fr)</td>
+      <td>The Alloy of Law (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Jeux de masques</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Jeux de masques (fr)</td>
+      <td>Shadows of Self (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Les Bracelets des larmes</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Les Bracelets des larmes (fr)</td>
+      <td>The Bands of Mourning (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Métal Perdu</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Métal Perdu (fr)</td>
+      <td>The Lost Metal (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>La Voie des rois</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>La Voie des rois (fr)</td>
+      <td>The Way of Kings (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Livre des Radieux</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Livre des Radieux (fr)</td>
+      <td>Words of Radiance (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Justicière</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Justicière (fr)</td>
+      <td>Oathbringer (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Éclat de l'Aube</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Éclat de l'Aube (fr)</td>
+      <td>Dawnshard (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Rythme de guerre</td>
-      <td>Brandon Sanderson</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Rythme de guerre (fr)</td>
+      <td>Rythm of War (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Silmarillion</td>
-      <td>J.R.R. Tolkien</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Silmarillion (fr)</td>
+      <td>The Silmarillion (en VO)</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Les enfants de Húrin</td>
-      <td>J.R.R. Tolkien</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Les enfants de Húrin (fr)</td>
+      <td>Children of Húrin (en VO)</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Hobbit</td>
-      <td>J.R.R. Tolkien</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=2>Le Hobbit (fr)</td>
+      <td>The Hobbit (en VO)</td>
+      <td rowspan=2>J.R.R. Tolkien</td>
+      <td rowspan=2>Lu</td>
+      <td rowspan=2>Possédé</td>
+      </tr>
+      <tr>
+      <td>An Hobad (ga)</td>
     </tr>
     <tr>
-      <td>La Communautée de l'anneaux / La Fraternité de l'Anneau</td>
-      <td>J.R.R. Tolkien</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>La Communautée de l'anneaux / La Fraternité de l'Anneau (fr)</td>
+      <td>The Fellowship Of The Ring (en VO)</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Les Deux Tours</td>
-      <td>J.R.R. Tolkien</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Les Deux Tours (fr)</td>
+      <td>The Two Towers (en VO)</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Retour du Roi</td>
-      <td>J.R.R. Tolkien</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Retour du Roi (fr)</td>
+      <td>The Return Of The King (en VO)</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Défaillances systèmes</td>
-      <td>Martha Wells</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Défaillances systèmes (fr)</td>
+      <td>All Systems Red (en VO)</td>
+      <td rowspan=1>Martha Wells</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Schémas artificiels</td>
-      <td>Martha Wells</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Schémas artificiels (fr)</td>
+      <td>Artificial Condition (en VO)</td>
+      <td rowspan=1>Martha Wells</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Cheval de Troie</td>
-      <td>Martha Wells</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Cheval de Troie (fr)</td>
+      <td>Rogue Protocol (en VO)</td>
+      <td rowspan=1>Martha Wells</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Stratégie de sortie</td>
-      <td>Martha Wells</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Stratégie de sortie (fr)</td>
+      <td>Exit Strategy (en VO)</td>
+      <td rowspan=1>Martha Wells</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Home: Habitat, Range, Niche, Territory</td>
-      <td>Martha Wells</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Home: Habitat, Range, Niche, Territory (en VO)</td>
+      <td></td>
+      <td rowspan=1>Martha Wells</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Effet de réseau</td>
-      <td>Martha Wells</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Effet de réseau (fr)</td>
+      <td>Network Effect (en VO)</td>
+      <td rowspan=1>Martha Wells</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Télémétrie fugitive</td>
-      <td>Martha Wells</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Télémétrie fugitive (fr)</td>
+      <td>Fugitive Telemetry (en VO)</td>
+      <td rowspan=1>Martha Wells</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>System Collapse</td>
-      <td>Martha Wells</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>System Collapse (en VO)</td>
+      <td></td>
+      <td rowspan=1>Martha Wells</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
   </tbody>
 </table>

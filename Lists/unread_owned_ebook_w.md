@@ -2,6 +2,7 @@
   <thead>
     <tr>
       <th>Titre</th>
+      <th>Titres alternatifs</th>
       <th>Auteur·rice</th>
       <th>Lu</th>
       <th>Possédé</th>
@@ -9,190 +10,221 @@
   </thead>
   <tbody>
     <tr>
-      <td>Emma</td>
-      <td>Jane Austen</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Emma (fr)</td>
+      <td>Emma (en VO)</td>
+      <td rowspan=1>Jane Austen</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Penance</td>
-      <td>Eliza Clarke</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Penance (en VO)</td>
+      <td></td>
+      <td rowspan=1>Eliza Clarke</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>L'Éveil du Léviathan</td>
-      <td>James S. A. Corey</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>L'Éveil du Léviathan (fr)</td>
+      <td>Leviathan Wakes (en VO)</td>
+      <td rowspan=1>James S. A. Corey</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Arsène Lupin, Gentleman-Cambrioleur</td>
-      <td>Maurice Leblanc</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Arsène Lupin, Gentleman-Cambrioleur (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>L'Île au Trente Cerceuils</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>L'Île au Trente Cerceuils (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Les Dents du Tigre</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Les Dents du Tigre (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Les Huit Coups de l'Horloge</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Les Huit Coups de l'Horloge (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>La Comtesse de Cagliostro</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>La Comtesse de Cagliostro (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Les Dents d'Hercule Petitgris</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Les Dents d'Hercule Petitgris (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>La Demoiselle aux Yeux Verts</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>La Demoiselle aux Yeux Verts (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>L'Homme à la Peau de Bique</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>L'Homme à la Peau de Bique (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>L'Agence Barnett et Cie</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>L'Agence Barnett et Cie (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>La Demeure Mystérieuse</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>La Demeure Mystérieuse (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>La Barre-y-va</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>La Barre-y-va (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Arsène Lupin contre Herlock Sholmès</td>
-      <td>Maurice Leblanc</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Arsène Lupin contre Herlock Sholmès (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Cabochon d'Emeraude</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Cabochon d'Emeraude (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>La Femme aux Deux Sourires</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>La Femme aux Deux Sourires (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Victor de la Brigade Mondaine</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Victor de la Brigade Mondaine (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Cagliostro se Venge</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Cagliostro se Venge (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Les Milliards d'Arsène Lupin</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Les Milliards d'Arsène Lupin (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>L'Aiguille Creuse</td>
-      <td>Maurice Leblanc</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>L'Aiguille Creuse (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>813</td>
-      <td>Maurice Leblanc</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>813 (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Bouchon de Cristal</td>
-      <td>Maurice Leblanc</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Bouchon de Cristal (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Les Confidences d'Arsène Lupin</td>
-      <td>Maurice Leblanc</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Les Confidences d'Arsène Lupin (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>L'Éclat d'Obus</td>
-      <td>Maurice Leblanc</td>
-      <td>Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>L'Éclat d'Obus (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Triangle d'Or</td>
-      <td>Maurice Leblanc</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Triangle d'Or (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>La Grâce des Rois</td>
-      <td>Ken Liu</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>La Grâce des Rois (fr)</td>
+      <td>The Grace of Kings (en VO)</td>
+      <td rowspan=1>Ken Liu</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Goût de la victoire / Le Mur de tempêtes</td>
-      <td>Ken Liu</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Goût de la victoire / Le Mur de tempêtes (fr)</td>
+      <td>The Wall of Storms (en VO)</td>
+      <td rowspan=1>Ken Liu</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>The Veiled Throne</td>
-      <td>Ken Liu</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>The Veiled Throne (en VO)</td>
+      <td></td>
+      <td rowspan=1>Ken Liu</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Speaking Bones</td>
-      <td>Ken Liu</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Speaking Bones (en VO)</td>
+      <td></td>
+      <td rowspan=1>Ken Liu</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td>Le Fardeau tranquille des choses</td>
-      <td>Ruth Ozeki</td>
-      <td>Pas Lu</td>
-      <td>Possédé</td>
+      <td rowspan=1>Le Fardeau tranquille des choses (fr)</td>
+      <td>The Book of Form and Emptiness (en VO)</td>
+      <td rowspan=1>Ruth Ozeki</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
   </tbody>
 </table>
