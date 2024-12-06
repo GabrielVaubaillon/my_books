@@ -31,6 +31,13 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Les Derniers Retrouveurs</td>
+      <td rowspan=1>Victor Dixen</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=1 rowspan=23>Integrale Arsène Lupin</td>
       <td>Arsène Lupin, Gentleman-Cambrioleur</td>
       <td rowspan=23>Maurice Leblanc</td>
@@ -146,6 +153,13 @@
     <tr>
       <td colspan=2 rowspan=1>The Book of Form and Emptiness</td>
       <td rowspan=1>Ruth Ozeki</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Wind and Truth</td>
+      <td rowspan=1>Brandon Sanderson</td>
       <td rowspan=1>en</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Ebook</td>

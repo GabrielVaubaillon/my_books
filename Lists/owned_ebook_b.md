@@ -205,6 +205,13 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Les Derniers Retrouveurs</td>
+      <td rowspan=1>Victor Dixen</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Joseph Balsamo</td>
       <td rowspan=1>Alexandre Dumas</td>
       <td rowspan=1>fr</td>
@@ -646,6 +653,13 @@
       <td rowspan=1>Brandon Sanderson</td>
       <td rowspan=1>en</td>
       <td rowspan=1>Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Wind and Truth</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>

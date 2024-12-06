@@ -65,6 +65,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Les Derniers Retrouveurs (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Victor Dixen</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Joseph Balsamo (fr VO)</td>
       <td></td>
       <td rowspan=1>Alexandre Dumas</td>

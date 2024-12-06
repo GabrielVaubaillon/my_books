@@ -188,6 +188,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Les Derniers Retrouveurs</td>
+      <td rowspan=1>Victor Dixen</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>La ceinture empoisonnée</td>
       <td rowspan=1>Arthur Conan Doyle</td>
       <td rowspan=1>fr</td>
@@ -772,6 +779,13 @@
       <td rowspan=1>fr</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Wind and Truth</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>Quentin Durward</td>

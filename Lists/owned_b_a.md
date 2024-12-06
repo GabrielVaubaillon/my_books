@@ -23,8 +23,8 @@
     <tr>
       <td>Brandon Sanderson</td>
       <td>19</td>
-      <td>15</td>
-      <td>11</td>
+      <td>16</td>
+      <td>12</td>
     </tr>
     <tr>
       <td>Alexandre Dumas</td>
@@ -654,6 +654,12 @@
       <td>Tony Diterlizzi</td>
       <td>5</td>
       <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Victor Dixen</td>
+      <td>0</td>
+      <td>1</td>
       <td>1</td>
     </tr>
     <tr>

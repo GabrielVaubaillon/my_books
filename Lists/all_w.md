@@ -849,6 +849,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Les Derniers Retrouveurs (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Victor Dixen</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>La Vallée de la peur (fr)</td>
       <td>The Valley of Fear (en VO)</td>
       <td rowspan=1>Arthur Conan Doyle</td>
@@ -2883,6 +2890,13 @@
       <td>Rythm of War (en VO)</td>
       <td rowspan=1>Brandon Sanderson</td>
       <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Wind and Truth (en VO)</td>
+      <td></td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>

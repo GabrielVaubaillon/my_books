@@ -11,8 +11,8 @@
     <tr>
       <td>Brandon Sanderson</td>
       <td>19</td>
-      <td>15</td>
-      <td>11</td>
+      <td>16</td>
+      <td>12</td>
     </tr>
     <tr>
       <td>Rick Riordan</td>

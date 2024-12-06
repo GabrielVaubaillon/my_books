@@ -31,6 +31,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Les Derniers Retrouveurs (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Victor Dixen</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Arsène Lupin, Gentleman-Cambrioleur (fr VO)</td>
       <td></td>
       <td rowspan=1>Maurice Leblanc</td>
@@ -223,6 +230,13 @@
       <td rowspan=1>Le Fardeau tranquille des choses (fr)</td>
       <td>The Book of Form and Emptiness (en VO)</td>
       <td rowspan=1>Ruth Ozeki</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Wind and Truth (en VO)</td>
+      <td></td>
+      <td rowspan=1>Brandon Sanderson</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>

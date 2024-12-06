@@ -190,6 +190,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Les Derniers Retrouveurs (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Victor Dixen</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>La ceinture empoisonnée (fr)</td>
       <td>The Poison Belt (en VO)</td>
       <td rowspan=1>Arthur Conan Doyle</td>
@@ -755,6 +762,13 @@
       <td rowspan=1>Le tour du Tour par 36 détours (fr VO)</td>
       <td></td>
       <td rowspan=1>François Salvaing</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Wind and Truth (en VO)</td>
+      <td></td>
+      <td rowspan=1>Brandon Sanderson</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>

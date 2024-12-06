@@ -3811,6 +3811,20 @@ works:
     read: yes
     books: B_376
     authors: A_279
+  W_491:
+    titles:
+      fr: Les Derniers Retrouveurs
+    language: fr
+    read: no
+    books: B_377
+    authors: A_280
+  W_492:
+    titles:
+      en: Wind and Truth
+    language: en
+    read: no
+    books: B_378
+    authors: A_184
 
 books:
   B_001:
@@ -5723,6 +5737,16 @@ books:
     language: en
     isbn: 9780593500811
     situation: Ebook
+  B_377:
+    title: Les Derniers Retrouveurs
+    language: fr
+    isbn: 979-1-0363-7817-1
+    situation: Ebook
+  B_378:
+    title: Wind and Truth
+    language: en
+    isbn: 978-1-250-31917-3
+    situation: Ebook
 
 authors:
   A_001:
@@ -6314,6 +6338,8 @@ authors:
     name: Lucile Jones
   A_279:
     name: Sarah Adams
+  A_280:
+    name: Victor Dixen
 
 series:
   S_001:
@@ -6632,6 +6658,7 @@ series:
       3: W_331
       3.5: W_332
       4: W_333
+      5: W_492
   S_033:
     name:
       fr: Nous sommes Bob
