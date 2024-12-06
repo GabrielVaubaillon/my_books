@@ -2439,6 +2439,12 @@
 			<td>Possédé</td>
 		</tr>
 		<tr>
+			<td>Wind and Truth</td>
+			<td>Brandon Sanderson</td>
+			<td>Pas Lu</td>
+			<td>Possédé</td>
+		</tr>
+		<tr>
 			<td>Contes et légendes - La naissance de Rome</td>
 			<td>François Sautereau</td>
 			<td>Lu</td>

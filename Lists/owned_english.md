@@ -678,6 +678,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Wind and Truth</td>
+			<td>Brandon Sanderson</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Hyperion (fr: Hypérion)</td>
 			<td>Dan Simmons</td>
 			<td>en</td>

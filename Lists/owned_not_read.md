@@ -781,6 +781,13 @@
 			<td>Cork</td>
 		</tr>
 		<tr>
+			<td colspan=2>Wind and Truth</td>
+			<td>Brandon Sanderson</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Quentin Durward (en-vo: Quentin Durward)</td>
 			<td>Walter Scott</td>
 			<td>fr</td>

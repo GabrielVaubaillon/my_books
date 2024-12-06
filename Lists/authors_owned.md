@@ -13,14 +13,14 @@
 			<td>23</td>
 		</tr>
 		<tr>
-			<td>Marcel Pagnol</td>
-			<td>0</td>
+			<td>Brandon Sanderson</td>
+			<td>19</td>
 			<td>16</td>
 		</tr>
 		<tr>
-			<td>Brandon Sanderson</td>
-			<td>19</td>
-			<td>15</td>
+			<td>Marcel Pagnol</td>
+			<td>0</td>
+			<td>16</td>
 		</tr>
 		<tr>
 			<td>Arthur Conan Doyle</td>

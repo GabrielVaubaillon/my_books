@@ -1160,7 +1160,7 @@
 		<tr>
 			<td>Brandon Sanderson</td>
 			<td>19</td>
-			<td>15</td>
+			<td>16</td>
 		</tr>
 		<tr>
 			<td>François Sautereau</td>

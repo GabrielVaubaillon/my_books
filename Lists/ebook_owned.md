@@ -656,6 +656,13 @@
 			<td>Ebook</td>
 		</tr>
 		<tr>
+			<td colspan=2>Wind and Truth</td>
+			<td>Brandon Sanderson</td>
+			<td>en</td>
+			<td>Pas Lu</td>
+			<td>Ebook</td>
+		</tr>
+		<tr>
 			<td colspan=2>Children of Húrin (fr: Les enfants de Húrin)</td>
 			<td>J.R.R. Tolkien</td>
 			<td>en</td>

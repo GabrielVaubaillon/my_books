@@ -1,18 +1,4 @@
 # TODO: use a real database, stupid
-# Can add:
-#   - dates and language for reading
-#   - subseries
-#   - partial reading for collections
-#   - lended books for situation
-#   - genre (jeunesse/non-fiction/contes/nouvelles, ...) maybe with tags
-#   - impact: ready to sell/give them or bring the book to the end of the world
-#   - translator
-#   - dates and nationality of authors
-#   - first publication date
-#   - theatre
-#   - movies
-#   - tv series
-#   - link wikipedia if exist
 # TEST VALID:
 #   - strict yaml valid: no duplicate keys, no important key missing (schema)
 #   - check no duplicate in authors
@@ -32,6 +18,10 @@ languages:
     en: Irish
     fr: Irlandais
     ga: Gaeilge
+  it:
+    en: Italian
+    fr: Italien
+    it: Italiano
   da:
     en: Danish
     fr: Danois
@@ -60,10 +50,6 @@ languages:
     en: Portuguese
     fr: Portugais
     pt: Português
-  it:
-    en: Italian
-    fr: Italien
-    it: Italiano
   nl:
     en: Dutch
     fr: Néerlandais
@@ -3832,6 +3818,13 @@ works:
     read: no
     books: B_377
     authors: A_280
+  W_492:
+    titles:
+      en: Wind and Truth
+    language: en
+    read: no
+    books: B_378
+    authors: A_184
 
 books:
   B_001:
@@ -5749,6 +5742,11 @@ books:
     language: fr
     isbn: 979-1-0363-7817-1
     situation: Ebook
+  B_378:
+    title: Wind and Truth
+    language: en
+    isbn: 978-1-250-31917-3
+    situation: Ebook
 
 authors:
   A_001:
@@ -6660,6 +6658,7 @@ series:
       3: W_331
       3.5: W_332
       4: W_333
+      5: W_492
   S_033:
     name:
       fr: Nous sommes Bob
