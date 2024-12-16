@@ -1,0 +1,753 @@
+<table>
+  <thead>
+    <tr>
+      <th colspan=2>Titre</th>
+      <th>Auteur·rice</th>
+      <th>Langue</th>
+      <th>Lu</th>
+      <th>Situation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan=2 rowspan=1>Le Guide du Voyageur Galactique</td>
+      <td rowspan=1>Douglas Adams</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mythes Celtiques</td>
+      <td rowspan=1>Miranda Jane Aldhouse-Green</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Perroquet qui Bégayait</td>
+      <td rowspan=1>Robert Arthur, Jr</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=3>Fondation 1</td>
+      <td>Fondation</td>
+      <td rowspan=3>Isaac Asimov</td>
+      <td rowspan=3>fr</td>
+      <td rowspan=3>Lu</td>
+      <td rowspan=3>Cork</td>
+    </tr>
+    <tr>
+      <td>Fondation et Empire</td>
+    </tr>
+    <tr>
+      <td>Seconde Fondation</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=2>Fondation 2</td>
+      <td>Fondation Foudroyée</td>
+      <td rowspan=2>Isaac Asimov</td>
+      <td rowspan=2>fr</td>
+      <td rowspan=2>Lu</td>
+      <td rowspan=2>Cork</td>
+    </tr>
+    <tr>
+      <td>Terre et Fondation</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>J'ai bien connu Icare</td>
+      <td rowspan=1>Hans Baumann</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mythes Chinois</td>
+      <td rowspan=1>Anne Birrell</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>La planète des singes</td>
+      <td rowspan=1>Pierre Boule</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Fahrenheit 451</td>
+      <td rowspan=1>Ray Bradbury</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Martian Chronicles</td>
+      <td rowspan=1>Ray Bradbury</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>And then there were None</td>
+      <td rowspan=1>Agatha Christie</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Murder on the Orient Express</td>
+      <td rowspan=1>Agatha Christie</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Problème à Trois Corps</td>
+      <td rowspan=1>Liu Cixin</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>La Forêt Sombre</td>
+      <td rowspan=1>Liu Cixin</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>2001: l'Odyssée de l'Espace</td>
+      <td rowspan=1>Arthur C. Clarke</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Contes des indiens du Chiapas</td>
+      <td rowspan=1>Baptiste Condominas</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=5>Les Chroniques de Spiderwick - L'integrale</td>
+      <td>Le Livre magique</td>
+      <td rowspan=5>Tony Diterlizzi / Holly Black</td>
+      <td rowspan=5>fr</td>
+      <td rowspan=5>Lu</td>
+      <td rowspan=5>Cork</td>
+    </tr>
+    <tr>
+      <td>La Lunette de Pierre</td>
+    </tr>
+    <tr>
+      <td>Le Secret de Lucinda</td>
+    </tr>
+    <tr>
+      <td>L'Arbre de fer</td>
+    </tr>
+    <tr>
+      <td>La Colère de Mulgarath</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=5>Sherlock Holmes - The Complete Novels and Stories - Volume One</td>
+      <td>A Study in Scarlet</td>
+      <td rowspan=5>Arthur Conan Doyle</td>
+      <td rowspan=5>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=5>Cork</td>
+    </tr>
+    <tr>
+      <td>The Sign of Four</td>
+      <td>Lu</td>
+    </tr>
+    <tr>
+      <td>The Adventures of Sherlock Holmes</td>
+      <td>Pas Lu</td>
+    </tr>
+    <tr>
+      <td>The Memoirs of Sherlock Holmes</td>
+      <td>Pas Lu</td>
+    </tr>
+    <tr>
+      <td>The Hound of the Baskervilles</td>
+      <td>Lu</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=4>Sherlock Holmes - The Complete Novels and Stories - Volume Two</td>
+      <td>The Return of Sherlock Holmes</td>
+      <td rowspan=4>Arthur Conan Doyle</td>
+      <td rowspan=4>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=4>Cork</td>
+    </tr>
+    <tr>
+      <td>The Valley of Fear</td>
+      <td>Lu</td>
+    </tr>
+    <tr>
+      <td>His Last Bow</td>
+      <td>Pas Lu</td>
+    </tr>
+    <tr>
+      <td>The Case-Book of Sherlock Holmes</td>
+      <td>Pas Lu</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Comte de Monte-Cristo</td>
+      <td rowspan=1>Alexandre Dumas</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Joseph Balsamo</td>
+      <td rowspan=1>Alexandre Dumas</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Les Trois Mousquetaires</td>
+      <td rowspan=1>Alexandre Dumas</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Disparaître</td>
+      <td rowspan=1>Lionel Duroy</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>This Is How You Lose the Time War</td>
+      <td rowspan=1>Amal El-Mothar / Max Gladstone</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Tapas Nocturnes</td>
+      <td rowspan=1>Marc Fernandez</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mala Vida</td>
+      <td rowspan=1>Marc Fernandez</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Guérilla Social Club</td>
+      <td rowspan=1>Marc Fernandez</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Peloton Maison</td>
+      <td rowspan=1>Paul Fournel</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Dans le Secret des Nombres</td>
+      <td rowspan=1>Marianne Freiberger / Rachel Thomas</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Condor</td>
+      <td rowspan=1>Caryl Férey</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=1>Irish Myths and Legends - Gods and Fighting Mens</td>
+      <td>Gods and Fighting Mens</td>
+      <td rowspan=1>Lady Augusta Gregory</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>La Guerre des Livres</td>
+      <td rowspan=1>Alain Grousset</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Les Cheveux de Bérénice</td>
+      <td rowspan=1>Denis Guedj</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mythes Egyptiens</td>
+      <td rowspan=1>George Hart</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>La Mythologie Chinoise</td>
+      <td rowspan=1>Claude Helft</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Dune</td>
+      <td rowspan=1>Frank Herbert</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Dune Messiah</td>
+      <td rowspan=1>Frank Herbert</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Children of Dune</td>
+      <td rowspan=1>Frank Herbert</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>God Emperor of Dune</td>
+      <td rowspan=1>Frank Herbert</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Heretics of Dune</td>
+      <td rowspan=1>Frank Herbert</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Chapterhouse Dune</td>
+      <td rowspan=1>Frank Herbert</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Gambit des Étoiles</td>
+      <td rowspan=1>Gérard Klein</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Garçon qui ne Parlait Pas</td>
+      <td rowspan=1>Donna Leon</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Croc-Blanc</td>
+      <td rowspan=1>Jack London</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le poids du papillon</td>
+      <td rowspan=1>Erri de Luca</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=1>Le Trône de Fer - L'integrale 1</td>
+      <td>Le Trône de fer / Le Donjon rouge</td>
+      <td rowspan=1>George R.R. Martin</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=1>Le Trône de Fer - L'integrale 2</td>
+      <td>La Bataille des Rois / L'Ombre Maléfique / L'Invisible Forteresse</td>
+      <td rowspan=1>George R.R. Martin</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=1>Le Trône de Fer - L'integrale 3</td>
+      <td>(Les Brigands / Intrigues à Port-Réal) / L’Épée de feu / Les Noces pourpres / La Loi du régicide</td>
+      <td rowspan=1>George R.R. Martin</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=1>Le Trône de Fer - L'integrale 4</td>
+      <td>Le Chaos / Les Sables de Dorne / Un festin pour les corbeaux</td>
+      <td rowspan=1>George R.R. Martin</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>1984</td>
+      <td rowspan=1>George Orwell</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>1984</td>
+      <td rowspan=1>George Orwell</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Animal Farm</td>
+      <td rowspan=1>George Orwell</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>La Ferme des Animaux</td>
+      <td rowspan=1>George Orwell</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=1>Nineteen Eighty-Four</td>
+      <td>1984</td>
+      <td rowspan=1>George Orwell</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mythes Nordiques</td>
+      <td rowspan=1>R. I. Page</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Eragon</td>
+      <td rowspan=1>Christopher Paolini</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>L'Aîné</td>
+      <td rowspan=1>Christopher Paolini</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Brisingr</td>
+      <td rowspan=1>Christopher Paolini</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>L'Héritage</td>
+      <td rowspan=1>Christopher Paolini</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Les Royaumes du Nord</td>
+      <td rowspan=1>Philip Pullman</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>La Tour des Anges</td>
+      <td rowspan=1>Philip Pullman</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Miroir d'Ambre</td>
+      <td rowspan=1>Philip Pullman</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Souffle d'Ombre</td>
+      <td rowspan=1>Mark Robson</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Dent de Sabre</td>
+      <td rowspan=1>Mark Robson</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Aurore</td>
+      <td rowspan=1>Mark Robson</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Premier de Cordée</td>
+      <td rowspan=1>Frison Roche</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>An Prionsa Beag</td>
+      <td rowspan=1>Antoine de Saint-Exupéry</td>
+      <td rowspan=1>ga</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Petit Prince</td>
+      <td rowspan=1>Antoine de Saint-Exupéry</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le vieux qui lisait des romans d'amour</td>
+      <td rowspan=1>Luis Sepuvelda</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=1>The complete MAUS</td>
+      <td>Maus</td>
+      <td rowspan=1>Art Spiegelman</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Of Mices and Men</td>
+      <td rowspan=1>John Steinbeck</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>L'île au trésor</td>
+      <td rowspan=1>Robert Louis Stevenson</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mythes Aztèques et Mayas</td>
+      <td rowspan=1>Karl Taube</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Children of Húrin</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Silmarillion</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Les enfants de Húrin</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Silmarillion</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>An Hobad</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>ga</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Hobbit</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Hobbit</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Hobbit</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=3>Le Seigneur des Anneaux</td>
+      <td>La Communautée de l'anneaux / La Fraternité de l'Anneau</td>
+      <td rowspan=3>J.R.R. Tolkien</td>
+      <td rowspan=3>fr</td>
+      <td rowspan=3>Lu</td>
+      <td rowspan=3>Cork</td>
+    </tr>
+    <tr>
+      <td>Les Deux Tours</td>
+    </tr>
+    <tr>
+      <td>Le Retour du Roi</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Fellowship Of The Ring</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Two Towers</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Return Of The King</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Jeu de la Dame</td>
+      <td rowspan=1>Walter Trevis</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Les Sentiers Obscurs de Karachi</td>
+      <td rowspan=1>Olivier Truc</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mythes Incas</td>
+      <td rowspan=1>Gary Urton</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>L'homme à l'envers</td>
+      <td rowspan=1>Fred Vargas</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le tour du monde en 80 jours</td>
+      <td rowspan=1>Jules Verne</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Vingt mille lieues sous les mers</td>
+      <td rowspan=1>Jules Verne</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>La guerre des mondes</td>
+      <td rowspan=1>H.G. Wells</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The War of the Worlds</td>
+      <td rowspan=1>H.G. Wells</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le joueur d'échecs</td>
+      <td rowspan=1>Stefan Zweig</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Anthology of Irish Folk Tales</td>
+      <td rowspan=1></td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Anthology of Scottish Folk Tales</td>
+      <td rowspan=1></td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+  </tbody>
+</table>
