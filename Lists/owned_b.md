@@ -1625,8 +1625,7 @@
       <td rowspan=1>Antony</td>
     </tr>
     <tr>
-      <td colspan=1 rowspan=1>Le chinois</td>
-      <td>Le Chinois</td>
+      <td colspan=2 rowspan=1>Le Chinois</td>
       <td rowspan=1>Henning Mankell</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Pas Lu</td>
