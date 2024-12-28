@@ -424,13 +424,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Le Nom du Monde est Forêt (fr)</td>
-      <td>The Word for World is Forest (en VO)</td>
-      <td rowspan=1>Ursula K. Le Guin</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>Martin Eden (fr)</td>
       <td>Martin Eden (en VO)</td>
       <td rowspan=1>Jack London</td>

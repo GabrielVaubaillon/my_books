@@ -1113,6 +1113,13 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Word for World is Forest</td>
+      <td rowspan=1>Ursula K. Le Guin</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=1 rowspan=6>The Books of Eathsea</td>
       <td>A Wizard of Earthsea</td>
       <td rowspan=6>Ursula K. Le Guin</td>

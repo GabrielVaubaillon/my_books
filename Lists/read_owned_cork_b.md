@@ -359,6 +359,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Word for World is Forest</td>
+      <td rowspan=1>Ursula K. Le Guin</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le Garçon qui ne Parlait Pas</td>
       <td rowspan=1>Donna Leon</td>
       <td rowspan=1>fr</td>

@@ -219,7 +219,7 @@
       <td rowspan=1>Le Nom du Monde est Forêt (fr)</td>
       <td>The Word for World is Forest (en VO)</td>
       <td rowspan=1>Ursula K. Le Guin</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>

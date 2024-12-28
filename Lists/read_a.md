@@ -39,6 +39,12 @@
       <td>3</td>
     </tr>
     <tr>
+      <td>Ursula K. Le Guin</td>
+      <td>7</td>
+      <td>7</td>
+      <td>2</td>
+    </tr>
+    <tr>
       <td>Anne McCaffrey</td>
       <td>7</td>
       <td>7</td>
@@ -61,12 +67,6 @@
       <td>6</td>
       <td>6</td>
       <td>6</td>
-    </tr>
-    <tr>
-      <td>Ursula K. Le Guin</td>
-      <td>6</td>
-      <td>7</td>
-      <td>2</td>
     </tr>
     <tr>
       <td>J.R.R. Tolkien</td>

@@ -3780,7 +3780,7 @@ works:
       en: The Word for World is Forest
       fr: Le Nom du Monde est Forêt
     language: en
-    read: no
+    read: yes
     books: B_373
     authors: A_126
   W_487:
