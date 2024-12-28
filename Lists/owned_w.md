@@ -1635,6 +1635,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Couleurs de l'incendie (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Pierre Lemaitre</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Garçon qui ne Parlait Pas (fr)</td>
       <td>The Golden Egg (en VO)</td>
       <td rowspan=1>Donna Leon</td>
@@ -1698,6 +1705,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Les Règles du Mikado (fr)</td>
+      <td>Le Regole Dello Shanghai (it VO)</td>
+      <td rowspan=1>Erri de Luca</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Face au Vent (fr)</td>
       <td></td>
       <td rowspan=1>Jim Lynch</td>
@@ -1716,6 +1730,13 @@
       <td></td>
       <td rowspan=1>Pierre Mac Orlan</td>
       <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Chinois (fr)</td>
+      <td>Kinesen (sv VO)</td>
+      <td rowspan=1>Henning Mankell</td>
+      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>

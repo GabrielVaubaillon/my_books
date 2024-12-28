@@ -1538,6 +1538,13 @@
       <td>The Other Wind</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Couleurs de l'incendie</td>
+      <td rowspan=1>Pierre Lemaitre</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Voyage</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le Garçon qui ne Parlait Pas</td>
       <td rowspan=1>Donna Leon</td>
       <td rowspan=1>fr</td>
@@ -1590,6 +1597,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Les Règles du Mikado</td>
+      <td rowspan=1>Erri de Luca</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Voyage</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Face au Vent</td>
       <td rowspan=1>Jim Lynch</td>
       <td rowspan=1>fr</td>
@@ -1609,6 +1623,14 @@
       <td rowspan=1>fr</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Antony</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=1>Le chinois</td>
+      <td>Le Chinois</td>
+      <td rowspan=1>Henning Mankell</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Voyage</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>Cent ans de solitude</td>
@@ -2667,7 +2689,7 @@
       <td rowspan=1>Andy Weir</td>
       <td rowspan=1>en</td>
       <td rowspan=1>Lu</td>
-      <td rowspan=1>Prêté P_001</td>
+      <td rowspan=1>Voyage</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>L'homme invisible</td>

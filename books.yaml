@@ -3825,6 +3825,29 @@ works:
     read: no
     books: B_378
     authors: A_184
+  W_493:
+    titles:
+      fr: Couleurs de l'incendie
+    language: fr
+    read: no
+    books: B_379
+    authors: A_281
+  W_494:
+    titles:
+      fr: Le Chinois
+      sv: Kinesen
+    language: sv
+    read: no
+    books: B_380
+    authors: A_282
+  W_495:
+    titles:
+      fr: Les Règles du Mikado
+      it: Le Regole Dello Shanghai
+    language: it
+    read: no
+    books: B_381
+    authors: A_231
 
 books:
   B_001:
@@ -5228,7 +5251,7 @@ books:
     title: The Martian
     language: en
     isbn: 978-0-553-41802-6
-    situation: Prêté P_001
+    situation: Voyage
   B_276:
     title: Love, Theoretically
     language: en
@@ -5747,6 +5770,21 @@ books:
     language: en
     isbn: 978-1-250-31917-3
     situation: Ebook
+  B_379:
+    title: Couleurs de l'incendie
+    language: fr
+    isbn: 978-2-253-10041-6
+    situation: Voyage
+  B_380:
+    title: Le chinois
+    language: fr
+    isbn: 978-2-7578-3211-0
+    situation: Voyage
+  B_381:
+    title: Les Règles du Mikado
+    language: fr
+    isbn: 978-2-07-306058-2
+    situation: Voyage
 
 authors:
   A_001:
@@ -6340,6 +6378,10 @@ authors:
     name: Sarah Adams
   A_280:
     name: Victor Dixen
+  A_281:
+    name: Pierre Lemaitre
+  A_282:
+    name: Henning Mankell
 
 series:
   S_001:
@@ -6722,4 +6764,9 @@ series:
     works:
       0: W_459
       1: W_466
+  S_040:
+    name:
+      fr: Les Enfants du Désastres
+    works:
+      2: W_493
 

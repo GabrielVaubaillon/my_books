@@ -267,6 +267,12 @@
       <td>2</td>
     </tr>
     <tr>
+      <td>Erri de Luca</td>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
       <td>Blaise Pascal</td>
       <td>0</td>
       <td>2</td>
@@ -993,6 +999,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Pierre Lemaitre</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Donna Leon</td>
       <td>1</td>
       <td>1</td>
@@ -1029,12 +1041,6 @@
       <td>1</td>
     </tr>
     <tr>
-      <td>Erri de Luca</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
       <td>Jim Lynch</td>
       <td>0</td>
       <td>1</td>
@@ -1049,6 +1055,12 @@
     <tr>
       <td>Pierre Mac Orlan</td>
       <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Henning Mankell</td>
+      <td>0</td>
       <td>1</td>
       <td>1</td>
     </tr>

@@ -1959,7 +1959,7 @@
       <td rowspan=1>Andy Weir</td>
       <td rowspan=1>en</td>
       <td rowspan=1>Lu</td>
-      <td rowspan=1>Prêté P_001</td>
+      <td rowspan=1>Voyage</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>L'homme invisible</td>
