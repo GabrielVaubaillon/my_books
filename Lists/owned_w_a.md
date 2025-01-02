@@ -42,7 +42,7 @@
       <td>J.R.R. Tolkien</td>
       <td>6</td>
       <td>9</td>
-      <td>19</td>
+      <td>22</td>
     </tr>
     <tr>
       <td>Alexandre Dumas</td>

@@ -2774,7 +2774,7 @@ works:
       en: The Fellowship Of The Ring
     language: en
     read: yes
-    books: B_256;B_259;B_363
+    books: B_256;B_259;B_363;B_382
     authors: A_202
   W_356:
     titles:
@@ -2782,7 +2782,7 @@ works:
       en: The Two Towers
     language: en
     read: yes
-    books: B_257;B_259;B_363
+    books: B_257;B_259;B_363;B_383
     authors: A_202
   W_357:
     titles:
@@ -2790,7 +2790,7 @@ works:
       en: The Return Of The King
     language: en
     read: yes
-    books: B_258;B_259;B_363
+    books: B_258;B_259;B_363;B_384
     authors: A_202
   W_358:
     titles:
@@ -5784,6 +5784,21 @@ books:
     title: Les Règles du Mikado
     language: fr
     isbn: 978-2-07-306058-2
+    situation: Voyage
+  B_382:
+    title: La Fraternité de l'Anneau
+    language: fr
+    isbn: 978-2-266-34676-4
+    situation: Voyage
+  B_383:
+    title: Les Deux Tours
+    language: fr
+    isbn: 978-2-266-34677-1
+    situation: Voyage
+  B_384:
+    title: Le Retour du Roi
+    language: fr
+    isbn: 978-2-266-34678-8
     situation: Voyage
 
 authors:
