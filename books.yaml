@@ -73,6 +73,10 @@ languages:
     en: Latin
     fr: Latin
     la: Latine
+  is:
+    en: Icelandic
+    fr: Islandais
+    is: Íslenka
 
 works:
   W_001:
@@ -3848,6 +3852,14 @@ works:
     read: no
     books: B_381
     authors: A_231
+  W_496:
+    titles:
+      fr: Le Berger de l'Avent
+      is: Advent
+    language: is
+    read: no
+    books: B_385
+    authors: A_283
 
 books:
   B_001:
@@ -5800,6 +5812,11 @@ books:
     language: fr
     isbn: 978-2-266-34678-8
     situation: Voyage
+  B_385:
+    title: Le Berger de l'Avent
+    language: fr
+    isbn: 978-2-84304-879-1
+    situation: Voyage
 
 authors:
   A_001:
@@ -6397,6 +6414,8 @@ authors:
     name: Pierre Lemaitre
   A_282:
     name: Henning Mankell
+  A_283:
+    name: Gunnar Gunnarsson
 
 series:
   S_001:
