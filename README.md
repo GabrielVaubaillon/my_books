@@ -19,13 +19,13 @@ Les liens donnent accès au tableau détaillé correspondant.
 - Livres en Irlandais : [2 (0.52%)](Lists/owned_ga_b.md) (contenant [2 (0.49%)](Lists/owned_ga_w.md) oeuvres).
 - Auteur·rice·s présent·e·s dans la collection: 244 (86.22%), trié·e·s par [nombre d'oeuvres](Lists/owned_w_a.md) ou par [nombre de livres](Lists/owned_b_a.md) possédés.
 - Cork:
-    - [166 (43.34%)](Lists/owned_cork_b.md) livres,
-    - [176 (42.93%)](Lists/owned_cork_w.md) oeuvres.
-    - Oeuvres lues: [100 (56.82%)](Lists/read_owned_cork_w.md) (reparties en [97 (58.43%)](Lists/read_owned_cork_b.md) livres).
-    - Oeuvres non lues : [85 (48.3%)](Lists/unread_owned_cork_w.md) (reparties en [71 (42.77%)](Lists/unread_owned_cork_b.md) livres).
-    - Livres en Français : [111 (66.87%)](Lists/owned_fr_cork_b.md) (contenant [126 (71.59%)](Lists/owned_fr_cork_w.md) oeuvres).
-    - Livres en Anglais : [53 (31.93%)](Lists/owned_en_cork_b.md) (contenant [59 (33.52%)](Lists/owned_en_cork_w.md) oeuvres).
-    - Livres en Irlandais : [2 (1.2%)](Lists/owned_ga_cork_b.md) (contenant [2 (1.14%)](Lists/owned_ga_cork_w.md) oeuvres).
+    - [174 (45.43%)](Lists/owned_cork_b.md) livres,
+    - [181 (44.15%)](Lists/owned_cork_w.md) oeuvres.
+    - Oeuvres lues: [101 (55.8%)](Lists/read_owned_cork_w.md) (reparties en [101 (58.05%)](Lists/read_owned_cork_b.md) livres).
+    - Oeuvres non lues : [89 (49.17%)](Lists/unread_owned_cork_w.md) (reparties en [75 (43.1%)](Lists/unread_owned_cork_b.md) livres).
+    - Livres en Français : [118 (67.82%)](Lists/owned_fr_cork_b.md) (contenant [130 (71.82%)](Lists/owned_fr_cork_w.md) oeuvres).
+    - Livres en Anglais : [54 (31.03%)](Lists/owned_en_cork_b.md) (contenant [60 (33.15%)](Lists/owned_en_cork_w.md) oeuvres).
+    - Livres en Irlandais : [2 (1.15%)](Lists/owned_ga_cork_b.md) (contenant [2 (1.1%)](Lists/owned_ga_cork_w.md) oeuvres).
 - Antony:
     - [125 (32.64%)](Lists/owned_antony_b.md) livres,
     - [124 (30.24%)](Lists/owned_antony_w.md) oeuvres.
@@ -41,14 +41,6 @@ Les liens donnent accès au tableau détaillé correspondant.
     - Oeuvres non lues : [33 (26.4%)](Lists/unread_owned_ebook_w.md) (reparties en [8 (9.52%)](Lists/unread_owned_ebook_b.md) livres).
     - Livres en Français : [13 (15.48%)](Lists/owned_fr_ebook_b.md) (contenant [36 (28.8%)](Lists/owned_fr_ebook_w.md) oeuvres).
     - Livres en Anglais : [71 (84.52%)](Lists/owned_en_ebook_b.md) (contenant [89 (71.2%)](Lists/owned_en_ebook_w.md) oeuvres).
-    - Livres en Irlandais : 0 (contenant 0 oeuvres).
-- Voyage:
-    - [8 (2.09%)](Lists/owned_voyage_b.md) livres,
-    - [8 (1.95%)](Lists/owned_voyage_w.md) oeuvres.
-    - Oeuvres lues: [4 (50.0%)](Lists/read_owned_voyage_w.md) (reparties en [4 (50.0%)](Lists/read_owned_voyage_b.md) livres).
-    - Oeuvres non lues : [4 (50.0%)](Lists/unread_owned_voyage_w.md) (reparties en [4 (50.0%)](Lists/unread_owned_voyage_b.md) livres).
-    - Livres en Français : [7 (87.5%)](Lists/owned_fr_voyage_b.md) (contenant [7 (87.5%)](Lists/owned_fr_voyage_w.md) oeuvres).
-    - Livres en Anglais : [1 (12.5%)](Lists/owned_en_voyage_b.md) (contenant [1 (12.5%)](Lists/owned_en_voyage_w.md) oeuvres).
     - Livres en Irlandais : 0 (contenant 0 oeuvres).
 
 ## Mes lectures

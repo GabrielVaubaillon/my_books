@@ -5263,7 +5263,7 @@ books:
     title: The Martian
     language: en
     isbn: 978-0-553-41802-6
-    situation: Voyage
+    situation: Cork
   B_276:
     title: Love, Theoretically
     language: en
@@ -5786,37 +5786,37 @@ books:
     title: Couleurs de l'incendie
     language: fr
     isbn: 978-2-253-10041-6
-    situation: Voyage
+    situation: Cork
   B_380:
     title: Le Chinois
     language: fr
     isbn: 978-2-7578-3211-0
-    situation: Voyage
+    situation: Cork
   B_381:
     title: Les Règles du Mikado
     language: fr
     isbn: 978-2-07-306058-2
-    situation: Voyage
+    situation: Cork
   B_382:
     title: La Fraternité de l'Anneau
     language: fr
     isbn: 978-2-266-34676-4
-    situation: Voyage
+    situation: Cork
   B_383:
     title: Les Deux Tours
     language: fr
     isbn: 978-2-266-34677-1
-    situation: Voyage
+    situation: Cork
   B_384:
     title: Le Retour du Roi
     language: fr
     isbn: 978-2-266-34678-8
-    situation: Voyage
+    situation: Cork
   B_385:
     title: Le Berger de l'Avent
     language: fr
     isbn: 978-2-84304-879-1
-    situation: Voyage
+    situation: Cork
 
 authors:
   A_001:

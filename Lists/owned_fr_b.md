@@ -763,7 +763,7 @@
       <td rowspan=1>Gunnar Gunnarsson</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Voyage</td>
+      <td rowspan=1>Cork</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>Mythes Egyptiens</td>
@@ -1053,7 +1053,7 @@
       <td rowspan=1>Pierre Lemaitre</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Voyage</td>
+      <td rowspan=1>Cork</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>Le Garçon qui ne Parlait Pas</td>
@@ -1095,7 +1095,7 @@
       <td rowspan=1>Erri de Luca</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Voyage</td>
+      <td rowspan=1>Cork</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>Face au Vent</td>
@@ -1116,7 +1116,7 @@
       <td rowspan=1>Henning Mankell</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Voyage</td>
+      <td rowspan=1>Cork</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>Cent ans de solitude</td>
@@ -1746,7 +1746,7 @@
       <td rowspan=1>J.R.R. Tolkien</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Lu</td>
-      <td rowspan=1>Voyage</td>
+      <td rowspan=1>Cork</td>
     </tr>
     <tr>
       <td colspan=1 rowspan=3>Le Seigneur des Anneaux</td>
@@ -1767,14 +1767,14 @@
       <td rowspan=1>J.R.R. Tolkien</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Lu</td>
-      <td rowspan=1>Voyage</td>
+      <td rowspan=1>Cork</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>Le Retour du Roi</td>
       <td rowspan=1>J.R.R. Tolkien</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Lu</td>
-      <td rowspan=1>Voyage</td>
+      <td rowspan=1>Cork</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>L'armée des pauvres</td>

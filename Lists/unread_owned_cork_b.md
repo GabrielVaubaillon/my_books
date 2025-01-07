@@ -268,6 +268,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Le Berger de l'Avent</td>
+      <td rowspan=1>Gunnar Gunnarsson</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Pour qui Sonne le Glas</td>
       <td rowspan=1>Ernest Hemingway</td>
       <td rowspan=1>fr</td>
@@ -371,6 +378,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Couleurs de l'incendie</td>
+      <td rowspan=1>Pierre Lemaitre</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Martin Eden</td>
       <td rowspan=1>Jack London</td>
       <td rowspan=1>fr</td>
@@ -378,8 +392,22 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Les Règles du Mikado</td>
+      <td rowspan=1>Erri de Luca</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Face au Vent</td>
       <td rowspan=1>Jim Lynch</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Chinois</td>
+      <td rowspan=1>Henning Mankell</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Cork</td>

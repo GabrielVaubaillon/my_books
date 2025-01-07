@@ -510,6 +510,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Le Berger de l'Avent</td>
+      <td rowspan=1>Gunnar Gunnarsson</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Mythes Egyptiens</td>
       <td rowspan=1>George Hart</td>
       <td rowspan=1>fr</td>
@@ -683,6 +690,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Couleurs de l'incendie</td>
+      <td rowspan=1>Pierre Lemaitre</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le Garçon qui ne Parlait Pas</td>
       <td rowspan=1>Donna Leon</td>
       <td rowspan=1>fr</td>
@@ -711,8 +725,22 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Les Règles du Mikado</td>
+      <td rowspan=1>Erri de Luca</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Face au Vent</td>
       <td rowspan=1>Jim Lynch</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Chinois</td>
+      <td rowspan=1>Henning Mankell</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Cork</td>
@@ -1062,6 +1090,14 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=1 rowspan=1>La Fraternité de l'Anneau</td>
+      <td>La Communautée de l'anneaux / La Fraternité de l'Anneau</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=1 rowspan=3>Le Seigneur des Anneaux</td>
       <td>La Communautée de l'anneaux / La Fraternité de l'Anneau</td>
       <td rowspan=3>J.R.R. Tolkien</td>
@@ -1083,9 +1119,23 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Les Deux Tours</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>The Two Towers</td>
       <td rowspan=1>J.R.R. Tolkien</td>
       <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Le Retour du Roi</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>fr</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Cork</td>
     </tr>
@@ -1157,6 +1207,13 @@
       <td rowspan=1>Elizabeth Warner</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Martian</td>
+      <td rowspan=1>Andy Weir</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Cork</td>
     </tr>
     <tr>

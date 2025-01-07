@@ -317,6 +317,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Martian</td>
+      <td rowspan=1>Andy Weir</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>The War of the Worlds</td>
       <td rowspan=1>H.G. Wells</td>
       <td rowspan=1>en</td>

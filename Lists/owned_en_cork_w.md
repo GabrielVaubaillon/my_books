@@ -331,6 +331,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Seul sur Mars (fr)</td>
+      <td>The Martian (en VO)</td>
+      <td rowspan=1>Andy Weir</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>La guerre des mondes (fr)</td>
       <td>The War of the Worlds (en VO)</td>
       <td rowspan=1>H.G. Wells</td>
