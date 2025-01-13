@@ -10,6 +10,13 @@
   </thead>
   <tbody>
     <tr>
+      <td rowspan=1>Beg, Borrow, or Steal (en VO)</td>
+      <td></td>
+      <td rowspan=1>Sarah Adams</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Emma (fr)</td>
       <td>Emma (en VO)</td>
       <td rowspan=1>Jane Austen</td>
@@ -223,6 +230,27 @@
       <td rowspan=1>Speaking Bones (en VO)</td>
       <td></td>
       <td rowspan=1>Ken Liu</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Mensonges de Locke Lamora (fr)</td>
+      <td>The Lies of Locke Lamora (en VO)</td>
+      <td rowspan=1>Scott Lynch</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Des horizons rouge sang (fr)</td>
+      <td>Red Seas Under Red Skies (en VO)</td>
+      <td rowspan=1>Scott Lynch</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La République des voleurs (fr)</td>
+      <td>The Republic of Thieves (en VO)</td>
+      <td rowspan=1>Scott Lynch</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>

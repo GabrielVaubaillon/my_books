@@ -221,8 +221,8 @@
     <tr>
       <td>Sarah Adams</td>
       <td>2</td>
-      <td>2</td>
-      <td>2</td>
+      <td>3</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Laure Bazire</td>

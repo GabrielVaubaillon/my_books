@@ -1124,6 +1124,7 @@ works:
   W_138:
     titles:
       en: Never Rescue a Rogue
+      fr: Un Secret Explosif
     language: en
     read: yes
     books: B_117
@@ -2614,6 +2615,7 @@ works:
   W_335:
     titles:
       en: The Love Hypothesis
+      fr: The Love Hypothesis
     language: en
     read: yes
     books: B_242
@@ -2953,6 +2955,7 @@ works:
   W_378:
     titles:
       en: Love, Theoretically
+      fr: Love, Theoretically
     language: en
     read: yes
     books: B_276
@@ -3860,6 +3863,37 @@ works:
     read: no
     books: B_385
     authors: A_283
+  W_497:
+    titles:
+      en: Beg, Borrow, or Steal
+    language: en
+    read: no
+    books: B_386
+    authors: A_279
+  W_498:
+    titles:
+      en: The Lies of Locke Lamora
+      fr: Les Mensonges de Locke Lamora
+    language: en
+    read: no
+    books: B_387
+    authors: A_284
+  W_499:
+    titles:
+      en: Red Seas Under Red Skies
+      fr: Des horizons rouge sang
+    language: en
+    read: no
+    books: B_387
+    authors: A_284
+  W_500:
+    titles:
+      en: The Republic of Thieves
+      fr: La République des voleurs
+    language: en
+    read: no
+    books: B_387
+    authors: A_284
 
 books:
   B_001:
@@ -5817,6 +5851,16 @@ books:
     language: fr
     isbn: 978-2-84304-879-1
     situation: Cork
+  B_386:
+    title: Beg, Borrow, or Steal
+    language: en
+    isbn: 9781035409129
+    situation: Ebook
+  B_387:
+    title: The Gentleman Bastard Sequence
+    language: en
+    isbn: 978-1-473-21446-0
+    situation: Ebook
 
 authors:
   A_001:
@@ -6416,6 +6460,8 @@ authors:
     name: Henning Mankell
   A_283:
     name: Gunnar Gunnarsson
+  A_284:
+    name: Scott Lynch
 
 series:
   S_001:
@@ -6803,4 +6849,26 @@ series:
       fr: Les Enfants du Désastres
     works:
       2: W_493
+  S_041:
+    name:
+      en: When in Rome
+    works:
+      1: W_489
+      2: W_490
+      3: W_497
+  S_042:
+    name:
+      en: Written in the Stars
+    works:
+      1: W_481
+      2: W_482
+      3: W_483
+  S_043:
+    name:
+      en: The Gentleman Bastard Sequence
+      fr: Les Salauds Gentilshommes
+    works:
+      1: W_498
+      2: W_499
+      3: W_500
 

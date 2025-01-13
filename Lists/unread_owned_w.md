@@ -10,6 +10,13 @@
   </thead>
   <tbody>
     <tr>
+      <td rowspan=1>Beg, Borrow, or Steal (en VO)</td>
+      <td></td>
+      <td rowspan=1>Sarah Adams</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>La Fée et le Géomètre (fr VO)</td>
       <td></td>
       <td rowspan=1>Jean-Pierre Andrevon</td>
@@ -584,6 +591,27 @@
       <td rowspan=1>Face au Vent (fr)</td>
       <td></td>
       <td rowspan=1>Jim Lynch</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Mensonges de Locke Lamora (fr)</td>
+      <td>The Lies of Locke Lamora (en VO)</td>
+      <td rowspan=1>Scott Lynch</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Des horizons rouge sang (fr)</td>
+      <td>Red Seas Under Red Skies (en VO)</td>
+      <td rowspan=1>Scott Lynch</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La République des voleurs (fr)</td>
+      <td>The Republic of Thieves (en VO)</td>
+      <td rowspan=1>Scott Lynch</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>

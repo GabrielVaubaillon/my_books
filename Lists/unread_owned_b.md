@@ -10,6 +10,13 @@
   </thead>
   <tbody>
     <tr>
+      <td colspan=2 rowspan=1>Beg, Borrow, or Steal</td>
+      <td rowspan=1>Sarah Adams</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>La Fée et le Géomètre</td>
       <td rowspan=1>Jean-Pierre Andrevon</td>
       <td rowspan=1>fr</td>
@@ -602,6 +609,20 @@
       <td rowspan=1>fr</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=3>The Gentleman Bastard Sequence</td>
+      <td>The Lies of Locke Lamora</td>
+      <td rowspan=3>Scott Lynch</td>
+      <td rowspan=3>en</td>
+      <td rowspan=3>Pas Lu</td>
+      <td rowspan=3>Ebook</td>
+    </tr>
+    <tr>
+      <td>Red Seas Under Red Skies</td>
+    </tr>
+    <tr>
+      <td>The Republic of Thieves</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>Le Chinois</td>

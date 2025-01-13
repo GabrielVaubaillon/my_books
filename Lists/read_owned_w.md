@@ -17,14 +17,14 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Practice Makes Perfect (en VO)</td>
+      <td rowspan=1>When in Rome (en VO)</td>
       <td></td>
       <td rowspan=1>Sarah Adams</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>When in Rome (en VO)</td>
+      <td rowspan=1>Practice Makes Perfect (en VO)</td>
       <td></td>
       <td rowspan=1>Sarah Adams</td>
       <td rowspan=1>Lu</td>
@@ -195,7 +195,7 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Count your Lucky Stars (en VO)</td>
+      <td rowspan=1>Written in the Stars (en VO)</td>
       <td></td>
       <td rowspan=1>Alexandria Bellefleur</td>
       <td rowspan=1>Lu</td>
@@ -209,7 +209,7 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Written in the Stars (en VO)</td>
+      <td rowspan=1>Count your Lucky Stars (en VO)</td>
       <td></td>
       <td rowspan=1>Alexandria Bellefleur</td>
       <td rowspan=1>Lu</td>
@@ -784,8 +784,8 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Love, Theoretically (en VO)</td>
-      <td></td>
+      <td rowspan=1>Love, Theoretically (fr)</td>
+      <td>Love, Theoretically (en VO)</td>
       <td rowspan=1>Ali Hazelwood</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
@@ -798,8 +798,8 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>The Love Hypothesis (en VO)</td>
-      <td></td>
+      <td rowspan=1>The Love Hypothesis (fr)</td>
+      <td>The Love Hypothesis (en VO)</td>
       <td rowspan=1>Ali Hazelwood</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
@@ -819,8 +819,8 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Never Rescue a Rogue (en VO)</td>
-      <td></td>
+      <td rowspan=1>Un Secret Explosif (fr)</td>
+      <td>Never Rescue a Rogue (en VO)</td>
       <td rowspan=1>Virgina Heath</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>

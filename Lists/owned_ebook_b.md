@@ -10,6 +10,13 @@
   </thead>
   <tbody>
     <tr>
+      <td colspan=2 rowspan=1>When in Rome</td>
+      <td rowspan=1>Sarah Adams</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Practice Makes Perfect</td>
       <td rowspan=1>Sarah Adams</td>
       <td rowspan=1>en</td>
@@ -17,10 +24,10 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
-      <td colspan=2 rowspan=1>When in Rome</td>
+      <td colspan=2 rowspan=1>Beg, Borrow, or Steal</td>
       <td rowspan=1>Sarah Adams</td>
       <td rowspan=1>en</td>
-      <td rowspan=1>Lu</td>
+      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
@@ -100,7 +107,7 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
-      <td colspan=2 rowspan=1>Count your Lucky Stars</td>
+      <td colspan=2 rowspan=1>Written in the Stars</td>
       <td rowspan=1>Alexandria Bellefleur</td>
       <td rowspan=1>en</td>
       <td rowspan=1>Lu</td>
@@ -114,7 +121,7 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
-      <td colspan=2 rowspan=1>Written in the Stars</td>
+      <td colspan=2 rowspan=1>Count your Lucky Stars</td>
       <td rowspan=1>Alexandria Bellefleur</td>
       <td rowspan=1>en</td>
       <td rowspan=1>Lu</td>
@@ -500,6 +507,20 @@
     </tr>
     <tr>
       <td>Speaking Bones</td>
+    </tr>
+    <tr>
+      <td colspan=1 rowspan=3>The Gentleman Bastard Sequence</td>
+      <td>The Lies of Locke Lamora</td>
+      <td rowspan=3>Scott Lynch</td>
+      <td rowspan=3>en</td>
+      <td rowspan=3>Pas Lu</td>
+      <td rowspan=3>Ebook</td>
+    </tr>
+    <tr>
+      <td>Red Seas Under Red Skies</td>
+    </tr>
+    <tr>
+      <td>The Republic of Thieves</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>A Court Of Thorns And Roses</td>
