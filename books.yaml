@@ -3894,6 +3894,14 @@ works:
     read: no
     books: B_387
     authors: A_284
+  W_501:
+    titles:
+      en: Japanese Myths & Legends
+      fr: Mythes et Légendes Japonais
+    language: en
+    read: no
+    books: B_388
+    authors:
 
 books:
   B_001:
@@ -5861,6 +5869,11 @@ books:
     language: en
     isbn: 978-1-473-21446-0
     situation: Ebook
+  B_388:
+    title: Japanese Myths & Legends
+    language: en
+    isbn: 978-1-83964-889-2
+    situation: Cork
 
 authors:
   A_001:
