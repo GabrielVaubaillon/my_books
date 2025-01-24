@@ -823,13 +823,6 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
-      <td colspan=2 rowspan=1>Wind and Truth</td>
-      <td rowspan=1>Brandon Sanderson</td>
-      <td rowspan=1>en</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Ebook</td>
-    </tr>
-    <tr>
       <td colspan=2 rowspan=1>Quentin Durward</td>
       <td rowspan=1>Walter Scott</td>
       <td rowspan=1>fr</td>

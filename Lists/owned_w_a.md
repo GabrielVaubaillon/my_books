@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td>Brandon Sanderson</td>
-      <td>19</td>
+      <td>20</td>
       <td>16</td>
       <td>12</td>
     </tr>

@@ -2144,6 +2144,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Wind and Truth (en VO)</td>
+      <td></td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Contes et légendes - La naissance de Rome (fr VO)</td>
       <td></td>
       <td rowspan=1>François Sautereau</td>
