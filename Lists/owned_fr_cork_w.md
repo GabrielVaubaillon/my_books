@@ -256,7 +256,7 @@
       <td rowspan=1>Le Monde Perdu (fr)</td>
       <td>The Lost World (en VO)</td>
       <td rowspan=1>Arthur Conan Doyle</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>

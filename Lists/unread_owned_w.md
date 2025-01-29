@@ -211,13 +211,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Le Monde Perdu (fr)</td>
-      <td>The Lost World (en VO)</td>
-      <td rowspan=1>Arthur Conan Doyle</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>Le Retour de Sherlock Holmes (fr)</td>
       <td>The Return of Sherlock Holmes (en VO)</td>
       <td rowspan=1>Arthur Conan Doyle</td>

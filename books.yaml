@@ -764,7 +764,7 @@ works:
       en: The Lost World
       fr: Le Monde Perdu
     language: en
-    read: no
+    read: yes
     books: B_073
     authors: A_063
   W_090:

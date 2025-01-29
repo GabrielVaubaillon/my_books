@@ -683,6 +683,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Le Monde Perdu (fr)</td>
+      <td>The Lost World (en VO)</td>
+      <td rowspan=1>Arthur Conan Doyle</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Signe des Quatres (fr)</td>
       <td>The Sign of Four (en VO)</td>
       <td rowspan=1>Arthur Conan Doyle</td>
