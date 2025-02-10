@@ -73,6 +73,7 @@ class Book:
         language: str,
         isbn: str,
         situation: str,
+        translators: str | None,
         notes: str | None,
     ):
         self.key: str = key
@@ -80,6 +81,7 @@ class Book:
         self.language: str = language
         self.isbn: str = isbn
         self.situation: str = situation
+        self.translators: str = translators if translators is not None else ""
         self.notes: str = notes if notes is not None else ""
 
         # Others attributes, created from Library
@@ -122,6 +124,7 @@ class Book:
             f"  isbn: {self.isbn}",
             f"  works: {self.works}",
             f"  authors: {self.authors}",
+            f"  translators: {self.translators}",
             f"  notes: {self.notes}",
             f"  serie_id: {self.serie_id}",
             f"  serie_position: {self.serie_position}",
@@ -233,6 +236,7 @@ class Library:
                 language=book["language"],
                 isbn=book["isbn"],
                 situation=book["situation"],
+                translators=book.get("situation", None),
                 notes=book.get("notes", None),
             )
 
@@ -628,6 +632,7 @@ def load(library_yaml: str) -> Library:
                         "language": yaml.Str(),
                         "isbn": yaml.Str(),
                         "situation": yaml.Str(),
+                        yaml.Optional("translators"): yaml.Str(),
                         yaml.Optional("notes"): yaml.Str(),
                     }
                 ),
