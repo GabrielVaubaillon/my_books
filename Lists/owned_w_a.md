@@ -370,7 +370,7 @@
     </tr>
     <tr>
       <td>Max Annas</td>
-      <td>0</td>
+      <td>1</td>
       <td>1</td>
       <td>1</td>
     </tr>
@@ -1030,7 +1030,7 @@
     </tr>
     <tr>
       <td>Jérôme Leroy</td>
-      <td>0</td>
+      <td>1</td>
       <td>1</td>
       <td>1</td>
     </tr>

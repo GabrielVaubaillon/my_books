@@ -17,13 +17,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Terminus Leipzig (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Max Annas / Jérôme Leroy</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>Nous les robots (fr)</td>
       <td>The complete Robot (en VO)</td>
       <td rowspan=1>Isaac Asimov</td>

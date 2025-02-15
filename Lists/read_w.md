@@ -94,6 +94,13 @@
       <td rowspan=1>Non possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Terminus Leipzig (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Max Annas / Jérôme Leroy</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Antigone (fr VO)</td>
       <td>Antigone (en)</td>
       <td rowspan=1>Jean Anouilh</td>

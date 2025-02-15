@@ -106,7 +106,7 @@ works:
     titles:
       fr: Terminus Leipzig
     language: fr
-    read: no
+    read: yes
     books: B_004
     authors: A_004;A_005
   W_005:

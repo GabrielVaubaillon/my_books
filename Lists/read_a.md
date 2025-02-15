@@ -393,6 +393,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Max Annas</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Jean Anouilh</td>
       <td>1</td>
       <td>0</td>
@@ -880,6 +886,12 @@
     </tr>
     <tr>
       <td>Donna Leon</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Jérôme Leroy</td>
       <td>1</td>
       <td>1</td>
       <td>1</td>

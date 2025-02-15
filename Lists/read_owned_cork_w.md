@@ -24,6 +24,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Terminus Leipzig (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Max Annas / Jérôme Leroy</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Perroquet qui Bégayait (fr)</td>
       <td>The Mystery of the Stuttering Parrot (en VO)</td>
       <td rowspan=1>Robert Arthur, Jr</td>

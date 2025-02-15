@@ -69,7 +69,7 @@
       <td rowspan=1>Terminus Leipzig (fr VO)</td>
       <td></td>
       <td rowspan=1>Max Annas / Jérôme Leroy</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
