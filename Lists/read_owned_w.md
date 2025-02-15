@@ -550,6 +550,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>La ceinture empoisonnée (fr)</td>
+      <td>The Poison Belt (en VO)</td>
+      <td rowspan=1>Arthur Conan Doyle</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Chien des Baskerville (fr)</td>
       <td>The Hound of the Baskervilles (en VO)</td>
       <td rowspan=1>Arthur Conan Doyle</td>

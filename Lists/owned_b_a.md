@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <td>Arthur Conan Doyle</td>
-      <td>5</td>
+      <td>6</td>
       <td>11</td>
       <td>4</td>
     </tr>

@@ -277,7 +277,7 @@
       <td colspan=2 rowspan=1>La ceinture empoisonnée</td>
       <td rowspan=1>Arthur Conan Doyle</td>
       <td rowspan=1>fr</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Cork</td>
     </tr>
     <tr>

@@ -756,7 +756,7 @@ works:
       fr: La ceinture empoisonnée
       en: The Poison Belt
     language: en
-    read: no
+    read: yes
     books: B_072
     authors: A_063
   W_089:

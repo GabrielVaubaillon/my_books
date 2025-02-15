@@ -131,13 +131,6 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
-      <td colspan=2 rowspan=1>La ceinture empoisonnée</td>
-      <td rowspan=1>Arthur Conan Doyle</td>
-      <td rowspan=1>fr</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Cork</td>
-    </tr>
-    <tr>
       <td colspan=1 rowspan=5>Sherlock Holmes - The Complete Novels and Stories - Volume One</td>
       <td>A Study in Scarlet</td>
       <td rowspan=5>Arthur Conan Doyle</td>

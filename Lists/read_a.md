@@ -63,6 +63,12 @@
       <td>6</td>
     </tr>
     <tr>
+      <td>Arthur Conan Doyle</td>
+      <td>6</td>
+      <td>11</td>
+      <td>4</td>
+    </tr>
+    <tr>
       <td>Frank Herbert</td>
       <td>6</td>
       <td>6</td>
@@ -97,12 +103,6 @@
       <td>5</td>
       <td>5</td>
       <td>1</td>
-    </tr>
-    <tr>
-      <td>Arthur Conan Doyle</td>
-      <td>5</td>
-      <td>11</td>
-      <td>4</td>
     </tr>
     <tr>
       <td>Ali Hazelwood</td>
