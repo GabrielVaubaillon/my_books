@@ -3867,7 +3867,7 @@ works:
     titles:
       en: Beg, Borrow, or Steal
     language: en
-    read: no
+    read: yes
     books: B_386
     authors: A_279
   W_498:

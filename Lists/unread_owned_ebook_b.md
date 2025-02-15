@@ -10,13 +10,6 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan=2 rowspan=1>Beg, Borrow, or Steal</td>
-      <td rowspan=1>Sarah Adams</td>
-      <td rowspan=1>en</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Ebook</td>
-    </tr>
-    <tr>
       <td colspan=2 rowspan=1>Emma</td>
       <td rowspan=1>Jane Austen</td>
       <td rowspan=1>en</td>

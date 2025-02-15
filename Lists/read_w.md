@@ -31,6 +31,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Beg, Borrow, or Steal (en VO)</td>
+      <td></td>
+      <td rowspan=1>Sarah Adams</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Tout ce que je sais sur l'amour (fr)</td>
       <td>Everything I know about love (en VO)</td>
       <td rowspan=1>Dolly Alderton</td>

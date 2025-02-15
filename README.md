@@ -4,16 +4,16 @@ Les liens donnent accès au tableau détaillé correspondant.
 
 - Toutes les oeuvres, lues et/ou possédées: [501](Lists/all_w.md)
 - Tous les livres: [386](Lists/all_b.md)
-- Oeuvres lues: [368](Lists/read_w.md)
-- Livres à lire: [113](Lists/unread_owned_b.md)
+- Oeuvres lues: [369](Lists/read_w.md)
+- Livres à lire: [112](Lists/unread_owned_b.md)
 - Livres numériques: [86](Lists/owned_ebook_b.md)
 
 ## Ma bibliothèque
 
 - [386](Lists/owned_b.md) livres,
 - [415 (82.83%)](Lists/owned_w.md) oeuvres.
-- Oeuvres lues: [282 (67.95%)](Lists/read_owned_w.md) (reparties en [276 (71.5%)](Lists/read_owned_b.md) livres).
-- Oeuvres non lues : [133 (32.05%)](Lists/unread_owned_w.md) (reparties en [113 (29.27%)](Lists/unread_owned_b.md) livres).
+- Oeuvres lues: [283 (68.19%)](Lists/read_owned_w.md) (reparties en [277 (71.76%)](Lists/read_owned_b.md) livres).
+- Oeuvres non lues : [132 (31.81%)](Lists/unread_owned_w.md) (reparties en [112 (29.02%)](Lists/unread_owned_b.md) livres).
 - Livres en Français : [256 (66.32%)](Lists/owned_fr_b.md) (contenant [277 (66.75%)](Lists/owned_fr_w.md) oeuvres).
 - Livres en Anglais : [128 (33.16%)](Lists/owned_en_b.md) (contenant [147 (35.42%)](Lists/owned_en_w.md) oeuvres).
 - Livres en Irlandais : [2 (0.52%)](Lists/owned_ga_b.md) (contenant [2 (0.48%)](Lists/owned_ga_w.md) oeuvres).
@@ -37,17 +37,17 @@ Les liens donnent accès au tableau détaillé correspondant.
 - Ebook:
     - [86 (22.28%)](Lists/owned_ebook_b.md) livres,
     - [129 (31.08%)](Lists/owned_ebook_w.md) oeuvres.
-    - Oeuvres lues: [116 (89.92%)](Lists/read_owned_ebook_w.md) (reparties en [78 (90.7%)](Lists/read_owned_ebook_b.md) livres).
-    - Oeuvres non lues : [36 (27.91%)](Lists/unread_owned_ebook_w.md) (reparties en [9 (10.47%)](Lists/unread_owned_ebook_b.md) livres).
+    - Oeuvres lues: [117 (90.7%)](Lists/read_owned_ebook_w.md) (reparties en [79 (91.86%)](Lists/read_owned_ebook_b.md) livres).
+    - Oeuvres non lues : [35 (27.13%)](Lists/unread_owned_ebook_w.md) (reparties en [8 (9.3%)](Lists/unread_owned_ebook_b.md) livres).
     - Livres en Français : [13 (15.12%)](Lists/owned_fr_ebook_b.md) (contenant [36 (27.91%)](Lists/owned_fr_ebook_w.md) oeuvres).
     - Livres en Anglais : [73 (84.88%)](Lists/owned_en_ebook_b.md) (contenant [93 (72.09%)](Lists/owned_en_ebook_w.md) oeuvres).
     - Livres en Irlandais : 0 (contenant 0 oeuvres).
 
 ## Mes lectures
 
-- [368](Lists/read_w.md) oeuvres lues.
-- Oeuvres lues et possédées: [282 (76.63%)](Lists/read_owned_w.md) (reparties en [276](Lists/read_owned_b.md) livres).
-- Oeuvres lues et non possédées: [86 (23.37%)](Lists/read_not_owned_w.md)
+- [369](Lists/read_w.md) oeuvres lues.
+- Oeuvres lues et possédées: [283 (76.69%)](Lists/read_owned_w.md) (reparties en [277](Lists/read_owned_b.md) livres).
+- Oeuvres lues et non possédées: [86 (23.31%)](Lists/read_not_owned_w.md)
 - Auteur·rice·s lu·e·s: [207 (72.89%)](Lists/read_a.md)
 
 ## Autres

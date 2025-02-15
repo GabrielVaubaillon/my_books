@@ -10,13 +10,6 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan=2 rowspan=1>Beg, Borrow, or Steal</td>
-      <td rowspan=1>Sarah Adams</td>
-      <td rowspan=1>en</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Ebook</td>
-    </tr>
-    <tr>
       <td colspan=2 rowspan=1>La Fée et le Géomètre</td>
       <td rowspan=1>Jean-Pierre Andrevon</td>
       <td rowspan=1>fr</td>
