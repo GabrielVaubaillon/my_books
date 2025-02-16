@@ -2,6 +2,8 @@ from pathlib import Path
 
 import library as lib
 
+from html_tables import works_table, books_table, authors_table
+
 
 def create_collections(library: lib.Library) -> dict[str, set[str]]:
     collections = {
@@ -86,17 +88,17 @@ def dump_collections(library: lib.Library, collections: dict[str, set[str]], out
     for name, ids in collections.items():
         file_content: str
         if name.endswith("_w"):
-            file_content = library.works_html_table(works_ids=ids)
+            file_content = works_table(library=library, works_ids=ids)
         elif name.endswith("_b"):
-            file_content = library.books_html_table(books_ids=ids)
+            file_content = books_table(library=library, books_ids=ids)
         elif name == "all_a":
-            file_content = library.authors_html_table(authors_ids=ids)
+            file_content = authors_table(library=library, authors_ids=ids)
         elif name == "read_a":
-            file_content = library.authors_html_table(authors_ids=ids, sorting="read")
+            file_content = authors_table(library=library, authors_ids=ids, sorting="read")
         elif name == "owned_b_a":
-            file_content = library.authors_html_table(authors_ids=ids, sorting="owned_b")
+            file_content = authors_table(library=library, authors_ids=ids, sorting="owned_b")
         elif name == "owned_w_a":
-            file_content = library.authors_html_table(authors_ids=ids, sorting="owned_w")
+            file_content = authors_table(library=library, authors_ids=ids, sorting="owned_w")
         else:
             # TODO: better handling (but dev side so not high priority)
             print("ERROR, collection not recognized:", name)
