@@ -236,7 +236,7 @@ class Library:
                 language=book["language"],
                 isbn=book["isbn"],
                 situation=book["situation"],
-                translators=book.get("situation", None),
+                translators=book.get("translators", None),
                 notes=book.get("notes", None),
             )
 
