@@ -247,13 +247,6 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
-      <td colspan=2 rowspan=1>Le Berger de l'Avent</td>
-      <td rowspan=1>Gunnar Gunnarsson</td>
-      <td rowspan=1>fr</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Cork</td>
-    </tr>
-    <tr>
       <td colspan=2 rowspan=1>Pour qui Sonne le Glas</td>
       <td rowspan=1>Ernest Hemingway</td>
       <td rowspan=1>fr</td>

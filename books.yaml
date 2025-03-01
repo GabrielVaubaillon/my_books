@@ -3860,7 +3860,7 @@ works:
       fr: Le Berger de l'Avent
       is: Advent
     language: is
-    read: no
+    read: yes
     books: B_385
     authors: A_283
   W_497:
