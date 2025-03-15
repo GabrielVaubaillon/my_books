@@ -1054,7 +1054,7 @@
     </tr>
     <tr>
       <td>Scott Lynch</td>
-      <td>0</td>
+      <td>1</td>
       <td>3</td>
       <td>1</td>
     </tr>

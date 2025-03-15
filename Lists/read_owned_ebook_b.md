@@ -464,6 +464,22 @@
       <td>The Other Wind</td>
     </tr>
     <tr>
+      <td colspan=1 rowspan=3>The Gentleman Bastard Sequence</td>
+      <td>The Lies of Locke Lamora</td>
+      <td rowspan=3>Scott Lynch</td>
+      <td rowspan=3>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=3>Ebook</td>
+    </tr>
+    <tr>
+      <td>Red Seas Under Red Skies</td>
+      <td>Pas Lu</td>
+    </tr>
+    <tr>
+      <td>The Republic of Thieves</td>
+      <td>Pas Lu</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>A Court Of Thorns And Roses</td>
       <td rowspan=1>Sarah J. Maas</td>
       <td rowspan=1>en</td>

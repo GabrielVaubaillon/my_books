@@ -3875,7 +3875,7 @@ works:
       en: The Lies of Locke Lamora
       fr: Les Mensonges de Locke Lamora
     language: en
-    read: no
+    read: yes
     books: B_387
     authors: A_284
   W_499:

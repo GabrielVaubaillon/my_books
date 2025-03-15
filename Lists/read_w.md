@@ -1427,6 +1427,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Les Mensonges de Locke Lamora (fr)</td>
+      <td>The Lies of Locke Lamora (en VO)</td>
+      <td rowspan=1>Scott Lynch</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Un palais d'épines et de roses (fr)</td>
       <td>A Court Of Thorns And Roses (en VO)</td>
       <td rowspan=1>Sarah J. Maas</td>

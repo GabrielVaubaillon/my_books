@@ -387,7 +387,7 @@
       <td rowspan=1>Les Mensonges de Locke Lamora (fr)</td>
       <td>The Lies of Locke Lamora (en VO)</td>
       <td rowspan=1>Scott Lynch</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
