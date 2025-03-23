@@ -3934,6 +3934,14 @@ works:
     read: no
     books: B_395
     authors: A_138
+  W_506:
+    titles:
+      en: A Language of Dragons
+      fr: A Language of Dragons
+    language: en
+    read: no
+    books: B_396
+    authors: A_286
 
 books:
   B_001:
@@ -5942,6 +5950,11 @@ books:
     language: en
     isbn: 978-0-141-19960-3
     situation: Cork
+  B_396:
+    title: A Language of Dragons
+    language: en
+    isbn: 978-0-06-335382-4
+    situation: Ebook
 
 authors:
   A_001:
@@ -6545,6 +6558,8 @@ authors:
     name: Scott Lynch
   A_285:
     name: Oscar Wilde
+  A_286:
+    name: S. F. Williamson
 
 series:
   S_001:

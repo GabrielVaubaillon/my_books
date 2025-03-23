@@ -3448,6 +3448,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>A Language of Dragons (fr)</td>
+      <td>A Language of Dragons (en VO)</td>
+      <td rowspan=1>S. F. Williamson</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>The Salt Path (en VO)</td>
       <td></td>
       <td rowspan=1>Raynor Winn</td>
