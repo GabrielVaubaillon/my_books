@@ -1250,6 +1250,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Le Portrait de Dorian Gray (fr)</td>
+      <td>The Picture of Dorian Gray (en VO)</td>
+      <td rowspan=1>Oscar Wilde</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>The Salt Path (en VO)</td>
       <td></td>
       <td rowspan=1>Raynor Winn</td>

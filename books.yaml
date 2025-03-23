@@ -3918,6 +3918,14 @@ works:
     read: no
     books: B_393
     authors: A_044
+  W_504:
+    titles:
+      en: The Picture of Dorian Gray
+      fr: Le Portrait de Dorian Gray
+    language: en
+    read: no
+    books: B_394
+    authors: A_285
 
 books:
   B_001:
@@ -5916,6 +5924,11 @@ books:
     language: en
     isbn: 978-0702-34057-4
     situation: Cork
+  B_394:
+    title: The Picture of Dorian Gray
+    language: en
+    isbn: 978-0-141-44246-4
+    situation: Cork
 
 authors:
   A_001:
@@ -6517,6 +6530,8 @@ authors:
     name: Gunnar Gunnarsson
   A_284:
     name: Scott Lynch
+  A_285:
+    name: Oscar Wilde
 
 series:
   S_001:

@@ -1689,6 +1689,12 @@
       <td>2</td>
     </tr>
     <tr>
+      <td>Oscar Wilde</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Raynor Winn</td>
       <td>0</td>
       <td>1</td>
