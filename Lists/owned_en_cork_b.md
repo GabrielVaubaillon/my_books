@@ -238,6 +238,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Moby-Dick</td>
+      <td rowspan=1>Herman Melville</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Animal Farm</td>
       <td rowspan=1>George Orwell</td>
       <td rowspan=1>en</td>

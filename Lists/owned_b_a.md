@@ -1101,6 +1101,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Herman Melville</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Hugues Micol</td>
       <td>1</td>
       <td>1</td>

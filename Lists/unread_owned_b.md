@@ -643,6 +643,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Moby-Dick</td>
+      <td rowspan=1>Herman Melville</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Mes amis les loups</td>
       <td rowspan=1>Farley Mowat</td>
       <td rowspan=1>fr</td>

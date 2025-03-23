@@ -2169,6 +2169,13 @@
       <td rowspan=1>Non possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Moby-Dick (fr)</td>
+      <td>Moby-Dick (en VO)</td>
+      <td rowspan=1>Herman Melville</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>La Vénus d'Ille (fr VO)</td>
       <td></td>
       <td rowspan=1>Prosper Mérimée</td>

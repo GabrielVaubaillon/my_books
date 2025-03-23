@@ -626,6 +626,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Moby-Dick (fr)</td>
+      <td>Moby-Dick (en VO)</td>
+      <td rowspan=1>Herman Melville</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Mes amis les loups (fr)</td>
       <td>Never Cry Wolf (en VO)</td>
       <td rowspan=1>Farley Mowat</td>

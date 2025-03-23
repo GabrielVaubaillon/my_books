@@ -3926,6 +3926,14 @@ works:
     read: no
     books: B_394
     authors: A_285
+  W_505:
+    titles:
+      en: Moby-Dick
+      fr: Moby-Dick
+    language: en
+    read: no
+    books: B_395
+    authors: A_138
 
 books:
   B_001:
@@ -5928,6 +5936,11 @@ books:
     title: The Picture of Dorian Gray
     language: en
     isbn: 978-0-141-44246-4
+    situation: Cork
+  B_395:
+    title: Moby-Dick
+    language: en
+    isbn: 978-0-141-19960-3
     situation: Cork
 
 authors:
