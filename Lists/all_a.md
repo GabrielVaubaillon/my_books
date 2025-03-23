@@ -371,8 +371,8 @@
     <tr>
       <td>Suzanne Collins</td>
       <td>3</td>
-      <td>0</td>
-      <td>0</td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>Carlo Collodi</td>

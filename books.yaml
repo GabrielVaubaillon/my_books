@@ -574,7 +574,7 @@ works:
       fr: Hunger Games
     language: en
     read: yes
-    books:
+    books: B_389
     authors: A_044
   W_065:
     titles:
@@ -582,7 +582,7 @@ works:
       fr: L'Embrasement
     language: en
     read: yes
-    books:
+    books: B_390
     authors: A_044
   W_066:
     titles:
@@ -590,7 +590,7 @@ works:
       fr: La Révolte
     language: en
     read: yes
-    books:
+    books: B_391
     authors: A_044
   W_067:
     titles:
@@ -3902,6 +3902,22 @@ works:
     read: no
     books: B_388
     authors:
+  W_502:
+    titles:
+      en: The Ballad of Songbirds and Snakes
+      fr: "Hunger Games : La Ballade du serpent et de l'oiseau chanteur"
+    language: en
+    read: no
+    books: B_392
+    authors: A_044
+  W_503:
+    titles:
+      en: Sunrise on the Reaping
+      fr: Lever de Soleil sur la Moisson
+    language: en
+    read: no
+    books: B_393
+    authors: A_044
 
 books:
   B_001:
@@ -5875,6 +5891,31 @@ books:
     language: en
     isbn: 978-1-83964-889-2
     situation: Cork
+  B_389:
+    title: The Hunger Games
+    language: en
+    isbn: 978-0702-34238-7
+    situation: Cork
+  B_390:
+    title: Catching Fire
+    language: en
+    isbn: 978-0702-34239-4
+    situation: Cork
+  B_391:
+    title: Mockingjay
+    language: en
+    isbn: 978-0702-34240-0
+    situation: Cork
+  B_392:
+    title: The Ballad of Songbirds and Snakes
+    language: en
+    isbn: 978-0702-34237-0
+    situation: Cork
+  B_393:
+    title: Sunrise on the Reaping
+    language: en
+    isbn: 978-0702-34057-4
+    situation: Cork
 
 authors:
   A_001:
@@ -6536,6 +6577,8 @@ series:
       1: W_064
       2: W_065
       3: W_066
+      4: W_502
+      5: W_503
   S_007:
     name:
       en: The Chronicles of Spiderwick

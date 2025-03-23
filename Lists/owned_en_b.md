@@ -213,6 +213,41 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Hunger Games</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Catching Fire</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mockingjay</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Ballad of Songbirds and Snakes</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Sunrise on the Reaping</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Leviathan Wakes</td>
       <td rowspan=1>James S. A. Corey</td>
       <td rowspan=1>en</td>

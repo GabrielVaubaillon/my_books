@@ -149,6 +149,27 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Hunger Games (fr)</td>
+      <td>The Hunger Games (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'Embrasement (fr)</td>
+      <td>Catching Fire (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Révolte (fr)</td>
+      <td>Mockingjay (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Contes des indiens du Chiapas (fr VO)</td>
       <td></td>
       <td rowspan=1>Baptiste Condominas</td>

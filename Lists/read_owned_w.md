@@ -428,6 +428,27 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Hunger Games (fr)</td>
+      <td>The Hunger Games (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'Embrasement (fr)</td>
+      <td>Catching Fire (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Révolte (fr)</td>
+      <td>Mockingjay (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=2>Les aventures de Pinocchio (fr)</td>
       <td>The Adventures of Pinocchio (en)</td>
       <td rowspan=2>Carlo Collodi</td>

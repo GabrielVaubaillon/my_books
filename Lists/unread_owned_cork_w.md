@@ -96,6 +96,20 @@
       <td>O Alquimista (pt VO)</td>
     </tr>
     <tr>
+      <td rowspan=1>Hunger Games : La Ballade du serpent et de l'oiseau chanteur (fr)</td>
+      <td>The Ballad of Songbirds and Snakes (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Lever de Soleil sur la Moisson (fr)</td>
+      <td>Sunrise on the Reaping (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Histoire populaire des sciences (fr)</td>
       <td></td>
       <td rowspan=1>Clifford D. Conner</td>

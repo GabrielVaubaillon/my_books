@@ -216,6 +216,41 @@
       <td>O Alquimista (pt VO)</td>
     </tr>
     <tr>
+      <td rowspan=1>Hunger Games (fr)</td>
+      <td>The Hunger Games (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'Embrasement (fr)</td>
+      <td>Catching Fire (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Révolte (fr)</td>
+      <td>Mockingjay (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Hunger Games : La Ballade du serpent et de l'oiseau chanteur (fr)</td>
+      <td>The Ballad of Songbirds and Snakes (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Lever de Soleil sur la Moisson (fr)</td>
+      <td>Sunrise on the Reaping (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>L'Éveil du Léviathan (fr)</td>
       <td>Leviathan Wakes (en VO)</td>
       <td rowspan=1>James S. A. Corey</td>

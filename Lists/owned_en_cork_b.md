@@ -66,6 +66,41 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Hunger Games</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Catching Fire</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mockingjay</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Ballad of Songbirds and Snakes</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Sunrise on the Reaping</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=1 rowspan=5>Sherlock Holmes - The Complete Novels and Stories - Volume One</td>
       <td>A Study in Scarlet</td>
       <td rowspan=5>Arthur Conan Doyle</td>
