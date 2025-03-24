@@ -240,45 +240,10 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Le Retour de Sherlock Holmes (fr)</td>
-      <td>The Return of Sherlock Holmes (en VO)</td>
-      <td rowspan=1>Arthur Conan Doyle</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>Le Signe des Quatres (fr)</td>
       <td>The Sign of Four (en VO)</td>
       <td rowspan=1>Arthur Conan Doyle</td>
       <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Les Archives de Sherlock Holmes (fr)</td>
-      <td>The Case-Book of Sherlock Holmes (en VO)</td>
-      <td rowspan=1>Arthur Conan Doyle</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Les Aventures de Sherlock Holmes (fr)</td>
-      <td>The Adventures of Sherlock Holmes (en VO)</td>
-      <td rowspan=1>Arthur Conan Doyle</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Les Mémoires de Sherlock Holmes (fr)</td>
-      <td>The Memoirs of Sherlock Holmes (en VO)</td>
-      <td rowspan=1>Arthur Conan Doyle</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Son dernier coup d’archet (fr)</td>
-      <td>His Last Bow (en VO)</td>
-      <td rowspan=1>Arthur Conan Doyle</td>
-      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>

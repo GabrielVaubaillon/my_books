@@ -38,13 +38,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Arsène Lupin, Gentleman-Cambrioleur (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>L'Île au Trente Cerceuils (fr VO)</td>
       <td></td>
       <td rowspan=1>Maurice Leblanc</td>
@@ -115,13 +108,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Arsène Lupin contre Herlock Sholmès (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>Le Cabochon d'Emeraude (fr VO)</td>
       <td></td>
       <td rowspan=1>Maurice Leblanc</td>
@@ -157,41 +143,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>L'Aiguille Creuse (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>813 (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Le Bouchon de Cristal (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Les Confidences d'Arsène Lupin (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>L'Éclat d'Obus (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>Le Triangle d'Or (fr VO)</td>
       <td></td>
       <td rowspan=1>Maurice Leblanc</td>
@@ -224,13 +175,6 @@
       <td></td>
       <td rowspan=1>Ken Liu</td>
       <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Les Mensonges de Locke Lamora (fr)</td>
-      <td>The Lies of Locke Lamora (en VO)</td>
-      <td rowspan=1>Scott Lynch</td>
-      <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>

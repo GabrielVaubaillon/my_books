@@ -369,115 +369,10 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>L'Île au Trente Cerceuils (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Les Dents du Tigre (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Les Huit Coups de l'Horloge (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>La Comtesse de Cagliostro (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Les Dents d'Hercule Petitgris (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>La Demoiselle aux Yeux Verts (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>L'Homme à la Peau de Bique (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>L'Agence Barnett et Cie (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>La Demeure Mystérieuse (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>La Barre-y-va (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>Arsène Lupin contre Herlock Sholmès (fr VO)</td>
       <td></td>
       <td rowspan=1>Maurice Leblanc</td>
       <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Le Cabochon d'Emeraude (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>La Femme aux Deux Sourires (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Victor de la Brigade Mondaine (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Le Cagliostro se Venge (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Les Milliards d'Arsène Lupin (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
@@ -513,13 +408,6 @@
       <td></td>
       <td rowspan=1>Maurice Leblanc</td>
       <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Le Triangle d'Or (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Maurice Leblanc</td>
-      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
@@ -576,20 +464,6 @@
       <td>The Lies of Locke Lamora (en VO)</td>
       <td rowspan=1>Scott Lynch</td>
       <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Des horizons rouge sang (fr)</td>
-      <td>Red Seas Under Red Skies (en VO)</td>
-      <td rowspan=1>Scott Lynch</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>La République des voleurs (fr)</td>
-      <td>The Republic of Thieves (en VO)</td>
-      <td rowspan=1>Scott Lynch</td>
-      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>

@@ -67,9 +67,9 @@ def create_collections(library: lib.Library) -> dict[str, set[str]]:
                 for w_id in book.works:
                     collections[f"owned_{book.language}_{sit}_w"].add(w_id)
                     collections[f"owned_{sit}_w"].add(w_id)
-                    if book.partial_read:
+                    if library.works[w_id].read:
                         collections[f"read_owned_{sit}_w"].add(w_id)
-                    if not book.fully_read:
+                    else:
                         collections[f"unread_owned_{sit}_w"].add(w_id)
     return collections
 
