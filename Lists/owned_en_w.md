@@ -199,9 +199,16 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Jonathan Strange et Mr Norrell (en VO)</td>
+      <td></td>
+      <td rowspan=1>Susanna Clarke</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Piranèse (fr)</td>
       <td>Piranesi (en VO)</td>
-      <td rowspan=1>Susana Clarke</td>
+      <td rowspan=1>Susanna Clarke</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>

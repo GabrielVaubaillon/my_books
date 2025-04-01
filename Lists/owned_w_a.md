@@ -231,6 +231,12 @@
       <td>2</td>
     </tr>
     <tr>
+      <td>Susanna Clarke</td>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
       <td>Stéphane Descornes</td>
       <td>2</td>
       <td>2</td>
@@ -551,12 +557,6 @@
     <tr>
       <td>Eliza Clarke</td>
       <td>0</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Susana Clarke</td>
-      <td>1</td>
       <td>1</td>
       <td>1</td>
     </tr>

@@ -152,7 +152,7 @@
     <tr>
       <td rowspan=1>Piranèse (fr)</td>
       <td>Piranesi (en VO)</td>
-      <td rowspan=1>Susana Clarke</td>
+      <td rowspan=1>Susanna Clarke</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>

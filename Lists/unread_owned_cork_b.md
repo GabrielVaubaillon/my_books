@@ -80,6 +80,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Jonathan Strange et Mr Norrell</td>
+      <td rowspan=1>Susanna Clarke</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>The Alchemist</td>
       <td rowspan=1>Paul Coelho</td>
       <td rowspan=1>en</td>

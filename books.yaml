@@ -3949,6 +3949,13 @@ works:
     read: no
     books: B_397
     authors: A_287
+  W_508:
+    titles:
+      en: Jonathan Strange et Mr Norrell
+    language: en
+    read: no
+    books: B_398
+    authors: A_041
 
 books:
   B_001:
@@ -5967,6 +5974,11 @@ books:
     language: en
     isbn: 978-1-5387-4087-3
     situation: Cork
+  B_398:
+    title: Jonathan Strange et Mr Norrell
+    language: en
+    isbn: 978-1-5266-7905-5
+    situation: Cork
 
 authors:
   A_001:
@@ -6055,7 +6067,7 @@ authors:
   A_040:
     name: Arthur C. Clarke
   A_041:
-    name: Susana Clarke
+    name: Susanna Clarke
   A_042:
     name: Linda Cline
   A_043:
