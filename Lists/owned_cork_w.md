@@ -480,6 +480,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>When we were Sisters (en VO)</td>
+      <td></td>
+      <td rowspan=1>Cynthia Ellingsen</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Les Oiseaux du temps (fr)</td>
       <td>This Is How You Lose the Time War (en VO)</td>
       <td rowspan=1>Amal El-Mothar / Max Gladstone</td>

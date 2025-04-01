@@ -208,6 +208,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>When we were Sisters (en VO)</td>
+      <td></td>
+      <td rowspan=1>Cynthia Ellingsen</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Crépuscule et l'Aube (fr)</td>
       <td>The Evening and the Morning (en VO)</td>
       <td rowspan=1>Ken Follett</td>

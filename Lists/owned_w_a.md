@@ -705,6 +705,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Cynthia Ellingsen</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Amal El-Mothar</td>
       <td>1</td>
       <td>1</td>

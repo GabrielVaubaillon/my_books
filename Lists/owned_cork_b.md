@@ -430,6 +430,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>When we were Sisters</td>
+      <td rowspan=1>Cynthia Ellingsen</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>This Is How You Lose the Time War</td>
       <td rowspan=1>Amal El-Mothar / Max Gladstone</td>
       <td rowspan=1>en</td>
