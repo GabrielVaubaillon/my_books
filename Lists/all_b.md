@@ -441,6 +441,34 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Long Way to a Small, Angry Planet</td>
+      <td rowspan=1>Becky Chambers</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>A Closed and Common Orbit</td>
+      <td rowspan=1>Becky Chambers</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Record of a Spaceborn Few</td>
+      <td rowspan=1>Becky Chambers</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Galaxy, and the Ground Within</td>
+      <td rowspan=1>Becky Chambers</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Exhalation</td>
       <td rowspan=1>Ted Chiang</td>
       <td rowspan=1>en</td>

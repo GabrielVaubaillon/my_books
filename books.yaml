@@ -3956,6 +3956,38 @@ works:
     read: no
     books: B_398
     authors: A_041
+  W_509:
+    titles:
+      en: The Long Way to a Small, Angry Planet
+      fr: L'Espace d'un an
+    language: en
+    read: no
+    books: B_399
+    authors: A_037
+  W_510:
+    titles:
+      en: A Closed and Common Orbit
+      fr: Libration
+    language: en
+    read: no
+    books: B_400
+    authors: A_037
+  W_511:
+    titles:
+      en: Record of a Spaceborn Few
+      fr: Archives de l'exode
+    language: en
+    read: no
+    books: B_401
+    authors: A_037
+  W_512:
+    titles:
+      en: The Galaxy, and the Ground Within
+      fr: La Galaxie vue du sol
+    language: en
+    read: no
+    books: B_402
+    authors: A_037
 
 books:
   B_001:
@@ -5979,6 +6011,26 @@ books:
     language: en
     isbn: 978-1-5266-7905-5
     situation: Cork
+  B_399:
+    title: The Long Way to a Small, Angry Planet
+    language: en
+    isbn: 978-1-473-61981-4
+    situation: Cork
+  B_400:
+    title: A Closed and Common Orbit
+    language: en
+    isbn: 978-1-473-62147-3
+    situation: Cork
+  B_401:
+    title: Record of a Spaceborn Few
+    language: en
+    isbn: 978-1-473-64764-0
+    situation: Cork
+  B_402:
+    title: The Galaxy, and the Ground Within
+    language: en
+    isbn: 978-1-473-64768-8
+    situation: Cork
 
 authors:
   A_001:
@@ -6997,4 +7049,13 @@ series:
       1: W_498
       2: W_499
       3: W_500
+  S_044:
+    name:
+      en: Wayfarers
+      fr: Les Voyageurs
+    works:
+      1: W_509
+      2: W_510
+      3: W_511
+      4: W_512
 

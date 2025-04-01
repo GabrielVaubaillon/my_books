@@ -57,6 +57,12 @@
       <td>6</td>
     </tr>
     <tr>
+      <td>Becky Chambers</td>
+      <td>2</td>
+      <td>6</td>
+      <td>6</td>
+    </tr>
+    <tr>
       <td>Frank Herbert</td>
       <td>6</td>
       <td>6</td>
@@ -196,12 +202,6 @@
     </tr>
     <tr>
       <td>Ray Bradbury</td>
-      <td>2</td>
-      <td>2</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Becky Chambers</td>
       <td>2</td>
       <td>2</td>
       <td>2</td>
