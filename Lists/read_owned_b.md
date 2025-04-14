@@ -2161,6 +2161,13 @@
       <td rowspan=1>Antony</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>A Language of Dragons</td>
+      <td rowspan=1>S. F. Williamson</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Caïus et le gladiateur</td>
       <td rowspan=1>Henry Winterfield</td>
       <td rowspan=1>fr</td>

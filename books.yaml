@@ -3939,7 +3939,7 @@ works:
       en: A Language of Dragons
       fr: A Language of Dragons
     language: en
-    read: no
+    read: yes
     books: B_396
     authors: A_286
   W_507:

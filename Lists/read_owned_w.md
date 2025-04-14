@@ -2004,6 +2004,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>A Language of Dragons (fr)</td>
+      <td>A Language of Dragons (en VO)</td>
+      <td rowspan=1>S. F. Williamson</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Caïus et le gladiateur (fr)</td>
       <td>Caius geht ein Licht auf (de VO)</td>
       <td rowspan=1>Henry Winterfield</td>

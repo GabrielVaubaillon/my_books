@@ -670,7 +670,7 @@
       <td rowspan=1>A Language of Dragons (fr)</td>
       <td>A Language of Dragons (en VO)</td>
       <td rowspan=1>S. F. Williamson</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
   </tbody>

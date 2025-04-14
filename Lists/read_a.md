@@ -1269,6 +1269,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>S. F. Williamson</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Stefan Zweig</td>
       <td>1</td>
       <td>1</td>
