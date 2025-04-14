@@ -1155,6 +1155,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Randall Munroe</td>
+      <td>0</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
       <td>Amélie Nothomb</td>
       <td>1</td>
       <td>0</td>

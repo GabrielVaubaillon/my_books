@@ -3988,6 +3988,29 @@ works:
     read: no
     books: B_402
     authors: A_037
+  W_513:
+    titles:
+      en: What if?
+      fr: Et si...?
+    language: en
+    read: no
+    books: B_403
+    authors: A_288
+  W_514:
+    titles:
+      en: What if? 2
+    language: en
+    read: no
+    books: B_404
+    authors: A_288
+  W_515:
+    titles:
+      en: How To
+      fr: Et Comment...?
+    language: en
+    read: no
+    books: B_405
+    authors: A_288
 
 books:
   B_001:
@@ -6031,6 +6054,21 @@ books:
     language: en
     isbn: 978-1-473-64768-8
     situation: Cork
+  B_403:
+    title: What if?
+    language: en
+    isbn: 978-1-84854-956-2
+    situation: Cork
+  B_404:
+    title: What if? 2
+    language: en
+    isbn: 978-1-39981-114-9
+    situation: Cork
+  B_405:
+    title: How To
+    language: en
+    isbn: 978-1-473-68034-0
+    situation: Cork
 
 authors:
   A_001:
@@ -6638,6 +6676,8 @@ authors:
     name: S. F. Williamson
   A_287:
     name: Cynthia Ellingsen
+  A_288:
+    name: Randall Munroe
 
 series:
   S_001:

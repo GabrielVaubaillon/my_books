@@ -1906,6 +1906,27 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>How To</td>
+      <td rowspan=1>Randall Munroe</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>What if?</td>
+      <td rowspan=1>Randall Munroe</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>What if? 2</td>
+      <td rowspan=1>Randall Munroe</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Z comme Zacharie</td>
       <td rowspan=1>Robert C. O'Brien</td>
       <td rowspan=1>fr</td>
