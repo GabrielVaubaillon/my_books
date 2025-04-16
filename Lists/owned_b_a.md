@@ -159,6 +159,12 @@
       <td>3</td>
     </tr>
     <tr>
+      <td>Mark Lawrence</td>
+      <td>2</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
       <td>Maurice Leblanc</td>
       <td>7</td>
       <td>23</td>
@@ -166,7 +172,7 @@
     </tr>
     <tr>
       <td>Randall Munroe</td>
-      <td>0</td>
+      <td>1</td>
       <td>3</td>
       <td>3</td>
     </tr>
@@ -263,12 +269,6 @@
     <tr>
       <td>Christian Grenier</td>
       <td>3</td>
-      <td>2</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Mark Lawrence</td>
-      <td>2</td>
       <td>2</td>
       <td>2</td>
     </tr>

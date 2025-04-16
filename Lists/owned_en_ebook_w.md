@@ -307,6 +307,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>The Book That Held Her Heart (en VO)</td>
+      <td></td>
+      <td rowspan=1>Mark Lawrence</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Pachinko (fr)</td>
       <td>Pachinko (en VO)</td>
       <td rowspan=1>Min Jin Lee</td>
