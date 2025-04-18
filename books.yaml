@@ -4008,7 +4008,7 @@ works:
       en: How To
       fr: Et Comment...?
     language: en
-    read: no
+    read: yes
     books: B_405
     authors: A_288
   W_516:
