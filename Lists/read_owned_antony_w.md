@@ -552,13 +552,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>La Coupe d'Or (fr)</td>
-      <td>Cup of Gold (en VO)</td>
-      <td rowspan=1>John Steinbeck</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>Les six compagnons et la radio libre (fr VO)</td>
       <td></td>
       <td rowspan=1>Olivier Séchan</td>
@@ -569,6 +562,13 @@
       <td rowspan=1>Mystère et faits divers à Rome (fr VO)</td>
       <td></td>
       <td rowspan=1>Nathalie Sémenuik</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Coupe d'Or (fr)</td>
+      <td>Cup of Gold (en VO)</td>
+      <td rowspan=1>John Steinbeck</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>

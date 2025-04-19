@@ -492,6 +492,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>What if? 2 (en VO)</td>
+      <td></td>
+      <td rowspan=1>Randall Munroe</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>1984 (fr)</td>
       <td>1984 (en VO)</td>
       <td rowspan=1>George Orwell</td>

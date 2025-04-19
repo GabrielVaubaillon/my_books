@@ -1712,6 +1712,20 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Les six compagnons et la radio libre (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Olivier Séchan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Mystère et faits divers à Rome (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Nathalie Sémenuik</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=2>Le vieux qui lisait des romans d'amour (fr)</td>
       <td>The Old Man Who Read Love Stories (en)</td>
       <td rowspan=2>Luis Sepuvelda</td>
@@ -1742,20 +1756,6 @@
       <td rowspan=1>L'île au trésor (fr)</td>
       <td>Treasure Island (en VO)</td>
       <td rowspan=1>Robert Louis Stevenson</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Les six compagnons et la radio libre (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Olivier Séchan</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
-      <td rowspan=1>Mystère et faits divers à Rome (fr VO)</td>
-      <td></td>
-      <td rowspan=1>Nathalie Sémenuik</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>

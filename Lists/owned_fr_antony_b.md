@@ -747,13 +747,6 @@
       <td rowspan=1>Antony</td>
     </tr>
     <tr>
-      <td colspan=2 rowspan=1>La Coupe d'Or</td>
-      <td rowspan=1>John Steinbeck</td>
-      <td rowspan=1>fr</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Antony</td>
-    </tr>
-    <tr>
       <td colspan=2 rowspan=1>Les six compagnons et la radio libre</td>
       <td rowspan=1>Olivier Séchan</td>
       <td rowspan=1>fr</td>
@@ -763,6 +756,13 @@
     <tr>
       <td colspan=2 rowspan=1>Mystère et faits divers à Rome</td>
       <td rowspan=1>Nathalie Sémenuik</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Antony</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>La Coupe d'Or</td>
+      <td rowspan=1>John Steinbeck</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Antony</td>

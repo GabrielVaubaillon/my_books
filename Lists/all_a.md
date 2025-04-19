@@ -1156,7 +1156,7 @@
     </tr>
     <tr>
       <td>Randall Munroe</td>
-      <td>2</td>
+      <td>3</td>
       <td>3</td>
       <td>3</td>
     </tr>
@@ -1443,8 +1443,20 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Olivier Séchan</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Rachel Seiffert</td>
       <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Nathalie Sémenuik</td>
+      <td>1</td>
       <td>1</td>
       <td>1</td>
     </tr>
@@ -1519,18 +1531,6 @@
       <td>1</td>
       <td>0</td>
       <td>0</td>
-    </tr>
-    <tr>
-      <td>Olivier Séchan</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Nathalie Sémenuik</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
     </tr>
     <tr>
       <td>Flore Talamon</td>

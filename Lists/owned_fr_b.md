@@ -1671,6 +1671,20 @@
       <td rowspan=1>Antony</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Les six compagnons et la radio libre</td>
+      <td rowspan=1>Olivier Séchan</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Antony</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mystère et faits divers à Rome</td>
+      <td rowspan=1>Nathalie Sémenuik</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Antony</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le vieux qui lisait des romans d'amour</td>
       <td rowspan=1>Luis Sepuvelda</td>
       <td rowspan=1>fr</td>
@@ -1697,20 +1711,6 @@
       <td rowspan=1>fr</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Cork</td>
-    </tr>
-    <tr>
-      <td colspan=2 rowspan=1>Les six compagnons et la radio libre</td>
-      <td rowspan=1>Olivier Séchan</td>
-      <td rowspan=1>fr</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Antony</td>
-    </tr>
-    <tr>
-      <td colspan=2 rowspan=1>Mystère et faits divers à Rome</td>
-      <td rowspan=1>Nathalie Sémenuik</td>
-      <td rowspan=1>fr</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Antony</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>Mythes Aztèques et Mayas</td>

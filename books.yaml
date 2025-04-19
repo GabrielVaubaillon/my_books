@@ -4000,7 +4000,7 @@ works:
     titles:
       en: What if? 2
     language: en
-    read: no
+    read: yes
     books: B_404
     authors: A_288
   W_515:
@@ -6501,8 +6501,10 @@ authors:
     name: Bram Stoker
   A_197:
     name: Olivier Séchan
+    sorting_name: sechan
   A_198:
     name: Nathalie Sémenuik
+    sorting_name: semenuik
   A_199:
     name: Dennis E. Taylor
   A_200:
