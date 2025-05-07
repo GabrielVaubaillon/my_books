@@ -160,7 +160,7 @@
     </tr>
     <tr>
       <td>Mark Lawrence</td>
-      <td>2</td>
+      <td>3</td>
       <td>3</td>
       <td>3</td>
     </tr>
