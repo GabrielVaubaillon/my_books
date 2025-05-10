@@ -4025,6 +4025,33 @@ works:
     read: no
     books: B_408
     authors:
+  W_518:
+    titles:
+      fr: Le Livre des contes perdus Volume 1
+      en: The Book of Lost Tales Part One
+    language: en
+    read: no
+    books: B_409
+    authors: A_202
+    notes: the history of Middle-Earth - edited Christopher Tolkien
+  W_519:
+    titles:
+      fr: Le Livre des contes perdus Volume 2
+      en: The Book of Lost Tales Part Two
+    language: en
+    read: no
+    books: B_410
+    authors: A_202
+    notes: the history of Middle-Earth - edited Christopher Tolkien
+  W_520:
+    titles:
+      fr: La Chute de Númenor
+      en: The Fall of Númenor
+    language: en
+    read: no
+    books: B_411
+    authors: A_202
+    notes: edited Brian Sibley
 
 books:
   B_001:
@@ -6097,6 +6124,21 @@ books:
     title: The Anthology of Scottish Folk Tales - Volume II
     language: en
     isbn: 978-1-80399-872-5
+    situation: Cork
+  B_409:
+    title: The Book of Lost Tales Part One
+    language: en
+    isbn: 978-0-261-10222-4
+    situation: Cork
+  B_410:
+    title: The Book of Lost Tales Part Two
+    language: en
+    isbn: 978-0-261-10214-9
+    situation: Cork
+  B_411:
+    title: The Fall of Númenor
+    language: en
+    isbn: 978-0-00-865567-9
     situation: Cork
 
 authors:

@@ -366,7 +366,28 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Book of Lost Tales Part One</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Book of Lost Tales Part Two</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>The Fall of Gondolin</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Fall of Númenor</td>
       <td rowspan=1>J.R.R. Tolkien</td>
       <td rowspan=1>en</td>
       <td rowspan=1>Pas Lu</td>

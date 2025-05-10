@@ -1565,8 +1565,8 @@
     <tr>
       <td>J.R.R. Tolkien</td>
       <td>6</td>
-      <td>9</td>
-      <td>22</td>
+      <td>12</td>
+      <td>25</td>
     </tr>
     <tr>
       <td>Michel Tournier</td>

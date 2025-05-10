@@ -563,6 +563,27 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>La Chute de Númenor (fr)</td>
+      <td>The Fall of Númenor (en VO)</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Livre des contes perdus Volume 1 (fr)</td>
+      <td>The Book of Lost Tales Part One (en VO)</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Le Livre des contes perdus Volume 2 (fr)</td>
+      <td>The Book of Lost Tales Part Two (en VO)</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>L'armée des pauvres (fr)</td>
       <td>General kommst aus dem Dschungel (de VO)</td>
       <td rowspan=1>Bruno Traven</td>

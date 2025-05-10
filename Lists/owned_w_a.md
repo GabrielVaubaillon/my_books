@@ -27,6 +27,12 @@
       <td>12</td>
     </tr>
     <tr>
+      <td>J.R.R. Tolkien</td>
+      <td>6</td>
+      <td>12</td>
+      <td>25</td>
+    </tr>
+    <tr>
       <td>Arthur Conan Doyle</td>
       <td>6</td>
       <td>11</td>
@@ -37,12 +43,6 @@
       <td>7</td>
       <td>9</td>
       <td>6</td>
-    </tr>
-    <tr>
-      <td>J.R.R. Tolkien</td>
-      <td>6</td>
-      <td>9</td>
-      <td>22</td>
     </tr>
     <tr>
       <td>Alexandre Dumas</td>
