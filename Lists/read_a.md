@@ -78,7 +78,7 @@
       <td>J.R.R. Tolkien</td>
       <td>6</td>
       <td>12</td>
-      <td>25</td>
+      <td>30</td>
     </tr>
     <tr>
       <td>Eli Anderson</td>

@@ -2762,7 +2762,7 @@ works:
       en: Children of Húrin
     language: en
     read: yes
-    books: B_252;B_253;B_327
+    books: B_252;B_253;B_327;B_416
     authors: A_202
     notes: edited Christopher Tolkien
   W_354:
@@ -2780,7 +2780,7 @@ works:
       en: The Fellowship Of The Ring
     language: en
     read: yes
-    books: B_256;B_259;B_363;B_382
+    books: B_256;B_259;B_363;B_382;B_412
     authors: A_202
   W_356:
     titles:
@@ -2788,7 +2788,7 @@ works:
       en: The Two Towers
     language: en
     read: yes
-    books: B_257;B_259;B_363;B_383
+    books: B_257;B_259;B_363;B_383;B_413
     authors: A_202
   W_357:
     titles:
@@ -2796,7 +2796,7 @@ works:
       en: The Return Of The King
     language: en
     read: yes
-    books: B_258;B_259;B_363;B_384
+    books: B_258;B_259;B_363;B_384;B_414
     authors: A_202
   W_358:
     titles:
@@ -2804,7 +2804,7 @@ works:
       en: The Silmarillion
     language: en
     read: yes
-    books: B_260;B_261;B_364
+    books: B_260;B_261;B_364;B_415
     authors: A_202
     notes: edited Christopher Tolkien
   W_359:
@@ -6140,6 +6140,31 @@ books:
     language: en
     isbn: 978-0-00-865567-9
     situation: Cork
+  B_412:
+    title: The Fellowship Of The Ring
+    language: en
+    isbn:
+    situation: Audiobooks
+  B_413:
+    title: The Two Towers
+    language: en
+    isbn:
+    situation: Audiobooks
+  B_414:
+    title: The Return Of The King
+    language: en
+    isbn:
+    situation: Audiobooks
+  B_415:
+    title: The Silmarillion
+    language: en
+    isbn:
+    situation: Audiobooks
+  B_416:
+    title: Children of Húrin
+    language: en
+    isbn:
+    situation: Audiobooks
 
 authors:
   A_001:
