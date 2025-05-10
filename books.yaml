@@ -1149,7 +1149,7 @@ works:
       en: The Old Man and the Sea
     language: en
     read: yes
-    books:
+    books: B_407
     authors: A_100
   W_142:
     titles:
@@ -4018,6 +4018,13 @@ works:
     read: yes
     books: B_406
     authors: A_244
+  W_517:
+    titles:
+      en: The Anthology of Scottish Folk Tales - Volume II
+    language: en
+    read: no
+    books: B_408
+    authors:
 
 books:
   B_001:
@@ -6081,6 +6088,16 @@ books:
     language: en
     isbn: 9780593437995
     situation: Ebook
+  B_407:
+    title: The Old Man and the Sea
+    language: en
+    isbn: 978-0-099-59563-2
+    situation: Cork
+  B_408:
+    title: The Anthology of Scottish Folk Tales - Volume II
+    language: en
+    isbn: 978-1-80399-872-5
+    situation: Cork
 
 authors:
   A_001:

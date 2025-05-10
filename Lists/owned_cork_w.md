@@ -658,6 +658,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Le Vieil Homme et la Mer (fr)</td>
+      <td>The Old Man and the Sea (en VO)</td>
+      <td rowspan=1>Ernest Hemingway</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Pour qui Sonne le Glas (fr)</td>
       <td>For Whom the Bell Tolls (en VO)</td>
       <td rowspan=1>Ernest Hemingway</td>
@@ -1425,6 +1432,13 @@
       <td></td>
       <td rowspan=1></td>
       <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>The Anthology of Scottish Folk Tales - Volume II (en VO)</td>
+      <td></td>
+      <td rowspan=1></td>
+      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>

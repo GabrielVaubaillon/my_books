@@ -1232,6 +1232,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Old Man and the Sea</td>
+      <td rowspan=1>Ernest Hemingway</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>La Communauté des soeurs</td>
       <td rowspan=1>Brian Herbert / Kevin J. Anderson</td>
       <td rowspan=1>fr</td>
@@ -3090,6 +3097,13 @@
       <td rowspan=1></td>
       <td rowspan=1>en</td>
       <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Anthology of Scottish Folk Tales - Volume II</td>
+      <td rowspan=1></td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Cork</td>
     </tr>
     <tr>

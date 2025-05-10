@@ -273,6 +273,12 @@
       <td>2</td>
     </tr>
     <tr>
+      <td>Ernest Hemingway</td>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
       <td>Jack London</td>
       <td>1</td>
       <td>2</td>
@@ -880,12 +886,6 @@
     </tr>
     <tr>
       <td>Johan Heliot</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Ernest Hemingway</td>
       <td>1</td>
       <td>1</td>
       <td>1</td>

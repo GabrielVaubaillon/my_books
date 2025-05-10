@@ -1068,7 +1068,7 @@
       <td>The Old Man and the Sea (en VO)</td>
       <td rowspan=1>Ernest Hemingway</td>
       <td rowspan=1>Lu</td>
-      <td rowspan=1>Non possédé</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
       <td rowspan=1>Dune (fr)</td>

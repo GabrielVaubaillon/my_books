@@ -171,13 +171,6 @@
       <td rowspan=1>Non possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Le Vieil Homme et la Mer (fr)</td>
-      <td>The Old Man and the Sea (en VO)</td>
-      <td rowspan=1>Ernest Hemingway</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Non possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>Les Contemplations (fr VO)</td>
       <td>Les Contemplations (en)</td>
       <td rowspan=1>Victor Hugo</td>

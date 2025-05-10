@@ -217,6 +217,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Old Man and the Sea</td>
+      <td rowspan=1>Ernest Hemingway</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Dune</td>
       <td rowspan=1>Frank Herbert</td>
       <td rowspan=1>en</td>
@@ -531,6 +538,13 @@
       <td rowspan=1></td>
       <td rowspan=1>en</td>
       <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Anthology of Scottish Folk Tales - Volume II</td>
+      <td rowspan=1></td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
