@@ -272,7 +272,7 @@
       <td colspan=2 rowspan=1>The Ballad of Songbirds and Snakes</td>
       <td rowspan=1>Suzanne Collins</td>
       <td rowspan=1>en</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Cork</td>
     </tr>
     <tr>

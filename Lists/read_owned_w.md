@@ -449,6 +449,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Hunger Games : La Ballade du serpent et de l'oiseau chanteur (fr)</td>
+      <td>The Ballad of Songbirds and Snakes (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=2>Les aventures de Pinocchio (fr)</td>
       <td>The Adventures of Pinocchio (en)</td>
       <td rowspan=2>Carlo Collodi</td>

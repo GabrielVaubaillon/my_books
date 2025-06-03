@@ -170,6 +170,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Hunger Games : La Ballade du serpent et de l'oiseau chanteur (fr)</td>
+      <td>The Ballad of Songbirds and Snakes (en VO)</td>
+      <td rowspan=1>Suzanne Collins</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Contes des indiens du Chiapas (fr VO)</td>
       <td></td>
       <td rowspan=1>Baptiste Condominas</td>

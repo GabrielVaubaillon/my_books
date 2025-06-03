@@ -111,6 +111,12 @@
       <td>3</td>
     </tr>
     <tr>
+      <td>Suzanne Collins</td>
+      <td>4</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
       <td>Alexandre Dumas</td>
       <td>4</td>
       <td>8</td>
@@ -157,12 +163,6 @@
       <td>3</td>
       <td>3</td>
       <td>3</td>
-    </tr>
-    <tr>
-      <td>Suzanne Collins</td>
-      <td>3</td>
-      <td>5</td>
-      <td>5</td>
     </tr>
     <tr>
       <td>Marc Fernandez</td>

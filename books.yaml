@@ -3907,7 +3907,7 @@ works:
       en: The Ballad of Songbirds and Snakes
       fr: "Hunger Games : La Ballade du serpent et de l'oiseau chanteur"
     language: en
-    read: no
+    read: yes
     books: B_392
     authors: A_044
   W_503:
