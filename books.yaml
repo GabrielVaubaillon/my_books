@@ -4052,6 +4052,41 @@ works:
     books: B_411
     authors: A_202
     notes: edited Brian Sibley
+  W_521:
+    titles:
+      fr: Le Sang de la cité
+    language: fr
+    read: no
+    books: B_417
+    authors: A_289
+  W_522:
+    titles:
+      fr: Les Contes Suspendus
+    language: fr
+    read: no
+    books: B_418
+    authors: A_289
+  W_523:
+    titles:
+      fr: Citadins de Demain
+    language: fr
+    read: no
+    books: B_419
+    authors: A_290
+  W_524:
+    titles:
+      fr: Mort aux Geais !
+    language: fr
+    read: no
+    books: B_420
+    authors: A_290
+  W_525:
+    titles:
+      fr: L'Armée Fantoche
+    language: fr
+    read: no
+    books: B_421
+    authors: A_290
 
 books:
   B_001:
@@ -6165,6 +6200,31 @@ books:
     language: en
     isbn:
     situation: Audiobooks
+  B_417:
+    title: Le Sang de la cité
+    language: fr
+    isbn: 978-2-253-10352-3
+    situation: Transit
+  B_418:
+    title: Les Contes Suspendus
+    language: fr
+    isbn: 978-2-253-10685-2
+    situation: Transit
+  B_419:
+    title: Citadins de Demain
+    language: fr
+    isbn: 978-2-253-10686-9
+    situation: Transit
+  B_420:
+    title: Mort aux Geais !
+    language: fr
+    isbn: 978-2-253-10687-6
+    situation: Transit
+  B_421:
+    title: L'Armée Fantoche
+    language: fr
+    isbn: 978-2-253-10688-6
+    situation: Transit
 
 authors:
   A_001:
@@ -6776,6 +6836,10 @@ authors:
     name: Cynthia Ellingsen
   A_288:
     name: Randall Munroe
+  A_289:
+    name: Guillaume Chamanadjian
+  A_290:
+    name: Claire Dulivier
 
 series:
   S_001:
@@ -7197,4 +7261,24 @@ series:
       2: W_510
       3: W_511
       4: W_512
+  S_045:
+    name:
+      fr: Cycle de la Tour de Garde
+    subseries:
+      a: S_046
+      b: S_047
+  S_046:
+    name:
+      fr: Capitale du Sud
+    works:
+      1: W_521
+      # 2:
+      3: W_522
+  S_047:
+    name:
+      fr: Capitale du Nord
+    works:
+      1: W_523
+      2: W_524
+      3: W_525
 

@@ -427,6 +427,20 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Le Sang de la cité</td>
+      <td rowspan=1>Guillaume Chamanadjian</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Transit</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Les Contes Suspendus</td>
+      <td rowspan=1>Guillaume Chamanadjian</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Transit</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>A Psalm for the Wild Built</td>
       <td rowspan=1>Becky Chambers</td>
       <td rowspan=1>en</td>
@@ -842,6 +856,27 @@
       <td rowspan=1>fr</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Antony</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Citadins de Demain</td>
+      <td rowspan=1>Claire Dulivier</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Transit</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mort aux Geais !</td>
+      <td rowspan=1>Claire Dulivier</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Transit</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>L'Armée Fantoche</td>
+      <td rowspan=1>Claire Dulivier</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Transit</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>Le Comte de Monte-Cristo</td>

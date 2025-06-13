@@ -519,6 +519,20 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Le Sang de la cité (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Guillaume Chamanadjian</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Contes Suspendus (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Guillaume Chamanadjian</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Un psaume pour les recyclés sauvages (fr)</td>
       <td>A Psalm for the Wild Built (en VO)</td>
       <td rowspan=1>Becky Chambers</td>
@@ -1000,6 +1014,27 @@
       <td></td>
       <td rowspan=1>Maurice Druon</td>
       <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Citadins de Demain (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Claire Dulivier</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Mort aux Geais ! (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Claire Dulivier</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'Armée Fantoche (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Claire Dulivier</td>
+      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>

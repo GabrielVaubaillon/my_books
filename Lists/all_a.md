@@ -309,6 +309,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Guillaume Chamanadjian</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
       <td>Becky Chambers</td>
       <td>2</td>
       <td>6</td>
@@ -523,6 +529,12 @@
       <td>0</td>
       <td>1</td>
       <td>1</td>
+    </tr>
+    <tr>
+      <td>Claire Dulivier</td>
+      <td>0</td>
+      <td>3</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Alexandre Dumas</td>
