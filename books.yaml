@@ -4087,6 +4087,14 @@ works:
     read: no
     books: B_421
     authors: A_290
+  W_526:
+    titles:
+      fr: Petit Pays
+      en: Small Country
+    language: fr
+    read: no
+    books: B_422
+    authors: A_291
 
 books:
   B_001:
@@ -6225,6 +6233,11 @@ books:
     language: fr
     isbn: 978-2-253-10688-6
     situation: Transit
+  B_422:
+    title: Petit Pays
+    language: fr
+    isbn: 978-2-253-07044-3
+    situation: Transit
 
 authors:
   A_001:
@@ -6840,6 +6853,8 @@ authors:
     name: Guillaume Chamanadjian
   A_290:
     name: Claire Dulivier
+  A_291:
+    name: Gaël Faye
 
 series:
   S_001:

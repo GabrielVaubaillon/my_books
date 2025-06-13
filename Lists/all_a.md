@@ -573,6 +573,12 @@
       <td>2</td>
     </tr>
     <tr>
+      <td>Gaël Faye</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Marc Fernandez</td>
       <td>3</td>
       <td>3</td>

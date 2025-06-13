@@ -741,6 +741,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Gaël Faye</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Ken Follett</td>
       <td>0</td>
       <td>1</td>

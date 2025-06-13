@@ -344,6 +344,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Petit Pays (fr VO)</td>
+      <td>Small Country (en)</td>
+      <td rowspan=1>Gaël Faye</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Crépuscule et l'Aube (fr)</td>
       <td>The Evening and the Morning (en VO)</td>
       <td rowspan=1>Ken Follett</td>
