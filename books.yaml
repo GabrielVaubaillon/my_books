@@ -4095,6 +4095,13 @@ works:
     read: no
     books: B_422
     authors: A_291
+  W_527:
+    titles:
+      fr: Trois Lucioles
+    language: fr
+    read: no
+    books: B_423
+    authors: A_289
 
 books:
   B_001:
@@ -6238,6 +6245,11 @@ books:
     language: fr
     isbn: 978-2-253-07044-3
     situation: Transit
+  B_423:
+    title: Trois Lucioles
+    language: fr
+    isbn: 978-2-253-10353-0
+    situation: Transit
 
 authors:
   A_001:
@@ -7287,7 +7299,7 @@ series:
       fr: Capitale du Sud
     works:
       1: W_521
-      # 2:
+      2: W_527
       3: W_522
   S_047:
     name:

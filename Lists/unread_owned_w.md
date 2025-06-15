@@ -128,6 +128,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Trois Lucioles (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Guillaume Chamanadjian</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Les Contes Suspendus (fr VO)</td>
       <td></td>
       <td rowspan=1>Guillaume Chamanadjian</td>
