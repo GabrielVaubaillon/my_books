@@ -161,6 +161,27 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Le Sang de la cité</td>
+      <td rowspan=1>Guillaume Chamanadjian</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Trois Lucioles</td>
+      <td rowspan=1>Guillaume Chamanadjian</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Les Contes Suspendus</td>
+      <td rowspan=1>Guillaume Chamanadjian</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>The Long Way to a Small, Angry Planet</td>
       <td rowspan=1>Becky Chambers</td>
       <td rowspan=1>en</td>
@@ -402,6 +423,27 @@
       <td>Pas Lu</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Citadins de Demain</td>
+      <td rowspan=1>Claire Dulivier</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mort aux Geais !</td>
+      <td rowspan=1>Claire Dulivier</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>L'Armée Fantoche</td>
+      <td rowspan=1>Claire Dulivier</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le Comte de Monte-Cristo</td>
       <td rowspan=1>Alexandre Dumas</td>
       <td rowspan=1>fr</td>
@@ -476,6 +518,13 @@
       <td rowspan=1>Amal El-Mothar / Max Gladstone</td>
       <td rowspan=1>en</td>
       <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Petit Pays</td>
+      <td rowspan=1>Gaël Faye</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Cork</td>
     </tr>
     <tr>

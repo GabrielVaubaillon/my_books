@@ -174,6 +174,27 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Le Sang de la cité (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Guillaume Chamanadjian</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Trois Lucioles (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Guillaume Chamanadjian</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Les Contes Suspendus (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Guillaume Chamanadjian</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>L'Espace d'un an (fr)</td>
       <td>The Long Way to a Small, Angry Planet (en VO)</td>
       <td rowspan=1>Becky Chambers</td>
@@ -452,6 +473,27 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Citadins de Demain (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Claire Dulivier</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Mort aux Geais ! (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Claire Dulivier</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>L'Armée Fantoche (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Claire Dulivier</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Comte de Monte-Cristo (fr VO)</td>
       <td>The Count of Monte Cristo (en)</td>
       <td rowspan=1>Alexandre Dumas</td>
@@ -526,6 +568,13 @@
       <td>This Is How You Lose the Time War (en VO)</td>
       <td rowspan=1>Amal El-Mothar / Max Gladstone</td>
       <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Petit Pays (fr VO)</td>
+      <td>Small Country (en)</td>
+      <td rowspan=1>Gaël Faye</td>
+      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>

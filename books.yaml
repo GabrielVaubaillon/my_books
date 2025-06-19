@@ -6219,37 +6219,37 @@ books:
     title: Le Sang de la cité
     language: fr
     isbn: 978-2-253-10352-3
-    situation: Transit
+    situation: Cork
   B_418:
     title: Les Contes Suspendus
     language: fr
     isbn: 978-2-253-10685-2
-    situation: Transit
+    situation: Cork
   B_419:
     title: Citadins de Demain
     language: fr
     isbn: 978-2-253-10686-9
-    situation: Transit
+    situation: Cork
   B_420:
     title: Mort aux Geais !
     language: fr
     isbn: 978-2-253-10687-6
-    situation: Transit
+    situation: Cork
   B_421:
     title: L'Armée Fantoche
     language: fr
     isbn: 978-2-253-10688-6
-    situation: Transit
+    situation: Cork
   B_422:
     title: Petit Pays
     language: fr
     isbn: 978-2-253-07044-3
-    situation: Transit
+    situation: Cork
   B_423:
     title: Trois Lucioles
     language: fr
     isbn: 978-2-253-10353-0
-    situation: Transit
+    situation: Cork
 
 authors:
   A_001:
