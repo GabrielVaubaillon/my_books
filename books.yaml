@@ -3883,7 +3883,7 @@ works:
       en: Red Seas Under Red Skies
       fr: Des horizons rouge sang
     language: en
-    read: no
+    read: yes
     books: B_387
     authors: A_284
   W_500:

@@ -525,7 +525,7 @@
     </tr>
     <tr>
       <td>Red Seas Under Red Skies</td>
-      <td>Pas Lu</td>
+      <td>Lu</td>
     </tr>
     <tr>
       <td>The Republic of Thieves</td>

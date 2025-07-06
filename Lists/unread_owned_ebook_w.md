@@ -178,13 +178,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Des horizons rouge sang (fr)</td>
-      <td>Red Seas Under Red Skies (en VO)</td>
-      <td rowspan=1>Scott Lynch</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>La République des voleurs (fr)</td>
       <td>The Republic of Thieves (en VO)</td>
       <td rowspan=1>Scott Lynch</td>

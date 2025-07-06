@@ -698,7 +698,7 @@
       <td rowspan=1>Des horizons rouge sang (fr)</td>
       <td>Red Seas Under Red Skies (en VO)</td>
       <td rowspan=1>Scott Lynch</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
