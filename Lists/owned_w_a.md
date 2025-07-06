@@ -125,8 +125,8 @@
     <tr>
       <td>Ken Liu</td>
       <td>0</td>
-      <td>4</td>
-      <td>1</td>
+      <td>5</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Christopher Paolini</td>

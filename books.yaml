@@ -4102,6 +4102,14 @@ works:
     read: no
     books: B_423
     authors: A_289
+  W_528:
+    titles:
+      fr: La Ménagerie de papier
+      en: The Paper Menagerie
+    language: en
+    read: no
+    books: B_424
+    authors: A_132
 
 books:
   B_001:
@@ -6249,6 +6257,11 @@ books:
     title: Trois Lucioles
     language: fr
     isbn: 978-2-253-10353-0
+    situation: Cork
+  B_424:
+    title: The Paper Menagerie
+    language: en
+    isbn: 9781784975692
     situation: Cork
 
 authors:
