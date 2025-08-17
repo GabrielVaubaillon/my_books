@@ -449,8 +449,8 @@
     <tr>
       <td>Alain Damasio</td>
       <td>0</td>
-      <td>1</td>
-      <td>1</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>James Dashner</td>
@@ -995,8 +995,8 @@
     <tr>
       <td>Pierre Lemaitre</td>
       <td>0</td>
-      <td>1</td>
-      <td>1</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Donna Leon</td>

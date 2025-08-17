@@ -730,6 +730,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>La Zone du Dehors (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Alain Damasio</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Labyrinthe - L'Épreuve (fr)</td>
       <td>The Maze Runner (en VO)</td>
       <td rowspan=1>James Dashner</td>
@@ -1786,6 +1793,13 @@
       <td>The Other Wind (en VO)</td>
       <td rowspan=1>Ursula K. Le Guin</td>
       <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Un Avenir Radieux (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Pierre Lemaitre</td>
+      <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>

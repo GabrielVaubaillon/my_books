@@ -447,6 +447,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>La Zone du Dehors (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Alain Damasio</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Labyrinthe - L'Épreuve (fr)</td>
       <td>The Maze Runner (en VO)</td>
       <td rowspan=1>James Dashner</td>
@@ -1142,6 +1149,13 @@
       <td rowspan=1>Le Triangle d'Or (fr VO)</td>
       <td></td>
       <td rowspan=1>Maurice Leblanc</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Un Avenir Radieux (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Pierre Lemaitre</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>

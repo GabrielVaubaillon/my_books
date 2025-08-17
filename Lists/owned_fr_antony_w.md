@@ -394,6 +394,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Un Avenir Radieux (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Pierre Lemaitre</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Jacquou le croquant (fr VO)</td>
       <td></td>
       <td rowspan=1>Eugène Le Roy</td>

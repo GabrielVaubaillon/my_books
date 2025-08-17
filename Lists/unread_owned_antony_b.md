@@ -60,6 +60,13 @@
       <td rowspan=1>Antony</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Un Avenir Radieux</td>
+      <td rowspan=1>Pierre Lemaitre</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Antony</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Jacquou le croquant</td>
       <td rowspan=1>Eugène Le Roy</td>
       <td rowspan=1>fr</td>

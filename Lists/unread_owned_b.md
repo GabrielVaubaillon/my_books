@@ -228,6 +228,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>La Zone du Dehors</td>
+      <td rowspan=1>Alain Damasio</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=1 rowspan=1>Philip K. Dick - Nouvelles completes I (1947-1953)</td>
       <td>Philip K. Dick - Nouvelles completes</td>
       <td rowspan=1>Philip K. Dick</td>
@@ -620,6 +627,13 @@
       <td rowspan=1>en</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Un Avenir Radieux</td>
+      <td rowspan=1>Pierre Lemaitre</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Antony</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>Couleurs de l'incendie</td>

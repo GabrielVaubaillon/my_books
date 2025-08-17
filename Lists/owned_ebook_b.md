@@ -212,6 +212,13 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>La Zone du Dehors</td>
+      <td rowspan=1>Alain Damasio</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Les Derniers Retrouveurs</td>
       <td rowspan=1>Victor Dixen</td>
       <td rowspan=1>fr</td>

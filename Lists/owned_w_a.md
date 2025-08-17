@@ -261,6 +261,12 @@
       <td>2</td>
     </tr>
     <tr>
+      <td>Alain Damasio</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
       <td>Stéphane Descornes</td>
       <td>2</td>
       <td>2</td>
@@ -287,6 +293,12 @@
     <tr>
       <td>Ernest Hemingway</td>
       <td>1</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Pierre Lemaitre</td>
+      <td>0</td>
       <td>2</td>
       <td>2</td>
     </tr>
@@ -652,12 +664,6 @@
     </tr>
     <tr>
       <td>Vesta Sarkhosh Curtis</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Alain Damasio</td>
       <td>0</td>
       <td>1</td>
       <td>1</td>
@@ -1043,12 +1049,6 @@
     <tr>
       <td>Min Jin Lee</td>
       <td>1</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Pierre Lemaitre</td>
-      <td>0</td>
       <td>1</td>
       <td>1</td>
     </tr>

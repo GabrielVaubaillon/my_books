@@ -4117,6 +4117,13 @@ works:
     read: no
     books: B_425
     authors: A_281
+  W_530:
+    titles:
+      fr: La Zone du Dehors
+    language: fr
+    read: no
+    books: B_426
+    authors: A_053
 
 books:
   B_001:
@@ -6275,6 +6282,11 @@ books:
     language: fr
     isbn: 978-2-7021-8362
     situation: Antony
+  B_426:
+    title: La Zone du Dehors
+    language: fr
+    isbn: 9782917157602
+    situation: Ebook
 
 authors:
   A_001:

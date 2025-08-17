@@ -239,6 +239,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>La Zone du Dehors (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Alain Damasio</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Philip K. Dick - Nouvelles completes (fr)</td>
       <td>Philip K. Dick Complete Short Stories (en VO)</td>
       <td rowspan=1>Philip K. Dick</td>
@@ -591,6 +598,13 @@
       <td rowspan=1>Ne tirez pas sur l'oiseau moqueur (fr)</td>
       <td>To Kill A Mocking-Bird (en VO)</td>
       <td rowspan=1>Harper Lee</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Un Avenir Radieux (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Pierre Lemaitre</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
