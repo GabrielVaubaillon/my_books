@@ -4110,6 +4110,13 @@ works:
     read: no
     books: B_424
     authors: A_132
+  W_529:
+    titles:
+      fr: Un Avenir Radieux
+    language: fr
+    read: no
+    books: B_425
+    authors: A_281
 
 books:
   B_001:
@@ -6263,6 +6270,11 @@ books:
     language: en
     isbn: 9781784975692
     situation: Cork
+  B_425:
+    title: Un Avenir Radieux
+    language: fr
+    isbn: 978-2-7021-8362
+    situation: Antony
 
 authors:
   A_001:
