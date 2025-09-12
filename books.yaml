@@ -4124,6 +4124,14 @@ works:
     read: no
     books: B_426
     authors: A_053
+  W_531:
+    titles:
+      fr:
+      en: Isles of the Emberdark
+    language: en
+    read: no
+    books: B_427
+    authors: A_184
 
 books:
   B_001:
@@ -6287,6 +6295,11 @@ books:
     language: fr
     isbn: 9782917157602
     situation: Ebook
+  B_427:
+    title: Isles of the Emberdark
+    language: en
+    isbn: 978-1-938570-51-3
+    situation: Ebook
 
 authors:
   A_001:
@@ -7187,6 +7200,7 @@ series:
       d: W_320
       e: W_321
       f: W_426
+      g: W_531
     subseries:
       a: S_029
       b: S_032

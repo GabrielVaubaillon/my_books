@@ -3026,6 +3026,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1> (fr)</td>
+      <td>Isles of the Emberdark (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>L'Empire ultime (fr)</td>
       <td>The Final Empire (en VO)</td>
       <td rowspan=1>Brandon Sanderson</td>

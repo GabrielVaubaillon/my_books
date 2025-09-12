@@ -892,6 +892,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1> (fr)</td>
+      <td>Isles of the Emberdark (en VO)</td>
+      <td rowspan=1>Brandon Sanderson</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Quentin Durward (fr)</td>
       <td>Quentin Durward (en VO)</td>
       <td rowspan=1>Walter Scott</td>

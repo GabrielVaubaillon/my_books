@@ -15,16 +15,16 @@
       <td>3</td>
     </tr>
     <tr>
+      <td>Brandon Sanderson</td>
+      <td>20</td>
+      <td>17</td>
+      <td>13</td>
+    </tr>
+    <tr>
       <td>Marcel Pagnol</td>
       <td>0</td>
       <td>16</td>
       <td>16</td>
-    </tr>
-    <tr>
-      <td>Brandon Sanderson</td>
-      <td>20</td>
-      <td>16</td>
-      <td>12</td>
     </tr>
     <tr>
       <td>J.R.R. Tolkien</td>
