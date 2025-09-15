@@ -1281,6 +1281,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>W. B. Yeats</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Stefan Zweig</td>
       <td>1</td>
       <td>1</td>

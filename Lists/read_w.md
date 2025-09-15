@@ -2647,6 +2647,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Irish Fairy and Folk Tales (en VO)</td>
+      <td></td>
+      <td rowspan=1>W. B. Yeats</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=2>Le joueur d'échecs (fr)</td>
       <td>Chess (en)</td>
       <td rowspan=2>Stefan Zweig</td>
