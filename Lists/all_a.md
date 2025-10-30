@@ -1749,6 +1749,12 @@
       <td>2</td>
     </tr>
     <tr>
+      <td>Samantha Sotto Yambao</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>W. B. Yeats</td>
       <td>1</td>
       <td>1</td>

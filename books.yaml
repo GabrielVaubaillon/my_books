@@ -4140,6 +4140,13 @@ works:
     read: no
     books: B_428
     authors: A_292
+  W_533:
+    titles:
+      en: Water Moon
+    language: en
+    read: no
+    books: B_429
+    authors: A_293
 
 books:
   B_001:
@@ -6313,6 +6320,11 @@ books:
     language: fr
     isbn: 9782351786093
     situation: Cork
+  B_429:
+    title: Water Moon
+    language: en
+    isbn: 978-1-8049-9332-3
+    situation: Cork
 
 authors:
   A_001:
@@ -6932,6 +6944,8 @@ authors:
     name: Gaël Faye
   A_292:
     name: Trevanian
+  A_293:
+    name: Samantha Sotto Yambao
 
 series:
   S_001:
