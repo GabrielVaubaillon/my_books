@@ -993,6 +993,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Shibumi</td>
+      <td rowspan=1>Trevanian</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>J'irai cracher sur vos tombes</td>
       <td rowspan=1>Boris Vian</td>
       <td rowspan=1>fr</td>

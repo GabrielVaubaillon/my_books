@@ -1343,6 +1343,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Shibumi</td>
+      <td rowspan=1>Trevanian</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le Jeu de la Dame</td>
       <td rowspan=1>Walter Trevis</td>
       <td rowspan=1>fr</td>

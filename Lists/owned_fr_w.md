@@ -1882,6 +1882,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Shibumi (fr)</td>
+      <td>Shibumi (en VO)</td>
+      <td rowspan=1>Trevanian</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Jeu de la Dame (fr)</td>
       <td>The Queen's Gambit (en VO)</td>
       <td rowspan=1>Walter Trevis</td>

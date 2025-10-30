@@ -640,6 +640,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Shibumi (fr)</td>
+      <td>Shibumi (en VO)</td>
+      <td rowspan=1>Trevanian</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>On Earth We're Briefly Gorgeous (en VO)</td>
       <td></td>
       <td rowspan=1>Ocean Vuong</td>

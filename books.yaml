@@ -4126,12 +4126,20 @@ works:
     authors: A_053
   W_531:
     titles:
-      fr:
+      fr: L'Île de Noirebraise
       en: Isles of the Emberdark
     language: en
     read: no
     books: B_427
     authors: A_184
+  W_532:
+    titles:
+      fr: Shibumi
+      en: Shibumi
+    language: en
+    read: no
+    books: B_428
+    authors: A_292
 
 books:
   B_001:
@@ -6300,6 +6308,11 @@ books:
     language: en
     isbn: 978-1-938570-51-3
     situation: Ebook
+  B_428:
+    title: Shibumi
+    language: fr
+    isbn: 9782351786093
+    situation: Cork
 
 authors:
   A_001:
@@ -6917,6 +6930,8 @@ authors:
     name: Claire Dulivier
   A_291:
     name: Gaël Faye
+  A_292:
+    name: Trevanian
 
 series:
   S_001:
