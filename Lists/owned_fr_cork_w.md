@@ -17,13 +17,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Mythes Celtiques (fr)</td>
-      <td>Celtic Myths (en VO)</td>
-      <td rowspan=1>Miranda Jane Aldhouse-Green</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>La Fée et le Géomètre (fr VO)</td>
       <td></td>
       <td rowspan=1>Jean-Pierre Andrevon</td>
