@@ -569,6 +569,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Anthology of Irish Folk Tales - Volume II</td>
+      <td rowspan=1></td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>The Anthology of Scottish Folk Tales</td>
       <td rowspan=1></td>
       <td rowspan=1>en</td>
