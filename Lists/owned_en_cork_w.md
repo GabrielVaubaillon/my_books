@@ -38,6 +38,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>The Illustrated Man (en VO)</td>
+      <td></td>
+      <td rowspan=1>Ray Bradbury</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Liens de sang (fr)</td>
       <td>Kindred (en VO)</td>
       <td rowspan=1>Octavia E. Butler</td>

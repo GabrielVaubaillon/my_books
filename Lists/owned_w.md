@@ -390,6 +390,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>The Illustrated Man (en VO)</td>
+      <td></td>
+      <td rowspan=1>Ray Bradbury</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Bennett et sa cabane (fr VO)</td>
       <td></td>
       <td rowspan=1>Anthony Buckeridge</td>

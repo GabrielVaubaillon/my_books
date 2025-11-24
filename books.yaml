@@ -4154,6 +4154,13 @@ works:
     read: no
     books: B_430
     authors:
+  W_535:
+    titles:
+      en: The Illustrated Man
+    language: en
+    read: no
+    books: B_431
+    authors: A_030
 
 books:
   B_001:
@@ -6336,6 +6343,11 @@ books:
     title: The Anthology of Irish Folk Tales - Volume II
     language: en
     isbn: 978-1-80399-945-6
+    situation: Cork
+  B_431:
+    title: The Illustrated Man
+    language: en
+    isbn: 978-0-00-647922-2
     situation: Cork
 
 authors:

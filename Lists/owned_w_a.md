@@ -153,6 +153,12 @@
       <td>3</td>
     </tr>
     <tr>
+      <td>Ray Bradbury</td>
+      <td>2</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
       <td>Guillaume Chamanadjian</td>
       <td>0</td>
       <td>3</td>
@@ -238,12 +244,6 @@
     </tr>
     <tr>
       <td>Laure Bazire</td>
-      <td>2</td>
-      <td>2</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Ray Bradbury</td>
       <td>2</td>
       <td>2</td>
       <td>2</td>

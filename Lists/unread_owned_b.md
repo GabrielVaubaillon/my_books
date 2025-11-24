@@ -80,6 +80,13 @@
       <td rowspan=1>Antony</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Illustrated Man</td>
+      <td rowspan=1>Ray Bradbury</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Bennett et sa cabane</td>
       <td rowspan=1>Anthony Buckeridge</td>
       <td rowspan=1>fr</td>
