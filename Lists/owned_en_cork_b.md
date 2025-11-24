@@ -308,6 +308,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Galatea</td>
+      <td rowspan=1>Madeline Miller</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>How To</td>
       <td rowspan=1>Randall Munroe</td>
       <td rowspan=1>en</td>

@@ -460,8 +460,8 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>The Illustrated Man (en VO)</td>
-      <td></td>
+      <td rowspan=1>L'Homme illustré (fr)</td>
+      <td>The Illustrated Man (en VO)</td>
       <td rowspan=1>Ray Bradbury</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
@@ -2314,6 +2314,13 @@
       <td rowspan=1>Prosper Mérimée</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Galatée (fr)</td>
+      <td>Galatea (en VO)</td>
+      <td rowspan=1>Madeline Miller</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
     </tr>
     <tr>
       <td rowspan=1>Le Piège Gaulois (fr VO)</td>

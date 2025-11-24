@@ -4157,10 +4157,19 @@ works:
   W_535:
     titles:
       en: The Illustrated Man
+      fr: L'Homme illustré
     language: en
     read: no
     books: B_431
     authors: A_030
+  W_536:
+    titles:
+      en: Galatea
+      fr: Galatée
+    language: en
+    read: no
+    books: B_432
+    authors: A_294
 
 books:
   B_001:
@@ -6349,6 +6358,12 @@ books:
     language: en
     isbn: 978-0-00-647922-2
     situation: Cork
+  B_432:
+    title: Galatea
+    language: en
+    isbn: 978-0-06-328051-9
+    situation: Cork
+
 
 authors:
   A_001:
@@ -6970,6 +6985,8 @@ authors:
     name: Trevanian
   A_293:
     name: Samantha Sotto Yambao
+  A_294:
+    name: Madeline Miller
 
 series:
   S_001:

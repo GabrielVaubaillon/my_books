@@ -38,8 +38,8 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>The Illustrated Man (en VO)</td>
-      <td></td>
+      <td rowspan=1>L'Homme illustré (fr)</td>
+      <td>The Illustrated Man (en VO)</td>
       <td rowspan=1>Ray Bradbury</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
@@ -324,6 +324,13 @@
       <td rowspan=1>Moby-Dick (fr)</td>
       <td>Moby-Dick (en VO)</td>
       <td rowspan=1>Herman Melville</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Galatée (fr)</td>
+      <td>Galatea (en VO)</td>
+      <td rowspan=1>Madeline Miller</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>

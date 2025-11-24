@@ -1955,6 +1955,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Galatea</td>
+      <td rowspan=1>Madeline Miller</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le Piège Gaulois</td>
       <td rowspan=1>Pierre Miquel</td>
       <td rowspan=1>fr</td>
