@@ -576,6 +576,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Gulliver's travels</td>
+      <td rowspan=1>Jonathan Swift</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Beren and Lúthien</td>
       <td rowspan=1>J.R.R. Tolkien</td>
       <td rowspan=1>en</td>

@@ -1557,6 +1557,12 @@
       <td>0</td>
     </tr>
     <tr>
+      <td>Jonathan Swift</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Flore Talamon</td>
       <td>2</td>
       <td>2</td>

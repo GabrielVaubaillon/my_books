@@ -4170,6 +4170,14 @@ works:
     read: no
     books: B_432
     authors: A_294
+  W_537:
+    titles:
+      en: Gulliver's travels
+      fr: Les Voyages de Gulliver
+    language: en
+    read: no
+    books: B_434
+    authors: A_295
 
 books:
   B_001:
@@ -6368,7 +6376,11 @@ books:
     language: en
     isbn: 978-1-5266-2243-3
     situation: Cork
-
+  B_434:
+    title: Gulliver's travels
+    language: en
+    isbn: 978-1-85326-027-4
+    situation: Cork
 
 authors:
   A_001:
@@ -6992,6 +7004,8 @@ authors:
     name: Samantha Sotto Yambao
   A_294:
     name: Madeline Miller
+  A_295:
+    name: Jonathan Swift
 
 series:
   S_001:

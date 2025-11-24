@@ -1247,6 +1247,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Les Voyages de Gulliver (fr)</td>
+      <td>Gulliver's travels (en VO)</td>
+      <td rowspan=1>Jonathan Swift</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Mythes Aztèques et Mayas (fr)</td>
       <td>Aztec and Maya Myths (en VO)</td>
       <td rowspan=1>Karl Taube</td>

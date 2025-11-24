@@ -1188,6 +1188,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Gulliver's travels</td>
+      <td rowspan=1>Jonathan Swift</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Mythes Aztèques et Mayas</td>
       <td rowspan=1>Karl Taube</td>
       <td rowspan=1>fr</td>

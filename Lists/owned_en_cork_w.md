@@ -398,6 +398,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Les Voyages de Gulliver (fr)</td>
+      <td>Gulliver's travels (en VO)</td>
+      <td rowspan=1>Jonathan Swift</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Beren et Lúthien (fr)</td>
       <td>Beren and Lúthien (en VO)</td>
       <td rowspan=1>J.R.R. Tolkien</td>
