@@ -4185,6 +4185,13 @@ works:
     read: no
     books: B_435
     authors: A_296
+  W_539:
+    titles:
+      en: This Way Up
+    language: en
+    read: no
+    books: B_436
+    authors: A_297;A_298
 
 books:
   B_001:
@@ -6393,6 +6400,11 @@ books:
     language: en
     isbn: 978-1-91569-325-9
     situation: Cork
+  B_436:
+    title: This Way Up
+    language: en
+    isbn: 978-0-00-871028-6
+    situation: Cork
 
 authors:
   A_001:
@@ -7020,6 +7032,10 @@ authors:
     name: Jonathan Swift
   A_296:
     name: Rónán Hession
+  A_297:
+    name: Mark Cooper-Jones
+  A_298:
+    name: Jay Foreman
 
 series:
   S_001:

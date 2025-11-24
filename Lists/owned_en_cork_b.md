@@ -294,6 +294,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>This Way Up</td>
+      <td rowspan=1>Mark Cooper-Jones / Jay Foreman</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>To Kill A Mocking-Bird</td>
       <td rowspan=1>Harper Lee</td>
       <td rowspan=1>en</td>

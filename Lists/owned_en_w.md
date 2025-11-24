@@ -569,6 +569,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>This Way Up (en VO)</td>
+      <td></td>
+      <td rowspan=1>Mark Cooper-Jones / Jay Foreman</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Des fleurs pour Algernon (fr)</td>
       <td>Flowers For Algernon (en VO)</td>
       <td rowspan=1>Daniel Keyes</td>

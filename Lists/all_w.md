@@ -1694,6 +1694,13 @@
       <td rowspan=1>Non possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>This Way Up (en VO)</td>
+      <td></td>
+      <td rowspan=1>Mark Cooper-Jones / Jay Foreman</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Du Passé Faisons Table Rase (fr VO)</td>
       <td></td>
       <td rowspan=1>Thierry Jonquet</td>
