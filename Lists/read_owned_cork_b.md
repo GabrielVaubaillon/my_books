@@ -126,6 +126,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Piranesi</td>
+      <td rowspan=1>Susanna Clarke</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>The Hunger Games</td>
       <td rowspan=1>Suzanne Collins</td>
       <td rowspan=1>en</td>

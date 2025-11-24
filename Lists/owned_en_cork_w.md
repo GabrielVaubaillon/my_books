@@ -101,6 +101,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Piranèse (fr)</td>
+      <td>Piranesi (en VO)</td>
+      <td rowspan=1>Susanna Clarke</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=2>L'Alchimiste (fr)</td>
       <td>The Alchemist (en)</td>
       <td rowspan=2>Paul Coelho</td>

@@ -147,6 +147,12 @@
       <td>3</td>
     </tr>
     <tr>
+      <td>Susanna Clarke</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+    <tr>
       <td>Claire Dulivier</td>
       <td>0</td>
       <td>3</td>
@@ -233,12 +239,6 @@
     <tr>
       <td>Ted Chiang</td>
       <td>2</td>
-      <td>2</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Susanna Clarke</td>
-      <td>1</td>
       <td>2</td>
       <td>2</td>
     </tr>

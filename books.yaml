@@ -550,7 +550,7 @@ works:
       fr: Piranèse
     language: en
     read: yes
-    books: B_053
+    books: B_053;B_433
     authors: A_041
   W_062:
     titles:
@@ -6362,6 +6362,11 @@ books:
     title: Galatea
     language: en
     isbn: 978-0-06-328051-9
+    situation: Cork
+  B_433:
+    title: Piranesi
+    language: en
+    isbn: 978-1-5266-2243-3
     situation: Cork
 
 

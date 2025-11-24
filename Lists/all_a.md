@@ -360,7 +360,7 @@
       <td>Susanna Clarke</td>
       <td>1</td>
       <td>2</td>
-      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Linda Cline</td>
