@@ -4178,6 +4178,13 @@ works:
     read: no
     books: B_434
     authors: A_295
+  W_538:
+    titles:
+      en: Ghost Mountain
+    language: en
+    read: no
+    books: B_435
+    authors: A_296
 
 books:
   B_001:
@@ -6381,6 +6388,11 @@ books:
     language: en
     isbn: 978-1-85326-027-4
     situation: Cork
+  B_435:
+    title: Ghost Mountain
+    language: en
+    isbn: 978-1-91569-325-9
+    situation: Cork
 
 authors:
   A_001:
@@ -7006,6 +7018,8 @@ authors:
     name: Madeline Miller
   A_295:
     name: Jonathan Swift
+  A_296:
+    name: Rónán Hession
 
 series:
   S_001:

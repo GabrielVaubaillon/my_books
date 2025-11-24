@@ -791,6 +791,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Ghost Mountain (en VO)</td>
+      <td></td>
+      <td rowspan=1>Rónán Hession</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>The Spear Cuts Through Water (en VO)</td>
       <td></td>
       <td rowspan=1>Simon Jimenez</td>
