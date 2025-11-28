@@ -4199,6 +4199,13 @@ works:
     read: no
     books: B_437
     authors:
+  W_541:
+    titles:
+      en: Say Nothing
+    language: en
+    read: no
+    books: B_438
+    authors: A_299
 
 books:
   B_001:
@@ -6417,6 +6424,11 @@ books:
     language: en
     isbn: 978-1-78664-806-8
     situation: Cork
+  B_438:
+    title: Say Nothing
+    language: en
+    isbn: 978-0-00-815926-9
+    situation: Cork
 
 authors:
   A_001:
@@ -7048,6 +7060,8 @@ authors:
     name: Mark Cooper-Jones
   A_298:
     name: Jay Foreman
+  A_299:
+    name: Patrick  Radden Keefe
 
 series:
   S_001:
