@@ -669,6 +669,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Evelyn Cusack</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>James Dashner</td>
       <td>1</td>
       <td>1</td>
@@ -1005,7 +1011,7 @@
       <td>1</td>
     </tr>
     <tr>
-      <td>Patrick  Radden Keefe</td>
+      <td>Patrick Radden Keefe</td>
       <td>0</td>
       <td>1</td>
       <td>1</td>
@@ -1522,6 +1528,12 @@
     </tr>
     <tr>
       <td>Per Wahlöö</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Séamus Walsh</td>
       <td>0</td>
       <td>1</td>
       <td>1</td>

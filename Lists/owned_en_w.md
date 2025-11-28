@@ -300,6 +300,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>They Say It Might Rain (en VO)</td>
+      <td></td>
+      <td rowspan=1>Evelyn Cusack / Séamus Walsh</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>La Vallée de la peur (fr)</td>
       <td>The Valley of Fear (en VO)</td>
       <td rowspan=1>Arthur Conan Doyle</td>
@@ -578,7 +585,7 @@
     <tr>
       <td rowspan=1>Say Nothing (en VO)</td>
       <td></td>
-      <td rowspan=1>Patrick  Radden Keefe</td>
+      <td rowspan=1>Patrick Radden Keefe</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>

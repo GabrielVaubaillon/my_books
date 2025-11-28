@@ -171,6 +171,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>They Say It Might Rain</td>
+      <td rowspan=1>Evelyn Cusack / Séamus Walsh</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>La Horde du Contrevent</td>
       <td rowspan=1>Alain Damasio</td>
       <td rowspan=1>fr</td>
@@ -423,7 +430,7 @@
     </tr>
     <tr>
       <td colspan=2 rowspan=1>Say Nothing</td>
-      <td rowspan=1>Patrick  Radden Keefe</td>
+      <td rowspan=1>Patrick Radden Keefe</td>
       <td rowspan=1>en</td>
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Cork</td>
