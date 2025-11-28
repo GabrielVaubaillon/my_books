@@ -4192,6 +4192,13 @@ works:
     read: no
     books: B_436
     authors: A_297;A_298
+  W_540:
+    titles:
+      en: Irish Fairy Tales
+    language: en
+    read: no
+    books: B_437
+    authors:
 
 books:
   B_001:
@@ -6404,6 +6411,11 @@ books:
     title: This Way Up
     language: en
     isbn: 978-0-00-871028-6
+    situation: Cork
+  B_437:
+    title: Irish Fairy Tales
+    language: en
+    isbn: 978-1-78664-806-8
     situation: Cork
 
 authors:

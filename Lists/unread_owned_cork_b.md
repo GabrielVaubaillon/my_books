@@ -723,6 +723,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Irish Fairy Tales</td>
+      <td rowspan=1></td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Irish Folk and Fairy Tales</td>
       <td rowspan=1></td>
       <td rowspan=1>en</td>
