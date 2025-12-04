@@ -185,13 +185,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>La République des voleurs (fr)</td>
-      <td>The Republic of Thieves (en VO)</td>
-      <td rowspan=1>Scott Lynch</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>Le Fardeau tranquille des choses (fr)</td>
       <td>The Book of Form and Emptiness (en VO)</td>
       <td rowspan=1>Ruth Ozeki</td>

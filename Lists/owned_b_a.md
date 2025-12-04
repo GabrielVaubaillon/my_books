@@ -1120,7 +1120,7 @@
     </tr>
     <tr>
       <td>Scott Lynch</td>
-      <td>2</td>
+      <td>3</td>
       <td>3</td>
       <td>1</td>
     </tr>

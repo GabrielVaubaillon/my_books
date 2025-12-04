@@ -481,6 +481,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>La République des voleurs (fr)</td>
+      <td>The Republic of Thieves (en VO)</td>
+      <td rowspan=1>Scott Lynch</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Un palais d'épines et de roses (fr)</td>
       <td>A Court Of Thorns And Roses (en VO)</td>
       <td rowspan=1>Sarah J. Maas</td>

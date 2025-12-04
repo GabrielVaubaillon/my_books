@@ -730,22 +730,6 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
-      <td colspan=1 rowspan=3>The Gentleman Bastard Sequence</td>
-      <td>The Lies of Locke Lamora</td>
-      <td rowspan=3>Scott Lynch</td>
-      <td rowspan=3>en</td>
-      <td rowspan=1>Lu</td>
-      <td rowspan=3>Ebook</td>
-    </tr>
-    <tr>
-      <td>Red Seas Under Red Skies</td>
-      <td>Lu</td>
-    </tr>
-    <tr>
-      <td>The Republic of Thieves</td>
-      <td>Pas Lu</td>
-    </tr>
-    <tr>
       <td colspan=2 rowspan=1>Le Chinois</td>
       <td rowspan=1>Henning Mankell</td>
       <td rowspan=1>fr</td>

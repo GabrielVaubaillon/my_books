@@ -195,6 +195,12 @@
       <td>3</td>
     </tr>
     <tr>
+      <td>Scott Lynch</td>
+      <td>3</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Guy de Maupassant</td>
       <td>3</td>
       <td>1</td>
@@ -301,12 +307,6 @@
       <td>2</td>
       <td>0</td>
       <td>0</td>
-    </tr>
-    <tr>
-      <td>Scott Lynch</td>
-      <td>2</td>
-      <td>3</td>
-      <td>1</td>
     </tr>
     <tr>
       <td>Prosper Mérimée</td>
