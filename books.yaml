@@ -4122,7 +4122,7 @@ works:
       fr: La Zone du Dehors
     language: fr
     read: no
-    books: B_426
+    books: B_426;B_440
     authors: A_053
   W_531:
     titles:
@@ -6441,6 +6441,12 @@ books:
     language: en
     isbn: 978-1-80458-190-2
     situation: Cork
+  B_440:
+    title: La Zone du Dehors
+    language: fr
+    isbn: 978-2-07-292752-2
+    situation: Cork
+    notes: donné par Faiz
 
 authors:
   A_001:
