@@ -14,7 +14,7 @@
       <td rowspan=1>Miranda Jane Aldhouse-Green</td>
       <td rowspan=1>fr</td>
       <td rowspan=1>Lu</td>
-      <td rowspan=1>Lended</td>
+      <td rowspan=1>Voyage</td>
     </tr>
   </tbody>
 </table>

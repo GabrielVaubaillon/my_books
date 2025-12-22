@@ -50,12 +50,12 @@ Les liens donnent accès au tableau détaillé correspondant.
     - Livres en Français : 0 (contenant 0 oeuvres).
     - Livres en Anglais : [5 (100%)](Lists/owned_en_audiobooks_b.md) (contenant [5 (100%)](Lists/owned_en_audiobooks_w.md) oeuvres).
     - Livres en Irlandais : 0 (contenant 0 oeuvres).
-- Lended:
-    - [1 (0.23%)](Lists/owned_lended_b.md) livres,
-    - [1 (0.22%)](Lists/owned_lended_w.md) oeuvres.
-    - Oeuvres lues: [1 (100%)](Lists/read_owned_lended_w.md) (reparties en [1 (100%)](Lists/read_owned_lended_b.md) livres).
+- Voyage:
+    - [1 (0.23%)](Lists/owned_voyage_b.md) livres,
+    - [1 (0.22%)](Lists/owned_voyage_w.md) oeuvres.
+    - Oeuvres lues: [1 (100%)](Lists/read_owned_voyage_w.md) (reparties en [1 (100%)](Lists/read_owned_voyage_b.md) livres).
     - Oeuvres non lues : 0 (reparties en 0 livres).
-    - Livres en Français : [1 (100%)](Lists/owned_fr_lended_b.md) (contenant [1 (100%)](Lists/owned_fr_lended_w.md) oeuvres).
+    - Livres en Français : [1 (100%)](Lists/owned_fr_voyage_b.md) (contenant [1 (100%)](Lists/owned_fr_voyage_w.md) oeuvres).
     - Livres en Anglais : 0 (contenant 0 oeuvres).
     - Livres en Irlandais : 0 (contenant 0 oeuvres).
 
