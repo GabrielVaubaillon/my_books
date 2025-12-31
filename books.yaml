@@ -4221,6 +4221,14 @@ works:
     read: no
     books: B_441
     authors: A_302
+  W_544:
+    titles:
+      en: The Light of Evening
+      fr: Crépuscule Irlandais
+    language: en
+    read: no
+    books: B_442
+    authors: A_303
 
 books:
   B_001:
@@ -6460,6 +6468,11 @@ books:
     language: fr
     isbn: 978-2-0807-0709-3
     situation: Cork
+  B_442:
+    title: Crépuscule Irlandais
+    language: fr
+    isbn: 978-2-84805-087-4
+    situation: Cork
 
 
 authors:
@@ -7100,6 +7113,9 @@ authors:
     name: Séamus Walsh
   A_302:
     name: James Joyce
+  A_303:
+    name: Edna O'brien
+    sorting_name: OBrien
 
 series:
   S_001:

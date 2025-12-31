@@ -616,6 +616,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Crépuscule Irlandais (fr)</td>
+      <td>The Light of Evening (en VO)</td>
+      <td rowspan=1>Edna O'brien</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Principes élémentaires de philosophie (fr VO)</td>
       <td></td>
       <td rowspan=1>Georges Politzer</td>

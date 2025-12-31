@@ -2170,6 +2170,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Crépuscule Irlandais (fr)</td>
+      <td>The Light of Evening (en VO)</td>
+      <td rowspan=1>Edna O'brien</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Z comme Zacharie (fr)</td>
       <td>Z for Zachariah (en VO)</td>
       <td rowspan=1>Robert C. O'Brien</td>
