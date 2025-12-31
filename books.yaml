@@ -4213,6 +4213,14 @@ works:
     read: no
     books: B_439
     authors: A_300;A_301
+  W_543:
+    titles:
+      en: Dubliners
+      fr: Gens de Dublin
+    language: en
+    read: no
+    books: B_441
+    authors: A_302
 
 books:
   B_001:
@@ -6447,6 +6455,12 @@ books:
     isbn: 978-2-07-292752-2
     situation: Cork
     notes: donné par Faiz
+  B_441:
+    title: Gens de Dublin
+    language: fr
+    isbn: 978-2-0807-0709-3
+    situation: Cork
+
 
 authors:
   A_001:
@@ -7084,6 +7098,8 @@ authors:
     name: Evelyn Cusack
   A_301:
     name: Séamus Walsh
+  A_302:
+    name: James Joyce
 
 series:
   S_001:

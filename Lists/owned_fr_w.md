@@ -950,6 +950,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Gens de Dublin (fr)</td>
+      <td>Dubliners (en VO)</td>
+      <td rowspan=1>James Joyce</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Phoque Blanc (fr)</td>
       <td>The White Seal (en VO)</td>
       <td rowspan=1>Rudyard Kipling</td>

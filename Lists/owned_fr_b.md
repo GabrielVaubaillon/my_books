@@ -934,6 +934,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Gens de Dublin</td>
+      <td rowspan=1>James Joyce</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le Phoque Blanc</td>
       <td rowspan=1>Rudyard Kipling</td>
       <td rowspan=1>fr</td>
