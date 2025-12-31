@@ -17,6 +17,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Mythes Celtiques</td>
+      <td rowspan=1>Miranda Jane Aldhouse-Green</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Terminus Leipzig</td>
       <td rowspan=1>Max Annas / Jérôme Leroy</td>
       <td rowspan=1>fr</td>
