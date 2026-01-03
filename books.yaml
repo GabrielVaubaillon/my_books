@@ -4229,6 +4229,13 @@ works:
     read: no
     books: B_442
     authors: A_303
+  W_545:
+    titles:
+      en: In Your Dreams
+    language: en
+    read: no
+    books: B_443
+    authors: A_279
 
 books:
   B_001:
@@ -6473,7 +6480,11 @@ books:
     language: fr
     isbn: 978-2-84805-087-4
     situation: Cork
-
+  B_443:
+    title: In Your Dreams
+    language: en
+    isbn: 9780593723722
+    situation: Ebook
 
 authors:
   A_001:
@@ -7509,11 +7520,12 @@ series:
       2: W_493
   S_041:
     name:
-      en: When in Rome
+      en: When in Rome, Kentucky
     works:
       1: W_489
       2: W_490
       3: W_497
+      4: W_545
   S_042:
     name:
       en: Written in the Stars

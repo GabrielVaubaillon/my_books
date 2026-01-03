@@ -129,16 +129,16 @@
       <td>2</td>
     </tr>
     <tr>
-      <td>Christopher Paolini</td>
-      <td>4</td>
+      <td>Sarah Adams</td>
+      <td>3</td>
       <td>4</td>
       <td>4</td>
     </tr>
     <tr>
-      <td>Sarah Adams</td>
-      <td>3</td>
-      <td>3</td>
-      <td>3</td>
+      <td>Christopher Paolini</td>
+      <td>4</td>
+      <td>4</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>Kevin J. Anderson</td>

@@ -93,6 +93,12 @@
       <td>5</td>
     </tr>
     <tr>
+      <td>Sarah Adams</td>
+      <td>3</td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
       <td>Arthur Conan Doyle</td>
       <td>6</td>
       <td>11</td>
@@ -103,12 +109,6 @@
       <td>4</td>
       <td>4</td>
       <td>4</td>
-    </tr>
-    <tr>
-      <td>Sarah Adams</td>
-      <td>3</td>
-      <td>3</td>
-      <td>3</td>
     </tr>
     <tr>
       <td>Kevin J. Anderson</td>

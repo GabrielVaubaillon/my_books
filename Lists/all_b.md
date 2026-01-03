@@ -38,6 +38,13 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>In Your Dreams</td>
+      <td rowspan=1>Sarah Adams</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Everything I know about love</td>
       <td rowspan=1>Dolly Alderton</td>
       <td rowspan=1>en</td>
