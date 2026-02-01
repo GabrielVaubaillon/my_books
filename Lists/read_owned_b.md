@@ -497,6 +497,20 @@
       <td rowspan=1>Antony</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>La Zone du Dehors</td>
+      <td rowspan=1>Alain Damasio</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>La Zone du Dehors</td>
+      <td rowspan=1>Alain Damasio</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Labyrinthe - L'Épreuve</td>
       <td rowspan=1>James Dashner</td>
       <td rowspan=1>fr</td>

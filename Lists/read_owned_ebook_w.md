@@ -198,6 +198,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>La Zone du Dehors (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Alain Damasio</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Joseph Balsamo (fr VO)</td>
       <td></td>
       <td rowspan=1>Alexandre Dumas</td>

@@ -4121,7 +4121,7 @@ works:
     titles:
       fr: La Zone du Dehors
     language: fr
-    read: no
+    read: yes
     books: B_426;B_440
     authors: A_053
   W_531:

@@ -191,6 +191,13 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>La Zone du Dehors</td>
+      <td rowspan=1>Alain Damasio</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Joseph Balsamo</td>
       <td rowspan=1>Alexandre Dumas</td>
       <td rowspan=1>fr</td>

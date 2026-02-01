@@ -175,6 +175,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>La Zone du Dehors</td>
+      <td rowspan=1>Alain Damasio</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=1 rowspan=5>Les Chroniques de Spiderwick - L'integrale</td>
       <td>Le Livre magique</td>
       <td rowspan=5>Tony Diterlizzi / Holly Black</td>

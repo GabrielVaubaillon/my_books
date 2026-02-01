@@ -191,6 +191,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>La Zone du Dehors (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Alain Damasio</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Livre magique (fr)</td>
       <td>The Field Guide (en VO)</td>
       <td rowspan=1>Tony Diterlizzi / Holly Black</td>
