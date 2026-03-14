@@ -2,22 +2,22 @@
 
 Les liens donnent accès au tableau détaillé correspondant.
 
-- Toutes les oeuvres, lues et/ou possédées: [545](Lists/all_w.md)
+- Toutes les oeuvres, lues et/ou possédées: [546](Lists/all_w.md)
 - Tous les livres: [441](Lists/all_b.md)
-- Oeuvres lues: [384](Lists/read_w.md)
+- Oeuvres lues: [385](Lists/read_w.md)
 - Livres à lire: [143](Lists/unread_owned_b.md)
 - Livres numériques: [91](Lists/owned_ebook_b.md)
 
 ## Ma bibliothèque
 
 - [441](Lists/owned_b.md) livres,
-- [463 (84.95%)](Lists/owned_w.md) oeuvres.
+- [463 (84.8%)](Lists/owned_w.md) oeuvres.
 - Oeuvres lues: [302 (65.23%)](Lists/read_owned_w.md) (reparties en [301 (68.25%)](Lists/read_owned_b.md) livres).
 - Oeuvres non lues : [161 (34.77%)](Lists/unread_owned_w.md) (reparties en [143 (32.43%)](Lists/unread_owned_b.md) livres).
 - Livres en Français : [269 (61.0%)](Lists/owned_fr_b.md) (contenant [289 (62.42%)](Lists/owned_fr_w.md) oeuvres).
 - Livres en Anglais : [170 (38.55%)](Lists/owned_en_b.md) (contenant [183 (39.52%)](Lists/owned_en_w.md) oeuvres).
 - Livres en Irlandais : [2 (0.45%)](Lists/owned_ga_b.md) (contenant [2 (0.43%)](Lists/owned_ga_w.md) oeuvres).
-- Auteur·rice·s présent·e·s dans la collection: 266 (87.79%), trié·e·s par [nombre d'oeuvres](Lists/owned_w_a.md) ou par [nombre de livres](Lists/owned_b_a.md) possédés.
+- Auteur·rice·s présent·e·s dans la collection: 266 (87.5%), trié·e·s par [nombre d'oeuvres](Lists/owned_w_a.md) ou par [nombre de livres](Lists/owned_b_a.md) possédés.
 - Cork:
     - [219 (49.66%)](Lists/owned_cork_b.md) livres,
     - [226 (48.81%)](Lists/owned_cork_w.md) oeuvres.
@@ -53,12 +53,12 @@ Les liens donnent accès au tableau détaillé correspondant.
 
 ## Mes lectures
 
-- [384](Lists/read_w.md) oeuvres lues.
-- Oeuvres lues et possédées: [302 (78.65%)](Lists/read_owned_w.md) (reparties en [301](Lists/read_owned_b.md) livres).
-- Oeuvres lues et non possédées: [82 (21.35%)](Lists/read_not_owned_w.md)
-- Auteur·rice·s lu·e·s: [215 (70.96%)](Lists/read_a.md)
+- [385](Lists/read_w.md) oeuvres lues.
+- Oeuvres lues et possédées: [302 (78.44%)](Lists/read_owned_w.md) (reparties en [301](Lists/read_owned_b.md) livres).
+- Oeuvres lues et non possédées: [83 (21.56%)](Lists/read_not_owned_w.md)
+- Auteur·rice·s lu·e·s: [216 (71.05%)](Lists/read_a.md)
 
 ## Autres
 
-- Toutes les oeuvres: [545](Lists/all_w.md)
-- Tous les auteur·rice·s: [303](Lists/all_a.md)
+- Toutes les oeuvres: [546](Lists/all_w.md)
+- Tous les auteur·rice·s: [304](Lists/all_a.md)

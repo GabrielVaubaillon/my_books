@@ -1721,6 +1721,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Twenty Years A-Growing (en)</td>
+      <td>Fiche Bliain ag Fás (ga VO)</td>
+      <td rowspan=1>Maurice O'Sullivan</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Non possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Persée et autres métamorphoses (fr)</td>
       <td></td>
       <td rowspan=1>Ovide</td>

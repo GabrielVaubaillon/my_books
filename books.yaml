@@ -4236,6 +4236,14 @@ works:
     read: yes
     books: B_443
     authors: A_279
+  W_546:
+    titles:
+      en: Twenty Years A-Growing
+      ga: Fiche Bliain ag Fás
+    language: ga
+    read: yes
+    books:
+    authors: A_304
 
 books:
   B_001:
@@ -7127,6 +7135,9 @@ authors:
   A_303:
     name: Edna O'brien
     sorting_name: OBrien
+  A_304:
+    name: Maurice O'Sullivan
+    sorting_name: Osullivan
 
 series:
   S_001:
