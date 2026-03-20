@@ -192,7 +192,7 @@
       <td colspan=2 rowspan=1>The Long Way to a Small, Angry Planet</td>
       <td rowspan=1>Becky Chambers</td>
       <td rowspan=1>en</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Cork</td>
     </tr>
     <tr>

@@ -55,7 +55,7 @@
       <td rowspan=1>L'Espace d'un an (fr)</td>
       <td>The Long Way to a Small, Angry Planet (en VO)</td>
       <td rowspan=1>Becky Chambers</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
