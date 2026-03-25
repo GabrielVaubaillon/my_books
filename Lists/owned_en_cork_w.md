@@ -62,7 +62,7 @@
       <td rowspan=1>Libration (fr)</td>
       <td>A Closed and Common Orbit (en VO)</td>
       <td rowspan=1>Becky Chambers</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
