@@ -3977,7 +3977,7 @@ works:
       en: Record of a Spaceborn Few
       fr: Archives de l'exode
     language: en
-    read: no
+    read: yes
     books: B_401
     authors: A_037
   W_512:

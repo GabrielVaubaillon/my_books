@@ -149,13 +149,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Archives de l'exode (fr)</td>
-      <td>Record of a Spaceborn Few (en VO)</td>
-      <td rowspan=1>Becky Chambers</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>La Galaxie vue du sol (fr)</td>
       <td>The Galaxy, and the Ground Within (en VO)</td>
       <td rowspan=1>Becky Chambers</td>
