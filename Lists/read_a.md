@@ -63,6 +63,12 @@
       <td>6</td>
     </tr>
     <tr>
+      <td>Becky Chambers</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+    </tr>
+    <tr>
       <td>Arthur Conan Doyle</td>
       <td>6</td>
       <td>11</td>
@@ -91,12 +97,6 @@
       <td>5</td>
       <td>5</td>
       <td>1</td>
-    </tr>
-    <tr>
-      <td>Becky Chambers</td>
-      <td>5</td>
-      <td>6</td>
-      <td>6</td>
     </tr>
     <tr>
       <td>Agatha Christie</td>

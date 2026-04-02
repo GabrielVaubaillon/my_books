@@ -119,6 +119,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Galaxy, and the Ground Within</td>
+      <td rowspan=1>Becky Chambers</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>And then there were None</td>
       <td rowspan=1>Agatha Christie</td>
       <td rowspan=1>en</td>

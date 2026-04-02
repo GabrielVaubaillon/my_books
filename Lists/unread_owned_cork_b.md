@@ -101,13 +101,6 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
-      <td colspan=2 rowspan=1>The Galaxy, and the Ground Within</td>
-      <td rowspan=1>Becky Chambers</td>
-      <td rowspan=1>en</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Cork</td>
-    </tr>
-    <tr>
       <td colspan=2 rowspan=1>La Mort Immortelle</td>
       <td rowspan=1>Liu Cixin</td>
       <td rowspan=1>fr</td>

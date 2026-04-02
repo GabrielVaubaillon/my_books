@@ -316,7 +316,7 @@
     </tr>
     <tr>
       <td>Becky Chambers</td>
-      <td>5</td>
+      <td>6</td>
       <td>6</td>
       <td>6</td>
     </tr>

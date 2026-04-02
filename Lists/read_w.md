@@ -450,6 +450,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>La Galaxie vue du sol (fr)</td>
+      <td>The Galaxy, and the Ground Within (en VO)</td>
+      <td rowspan=1>Becky Chambers</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>L'Invasion de l'overworld (fr)</td>
       <td>Invasion of the Overworld (en VO)</td>
       <td rowspan=1>Mark Cheverton</td>

@@ -181,7 +181,7 @@
       <td rowspan=1>La Galaxie vue du sol (fr)</td>
       <td>The Galaxy, and the Ground Within (en VO)</td>
       <td rowspan=1>Becky Chambers</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
