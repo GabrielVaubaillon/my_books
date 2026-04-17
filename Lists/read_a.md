@@ -21,16 +21,16 @@
       <td>0</td>
     </tr>
     <tr>
+      <td>Isaac Asimov</td>
+      <td>8</td>
+      <td>9</td>
+      <td>6</td>
+    </tr>
+    <tr>
       <td>Martha Wells</td>
       <td>8</td>
       <td>8</td>
       <td>8</td>
-    </tr>
-    <tr>
-      <td>Isaac Asimov</td>
-      <td>7</td>
-      <td>9</td>
-      <td>6</td>
     </tr>
     <tr>
       <td>Maurice Leblanc</td>

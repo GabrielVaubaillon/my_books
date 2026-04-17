@@ -101,6 +101,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Noël sur Ganymède (fr)</td>
+      <td></td>
+      <td rowspan=1>Isaac Asimov</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Un défilé de robots (fr)</td>
       <td>The Rest of the Robots (en VO)</td>
       <td rowspan=1>Isaac Asimov</td>

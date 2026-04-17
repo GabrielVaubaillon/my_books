@@ -102,6 +102,13 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Noël sur Ganymède</td>
+      <td rowspan=1>Isaac Asimov</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>The Rest of the Robots</td>
       <td rowspan=1>Isaac Asimov</td>
       <td rowspan=1>en</td>

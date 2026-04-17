@@ -24,13 +24,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Noël sur Ganymède (fr)</td>
-      <td></td>
-      <td rowspan=1>Isaac Asimov</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>Furies: Stories of the Wicked, Wild and Untamed (en VO)</td>
       <td></td>
       <td rowspan=1>Margaret Atwood / Susie Boyt / Eleanor Crewes / Emma Donoghue / Stella Duffy / Linda Grant / Annie Hodson / Claire Kohda / CN Lester / Kirsty Logan / Caroline O'Donoghue / Chibundu Onuzo / Helen Oyeyemi / Rachel Seiffert / Kamila Shamsie / Ali Smith</td>

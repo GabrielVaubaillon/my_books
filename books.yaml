@@ -176,7 +176,7 @@ works:
     titles:
       fr: Noël sur Ganymède
     language: en
-    read: no
+    read: yes
     books: B_010
     authors: A_009
   W_014:

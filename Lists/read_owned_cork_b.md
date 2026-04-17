@@ -38,6 +38,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Noël sur Ganymède</td>
+      <td rowspan=1>Isaac Asimov</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=1 rowspan=3>Fondation 1</td>
       <td>Fondation</td>
       <td rowspan=3>Isaac Asimov</td>
