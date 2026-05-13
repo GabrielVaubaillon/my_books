@@ -198,5 +198,12 @@
       <td rowspan=1>Pas Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
+    <tr>
+      <td rowspan=1>Dégradation de services (fr)</td>
+      <td>Platform Decay (en VO)</td>
+      <td rowspan=1>Martha Wells</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
   </tbody>
 </table>

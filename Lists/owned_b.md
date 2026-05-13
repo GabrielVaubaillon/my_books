@@ -3168,6 +3168,13 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Platform Decay</td>
+      <td rowspan=1>Martha Wells</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le serment des catacombes</td>
       <td rowspan=1>Odile Weulersse</td>
       <td rowspan=1>fr</td>

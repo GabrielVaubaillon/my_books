@@ -4252,6 +4252,14 @@ works:
     read: no
     books: B_444
     authors: A_037
+  W_548:
+    titles:
+      en: Platform Decay
+      fr: Dégradation de services
+    language: en
+    read: no
+    books: B_445
+    authors: A_217
 
 books:
   B_001:
@@ -6506,6 +6514,11 @@ books:
     language: en
     isbn: 9781473697171
     situation: Ebook
+  B_445:
+    title: Platform Decay
+    language: en
+    isbn: 978-1-250-82701-2
+    situation: Ebook
 
 authors:
   A_001:
@@ -7494,6 +7507,7 @@ series:
       5: W_385
       6: W_386
       7: W_415
+      8: W_548
   S_035:
     name:
       en: Dragonriders of Pern
