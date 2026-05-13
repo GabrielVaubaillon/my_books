@@ -304,7 +304,7 @@
       <td colspan=2 rowspan=1>This Way Up</td>
       <td rowspan=1>Mark Cooper-Jones / Jay Foreman</td>
       <td rowspan=1>en</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Cork</td>
     </tr>
     <tr>

@@ -464,6 +464,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>This Way Up</td>
+      <td rowspan=1>Mark Cooper-Jones / Jay Foreman</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le Gambit des Étoiles</td>
       <td rowspan=1>Gérard Klein</td>
       <td rowspan=1>fr</td>

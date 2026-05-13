@@ -1073,6 +1073,13 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>This Way Up</td>
+      <td rowspan=1>Mark Cooper-Jones / Jay Foreman</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Flowers For Algernon</td>
       <td rowspan=1>Daniel Keyes</td>
       <td rowspan=1>en</td>

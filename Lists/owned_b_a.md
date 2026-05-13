@@ -772,7 +772,7 @@
     </tr>
     <tr>
       <td>Jay Foreman</td>
-      <td>0</td>
+      <td>1</td>
       <td>1</td>
       <td>1</td>
     </tr>
@@ -1000,7 +1000,7 @@
     </tr>
     <tr>
       <td>Mark Cooper-Jones</td>
-      <td>0</td>
+      <td>1</td>
       <td>1</td>
       <td>1</td>
     </tr>

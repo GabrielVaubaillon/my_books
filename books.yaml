@@ -4189,7 +4189,7 @@ works:
     titles:
       en: This Way Up
     language: en
-    read: no
+    read: yes
     books: B_436
     authors: A_297;A_298
   W_540:
