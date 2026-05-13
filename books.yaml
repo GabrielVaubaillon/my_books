@@ -4244,6 +4244,14 @@ works:
     read: yes
     books:
     authors: A_304
+  W_547:
+    titles:
+      en: To Be Taught, If Fortunate
+      fr: Apprendre, si par bonheur
+    language: en
+    read: no
+    books: B_444
+    authors: A_037
 
 books:
   B_001:
@@ -6492,6 +6500,11 @@ books:
     title: In Your Dreams
     language: en
     isbn: 9780593723722
+    situation: Ebook
+  B_444:
+    title: To Be Taught, If Fortunate
+    language: en
+    isbn: 9781473697171
     situation: Ebook
 
 authors:

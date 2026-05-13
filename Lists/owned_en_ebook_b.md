@@ -101,6 +101,13 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>To Be Taught, If Fortunate</td>
+      <td rowspan=1>Becky Chambers</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>A Psalm for the Wild Built</td>
       <td rowspan=1>Becky Chambers</td>
       <td rowspan=1>en</td>

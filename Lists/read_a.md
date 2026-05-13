@@ -65,8 +65,8 @@
     <tr>
       <td>Becky Chambers</td>
       <td>6</td>
-      <td>6</td>
-      <td>6</td>
+      <td>7</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>Arthur Conan Doyle</td>

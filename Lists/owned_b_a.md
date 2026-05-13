@@ -39,6 +39,12 @@
       <td>8</td>
     </tr>
     <tr>
+      <td>Becky Chambers</td>
+      <td>6</td>
+      <td>7</td>
+      <td>7</td>
+    </tr>
+    <tr>
       <td>Anne McCaffrey</td>
       <td>7</td>
       <td>7</td>
@@ -52,12 +58,6 @@
     </tr>
     <tr>
       <td>Paul-Jacques Bonzon</td>
-      <td>6</td>
-      <td>6</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>Becky Chambers</td>
       <td>6</td>
       <td>6</td>
       <td>6</td>
