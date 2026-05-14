@@ -4260,6 +4260,13 @@ works:
     read: no
     books: B_445
     authors: A_217
+  W_549:
+    titles:
+      en: The Deal
+    language: en
+    read: no
+    books: B_446
+    authors: A_305
 
 books:
   B_001:
@@ -6519,6 +6526,11 @@ books:
     language: en
     isbn: 978-1-250-82701-2
     situation: Ebook
+  B_446:
+    title: The Deal
+    language: en
+    isbn: 978-0-349-44083-5
+    situation: Ebook
 
 authors:
   A_001:
@@ -7164,6 +7176,8 @@ authors:
   A_304:
     name: Maurice O'Sullivan
     sorting_name: Osullivan
+  A_305:
+    name: Elle Kennedy
 
 series:
   S_001:
@@ -7608,4 +7622,9 @@ series:
       1: W_523
       2: W_524
       3: W_525
+  S_048:
+    name:
+      en: Off Campus
+    works:
+      1: W_549
 
