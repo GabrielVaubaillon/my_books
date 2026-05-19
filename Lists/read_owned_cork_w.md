@@ -548,6 +548,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Galatée (fr)</td>
+      <td>Galatea (en VO)</td>
+      <td rowspan=1>Madeline Miller</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Et Comment...? (fr)</td>
       <td>How To (en VO)</td>
       <td rowspan=1>Randall Munroe</td>

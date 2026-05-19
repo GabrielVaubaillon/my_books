@@ -1400,6 +1400,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Galatée (fr)</td>
+      <td>Galatea (en VO)</td>
+      <td rowspan=1>Madeline Miller</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Piège Gaulois (fr VO)</td>
       <td></td>
       <td rowspan=1>Pierre Miquel</td>

@@ -4167,7 +4167,7 @@ works:
       en: Galatea
       fr: Galatée
     language: en
-    read: no
+    read: yes
     books: B_432
     authors: A_294
   W_537:

@@ -553,13 +553,6 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
-      <td rowspan=1>Galatée (fr)</td>
-      <td>Galatea (en VO)</td>
-      <td rowspan=1>Madeline Miller</td>
-      <td rowspan=1>Pas Lu</td>
-      <td rowspan=1>Possédé</td>
-    </tr>
-    <tr>
       <td rowspan=1>Mes amis les loups (fr)</td>
       <td>Never Cry Wolf (en VO)</td>
       <td rowspan=1>Farley Mowat</td>
