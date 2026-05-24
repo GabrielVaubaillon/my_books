@@ -85,7 +85,7 @@ works:
       fr: Le Guide du Voyageur Galactique
     language: en
     read: yes
-    books: B_001
+    books: B_001;B_447
     authors: A_001
   W_002:
     titles:
@@ -4267,6 +4267,38 @@ works:
     read: no
     books: B_446
     authors: A_305
+  W_550:
+    titles:
+      en: The Restaurant at the End of the Universe
+      fr: Le Dernier Restaurant avant la fin du monde
+    language: en
+    read: no
+    books: B_448
+    authors: A_001
+  W_551:
+    titles:
+      en: Life, the Universe and Everything
+      fr: La Vie, l'Univers et le Reste
+    language: en
+    read: no
+    books: B_449
+    authors: A_001
+  W_552:
+    titles:
+      en: So Long, and Thanks for All the Fish
+      fr: Salut, et encore merci pour le poisson
+    language: en
+    read: no
+    books: B_450
+    authors: A_001
+  W_553:
+    titles:
+      en: Mostly Harmless
+      fr: Globalement inoffensive
+    language: en
+    read: no
+    books: B_451
+    authors: A_001
 
 books:
   B_001:
@@ -6531,6 +6563,31 @@ books:
     language: en
     isbn: 978-0-349-44083-5
     situation: Ebook
+  B_447:
+    title: The Hitchhiker's Guide to the Galaxy
+    language: en
+    isbn: 978-1-5290-3452-3
+    situation: Cork
+  B_448:
+    title: The Restaurant at the End of the Universe
+    language: en
+    isbn: 978-1-5290-3453-0
+    situation: Cork
+  B_449:
+    title: Life, the Universe and Everything
+    language: en
+    isbn: 978-1-5290-3454-7
+    situation: Cork
+  B_450:
+    title: So Long, and Thanks for All the Fish
+    language: en
+    isbn: 978-1-5290-3455-4
+    situation: Cork
+  B_451:
+    title: Mostly Harmless
+    language: en
+    isbn: 978-1-5290-3456-1
+    situation: Cork
 
 authors:
   A_001:
@@ -7187,6 +7244,10 @@ series:
     abbreviation: H2G2
     works:
       1: W_001
+      2: W_550
+      3: W_551
+      4: W_552
+      5: W_553
     notes: Une trilogie en 5 tomes
   S_002:
     name:

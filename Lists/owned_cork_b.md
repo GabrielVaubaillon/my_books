@@ -17,6 +17,41 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Hitchhiker's Guide to the Galaxy</td>
+      <td rowspan=1>Douglas Adams</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Restaurant at the End of the Universe</td>
+      <td rowspan=1>Douglas Adams</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Life, the Universe and Everything</td>
+      <td rowspan=1>Douglas Adams</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>So Long, and Thanks for All the Fish</td>
+      <td rowspan=1>Douglas Adams</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>Mostly Harmless</td>
+      <td rowspan=1>Douglas Adams</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Mythes Celtiques</td>
       <td rowspan=1>Miranda Jane Aldhouse-Green</td>
       <td rowspan=1>fr</td>

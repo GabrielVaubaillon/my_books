@@ -51,6 +51,12 @@
       <td>7</td>
     </tr>
     <tr>
+      <td>Douglas Adams</td>
+      <td>1</td>
+      <td>5</td>
+      <td>6</td>
+    </tr>
+    <tr>
       <td>Isaac Asimov</td>
       <td>8</td>
       <td>9</td>
@@ -385,12 +391,6 @@
       <td>2</td>
       <td>2</td>
       <td>2</td>
-    </tr>
-    <tr>
-      <td>Douglas Adams</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
     </tr>
     <tr>
       <td>Dolly Alderton</td>

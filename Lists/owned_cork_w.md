@@ -17,6 +17,34 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Le Dernier Restaurant avant la fin du monde (fr)</td>
+      <td>The Restaurant at the End of the Universe (en VO)</td>
+      <td rowspan=1>Douglas Adams</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>La Vie, l'Univers et le Reste (fr)</td>
+      <td>Life, the Universe and Everything (en VO)</td>
+      <td rowspan=1>Douglas Adams</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Salut, et encore merci pour le poisson (fr)</td>
+      <td>So Long, and Thanks for All the Fish (en VO)</td>
+      <td rowspan=1>Douglas Adams</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
+      <td rowspan=1>Globalement inoffensive (fr)</td>
+      <td>Mostly Harmless (en VO)</td>
+      <td rowspan=1>Douglas Adams</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Mythes Celtiques (fr)</td>
       <td>Celtic Myths (en VO)</td>
       <td rowspan=1>Miranda Jane Aldhouse-Green</td>
