@@ -602,6 +602,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Pas de Littérature! (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Sébastien Rutès</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le tour du Tour par 36 détours (fr VO)</td>
       <td></td>
       <td rowspan=1>François Salvaing</td>

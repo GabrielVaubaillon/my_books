@@ -4299,6 +4299,13 @@ works:
     read: no
     books: B_451
     authors: A_001
+  W_554:
+    titles:
+      fr: Pas de Littérature!
+    language: fr
+    read: no
+    books: B_452
+    authors: A_306
 
 books:
   B_001:
@@ -6588,6 +6595,11 @@ books:
     language: en
     isbn: 978-1-5290-3456-1
     situation: Cork
+  B_452:
+    title: Pas de Littérature!
+    language: fr
+    isbn: 978-2-264-08480-4
+    situation: Cork
 
 authors:
   A_001:
@@ -7235,6 +7247,9 @@ authors:
     sorting_name: Osullivan
   A_305:
     name: Elle Kennedy
+  A_306:
+    name: Sébastien Rutès
+    sorting_name: Rutes
 
 series:
   S_001:

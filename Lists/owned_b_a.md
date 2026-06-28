@@ -1365,6 +1365,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Sébastien Rutès</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Françoise Sagan</td>
       <td>1</td>
       <td>1</td>

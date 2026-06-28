@@ -3037,6 +3037,13 @@
       <td rowspan=1>Non possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Pas de Littérature! (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Sébastien Rutès</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Bonjour tristesse (fr VO)</td>
       <td></td>
       <td rowspan=1>Françoise Sagan</td>

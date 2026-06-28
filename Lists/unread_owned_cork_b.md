@@ -576,6 +576,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Pas de Littérature!</td>
+      <td rowspan=1>Sébastien Rutès</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le tour du Tour par 36 détours</td>
       <td rowspan=1>François Salvaing</td>
       <td rowspan=1>fr</td>
