@@ -1083,6 +1083,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Hervé Le Corre</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Harper Lee</td>
       <td>0</td>
       <td>1</td>

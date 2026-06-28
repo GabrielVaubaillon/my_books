@@ -1160,6 +1160,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Qui Après Nous Vivrez (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Hervé Le Corre</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Un Avenir Radieux (fr VO)</td>
       <td></td>
       <td rowspan=1>Pierre Lemaitre</td>

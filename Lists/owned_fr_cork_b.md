@@ -560,6 +560,13 @@
       <td>Le Cagliostro se Venge</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Qui Après Nous Vivrez</td>
+      <td rowspan=1>Hervé Le Corre</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Couleurs de l'incendie</td>
       <td rowspan=1>Pierre Lemaitre</td>
       <td rowspan=1>fr</td>

@@ -2023,6 +2023,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Qui Après Nous Vivrez (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Hervé Le Corre</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Ne tirez pas sur l'oiseau moqueur (fr)</td>
       <td>To Kill A Mocking-Bird (en VO)</td>
       <td rowspan=1>Harper Lee</td>
