@@ -2772,7 +2772,7 @@ works:
       ga: An Hobad
     language: en
     read: yes
-    books: B_254;B_255;B_330;B_362;B_366
+    books: B_254;B_255;B_330;B_362;B_366;B_454
     authors: A_202
   W_355:
     titles:
@@ -2780,7 +2780,7 @@ works:
       en: The Fellowship Of The Ring
     language: en
     read: yes
-    books: B_256;B_259;B_363;B_382;B_412
+    books: B_256;B_259;B_363;B_382;B_412;B_455
     authors: A_202
   W_356:
     titles:
@@ -2788,7 +2788,7 @@ works:
       en: The Two Towers
     language: en
     read: yes
-    books: B_257;B_259;B_363;B_383;B_413
+    books: B_257;B_259;B_363;B_383;B_413;B_456
     authors: A_202
   W_357:
     titles:
@@ -2796,7 +2796,7 @@ works:
       en: The Return Of The King
     language: en
     read: yes
-    books: B_258;B_259;B_363;B_384;B_414
+    books: B_258;B_259;B_363;B_384;B_414;B_457
     authors: A_202
   W_358:
     titles:
@@ -6611,6 +6611,26 @@ books:
     title: Qui Après Nous Vivrez
     language: fr
     isbn: 978-2-743-666156
+    situation: Cork
+  B_454:
+    title: The Hobbit
+    language: en
+    isbn: 978-0-00-744084-9
+    situation: Cork
+  B_455:
+    title: The Fellowship Of The Ring
+    language: en
+    isbn: 978-0-00-826406-2
+    situation: Cork
+  B_456:
+    title: The Two Towers
+    language: en
+    isbn: 978-0-00-826407-9
+    situation: Cork
+  B_457:
+    title: The Return Of The King
+    language: en
+    isbn: 978-0-00-826422-2
     situation: Cork
 
 authors:

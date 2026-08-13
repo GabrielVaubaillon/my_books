@@ -2035,6 +2035,13 @@
       <td rowspan=1>J.R.R. Tolkien</td>
       <td rowspan=1>en</td>
       <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Hobbit</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
@@ -2065,6 +2072,13 @@
       <td rowspan=1>en</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Audiobooks</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Fellowship Of The Ring</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>The Fellowship Of The Ring</td>
@@ -2109,6 +2123,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>The Two Towers</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le Retour du Roi</td>
       <td rowspan=1>J.R.R. Tolkien</td>
       <td rowspan=1>fr</td>
@@ -2121,6 +2142,13 @@
       <td rowspan=1>en</td>
       <td rowspan=1>Lu</td>
       <td rowspan=1>Audiobooks</td>
+    </tr>
+    <tr>
+      <td colspan=2 rowspan=1>The Return Of The King</td>
+      <td rowspan=1>J.R.R. Tolkien</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Cork</td>
     </tr>
     <tr>
       <td colspan=2 rowspan=1>The Return Of The King</td>

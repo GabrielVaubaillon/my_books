@@ -30,7 +30,7 @@
       <td>J.R.R. Tolkien</td>
       <td>6</td>
       <td>12</td>
-      <td>30</td>
+      <td>34</td>
     </tr>
     <tr>
       <td>Arthur Conan Doyle</td>
