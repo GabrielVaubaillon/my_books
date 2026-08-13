@@ -3175,6 +3175,14 @@
       <td rowspan=1>Antony</td>
     </tr>
     <tr>
+      <td colspan=1 rowspan=1>Projet Hail Mary</td>
+      <td>Project Hail Mary</td>
+      <td rowspan=1>Andy Weir</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>The Martian</td>
       <td rowspan=1>Andy Weir</td>
       <td rowspan=1>en</td>

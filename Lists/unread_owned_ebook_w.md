@@ -206,6 +206,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Projet Dernière Chance (fr)</td>
+      <td>Project Hail Mary (en VO)</td>
+      <td rowspan=1>Andy Weir</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Dégradation de services (fr)</td>
       <td>Platform Decay (en VO)</td>
       <td rowspan=1>Martha Wells</td>

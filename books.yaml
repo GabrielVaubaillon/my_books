@@ -4320,6 +4320,14 @@ works:
     read: no
     books: B_458
     authors: A_308
+  W_557:
+    titles:
+      en: Project Hail Mary
+      fr: Projet Dernière Chance
+    language: en
+    read: no
+    books: B_459
+    authors: A_215
 
 books:
   B_001:
@@ -6644,6 +6652,11 @@ books:
     language: en
     isbn: 9781849948500
     situation: Cork
+  B_459:
+    title: Projet Hail Mary
+    language: en
+    isbn: 978-1-473-58258-3
+    situation: Ebook
 
 authors:
   A_001:

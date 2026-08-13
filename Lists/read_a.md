@@ -1301,8 +1301,8 @@
     <tr>
       <td>Andy Weir</td>
       <td>1</td>
-      <td>1</td>
-      <td>1</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>S. F. Williamson</td>
