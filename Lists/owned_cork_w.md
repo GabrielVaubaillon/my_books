@@ -899,6 +899,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Celtic Fairy Tales and Legends (en VO)</td>
+      <td></td>
+      <td rowspan=1>Rosalind Kerven</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Gambit des Étoiles (fr VO)</td>
       <td></td>
       <td rowspan=1>Gérard Klein</td>

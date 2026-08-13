@@ -424,6 +424,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Celtic Fairy Tales and Legends (en VO)</td>
+      <td></td>
+      <td rowspan=1>Rosalind Kerven</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>La Comtesse de Cagliostro (fr VO)</td>
       <td></td>
       <td rowspan=1>Maurice Leblanc</td>

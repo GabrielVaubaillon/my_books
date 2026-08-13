@@ -1554,6 +1554,13 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Celtic Fairy Tales and Legends</td>
+      <td rowspan=1>Rosalind Kerven</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Flowers For Algernon</td>
       <td rowspan=1>Daniel Keyes</td>
       <td rowspan=1>en</td>

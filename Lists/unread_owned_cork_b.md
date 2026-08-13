@@ -429,6 +429,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Celtic Fairy Tales and Legends</td>
+      <td rowspan=1>Rosalind Kerven</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=1 rowspan=1>Arsène Lupin - La Comtesse de Cagliostro</td>
       <td>La Comtesse de Cagliostro</td>
       <td rowspan=1>Maurice Leblanc</td>

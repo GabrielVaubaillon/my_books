@@ -1029,6 +1029,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Rosalind Kerven</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Daniel Keyes</td>
       <td>1</td>
       <td>1</td>
