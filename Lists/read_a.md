@@ -33,6 +33,12 @@
       <td>9</td>
     </tr>
     <tr>
+      <td>Becky Chambers</td>
+      <td>7</td>
+      <td>7</td>
+      <td>7</td>
+    </tr>
+    <tr>
       <td>Maurice Leblanc</td>
       <td>7</td>
       <td>23</td>
@@ -61,12 +67,6 @@
       <td>6</td>
       <td>6</td>
       <td>6</td>
-    </tr>
-    <tr>
-      <td>Becky Chambers</td>
-      <td>6</td>
-      <td>7</td>
-      <td>7</td>
     </tr>
     <tr>
       <td>Arthur Conan Doyle</td>

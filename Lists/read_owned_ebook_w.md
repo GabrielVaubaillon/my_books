@@ -142,6 +142,13 @@
       <td>Мастер и Маргарита (ru VO)</td>
     </tr>
     <tr>
+      <td rowspan=1>Apprendre, si par bonheur (fr)</td>
+      <td>To Be Taught, If Fortunate (en VO)</td>
+      <td rowspan=1>Becky Chambers</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Un psaume pour les recyclés sauvages (fr)</td>
       <td>A Psalm for the Wild Built (en VO)</td>
       <td rowspan=1>Becky Chambers</td>

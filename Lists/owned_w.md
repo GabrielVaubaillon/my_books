@@ -501,7 +501,7 @@
       <td rowspan=1>Apprendre, si par bonheur (fr)</td>
       <td>To Be Taught, If Fortunate (en VO)</td>
       <td rowspan=1>Becky Chambers</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
