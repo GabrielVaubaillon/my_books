@@ -1764,6 +1764,16 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=2>Tant que le café est encore chaud (fr)</td>
+      <td>Before The Cofee Gets Cold (en VO)</td>
+      <td rowspan=2>Toshikazu Kawaguchi</td>
+      <td rowspan=2>Pas Lu</td>
+      <td rowspan=2>Possédé</td>
+      </tr>
+      <tr>
+      <td>コーヒーが冷めないうちに (ja)</td>
+    </tr>
+    <tr>
       <td rowspan=1>Say Nothing (en VO)</td>
       <td></td>
       <td rowspan=1>Patrick Radden Keefe</td>

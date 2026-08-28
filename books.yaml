@@ -4328,6 +4328,15 @@ works:
     read: no
     books: B_459
     authors: A_215
+  W_558:
+    titles:
+      en: Before The Cofee Gets Cold
+      fr: Tant que le café est encore chaud
+      ja: コーヒーが冷めないうちに
+    language: en
+    read: no
+    books: B_460
+    authors: A_309
 
 books:
   B_001:
@@ -6657,6 +6666,11 @@ books:
     language: en
     isbn: 978-1-473-58258-3
     situation: Ebook
+  B_460:
+    title: Before the coffee gets cold
+    language: en
+    isbn: 9781529029581
+    situation: Cork
 
 authors:
   A_001:
@@ -7312,6 +7326,8 @@ authors:
     sorting_name: leCorre
   A_308:
     name: Rosalind Kerven
+  A_309:
+    name: Toshikazu Kawaguchi
 
 series:
   S_001:
