@@ -423,7 +423,7 @@
     </tr>
     <tr>
       <td colspan=1 rowspan=1>Before the coffee gets cold</td>
-      <td>Before The Cofee Gets Cold</td>
+      <td>Before the cofee gets cold</td>
       <td rowspan=1>Toshikazu Kawaguchi</td>
       <td rowspan=1>en</td>
       <td rowspan=1>Pas Lu</td>
