@@ -1178,6 +1178,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Eva and the Island (en VO)</td>
+      <td></td>
+      <td rowspan=1>Tim Ecott</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>When we were Sisters (en VO)</td>
       <td></td>
       <td rowspan=1>Cynthia Ellingsen</td>
@@ -1765,13 +1772,13 @@
     </tr>
     <tr>
       <td rowspan=2>Tant que le café est encore chaud (fr)</td>
-      <td>Before the cofee gets cold (en VO)</td>
+      <td>Before the cofee gets cold (en)</td>
       <td rowspan=2>Toshikazu Kawaguchi</td>
       <td rowspan=2>Pas Lu</td>
       <td rowspan=2>Possédé</td>
       </tr>
       <tr>
-      <td>コーヒーが冷めないうちに (ja)</td>
+      <td>コーヒーが冷めないうちに (ja VO)</td>
     </tr>
     <tr>
       <td rowspan=1>Say Nothing (en VO)</td>

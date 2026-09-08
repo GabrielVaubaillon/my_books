@@ -4333,10 +4333,17 @@ works:
       en: Before the cofee gets cold
       fr: Tant que le café est encore chaud
       ja: コーヒーが冷めないうちに
-    language: en
+    language: ja
     read: no
     books: B_460
     authors: A_309
+  W_559:
+    titles:
+      en: Eva and the Island
+    language: en
+    read: no
+    books: B_461
+    authors: A_310
 
 books:
   B_001:
@@ -6671,6 +6678,11 @@ books:
     language: en
     isbn: 9781529029581
     situation: Cork
+  B_461:
+    title: Eva and the Island
+    language: en
+    isbn: 978-1-8377-3376-7
+    situation: Cork
 
 authors:
   A_001:
@@ -7328,6 +7340,8 @@ authors:
     name: Rosalind Kerven
   A_309:
     name: Toshikazu Kawaguchi
+  A_310:
+    name: Tim Ecott
 
 series:
   S_001:
