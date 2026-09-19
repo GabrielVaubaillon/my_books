@@ -3263,6 +3263,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Fourth Wing (fr)</td>
+      <td>Fourth Wing (en VO)</td>
+      <td rowspan=1>Rebecca Yarros</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Irish Fairy and Folk Tales (en VO)</td>
       <td></td>
       <td rowspan=1>W. B. Yeats</td>

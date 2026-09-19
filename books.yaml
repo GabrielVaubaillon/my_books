@@ -4358,6 +4358,14 @@ works:
     read: no
     books: B_463
     authors: A_311
+  W_562:
+    titles:
+      en: Fourth Wing
+      fr: Fourth Wing
+    language: en
+    read: no
+    books: B_464
+    authors: A_312
 
 books:
   B_001:
@@ -6707,6 +6715,11 @@ books:
     language: en
     isbn: 978-1-804-94126-3
     situation: Ebook
+  B_464:
+    title: Fourth Wing
+    language: en
+    isbn: 9789020563672
+    situation: Ebook
 
 authors:
   A_001:
@@ -7369,6 +7382,8 @@ authors:
   A_311:
     name: Taylor Jenkins Reid
     sorting_name: jenkins reid
+  A_312:
+    name: Rebecca Yarros
 
 series:
   S_001:
