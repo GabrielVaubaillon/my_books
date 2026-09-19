@@ -376,6 +376,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Amosphere (en VO)</td>
+      <td></td>
+      <td rowspan=1>Taylor Jenkins Reid</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Château de Hurle (fr)</td>
       <td>Howl's Moving Castle (en VO)</td>
       <td rowspan=1>Diana Wynne Jones</td>

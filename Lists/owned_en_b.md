@@ -595,6 +595,14 @@
       <td>Act Your Age, Eve Brown</td>
     </tr>
     <tr>
+      <td colspan=1 rowspan=1>Atmosphere</td>
+      <td>Amosphere</td>
+      <td rowspan=1>Taylor Jenkins Reid</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>The Spear Cuts Through Water</td>
       <td rowspan=1>Simon Jimenez</td>
       <td rowspan=1>en</td>

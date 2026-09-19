@@ -1527,6 +1527,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Amosphere (en VO)</td>
+      <td></td>
+      <td rowspan=1>Taylor Jenkins Reid</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>The Spear Cuts Through Water (en VO)</td>
       <td></td>
       <td rowspan=1>Simon Jimenez</td>

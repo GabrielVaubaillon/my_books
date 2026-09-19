@@ -38,6 +38,14 @@
       <td rowspan=1>Ebook</td>
     </tr>
     <tr>
+      <td colspan=1 rowspan=1>Atmosphere</td>
+      <td>Amosphere</td>
+      <td rowspan=1>Taylor Jenkins Reid</td>
+      <td rowspan=1>en</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Ebook</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>The Deal</td>
       <td rowspan=1>Elle Kennedy</td>
       <td rowspan=1>en</td>

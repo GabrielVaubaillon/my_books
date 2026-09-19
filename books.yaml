@@ -4351,6 +4351,13 @@ works:
     read: no
     books: B_462
     authors: A_286
+  W_561:
+    titles:
+      en: Amosphere
+    language: en
+    read: no
+    books: B_463
+    authors: A_311
 
 books:
   B_001:
@@ -6695,6 +6702,11 @@ books:
     language: en
     isbn: 978-0-06-335386-2
     situation: Ebook
+  B_463:
+    title: Atmosphere
+    language: en
+    isbn: 978-1-804-94126-3
+    situation: Ebook
 
 authors:
   A_001:
@@ -7354,6 +7366,9 @@ authors:
     name: Toshikazu Kawaguchi
   A_310:
     name: Tim Ecott
+  A_311:
+    name: Taylor Jenkins Reid
+    sorting_name: jenkins reid
 
 series:
   S_001:
