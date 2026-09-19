@@ -393,6 +393,12 @@
       <td>2</td>
     </tr>
     <tr>
+      <td>S. F. Williamson</td>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
       <td>Henry Winterfield</td>
       <td>2</td>
       <td>2</td>
@@ -1607,12 +1613,6 @@
     <tr>
       <td>Oscar Wilde</td>
       <td>0</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>S. F. Williamson</td>
-      <td>1</td>
       <td>1</td>
       <td>1</td>
     </tr>

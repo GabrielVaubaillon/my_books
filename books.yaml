@@ -4344,6 +4344,13 @@ works:
     read: no
     books: B_461
     authors: A_310
+  W_560:
+    titles:
+      en: A War of Wyverns
+    language: en
+    read: no
+    books: B_462
+    authors: A_286
 
 books:
   B_001:
@@ -6683,6 +6690,11 @@ books:
     language: en
     isbn: 978-1-8377-3376-7
     situation: Cork
+  B_462:
+    title: A War of Wyverns
+    language: en
+    isbn: 978-0-06-335386-2
+    situation: Ebook
 
 authors:
   A_001:
