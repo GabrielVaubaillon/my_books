@@ -4366,6 +4366,14 @@ works:
     read: no
     books: B_464
     authors: A_312
+  W_563:
+    titles:
+      en: The Colour of Magic
+      fr: La Huitième Couleur
+    language: en
+    read: no
+    books: B_465
+    authors: A_166
 
 books:
   B_001:
@@ -6719,6 +6727,11 @@ books:
     title: Fourth Wing
     language: en
     isbn: 9789020563672
+    situation: Ebook
+  B_465:
+    title: The Colour of Magic
+    language: en
+    isbn: 978-1-407-03437-9
     situation: Ebook
 
 authors:

@@ -944,6 +944,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>La Huitième Couleur (fr)</td>
+      <td>The Colour of Magic (en VO)</td>
+      <td rowspan=1>Terry Pratchett</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Manon Lescaut (fr VO)</td>
       <td></td>
       <td rowspan=1>Prévost</td>
