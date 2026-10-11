@@ -171,7 +171,7 @@
       <td colspan=2 rowspan=1>The Illustrated Man</td>
       <td rowspan=1>Ray Bradbury</td>
       <td rowspan=1>en</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Cork</td>
     </tr>
     <tr>

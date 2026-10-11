@@ -4159,7 +4159,7 @@ works:
       en: The Illustrated Man
       fr: L'Homme illustré
     language: en
-    read: no
+    read: yes
     books: B_431
     authors: A_030
   W_536:

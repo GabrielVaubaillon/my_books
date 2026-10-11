@@ -401,6 +401,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>L'Homme illustré (fr)</td>
+      <td>The Illustrated Man (en VO)</td>
+      <td rowspan=1>Ray Bradbury</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Yvain, le chevalier au lion (fr VO)</td>
       <td></td>
       <td rowspan=1>Anne-Marie Cadot-Colin</td>

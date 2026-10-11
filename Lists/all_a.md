@@ -250,7 +250,7 @@
     </tr>
     <tr>
       <td>Ray Bradbury</td>
-      <td>2</td>
+      <td>3</td>
       <td>3</td>
       <td>3</td>
     </tr>

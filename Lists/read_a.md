@@ -171,6 +171,12 @@
       <td>3</td>
     </tr>
     <tr>
+      <td>Ray Bradbury</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
       <td>Marc Fernandez</td>
       <td>3</td>
       <td>3</td>
@@ -253,12 +259,6 @@
       <td>2</td>
       <td>2</td>
       <td>2</td>
-    </tr>
-    <tr>
-      <td>Ray Bradbury</td>
-      <td>2</td>
-      <td>3</td>
-      <td>3</td>
     </tr>
     <tr>
       <td>Mark Cheverton</td>

@@ -76,7 +76,7 @@
       <td rowspan=1>L'Homme illustré (fr)</td>
       <td>The Illustrated Man (en VO)</td>
       <td rowspan=1>Ray Bradbury</td>
-      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Lu</td>
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
