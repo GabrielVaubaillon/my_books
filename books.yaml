@@ -4374,6 +4374,14 @@ works:
     read: no
     books: B_465
     authors: A_166
+  W_564:
+    titles:
+      en: As You Wake, Break the Shell
+      fr: À ton éveil, fends la cosse
+    language: en
+    read: no
+    books: B_466
+    authors: A_037
 
 books:
   B_001:
@@ -6732,6 +6740,11 @@ books:
     title: The Colour of Magic
     language: en
     isbn: 978-1-407-03437-9
+    situation: Ebook
+  B_466:
+    title: As You Wake, Break the Shell
+    language: en
+    isbn: 9781529340600
     situation: Ebook
 
 authors:

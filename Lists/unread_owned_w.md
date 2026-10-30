@@ -163,6 +163,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>À ton éveil, fends la cosse (fr)</td>
+      <td>As You Wake, Break the Shell (en VO)</td>
+      <td rowspan=1>Becky Chambers</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=2>La Mort Immortelle (fr)</td>
       <td>Death's End (en)</td>
       <td rowspan=2>Liu Cixin</td>

@@ -41,8 +41,8 @@
     <tr>
       <td>Becky Chambers</td>
       <td>7</td>
-      <td>7</td>
-      <td>7</td>
+      <td>8</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>Anne McCaffrey</td>
