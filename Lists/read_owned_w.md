@@ -1603,6 +1603,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>La Huitième Couleur (fr)</td>
+      <td>The Colour of Magic (en VO)</td>
+      <td rowspan=1>Terry Pratchett</td>
+      <td rowspan=1>Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Faucheur (fr)</td>
       <td>Reaper Man (en VO)</td>
       <td rowspan=1>Terry Pratchett</td>
