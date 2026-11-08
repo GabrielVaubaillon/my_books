@@ -4257,7 +4257,7 @@ works:
       en: Platform Decay
       fr: Dégradation de services
     language: en
-    read: no
+    read: yes
     books: B_445
     authors: A_217
   W_549:
