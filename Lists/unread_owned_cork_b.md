@@ -387,6 +387,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Contes d'Auvergne</td>
+      <td rowspan=1>Caroline Hussard</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>The Spear Cuts Through Water</td>
       <td rowspan=1>Simon Jimenez</td>
       <td rowspan=1>en</td>

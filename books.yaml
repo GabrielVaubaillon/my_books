@@ -4382,6 +4382,13 @@ works:
     read: no
     books: B_466
     authors: A_037
+  W_565:
+    titles:
+      fr: Contes d'Auvergne
+    language: fr
+    read: no
+    books: B_467
+    authors: A_313
 
 books:
   B_001:
@@ -6746,6 +6753,11 @@ books:
     language: en
     isbn: 9781529340600
     situation: Ebook
+  B_467:
+    title: Contes d'Auvergne
+    language: fr
+    isbn: 978-2-246-84003-9
+    situation: Cork
 
 authors:
   A_001:
@@ -7410,6 +7422,8 @@ authors:
     sorting_name: jenkins reid
   A_312:
     name: Rebecca Yarros
+  A_313:
+    name: Caroline Hussard
 
 series:
   S_001:

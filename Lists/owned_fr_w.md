@@ -905,6 +905,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Contes d'Auvergne (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Caroline Hussard</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Le Meilleur des Mondes (fr)</td>
       <td>Brave New World (en VO)</td>
       <td rowspan=1>Aldous Huxley</td>

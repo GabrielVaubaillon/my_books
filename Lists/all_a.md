@@ -861,6 +861,12 @@
       <td>1</td>
     </tr>
     <tr>
+      <td>Caroline Hussard</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>Aldous Huxley</td>
       <td>1</td>
       <td>1</td>

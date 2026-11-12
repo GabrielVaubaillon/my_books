@@ -515,6 +515,13 @@
       <td rowspan=1>Possédé</td>
     </tr>
     <tr>
+      <td rowspan=1>Contes d'Auvergne (fr VO)</td>
+      <td></td>
+      <td rowspan=1>Caroline Hussard</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Possédé</td>
+    </tr>
+    <tr>
       <td rowspan=1>Un Sac de Bille (fr VO)</td>
       <td>A Bag of Marbles (en)</td>
       <td rowspan=1>Joseph Joffo</td>

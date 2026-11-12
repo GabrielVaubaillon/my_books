@@ -892,6 +892,13 @@
       <td rowspan=1>Antony</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Contes d'Auvergne</td>
+      <td rowspan=1>Caroline Hussard</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Le Meilleur des Mondes</td>
       <td rowspan=1>Aldous Huxley</td>
       <td rowspan=1>fr</td>

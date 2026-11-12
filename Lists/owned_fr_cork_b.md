@@ -485,6 +485,13 @@
       <td rowspan=1>Cork</td>
     </tr>
     <tr>
+      <td colspan=2 rowspan=1>Contes d'Auvergne</td>
+      <td rowspan=1>Caroline Hussard</td>
+      <td rowspan=1>fr</td>
+      <td rowspan=1>Pas Lu</td>
+      <td rowspan=1>Cork</td>
+    </tr>
+    <tr>
       <td colspan=2 rowspan=1>Un Sac de Bille</td>
       <td rowspan=1>Joseph Joffo</td>
       <td rowspan=1>fr</td>
